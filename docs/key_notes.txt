@@ -1,0 +1,31 @@
+PDF
+│
+├── Extract document structure (TOC, headings, page numbers)
+│
+├── Build a hierarchy
+│   ├── Chapter
+│   ├── Topic
+│   ├── Subtopic
+│   └── Paragraphs
+│
+├── Create three representations
+│   ├── Parent (entire topic)
+│   ├── Child (subtopics)
+│   └── Micro (paragraphs/examples if needed)
+│
+├── Add metadata
+│   ├── chapter
+│   ├── topic
+│   ├── subtopic
+│   ├── page range
+│   ├── heading path
+│   └── source PDF
+│
+├── Embed only child chunks
+│
+├── Store parent-child links
+│
+└── At query time:
+    ├── "What is AVL rotation?" → retrieve child, expand to parent or neighboring subtopics
+    ├── "Explain Binary Search Tree" → retrieve multiple children from the same topic, merge into the parent topic
+    └── "Teach me Trees" → retrieve an entire chapter or several related topics

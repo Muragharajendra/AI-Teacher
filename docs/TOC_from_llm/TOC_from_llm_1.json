@@ -1,269 +1,233 @@
 {
     "Section I: Events and Processes": {
-        "The Rise of Nationalism in Europe": {
-            "1 The French Revolution and the Idea of the Nation": {},
-            "2 The Making of Nationalism in Europe": {
-                "2.1 The Aristocracy and the New Middle Class": {},
-                "2.2 What did Liberal Nationalism Stand for?": {},
-                "2.3 A New Conservatism after 1815": {},
-                "2.4 The Revolutionaries": {}
-            },
-            "3 The Age of Revolutions: 1830-1848": {
-                "3.1 The Romantic Imagination and National Feeling": {},
-                "3.2 Hunger, Hardship and Popular Revolt": {},
-                "3.3 1848: The Revolution of the Liberals": {}
-            },
-            "4 The Making of Germany and Italy": {
-                "4.1 Germany – Can the Army be the Architect of a Nation?": {},
-                "4.2 Italy Unified": {},
-                "4.3  The Strange Case of Britain": {}
-            },
-            "5 Visualising the Nation": {
-                "Meanings of the symbols": {}
-            },
-            "6 Nationalism and Imperialism": {}
-        },
-        "The Nationalist Movement in Indo-China": {
-            "1 Emerging from the Shadow of China": {
-                "1.1 Colonial Domination and Resistance": {},
-                "1.2 Why the French thought Colonies Necessary": {},
-                "1.3 Should Colonies be Developed?": {}
-            },
-            "2 The Dilemma of Colonial Education": {
-                "2.1 Talking Modern": {},
-                "2.2 Looking Modern": {},
-                "2.3 Resistance in Schools": {}
-            },
-            "3 Hygiene, Disease and Everyday Resistance": {
-                "3.1 Plague Strikes Hanoi": {},
-                "3.2 The Rat Hunt": {}
-            },
-            "4 Religion and Anti-colonialism": {},
-            "5 The Vision of Modernisation": {
-                "5.1 Other Ways of Becoming Modern: Japan and China": {}
-            },
-            "6 The Communist Movement and Vietnamese Nationalism": {
-                "6.1 The New Republic of Vietnam": {
-                    "Declaration of independence": {}
-                },
-                "6.2 The Entry of the US into the War": {
-                    "Agent Orange: The Deadly Poison": {}
-                },
-                "6.3 The Ho Chi Minh Trail": {
-                    "Letters of Mr Do Sam": {
-                        "Letter dated 6/1968": {}
-                    }
+        "chapters": {
+            "The Rise of Nationalism in Europe": {
+                "book_page": 2,
+                "sections": {
+                    "1 The French Revolution and the Idea of the Nation": {},
+                    "2 The Making of Nationalism in Europe": {
+                        "2.1 The Aristocracy and the New Middle Class": {},
+                        "2.2 What did Liberal Nationalism Stand for?": {},
+                        "2.3 A New Conservatism after 1815": {},
+                        "2.4 The Revolutionaries": {}
+                    },
+                    "3 The Age of Revolutions: 1830-1848": {
+                        "3.1 The Romantic Imagination and National Feeling": {},
+                        "3.2 Hunger, Hardship and Popular Revolt": {},
+                        "3.3 1848: The Revolution of the Liberals": {}
+                    },
+                    "4 The Making of Germany and Italy": {
+                        "4.1 Germany – Can the Army be the Architect of a Nation?": {},
+                        "4.2 Italy Unified": {},
+                        "4.3  The Strange Case of Britain": {}
+                    },
+                    "5 Visualising the Nation": {},
+                    "6 Nationalism and Imperialism": {}
                 }
             },
-            "7 The Nation and Its Heroes": {
-                "7.1 Women as Rebels": {},
-                "7.2 Heroes of Past Times": {},
-                "7.3 Women as Warriors": {},
-                "7.4 Women in Times of Peace": {}
+            "The Nationalist Movement in Indo-China": {
+                "book_page": 30,
+                "sections": {
+                    "1 Emerging from the Shadow of China": {
+                        "1.1 Colonial Domination and Resistance": {},
+                        "1.2 Why the French thought Colonies Necessary": {},
+                        "1.3 Should Colonies be Developed?": {}
+                    },
+                    "2 The Dilemma of Colonial Education": {
+                        "2.1 Talking Modern": {},
+                        "2.2 Looking Modern": {},
+                        "2.3 Resistance in Schools": {}
+                    },
+                    "3 Hygiene, Disease and Everyday Resistance": {
+                        "3.1 Plague Strikes Hanoi": {},
+                        "3.2 The Rat Hunt": {}
+                    },
+                    "4 Religion and Anti-colonialism": {},
+                    "5 The Vision of Modernisation": {
+                        "5.1 Other Ways of Becoming Modern: Japan and China": {}
+                    },
+                    "6 The Communist Movement and Vietnamese Nationalism": {
+                        "6.1 The New Republic of Vietnam": {},
+                        "6.2 The Entry of the US into the War": {},
+                        "6.3 The Ho Chi Minh Trail": {}
+                    },
+                    "7 The Nation and Its Heroes": {
+                        "7.1 Women as Rebels": {},
+                        "7.2 Heroes of Past Times": {},
+                        "7.3 Women as Warriors": {},
+                        "7.4 Women in Times of Peace": {}
+                    },
+                    "8 The End of the War": {}
+                }
             },
-            "8 The End of the War": {}
-        },
-        "Nationalism in India": {
-            "1 The First World War, Khilafat and Non-Cooperation": {
-                "1.1 The Idea of Satyagraha": {
-                    "Mahatma Gandhi on Satyagraha": {}
-                },
-                "1.2 The Rowlatt Act": {},
-                "1.3  Why Non-cooperation?": {}
-            },
-            "2 Differing Strands within the Movement": {
-                "2.1 The Movement in the Towns": {},
-                "2.2 Rebellion in the Countryside": {},
-                "2.3 Swaraj in the Plantations": {}
-            },
-            "3 Towards Civil Disobedience": {
-                "3.1 The Salt March and the Civil Disobedience Movement": {
-                    "The Independence Day Pledge, 26 January 1930": {}
-                },
-                "3.2 How Participants saw the Movement": {
-                    "‘To the altar of this revolution we have brought our youth as incense’": {}
-                },
-                "3.3 The Limits of Civil Disobedience": {}
-            },
-            "4 The Sense of Collective Belonging": {
-                "Conclusion": {}
+            "Nationalism in India": {
+                "book_page": 54,
+                "sections": {
+                    "1 The First World War, Khilafat and Non-Cooperation": {
+                        "1.1 The Idea of Satyagraha": {},
+                        "1.2 The Rowlatt Act": {},
+                        "1.3  Why Non-cooperation?": {}
+                    },
+                    "2 Differing Strands within the Movement": {
+                        "2.1 The Movement in the Towns": {},
+                        "2.2 Rebellion in the Countryside": {},
+                        "2.3 Swaraj in the Plantations": {}
+                    },
+                    "3 Towards Civil Disobedience": {
+                        "3.1 The Salt March and the Civil Disobedience Movement": {},
+                        "3.2 How Participants saw the Movement": {},
+                        "3.3 The Limits of Civil Disobedience": {}
+                    },
+                    "4 The Sense of Collective Belonging": {}
+                }
             }
         }
     },
     "Section II: Livelihoods, Economies and Societies": {
-        "The Making of a Global World": {
-            "1 The Pre-modern World": {
-                "1.1 Silk Routes Link the World": {},
-                "1.2 Food Travels: Spaghetti and Potato": {},
-                "1.3 Conquest, Disease and Trade": {
-                    "‘Biological’ warfare?": {}
+        "chapters": {
+            "The Making of a Global World": {
+                "book_page": 77,
+                "sections": {
+                    "1 The Pre-modern World": {
+                        "1.1 Silk Routes Link the World": {},
+                        "1.2 Food Travels: Spaghetti and Potato": {},
+                        "1.3 Conquest, Disease and Trade": {}
+                    },
+                    "2 The Nineteenth Century (1815-1914)": {
+                        "2.1 A World Economy Takes Shape": {},
+                        "2.2 Role of Technology": {},
+                        "2.3 Late nineteenth-century Colonialism": {},
+                        "2.4 Rinderpest, or the Cattle Plague": {},
+                        "2.4 Indentured Labour Migration from India": {},
+                        "2.5 Indian Entrepreneurs Abroad": {},
+                        "2.6 Indian Trade, Colonialism and the Global System": {}
+                    },
+                    "3 The Inter-war Economy": {
+                        "3.1 Wartime Transformations": {},
+                        "3.2 Post-war Recovery": {},
+                        "3.3 Rise of Mass Production and Consumption": {},
+                        "3.4 The Great Depression": {},
+                        "3.5 India and the Great Depression": {}
+                    },
+                    "4 Rebuilding a World Economy: The Post-war Era": {
+                        "4.1 Post-war Settlement and the Bretton Woods Institutions": {},
+                        "4.2 The Early Post-war Years": {},
+                        "4.3 Decolonisation and Independence": {},
+                        "4.4 End of Bretton Woods and the Beginning of ‘Globalisation’": {}
+                    }
                 }
             },
-            "2 The Nineteenth Century (1815-1914)": {
-                "2.1 A World Economy Takes Shape": {},
-                "2.2 Role of Technology": {},
-                "2.3 Late nineteenth-century Colonialism": {
-                    "Sir Henry Morton Stanley in Central Africa": {}
-                },
-                "2.4 Rinderpest, or the Cattle Plague": {},
-                "2.4 Indentured Labour Migration from India": {},
-                "2.5 Indian Entrepreneurs Abroad": {
-                    "The testimony of  an indentured labourer": {}
-                },
-                "2.6 Indian Trade, Colonialism and the Global System": {}
-            },
-            "3 The Inter-war Economy": {
-                "3.1 Wartime Transformations": {},
-                "3.2 Post-war Recovery": {},
-                "3.3 Rise of Mass Production and Consumption": {},
-                "3.4 The Great Depression": {},
-                "3.5 India and the Great Depression": {}
-            },
-            "4 Rebuilding a World Economy: The Post-war Era": {
-                "4.1 Post-war Settlement and the Bretton Woods Institutions": {},
-                "4.2 The Early Post-war Years": {},
-                "4.3 Decolonisation and Independence": {
-                    "What are MNCs?": {}
-                },
-                "4.4 End of Bretton Woods and the Beginning of ‘Globalisation’": {}
-            }
-        },
-        "The Age of Industrialisation": {
-            "1 Before the Industrial Revolution": {
-                "1.1 The Coming Up of the Factory": {},
-                "1.2 The Pace of Industrial Change": {}
-            },
-            "2 Hand Labour and Steam Power": {
-                "2.1 Life of the Workers": {}
-            },
-            "3 Industrialisation in the Colonies": {
-                "3.1 The Age of Indian Textiles": {},
-                "3.2 What Happened to Weavers?": {},
-                "3.3 Manchester Comes to India": {
-                    "The Commissioner of Patna wrote:": {}
+            "The Age of Industrialisation": {
+                "book_page": 97,
+                "sections": {
+                    "1 Before the Industrial Revolution": {
+                        "1.1 The Coming Up of the Factory": {},
+                        "1.2 The Pace of Industrial Change": {}
+                    },
+                    "2 Hand Labour and Steam Power": {
+                        "2.1 Life of the Workers": {}
+                    },
+                    "3 Industrialisation in the Colonies": {
+                        "3.1 The Age of Indian Textiles": {},
+                        "3.2 What Happened to Weavers?": {},
+                        "3.3 Manchester Comes to India": {}
+                    },
+                    "4 Factories Come Up": {
+                        "4.1 The Early Entrepreneurs": {},
+                        "4.2 Where Did the Workers Come From?": {}
+                    },
+                    "5 The Peculiarities of Industrial Growth": {
+                        "5.1 Small-scale Industries Predominate": {}
+                    },
+                    "6 Market for Goods": {}
                 }
             },
-            "4 Factories Come Up": {
-                "4.1 The Early Entrepreneurs": {},
-                "4.2 Where Did the Workers Come From?": {}
-            },
-            "5 The Peculiarities of Industrial Growth": {
-                "5.1 Small-scale Industries Predominate": {},
-                "How did this happen?": {}
-            },
-            "6 Market for Goods": {
-                "Conclusion": {}
-            }
-        },
-        "Work, Life and Leisure Cities in the Contemporary World": {
-            "1 Characteristics of the City": {
-                "1.1 Industrialisation and the Rise of the Modern City in England": {},
-                "1.2 Marginal Groups": {},
-                "1.3 Housing": {},
-                "1.4 Cleaning London": {},
-                "1.5 Transport in the City": {}
-            },
-            "2 Social Change in the City": {
-                "2.1 Men, Women and Family in the City": {},
-                "2.2 Leisure and Consumption": {}
-            },
-            "3 Politics in the City": {
-                "Haussmanisation of Paris": {}
-            },
-            "4 The City in Colonial India": {
-                "Contradictory experiences of cities": {},
-                "4.1 Bombay: The Prime City of India?": {},
-                "4.2 Work in the City": {},
-                "4.3 Housing and Neighbourhoods": {
-                    "Why spaces cannot be cleared": {}
-                },
-                "4.4 Land Reclamation in Bombay": {},
-                "4.5 Bombay as the City of Dreams: The World of Cinema and Culture": {
-                    "The Many Sides of Bombay": {},
-                    "Lee Kuan Yew’s Singapore": {}
+            "Work, Life and Leisure": {
+                "book_page": 117,
+                "sections": {
+                    "1 Characteristics of the City": {
+                        "1.1 Industrialisation and the Rise of the Modern City in England": {},
+                        "1.2 Marginal Groups": {},
+                        "1.3 Housing": {},
+                        "1.4 Cleaning London": {},
+                        "1.5 Transport in the City": {}
+                    },
+                    "2 Social Change in the City": {
+                        "2.1 Men, Women and Family in the City": {},
+                        "2.2 Leisure and Consumption": {}
+                    },
+                    "3 Politics in the City": {},
+                    "4 The City in Colonial India": {
+                        "4.1 Bombay: The Prime City of India?": {},
+                        "4.2 Work in the City": {},
+                        "4.3 Housing and Neighbourhoods": {},
+                        "4.4 Land Reclamation in Bombay": {},
+                        "4.5 Bombay as the City of Dreams: The World of Cinema and Culture": {}
+                    },
+                    "5 Cities and the Challenge of the Environment": {}
                 }
-            },
-            "5 Cities and the Challenge of the Environment": {
-                "Conclusion": {}
             }
         }
     },
     "Section III: Everyday Life, Culture and Politics": {
-        "Print Culture and the Modern World": {
-            "1 The First Printed Books": {
-                "1.1 Print in Japan": {}
-            },
-            "2 Print Comes to Europe": {
-                "2.1 Gutenberg and the Printing Press": {}
-            },
-            "3 The Print Revolution and Its Impact": {
-                "3.1 A New Reading Public": {},
-                "3.2 Religious Debates and the Fear of Print": {},
-                "3.3 Print and Dissent": {
-                    "Fear of the book": {}
+        "chapters": {
+            "Print Culture and the Modern World": {
+                "book_page": 141,
+                "sections": {
+                    "1 The First Printed Books": {
+                        "1.1 Print in Japan": {}
+                    },
+                    "2 Print Comes to Europe": {
+                        "2.1 Gutenberg and the Printing Press": {}
+                    },
+                    "3 The Print Revolution and Its Impact": {
+                        "3.1 A New Reading Public": {},
+                        "3.2 Religious Debates and the Fear of Print": {},
+                        "3.3 Print and Dissent": {}
+                    },
+                    "4 The Reading Mania": {},
+                    "5 The Nineteenth Century": {
+                        "5.1 Children, Women and Workers": {},
+                        "5.2 Further Innovations": {}
+                    },
+                    "6 India and the World of Print": {
+                        "6.1 Manuscripts Before the Age of Print": {},
+                        "6.2 Print Comes to India": {}
+                    },
+                    "7 Religious Reform and Public Debates": {},
+                    "8 New Forms of Publication": {
+                        "8.1 Women and Print": {},
+                        "8.2 Print and the Poor People": {}
+                    },
+                    "9 Print and Censorship": {}
                 }
             },
-            "4 The Reading Mania": {
-                "4.1 ‘Tremble, therefore, tyrants of the world!’": {},
-                "4.2 Print Culture and the French Revolution": {}
-            },
-            "5 The Nineteenth Century": {
-                "5.1 Children, Women and Workers": {},
-                "5.2 Further Innovations": {}
-            },
-            "6 India and the World of Print": {
-                "6.1 Manuscripts Before the Age of Print": {},
-                "6.2 Print Comes to India": {}
-            },
-            "7 Religious Reform and Public Debates": {
-                "Why Newspapers?": {
-                    "Bombay Telegraph and Courier, 6 January 1849": {}
+            "Novels, Society and History": {
+                "book_page": 159,
+                "sections": {
+                    "1 The Rise of the Novel": {
+                        "1.1 The Publishing Market": {},
+                        "1.2 The World of the Novel": {},
+                        "1.3 Community and Society": {},
+                        "1.4 The New Woman": {},
+                        "1.5 Novels for the Young": {},
+                        "1.6 Colonialism and After": {}
+                    },
+                    "2 The Novel Comes to India": {
+                        "2.1 The Novel in South India": {},
+                        "2.2 The Novel in Hindi": {},
+                        "2.3 Novels in Bengal": {}
+                    },
+                    "3 Novels in the Colonial World": {
+                        "3.1 Uses of the Novel": {},
+                        "3.2 The Problem of Being Modern": {},
+                        "3.3 Pleasures of Reading": {}
+                    },
+                    "4 Women and the Novel": {},
+                    "5 The Nation and its History": {
+                        "5.1 The Novel and Nation Making": {}
+                    }
                 }
-            },
-            "8 New Forms of Publication": {
-                "8.1 Women and Print": {},
-                "8.2 Print and the Poor People": {}
-            },
-            "9 Print and Censorship": {
-                "Gandhi said in 1922:": {}
-            }
-        },
-        "Novels, Society and History": {
-            "1 The Rise o f the Novel": {
-                "1.1 The Publishing Market": {},
-                "1.2 The World of the Novel": {},
-                "1.3 Community and Society": {},
-                "1.4 The New Woman": {
-                    "Women novelists": {}
-                },
-                "1.5 Novels for the Young": {
-                    "G.A. Henty (1832-1902):": {}
-                },
-                "1.6 Colonialism and After": {}
-            },
-            "2 The Novel Comes to India": {
-                "2.1 The Novel in South India": {},
-                "2.2 The Novel in Hindi": {},
-                "2.3 Novels in Bengal": {
-                    "The novel in Assam": {},
-                    "The Oriya novel": {}
-                }
-            },
-            "3 Novels in the Colonial World": {
-                "3.1 Uses of the Novel": {},
-                "3.2 The Problem of Being Modern": {},
-                "3.3 Pleasures of Reading": {}
-            },
-            "4 Women and the Novel": {
-                "Why women should not read novels": {
-                    "From a Tamil essay published in 1927:": {}
-                },
-                "Women with books": {},
-                "4.1 Caste Practices, ‘Lower-Castes’ and Minorities": {}
-            },
-            "5 The Nation and its History": {
-                "5.1 The Novel and Nation Making": {},
-                "Conclusion": {}
             }
         }
     }
