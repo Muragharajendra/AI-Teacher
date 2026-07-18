@@ -2,7 +2,8 @@
     "Section I: Events and Processes": {
         "chapters": {
             "The Rise of Nationalism in Europe": {
-                "book_page": 2,
+                "start_page": 2,
+                "end_page":35,
                 "sections": {
                     "1 The French Revolution and the Idea of the Nation": {},
                     "2 The Making of Nationalism in Europe": {
