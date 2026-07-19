@@ -6,6 +6,11 @@ import json
 
 # Input for llm to get proper TOC
 text_extracted=text_extract()
+
+# Testing
+# with open("docs/extracted_text/text_md_test.md", "r", encoding="utf-8") as f:
+#     text_extracted=f.read()
+
 if not text_extracted.strip():
     raise ValueError("Extracted Text Not Found")
 

@@ -1,31 +1,88 @@
-PDF
+Record #125
 │
-├── Extract document structure (TOC, headings, page numbers)
+├── Vector (Embedding)
+│     [0.123, -0.84, 0.29, ..., 0.56]
 │
-├── Build a hierarchy
-│   ├── Chapter
-│   ├── Topic
-│   ├── Subtopic
-│   └── Paragraphs
+├── Document (Original Text)
+│     Chapter: The Rise of Nationalism in Europe
+│     Section: The French Revolution
+│     Subsection: The Idea of the Nation
 │
-├── Create three representations
-│   ├── Parent (entire topic)
-│   ├── Child (subtopics)
-│   └── Micro (paragraphs/examples if needed)
+│     The French Revolution marked the beginning...
 │
-├── Add metadata
-│   ├── chapter
-│   ├── topic
-│   ├── subtopic
-│   ├── page range
-│   ├── heading path
-│   └── source PDF
-│
-├── Embed only child chunks
-│
-├── Store parent-child links
-│
-└── At query time:
-    ├── "What is AVL rotation?" → retrieve child, expand to parent or neighboring subtopics
-    ├── "Explain Binary Search Tree" → retrieve multiple children from the same topic, merge into the parent topic
-    └── "Teach me Trees" → retrieve an entire chapter or several related topics
+└── Metadata
+      book = "History"
+      chapter = "The Rise of Nationalism in Europe"
+      section = "The French Revolution"
+      subsection = "The Idea of the Nation"
+      pdf_page = 28
+      chunk_id = "history_001"
+      
+
+
+                  ┌──────────────────────────────┐
+                  │      User Prompt Input       │
+                  │ "Teach me Nationalism..." OR │
+                  │ "Why did liberals revolt?"   │
+                  └──────────────┬───────────────┘
+                                 │
+                                 ▼
+                  ┌──────────────────────────────┐
+                  │    Convert Prompt Text       │
+                  │     to Dense Vector          │
+                  └──────────────┬───────────────┘
+                                 │
+                                 ▼
+                  ┌──────────────────────────────┐
+                  │    Vector Similarity Search  │
+                  │   (Query against Embeddings) │
+                  └──────────────┬───────────────┘
+                                 │
+                                 ▼
+                  ┌──────────────────────────────┐
+                  │  Retrieve Top Match Content  │
+                  │ (Text + Structural Metadata) │
+                  └──────────────┬───────────────┘
+                                 │
+                                 ▼
+                     /───────────────────────\
+                    <   Is it a request for   >
+                    <  an Entire Chapter?    >
+                     \───────────────────────/
+                                 │
+                    ┌────────────┴────────────┐
+                 YES│                         │NO
+                    ▼                         ▼
+      ┌──────────────────────────┐      ┌──────────────────────────┐
+      │  Extract Parent Target   │      │   Pass Surgical Top-K    │
+      │  from Top Match Metadata │      │   Chunks Straight Through│
+      │   (e.g., Chapter Name)   │      └─────────────┬────────────┘
+      └─────────────┬────────────┘                    │
+                    │                                 │
+                    ▼                                 │
+      ┌──────────────────────────┐                    │
+      │  Metadata Filter Query   │                    │
+      │  WHERE chapter == Target │                    │
+      └─────────────┬────────────┘                    │
+                    │                                 │
+                    ▼                                 │
+      ┌──────────────────────────┐                    │
+      │   Sort Returned Chunks   │                    │
+      │    by 'sequence_order'   │                    │
+      └─────────────┬────────────┘                    │
+                    │                                 │
+                    └────────────────┬────────────────┘
+                                     │
+                                     ▼
+                      ┌──────────────────────────┐
+                      │    Construct Prompts     │
+                      │    with Clean Context    │
+                      └──────────────┬───────────┘
+                                     │
+                                     ▼
+                      ┌──────────────────────────┐
+                      │    LLM Generation Layer  │
+                      │  (Behaves as AI Teacher) │
+                      └──────────────────────────┘
+
+

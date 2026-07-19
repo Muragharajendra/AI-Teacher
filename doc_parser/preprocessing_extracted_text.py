@@ -1,8 +1,9 @@
 def text_preprocess(text):
-    for line in text:
-        if not line:
-            continue
-        line=line.strip()
+    # for line in text:
+    #     if not line:
+    #         continue
+    #     line=line.strip()
+    pass
 
     
 
