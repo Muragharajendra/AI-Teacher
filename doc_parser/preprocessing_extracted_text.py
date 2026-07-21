@@ -1,9 +1,10 @@
 import json
+import re
 
 # Reading TOC JSON file and Extracted text file
 with open("docs/extracted_text/text_md_1.md","r",encoding="utf-8") as infile_01, \
      open("docs/TOC_from_llm/TOC_from_llm_1.json","r",encoding="utf-8") as infile_02:  
-        inp_text=infile_01.readlines()
+        inp_text=infile_01.read()
         inp_txt=json.load(infile_02)
 
 # TOC details extraction
@@ -19,46 +20,58 @@ class TOC_details():
                 chapter_count+=1
         return chapter_count
     
-    # Extracting chapter page number range
-    def recursive_search(self, obj):
-        ranges = []
+    # Extracting chapter names
+    def chapter_names(self, obj):
+        chapters = []
+
         if isinstance(obj, dict):
-            # Check if current dictionary contains chapter page markers
-            if "start_chapter_page" in obj and "end_chapter_page" in obj:
-                ranges.append([obj["start_chapter_page"], obj["end_chapter_page"]])
-            # Recurse into nested dictionaries
-            for value in obj.values():
-                ranges.extend(self.recursive_search(value))
+            for key, value in obj.items():
+
+                # Check if this key is a chapter
+                if (
+                    isinstance(value, dict)
+                    and "start_chapter_page" in value
+                    and "end_chapter_page" in value
+                ):
+                    chapters.append(key.lstrip("# ").strip())
+
+                # Recurse into nested dictionaries
+                chapters.extend(self.chapter_names(value))
+
         elif isinstance(obj, list):
             for item in obj:
-                ranges.extend(self.recursive_search(item))
-        return ranges
+                chapters.extend(self.chapter_names(item))
+
+        return chapters
 
 TOC_d_obj=TOC_details(inp_txt) 
 # print(TOC_d_obj.chapter_count())
-# print(TOC_d_obj.recursive_search(inp_txt))
+# print(TOC_d_obj.chapter_names(inp_txt))
         
 # Extracting text chunking
 def text_preprocess(text):
     end_chapter=[]
     
     chapters=[]
-    chapter_count=TOC_d_obj.chapter_count()
-    chapter_range=TOC_d_obj.recursive_search(inp_txt)
-    for page in chapter_range:
-        end_chapter.append(page[1])
-    start_line=0
-    for i in end_chapter:
-        chapter_l=[]
-        for line in range(start_line, len(text)):
-            if f"footer page number:{i+1}" not in text[line]:
-                chapter_l.append(text[line])
-            else:
-                start_line=line+1
-                break
-        chapter_info="\n".join(chapter_l)
-        chapters.append(chapter_info)
-    print(chapters[2])
+    # chapter_count=TOC_d_obj.chapter_count()
+    all_chapter_names=TOC_d_obj.chapter_names(inp_txt)
+    # print(all_chapter_names)
+    start = 0
+    chapters = []
+
+    for chapter in all_chapter_names:
+        pattern = rf"^#\s+(?:\*\*)?.*?{re.escape(chapter)}.*?(?:\*\*)?$"
+        match = re.search(pattern, text, flags=re.MULTILINE | re.IGNORECASE)
+        if match:
+            end = match.start()
+            chapters.append(text[start:end])
+            start = end
+
+    chapters.append(text[start:])
+    for i in chapters:
+        # print(i.splitlines()[0])
+        pass
+    print(chapters[7])
 
 
 
