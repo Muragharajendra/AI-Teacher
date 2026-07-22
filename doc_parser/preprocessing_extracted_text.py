@@ -71,7 +71,7 @@ def text_preprocess(text):
     for i in chapters:
         # print(i.splitlines()[0])
         pass
-    print(chapters[2])
+    print(chapters[0])
 
 
 
