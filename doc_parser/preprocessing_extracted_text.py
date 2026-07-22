@@ -68,10 +68,24 @@ def text_preprocess(text):
             start = end
 
     chapters.append(text[start:])
-    for i in chapters:
+    ch_index=0
+    all_chapters=[]
+    for ch_index, chapter_iter in enumerate(chapters):
         # print(i.splitlines()[0])
-        pass
-    print(chapters[0])
+        if ch_index >= len(all_chapter_names):
+            break
+        pattern = rf"^#\s+(?:\*\*)?.*?{re.escape(all_chapter_names[ch_index])}.*?(?:\*\*)?$"
+        match = re.search(pattern, chapter_iter, flags=re.MULTILINE | re.IGNORECASE)
+        if match:
+            all_chapters.append(chapter_iter)
+            
+        else:
+            chapter=f"# **{all_chapter_names[ch_index]}**\n" + chapter_iter
+            all_chapters.append(chapter)
+        ch_index+=1
+        
+    print(all_chapters[1])
+    # print(chapters[0])
 
 
 
