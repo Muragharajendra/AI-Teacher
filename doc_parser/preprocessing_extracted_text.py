@@ -2,10 +2,12 @@ import json
 import re
 
 # Reading TOC JSON file and Extracted text file
-with open("docs/extracted_text/text_md_1.md","r",encoding="utf-8") as infile_01, \
-     open("docs/TOC_from_llm/TOC_from_llm_1.json","r",encoding="utf-8") as infile_02:  
-        inp_text=infile_01.read()
-        inp_txt=json.load(infile_02)
+def open_file():
+    with open("docs/extracted_text/text_md_1.md","r",encoding="utf-8") as infile_01, \
+        open("docs/TOC_from_llm/TOC_from_llm_1.json","r",encoding="utf-8") as infile_02:  
+            inp_text=infile_01.read()
+            inp_txt=json.load(infile_02)
+            return inp_text, inp_txt
 
 # TOC details extraction
 class TOC_details():
@@ -44,12 +46,13 @@ class TOC_details():
 
         return chapters
 
-TOC_d_obj=TOC_details(inp_txt) 
+# TOC_d_obj=TOC_details(inp_txt) 
 # print(TOC_d_obj.chapter_count())
 # print(TOC_d_obj.chapter_names(inp_txt))
         
 # Extracting text chunking
-def text_preprocess(text):
+def text_preprocess(text, inp_txt):
+    TOC_d_obj=TOC_details(inp_txt) 
     end_chapter=[]
     
     chapters=[]
@@ -83,9 +86,10 @@ def text_preprocess(text):
             chapter=f"# **{all_chapter_names[ch_index]}**\n" + chapter_iter
             all_chapters.append(chapter)
         ch_index+=1
-        
+    return all_chapters
     # print(all_chapters[0])
-    print(chapters[5])
+    # print(chapters[5])
+    # chapter wise chunked
 
 
 
@@ -95,5 +99,5 @@ def text_preprocess(text):
     #     pass
         
 
-text_preprocess(inp_text)
+# text_preprocess(inp_text)
 
