@@ -87,7 +87,7 @@ def text_preprocess(text, inp_txt):
             all_chapters.append(chapter)
         ch_index+=1
     return all_chapters
-    # print(all_chapters[0])
+    print(all_chapters[0])
     # print(chapters[5])
     # chapter wise chunked
 
@@ -100,4 +100,5 @@ def text_preprocess(text, inp_txt):
         
 
 # text_preprocess(inp_text)
+
 
