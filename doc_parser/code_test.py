@@ -5,4 +5,4 @@ for i in all_chapters:
             all_chap.append(f"# **Nationalism in Bengaluru** "+"\n" + i) 
         else:
             all_chap.append(i)
-print(all_chap[0])  
+print(all_chap[1])  
