@@ -8,3 +8,4 @@ for i in all_chapters:
 print(all_chap[1])  
 print("Hello!")
 print("Lowda focus on execution. One day everything will be fine.")
+print("Believe yourself")
