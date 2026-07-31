@@ -7,5 +7,5 @@ for i in all_chapters:
             all_chap.append(i)
 print(all_chap[1])  
 print("Hello!")
-print("Lowda focus on execution. One day everything will be fine.")
+print("focus on execution. One day everything will be fine.")
 print("Believe yourself")
