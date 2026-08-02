@@ -6,7 +6,3 @@ for i in all_chapters:
         else:
             all_chap.append(i)
 print(all_chap[1])  
-print("Hello!")
-print("focus on execution. One day everything will be fine.")
-print("Believe on yourself")
-print("Believe on yourself")
