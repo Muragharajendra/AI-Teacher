@@ -1,17 +1,12 @@
-from preprocessing_extracted_text import text_preprocess, open_file
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
+from doc_parser.markdown_cleaner import clean_and_normalize_markdown
 
-# files
-ext_text, inp_txt= open_file()
+# Read cleaned markdown from markdown_cleaner output
+with open("docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
+        raw_markdown = f.read()
+markdown_text=clean_and_normalize_markdown(raw_markdown)  # cleaning will be done in markdown_cleaner.py
 
-all_chapters=text_preprocess(ext_text, inp_txt)  # chapter wise chunked list
-
-# writing first in file text_md_test_1.md
-with open("docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
-    f.write(all_chapters[0])  # writing first chapter in file
-# print(all_chapters[0])
-
-def create_chunks(all_chapters):
+def create_chunks(markdown_text):
 
     markdown_splitter = MarkdownHeaderTextSplitter(
         headers_to_split_on=[
@@ -28,31 +23,24 @@ def create_chunks(all_chapters):
     )
 
     recursive_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,
-        chunk_overlap=50,
+        chunk_size=600,
+        chunk_overlap=60,
         separators=["\n\n", "\n", " ", ""]
     )
 
     final_chunks = []
 
-    for chapter in all_chapters:
+    # Process entire markdown text directly - no chapter iteration needed
+    sections = markdown_splitter.split_text(markdown_text)
 
-        # chapter should be your markdown-formatted chapter text
-        sections = markdown_splitter.split_text(chapter)
-
-        for section in sections:
-
-            # If section is already small, don't split it
-            if len(section.page_content) <= 600:
-                final_chunks.append(section)
-
-            # If section is large, recursively split it
-            else:
-                smaller_chunks = recursive_splitter.split_documents(
-                    [section]
-                )
-
-                final_chunks.extend(smaller_chunks)
+    for section in sections:
+        # If section is already small, don't split it
+        if len(section.page_content) <= 600:
+            final_chunks.append(section)
+        # If section is large, recursively split it
+        else:
+            smaller_chunks = recursive_splitter.split_documents([section])
+            final_chunks.extend(smaller_chunks)
         
     # for chunk in final_chunks:
     #     print("CHunk meta data:", chunk.metadata) 
@@ -61,5 +49,17 @@ def create_chunks(all_chapters):
 
     print(f"Total number of chunks created: {len(final_chunks)}")
     # print(final_chunks[0])
+    
+    return final_chunks
 
-final_chunks = create_chunks(all_chapters)
+final_chunks = create_chunks(markdown_text)
+
+# Write chunks to text_md_test_1.md
+with open("docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
+    for i, chunk in enumerate(final_chunks):
+        f.write(f"--- CHUNK {i} ---\n")
+        f.write(f"Metadata: {chunk.metadata}\n")
+        f.write(f"Content:\n{chunk.page_content}\n")
+        f.write("="*100 + "\n\n")
+
+print(f"\n✅ All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")

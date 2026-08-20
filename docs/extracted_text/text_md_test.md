@@ -1,702 +1,678 @@
 [1] ## **<u>Contents</u>**
 
-[3] #### **Section I: Events and Processes**
+[6] # `The Rise of Nationalism in Europe`
 
-[4] I. The Rise of Nationalism in Europe II. The Nationalist Movement in Indo-China III. Nationalism in India
+[16] ###### **Ernst Renan, ‘What is a Nation?’**
 
-[6] #### **Section II: Livelihoods, Economies and Societies**
+[42] footer page number:7
 
-[7] IV. The Making of a Global World 77 V. The Age of Industrialisation 97 VI. Work, Life and Leisure 117
+[43] ### `2  The Making of Nationalism in Europe`
 
-[8] #### **Section III: Everyday Life, Culture and Politics**
+[48] ###### <u>1821</u>
 
-[9] VII. Print Culture and the Modern World VIII. Novels, Society and History
+[50] ###### <u>1848</u>
 
-[10] 141 159
+[54] ###### <u>1905</u>
 
-[17] ###### **Ernst Renan, ‘What is a Nation?’**
+[57] #### `2.1 The Aristocracy and the New Middle Class`
 
-[25] footer page number:4
+[59] footer page number:8
 
-[26] ### `1  The French Revolution and the Idea of the Nation`
+[61] #### `2.2 What did Liberal Nationalism Stand for?`
 
-[44] footer page number:7
+[67] footer page number:9
 
-[45] ### `2  The Making of Nationalism in Europe`
+[70] #### `2.3 A New Conservatism after 1815`
 
-[59] footer page number:1905
 
-[62] ##### `2.1 The Aristocracy and the New Middle Class`
+[92] footer page number:11
 
-[64] footer page number:8
+[94] #### `2.4 The Revolutionaries`
 
-[66] ##### `2.2 What did Liberal Nationalism Stand for?`
+[98] footer page number:12
 
-[72] footer page number:9
+[99] ### `3  The Age of Revolutions: 1830-1848`
 
-[75] ##### `2.3 A New Conservatism after 1815`
+[103] #### `3.1 The Romantic Imagination and National Feeling`
 
+[110] footer page number:14
 
-[99] footer page number:11
+[114] ###### **The Grimm Brothers: Folktales and Nation-building**
 
-[101] ##### `2.4 The Revolutionaries`
+[117] #### `3.2 Hunger, Hardship and Popular Revolt`
 
-[105] footer page number:12
 
-[106] ### `3  The Age of Revolutions: 1830-1848`
+[132] footer page number:16
 
-[110] ##### `3.1 The Romantic Imagination and National Feeling`
+[133] #### `3.3 1848: The Revolution of the Liberals`
 
-[117] footer page number:14
+[140] ###### **How were liberty and equality for women to be defined?**
 
-[121] ###### **The Grimm Brothers: Folktales and Nation-building**
 
-[124] ##### `3.2 Hunger, Hardship and Popular Revolt`
+[155] footer page number:18
 
+[156] ### `4  The Making of Germany and Italy`
 
-[139] footer page number:16
+[158] 4.1 Germany – Can the Army be the Architect of a Nation?
 
-[140] ##### `3.3 1848: The Revolution of the Liberals`
+[165] footer page number:19
 
-[147] ###### **How were liberty and equality for women to be defined?**
+[169] #### `4.2 Italy Unified`
 
+[175] footer page number:20
 
-[162] footer page number:18
+[185] #### `4.3  The Strange Case of Britain`
 
-[163] ### `4  The Making of Germany and Italy`
 
-[164] ##### `4.1 Germany – Can the Army be the Architect of a Nation?`
+[198] footer page number:22
 
-[170] footer page number:19
+[199] ### `5  Visualising the Nation`
 
-[174] ##### `4.2 Italy Unified`
+[208] footer page number:23
 
-[180] footer page number:20
+[210] ##### **Meanings of the symbols**
 
-[191] ##### `4.3  The Strange Case of Britain`
 
 
-[204] footer page number:22
+[257] footer page number:28
 
-[205] ### `5  Visualising the Nation`
+[258] # **The Nationalist Movement in Indo-China**
 
-[214] footer page number:23
+[262] ### **1  Emerging from the Shadow of China**
 
-[215] ###### **Meanings of the symbols**
+[266] #### **1.1 Colonial Domination and Resistance**
 
+[272] footer page number:31
 
-[235] footer page number:25
+[275] #### **1.2 Why the French thought Colonies Necessary**
 
-[236] ### `6  Nationalism and Imperialism`
+[280] #### **1.3 Should Colonies be Developed?**
 
 
-[266] footer page number:28
+[292] footer page number:33
 
-[267] # **The Nationalist Movement in Indo-China**
+[293] ### **2  The Dilemma of Colonial Education**
 
-[271] ### **1  Emerging from the Shadow of China**
+[296] #### **2.1 Talking Modern**
 
-[276] ##### **1.1 Colonial Domination and Resistance**
+[299] footer page number:34
 
+[303] #### **2.2 Looking Modern**
 
-[283] footer page number:31
+[310] footer page number:35
 
-[289] ##### **1.2 Why the French thought Colonies Necessary**
+[311] #### **2.3 Resistance in Schools**
 
-[294] ##### **1.3 Should Colonies be Developed?**
+[317] footer page number:36
 
+[318] ### **3  Hygiene, Disease and Everyday Resistance**
 
-[306] footer page number:33
+[320] #### **3.1 Plague Strikes Hanoi**
 
-[307] ### **2  The Dilemma of Colonial Education**
+[324] footer page number:37
 
-[310] ##### **2.1 Talking Modern**
+[326] #### **3.2 The Rat Hunt**
 
-[313] footer page number:34
+[331] footer page number:38
 
-[317] ##### **2.2 Looking Modern**
+[332] ### **4  Religion and Anti-colonialism**
 
-[326] footer page number:35
+[348] footer page number:40
 
-[327] ##### **2.3 Resistance in Schools**
+[349] ### **5  The Vision of Modernisation**
 
-[337] footer page number:36
+[363] footer page number:41
 
-[338] ### **3  Hygiene, Disease and Everyday Resistance**
+[364] #### **5.1 Other Ways of Becoming Modern: Japan and China**
 
-[340] ##### **3.1 Plague Strikes Hanoi**
+[370] footer page number:42
 
-[344] footer page number:37
+[371] ### **6  The Communist Movement and Vietnamese Nationalism**
 
-[346] ##### **3.2 The Rat Hunt**
+[375] #### **6.1 The New Republic of Vietnam**
 
-[351] footer page number:38
+[378] ###### **Declaration of independence**
 
-[352] ### **4  Religion and Anti-colonialism**
 
+[399] footer page number:44
 
-[370] footer page number:40
+[401] ###### **Ho Chi Minh (1890-1969)**
 
-[371] ### **5  The Vision of Modernisation**
+[404] #### **6.2 The Entry of the US into the War**
 
-[385] footer page number:41
+[407] footer page number:45
 
-[386] ##### **5.1 Other Ways of Becoming Modern: Japan and China**
+[413] ###### **Agent Orange: The Deadly Poison**
 
-[392] footer page number:42
+[420] footer page number:46
 
-[393] ### **6  The Communist Movement and Vietnamese Nationalism**
+[421] #### **6.3 The Ho Chi Minh Trail**
 
-[397] ##### **6.1 The New Republic of Vietnam**
+[429] footer page number:47
 
-[400] ###### **Declaration of independence**
+[432] ###### **Letters of Mr Do Sam**
 
+[434] ###### Letter dated 6/1968
 
-[422] footer page number:44
+[438] ###### Letter dated 6/1968
 
-[423] ###### **Ho Chi Minh (1890-1969)**
+[442] footer page number:48
 
-[426] ##### **6.2 The Entry of the US into the War**
+[443] ### **7  The Nation and Its Heroes**
 
-[429] footer page number:45
+[445] #### **7.1 Women as Rebels**
 
-[432] ###### **Agent Orange: The Deadly Poison**
+[448] #### **7.2 Heroes of Past Times**
 
-[442] footer page number:46
+[452] footer page number:49
 
-[443] ##### **6.3 The Ho Chi Minh Trail**
+[454] #### **7.3 Women as Warriors**
 
-[451] footer page number:47
+[458] #### **7.4 Women in Times of Peace**
 
-[454] ###### **Letters of Mr Do Sam**
+[462] footer page number:50
 
-[456] ###### Letter dated 6/1968
+[463] ### **8  The End of the War**
 
-[460] ###### Letter dated 6/1968
 
-[464] footer page number:48
+[487] footer page number:52
 
-[465] ### **7  The Nation and Its Heroes**
+[488] # **Nationalism in India**
 
-[467] ##### **7.1 Women as Rebels**
+[493] ### **1  The First World War, Khilafat and Non-Cooperation**
 
-[470] ##### **7.2 Heroes of Past Times**
+[500] #### **1.1 The Idea of Satyagraha**
 
-[475] footer page number:49
+[503] footer page number:54
 
-[477] ##### **7.3 Women as Warriors**
+[507] ###### **Mahatma Gandhi on Satyagraha**
 
-[481] ##### **7.4 Women in Times of Peace**
+[512] #### **1.2 The Rowlatt Act**
 
-[485] footer page number:50
+[517] footer page number:55
 
-[486] ### **8  The End of the War**
+[522] #### **1.3  Why Non-cooperation?**
 
 
-[511] footer page number:52
+[532] footer page number:57
 
-[512] # **Nationalism in India**
+[533] ### **2  Differing Strands within the Movement**
 
-[517] ### **1  The First World War, Khilafat and Non-Cooperation**
+[535] #### **2.1 The Movement in the Towns**
 
-[524] ##### **1.1 The Idea of Satyagraha**
+[542] #### **2.2 Rebellion in the Countryside**
 
-[527] footer page number:54
 
-[531] ###### **Mahatma Gandhi on Satyagraha**
+[556] footer page number:59
 
-[536] ##### **1.2 The Rowlatt Act**
+[558] #### **2.3 Swaraj in the Plantations**
 
-[541] footer page number:55
+[565] footer page number:61
 
-[546] ##### **1.3  Why Non-cooperation?**
+[566] ### **3  Towards Civil Disobedience**
 
+[572] footer page number:62
 
-[556] footer page number:57
+[574] #### **3.1 The Salt March and the Civil Disobedience Movement**
 
-[557] ### **2  Differing Strands within the Movement**
+[577] ###### **The Independence Day Pledge, 26 January 1930**
 
-[559] ##### **2.1 The Movement in the Towns**
+[588] footer page number:64
 
-[567] ##### **2.2 Rebellion in the Countryside**
+[590] #### **3.2 How Participants saw the Movement**
 
+[594] ###### **‘To the altar of this revolution we have brought our youth as incense’**
 
-[581] footer page number:59
+[605] footer page number:66
 
-[583] ##### **2.3 Swaraj in the Plantations**
+[610] #### **3.3 The Limits of Civil Disobedience**
 
-[590] footer page number:61
 
-[591] ### **3  Towards Civil Disobedience**
+[629] footer page number:69
 
-[597] footer page number:62
+[630] ### **4  The Sense of Collective Belonging**
 
-[599] ##### **3.1 The Salt March and the Civil Disobedience Movement**
 
-[602] ###### **The Independence Day Pledge, 26 January 1930**
+[651] footer page number:72
 
-[613] footer page number:64
+[652] #### **Conclusion**
 
-[615] ##### **3.2 How Participants saw the Movement**
 
-[619] ###### **‘To the altar of this revolution we have brought our youth as incense’**
+[670] footer page number:74
 
-[650] footer page number:66
+[671] # **The Making of a Global World**
 
-[655] ##### **3.3 The Limits of Civil Disobedience**
+[672] ### **<mark>1</mark> The Pre-modern World**
 
+[676] #### **1.1 Silk Routes Link the World**
 
-[674] footer page number:69
+[680] #### **1.2 Food Travels: Spaghetti and Potato**
 
-[675] ### **4  The Sense of Collective Belonging**
+[684] footer page number:78
 
+[687] #### **1.3 Conquest, Disease and Trade**
 
-[699] footer page number:72
+[695] ###### **‘Biological’ warfare?**
 
-[700] ##### **Conclusion**
 
+[706] footer page number:80
 
-[720] footer page number:74
+[707] ### **2  The Nineteenth Century (1815-1914)**
 
-[721] # **The Making of a Global World**
+[711] #### **2.1 A World Economy Takes Shape**
 
-[722] ### **<mark>1</mark> The Pre-modern World**
+[721] footer page number:82
 
-[726] ##### **1.1 Silk Routes Link the World**
+[729] #### **2.2 Role of Technology**
 
-[730] ##### **1.2 Food Travels: Spaghetti and Potato**
+[731] footer page number:83
 
-[735] footer page number:78
+[736] #### **2.3 Late nineteenth-century Colonialism**
 
-[738] ##### **1.3 Conquest, Disease and Trade**
+[738] footer page number:84
 
-[746] ###### **‘Biological’ warfare?**
+[746] ###### **Sir Henry Morton Stanley in Central Africa**
 
+[749] footer page number:85
 
-[759] footer page number:80
+[750] #### **2.4 Rinderpest, or the Cattle Plague**
 
-[760] ### **2  The Nineteenth Century (1815-1914)**
+[758] footer page number:86
 
-[764] ##### **2.1 A World Economy Takes Shape**
+[763] #### **2.4 Indentured Labour Migration from India**
 
-[774] footer page number:82
 
-[782] ##### **2.2 Role of Technology**
+[779] footer page number:88
 
-[784] footer page number:83
+[782] #### **2.5 Indian Entrepreneurs Abroad**
 
-[790] ##### **2.3 Late nineteenth-century Colonialism**
+[790] #### **2.6 Indian Trade, Colonialism and the Global System**
 
-[792] footer page number:84
+[805] footer page number:91
 
-[800] ###### **Sir Henry Morton Stanley in Central Africa**
+[806] ### **3  The Inter-war Economy**
 
-[803] footer page number:85
+[808] #### **3.1 Wartime Transformations**
 
-[804] ##### **2.4 Rinderpest, or the Cattle Plague**
+[815] footer page number:92
 
-[812] footer page number:86
+[817] #### **3.2 Post-war Recovery**
 
-[818] ##### **2.4 Indentured Labour Migration from India**
+[821] #### **3.3 Rise of Mass Production and Consumption**
 
+[830] footer page number:94
 
-[834] footer page number:88
+[835] #### **3.4 The Great Depression**
 
-[837] ##### **2.5 Indian Entrepreneurs Abroad**
+[844] footer page number:95
 
-[843] ###### **The testimony of  an indentured labourer**
+[850] #### **3.5 India and the Great Depression**
 
-[846] ##### **2.6 Indian Trade, Colonialism and the Global System**
 
-[861] footer page number:91
+[862] footer page number:97
 
-[862] ### **3  The Inter-war Economy**
+[863] ### **4  Rebuilding a World Economy: The Post-war Era**
 
-[864] ##### **3.1 Wartime Transformations**
+[870] #### **4.1 Post-war Settlement and the Bretton Woods Institutions**
 
-[871] footer page number:92
+[873] footer page number:98
 
-[873] ##### **3.2 Post-war Recovery**
+[883] #### **4.2 The Early Post-war Years**
 
-[877] ##### **3.3 Rise of Mass Production and Consumption**
+[885] footer page number:99
 
-[886] footer page number:94
+[887] #### **4.3 Decolonisation and Independence**
 
-[891] ##### **3.4 The Great Depression**
+[891] ###### **What are MNCs?**
 
-[900] footer page number:95
+[898] footer page number:100
 
-[906] ##### **3.5 India and the Great Depression**
+[899] #### **4.4 End of Bretton Woods and the Beginning of ‘Globalisation’**
 
 
-[918] footer page number:97
+[927] footer page number:102
 
-[919] ### **4  Rebuilding a World Economy: The Post-war Era**
+[928] # **The Age of Industrialisation**
 
-[926] ##### **4.1 Post-war Settlement and the Bretton Woods Institutions**
+[942] footer page number:104
 
-[929] footer page number:98
+[943] ### **1  Before the Industrial Revolution**
 
-[939] ##### **4.2 The Early Post-war Years**
+[950] footer page number:105
 
-[941] footer page number:99
+[954] #### **1.1 The Coming Up of the Factory**
 
-[943] ##### **4.3 Decolonisation and Independence**
+[962] footer page number:106
 
-[947] ###### **What are MNCs?**
+[968] #### **1.2 The Pace of Industrial Change**
 
-[954] footer page number:100
+[981] footer page number:108
 
-[955] ##### **4.4 End of Bretton Woods and the Beginning of ‘Globalisation’**
+[982] ### **2  Hand Labour and Steam Power**
 
+[994] footer page number:109
 
-[981] footer page number:102
+[998] #### **2.1 Life of the Workers**
 
-[982] # **The Age of Industrialisation**
 
-[996] footer page number:104
+[1025] footer page number:112
 
-[997] ### **1  Before the Industrial Revolution**
+[1026] ### **3  Industrialisation in the Colonies**
 
-[1005] footer page number:105
+[1028] #### **3.1 The Age of Indian Textiles**
 
-[1009] ##### **1.1 The Coming Up of the Factory**
+[1035] footer page number:113
 
-[1017] footer page number:106
+[1039] #### **3.2 What Happened to Weavers?**
 
-[1024] ##### **1.2 The Pace of Industrial Change**
 
-[1038] footer page number:108
+[1052] footer page number:115
 
-[1039] ### **2  Hand Labour and Steam Power**
+[1055] #### **3.3 Manchester Comes to India**
 
-[1051] footer page number:109
+[1062] ###### The Commissioner of Patna wrote:
 
-[1055] ##### **2.1 Life of the Workers**
+[1075] footer page number:117
 
+[1076] ### **4  Factories Come Up**
 
-[1081] footer page number:112
+[1079] #### **4.1 The Early Entrepreneurs**
 
-[1082] ### **3  Industrialisation in the Colonies**
+[1085] footer page number:118
 
-[1084] ##### **3.1 The Age of Indian Textiles**
+[1089] #### **4.2 Where Did the Workers Come From?**
 
-[1091] footer page number:113
 
-[1095] ##### **3.2 What Happened to Weavers?**
+[1110] footer page number:120
 
+[1111] ### **5  The Peculiarities of Industrial Growth**
 
-[1108] footer page number:115
+[1117] footer page number:121
 
-[1111] ##### **3.3 Manchester Comes to India**
+[1120] #### **5.1 Small-scale Industries Predominate**
 
-[1118] ###### The Commissioner of Patna wrote:
+[1124] #### How did this happen?
 
-[1131] footer page number:117
+[1134] footer page number:123
 
-[1132] ### **4  Factories Come Up**
+[1135] ### **6  Market for Goods**
 
-[1135] ##### **4.1 The Early Entrepreneurs**
+[1144] footer page number:124
 
-[1142] footer page number:118
+[1150] #### **Conclusion**
 
-[1146] ##### **4.2 Where Did the Workers Come From?**
 
+[1176] footer page number:126
 
-[1167] footer page number:120
+[1177] # **Work, Life and Leisure Cities in the Contemporary World**
 
-[1168] ### **5  The Peculiarities of Industrial Growth**
+[1182] ### **1  Characteristics of the City**
 
-[1174] footer page number:121
+[1189] #### **1.1 Industrialisation and the Rise of the Modern City in England**
 
-[1177] ##### **5.1 Small-scale Industries Predominate**
+[1192] footer page number:128
 
-[1181] ##### How did this happen?
+[1194] #### **1.2 Marginal Groups**
 
-[1191] footer page number:123
+[1202] footer page number:129
 
-[1192] ### **6  Market for Goods**
+[1207] #### **1.3 Housing**
 
-[1201] footer page number:124
 
-[1207] ##### **Conclusion**
+[1220] footer page number:131
 
+[1223] #### **1.4 Cleaning London**
 
-[1232] footer page number:126
+[1232] footer page number:132
 
-[1233] # **Work, Life and Leisure Cities in the Contemporary World**
+[1236] #### **1.5 Transport in the City**
 
-[1238] ### **1  Characteristics of the City**
 
-[1246] ##### **1.1 Industrialisation and the Rise of the Modern City in England**
+[1252] footer page number:134
 
-[1249] footer page number:128
+[1253] ### **2  Social Change in the City**
 
-[1251] ##### **1.2 Marginal Groups**
+[1257] #### **2.1 Men, Women and Family in the City**
 
-[1260] footer page number:129
+[1261] footer page number:135
 
-[1265] ##### **1.3 Housing**
+[1265] #### **2.2 Leisure and Consumption**
 
+[1275] footer page number:137
 
-[1280] footer page number:131
+[1276] ### **3  Politics in the City**
 
-[1284] ##### **1.4 Cleaning London**
+[1281] footer page number:138
 
-[1293] footer page number:132
+[1283] ###### **Haussmanisation of Paris**
 
-[1297] ##### **1.5 Transport in the City**
+[1293] footer page number:139
 
+[1294] ### **4  The City in Colonial India**
 
-[1314] footer page number:134
+[1302] ###### **Contradictory experiences of cities**
 
-[1315] ### **2  Social Change in the City**
+[1309] footer page number:140
 
-[1319] ##### **2.1 Men, Women and Family in the City**
+[1310] #### **4.1 Bombay: The Prime City of India?**
 
-[1323] footer page number:135
+[1314] #### **4.2 Work in the City**
 
-[1327] ##### **2.2 Leisure and Consumption**
+[1320] footer page number:141
 
+[1326] #### **4.3 Housing and Neighbourhoods**
 
-[1337] footer page number:137
+[1331] footer page number:142
 
-[1338] ### **3  Politics in the City**
+[1340] ###### **Why spaces cannot be cleared**
 
-[1343] footer page number:138
+[1345] footer page number:143
 
-[1344] ###### **Haussmanisation of Paris**
+[1351] #### **4.4 Land Reclamation in Bombay**
 
-[1354] footer page number:139
+[1358] footer page number:144
 
-[1355] ### **4  The City in Colonial India**
+[1362] #### **4.5 Bombay as the City of Dreams: The World of Cinema and Culture**
 
-[1364] ###### **Contradictory experiences of cities**
+[1367] footer page number:145
 
-[1372] footer page number:140
+[1374] ###### **The Many Sides of Bombay**
 
-[1373] ##### **4.1 Bombay: The Prime City of India?**
+[1381] footer page number:146
 
-[1378] ##### **4.2 Work in the City**
+[1384] ###### **Lee Kuan Yew’s Singapore**
 
-[1385] footer page number:141
+[1393] footer page number:147
 
-[1391] ##### **4.3 Housing and Neighbourhoods**
+[1394] ### **5  Cities and the Challenge of the Environment**
 
-[1396] footer page number:142
+[1399] footer page number:148
 
-[1405] ###### **Why spaces cannot be cleared**
+[1406] #### **Conclusion**
 
-[1410] footer page number:143
 
-[1416] ##### **4.4 Land Reclamation in Bombay**
+[1428] footer page number:150
 
-[1425] footer page number:144
+[1429] # **Print Culture and the Modern World**
 
-[1429] ##### **4.5 Bombay as the City of Dreams: The World of Cinema and Culture**
+[1434] ### **1  The First Printed Books**
 
-[1435] footer page number:145
+[1441] #### **1.1 Print in Japan**
 
-[1442] ###### **The Many Sides of Bombay**
 
-[1449] footer page number:146
+[1452] footer page number:155
 
-[1451] ###### **Lee Kuan Yew’s Singapore**
+[1453] ### **2  Print Comes to Europe**
 
-[1460] footer page number:147
+[1461] footer page number:156
 
-[1461] ### **5  Cities and the Challenge of the Environment**
+[1462] #### **2.1 Gutenberg and the Printing Press**
 
-[1466] footer page number:148
 
-[1473] ##### **Conclusion**
+[1481] footer page number:158
 
+[1482] ### **3  The Print Revolution and Its Impact**
 
-[1495] footer page number:150
+[1485] #### **3.1 A New Reading Public**
 
-[1496] # **Print Culture and the Modern World**
+[1493] footer page number:159
 
-[1501] ### **1  The First Printed Books**
+[1494] #### **3.2 Religious Debates and the Fear of Print**
 
-[1508] ##### **1.1 Print in Japan**
+[1503] footer page number:160
 
+[1504] #### **3.3 Print and Dissent**
 
-[1519] footer page number:155
+[1511] ###### **Fear of the book**
 
-[1520] ### **2  Print Comes to Europe**
+[1517] footer page number:161
 
-[1529] footer page number:156
+[1518] ### **4  The Reading Mania**
 
-[1530] ##### **2.1 Gutenberg and the Printing Press**
+[1528] footer page number:162
 
+[1529] #### **4.1 ‘Tremble, therefore, tyrants of the world!’**
 
-[1552] footer page number:158
+[1531] #### **4.2 Print Culture and the French Revolution**
 
-[1553] ### **3  The Print Revolution and Its Impact**
 
-[1556] ##### **3.1 A New Reading Public**
+[1552] footer page number:164
 
-[1566] footer page number:159
+[1553] ### **5  The Nineteenth Century**
 
-[1567] ##### **3.2 Religious Debates and the Fear of Print**
+[1555] #### **5.1 Children, Women and Workers**
 
-[1576] footer page number:160
+[1562] footer page number:165
 
-[1577] ##### **3.3 Print and Dissent**
+[1563] #### **5.2 Further Innovations**
 
-[1586] ###### **Fear of the book**
+[1569] footer page number:166
 
-[1592] footer page number:161
+[1570] ### **6  India and the World of Print**
 
-[1593] ### **4  The Reading Mania**
+[1572] #### **6.1 Manuscripts Before the Age of Print**
 
-[1603] footer page number:162
+[1577] footer page number:167
 
-[1604] ##### **4.1 ‘Tremble, therefore, tyrants of the world!’**
+[1581] #### **6.2 Print Comes to India**
 
-[1606] ##### **4.2 Print Culture and the French Revolution**
+[1589] footer page number:168
 
+[1590] ### **7  Religious Reform and Public Debates**
 
-[1628] footer page number:164
+[1597] footer page number:169
 
-[1629] ### **5  The Nineteenth Century**
+[1602] ###### **Why Newspapers?**
 
-[1631] ##### **5.1 Children, Women and Workers**
+[1608] footer page number:170
 
-[1638] footer page number:165
+[1609] ### **8  New Forms of Publication**
 
-[1639] ##### **5.2 Further Innovations**
+[1615] footer page number:171
 
-[1645] footer page number:166
+[1616] #### **8.1 Women and Print**
 
-[1646] ### **6  India and the World of Print**
 
-[1648] ##### **6.1 Manuscripts Before the Age of Print**
+[1634] footer page number:173
 
-[1654] footer page number:167
+[1637] #### **8.2 Print and the Poor People**
 
-[1658] ##### **6.2 Print Comes to India**
+[1648] footer page number:174
 
-[1667] footer page number:168
+[1649] ### **9  Print and Censorship**
 
-[1668] ### **7  Religious Reform and Public Debates**
+[1660] ###### **Gandhi said in 1922:**
 
-[1676] footer page number:169
 
-[1681] ###### **Why Newspapers?**
+[1682] footer page number:176
 
-[1683] ###### Bombay Telegraph and Courier, 6 January 1849
+[1683] # **Novels, Society and History**
 
-[1687] footer page number:170
+[1685] ### **1 The Rise o f the Novel** The novel is a modern form of literature. It is born from print, a mechanical invention.
 
-[1688] ### **8  New Forms of Publication**
+[1689] #### **1.1 The Publishing Market**
 
-[1694] footer page number:171
 
-[1695] ##### **8.1 Women and Print**
+[1710] footer page number:179
 
-[1714] footer page number:173
+[1713] #### **1.2 The World of the Novel**
 
-[1716] ##### **8.2 Print and the Poor People**
+[1729] footer page number:180
 
-[1727] footer page number:174
+[1735] #### **1.3 Community and Society**
 
-[1728] ### **9  Print and Censorship**
+[1738] footer page number:181
 
-[1739] ###### **Gandhi said in 1922:**
+[1743] #### **1.4 The New Woman**
 
+[1761] footer page number:184
 
-[1762] footer page number:176
+[1765] ###### **Women novelists**
 
-[1763] # **Novels, Society and History**
+[1770] #### **1.5 Novels for the Young**
 
-[1765] ### **1 The Rise o f the Novel**
+[1777] ###### **G.A. Henty (1832-1902):**
 
-[1770] ##### **1.1 The Publishing Market**
+[1781] footer page number:185
 
+[1783] #### **1.6 Colonialism and After**
 
-[1787] footer page number:179
+[1787] footer page number:186
 
-[1791] ##### **1.2 The World of the Novel**
+[1789] ### **2  The Novel Comes to India**
 
-[1807] footer page number:180
+[1799] #### **2.1 The Novel in South India**
 
-[1813] ##### **1.3 Community and Society**
+[1803] footer page number:187
 
-[1816] footer page number:181
+[1808] #### **2.2 The Novel in Hindi**
 
-[1821] ##### **1.4 The New Woman**
+[1813] footer page number:188
 
-[1840] footer page number:184
+[1819] #### **2.3 Novels in Bengal**
 
-[1844] ###### **Women novelists**
+[1829] ###### **The novel in Assam**
 
-[1849] ##### **1.5 Novels for the Young**
+[1832] footer page number:189
 
-[1856] ###### **G.A. Henty (1832-1902):**
+[1839] ###### **The Oriya novel**
 
-[1860] footer page number:185
+[1845] footer page number:190
 
-[1862] ##### **1.6 Colonialism and After**
+[1847] ### **3  Novels in the Colonial World**
 
-[1866] footer page number:186
+[1849] #### **3.1 Uses of the Novel**
 
-[1868] ### **2  The Novel Comes to India**
+[1859] ###### **The message of reform**
 
-[1878] ##### **2.1 The Novel in South India**
+[1862] footer page number:191
 
-[1882] footer page number:187
+[1868] #### **3.2 The Problem of Being Modern**
 
-[1887] ##### **2.2 The Novel in Hindi**
+[1872] footer page number:192
 
-[1892] footer page number:188
+[1876] #### **3.3 Pleasures of Reading**
 
-[1898] ##### **2.3 Novels in Bengal**
+[1882] footer page number:193
 
-[1908] ###### **The novel in Assam**
+[1884] ### **4  Women and the Novel**
 
-[1911] footer page number:189
+[1898] footer page number:194
 
-[1920] ###### **The Oriya novel**
+[1902] ###### **Women with books**
 
-[1926] footer page number:190
+[1905] #### **4.1 Caste Practices, ‘Lower-Castes’ and Minorities**
 
-[1928] ### **3  Novels in the Colonial World**
+[1923] footer page number:196
 
-[1930] ##### **3.1 Uses of the Novel**
+[1925] ### **5  The Nation and its History**
 
-[1941] ###### **The message of reform**
+[1930] #### **5.1 The Novel and Nation Making**
 
-[1944] footer page number:191
 
-[1949] ##### **3.2 The Problem of Being Modern**
+[1950] footer page number:198
 
-[1953] footer page number:192
+[1952] #### **Conclusion**
 
-[1957] ##### **3.3 Pleasures of Reading**
 
-[1964] footer page number:193
-
-[1966] ### **4  Women and the Novel**
-
-[1977] ###### **Why women should not read novels** From a Tamil essay published in 1927:
-
-[1981] footer page number:194
-
-[1984] ###### **Women with books**
-
-[1987] ##### **4.1 Caste Practices, ‘Lower-Castes’ and Minorities**
-
-[2005] footer page number:196
-
-[2007] ### **5  The Nation and its History**
-
-[2012] ##### **5.1 The Novel and Nation Making**
-
-
-[2030] footer page number:198
-
-[2032] ##### **Conclusion**
-
-
-[2060] footer page number:200
+[1982] footer page number:200

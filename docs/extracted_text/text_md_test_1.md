@@ -1,219 +1,1017 @@
-# **The Rise of Nationalism in Europe**
-## **<u>Contents</u>** 
-Foreword Introduction 
-#### **Section I: Events and Processes** 
-I. The Rise of Nationalism in Europe II. The Nationalist Movement in Indo-China III. Nationalism in India 
-iii ix 3 25 49 
-#### **Section II: Livelihoods, Economies and Societies** 
-IV. The Making of a Global World 77 V. The Age of Industrialisation 97 VI. Work, Life and Leisure 117 
-#### **Section III: Everyday Life, Culture and Politics** 
-VII. Print Culture and the Modern World VIII. Novels, Society and History 
-141 159 
-xi 
-<!-- Start of picture text -->
-The Rise of Nationalism in Europe<br>Fig. 1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by<br>Frédéric Sorrieu, 1848.<br>In 1848, Frédéric Sorrieu, a French artist, prepared a series of four<br>New words<br>prints visualising his dream of a world made up of ‘democratic<br>and social Republics’, as he called them. The first print (Fig. 1) of the Absolutist – Literally, a government or<br>series, shows the peoples of Europe and America – men and women system of rule that has no restraints on<br>of all ages and social classes – marching in a long train, and offering the power exercised. In history, the term<br>homage to the statue of Liberty as they pass by it. As you would refers to a form of monarchical<br>recall, artists of the time of the French Revolution personified Liberty government that was centralised,<br>as a female figure – here you can recognise the torch of Enlightenment militarised and repressive<br>she bears in one hand and the Charter of the Rights of Man in the Utopian – A vision of a society that is so<br>other. On the earth in the foreground of the image lie the shattered ideal that it is unlikely to actually exist<br>remains of the symbols of  absolutist  institutions. In Sorrieu’s<br>utopian  vision, the peoples of the world are grouped as distinct Activity<br>nations, identified through their flags and national costume. Leading<br>In what way do you think this print (Fig. 1)<br>the procession, way past the statue of Liberty, are the United States<br>depicts a utopian vision?<br>and Switzerland, which by this time were already nation-states. France,<br><!-- End of picture text -->
-identifiable by the revolutionary tricolour, has just reached the statue. She is followed by the peoples of Germany, bearing the black, red and gold flag. Interestingly, at the time when Sorrieu created this image, the German peoples did not yet exist as a united nation – the flag they carry is an expression of liberal hopes in 1848 to unify the numerous German-speaking principalities into a nation-state under a democratic constitution. Following the German peoples are the peoples of Austria, the Kingdom of the Two Sicilies, Lombardy, Poland, England, Ireland, Hungary and Russia. From the heavens above, Christ, saints and angels gaze upon the scene. They have been used by the artist to symbolise fraternity among the nations of the world. 
-This chapter will deal with many of the issues visualised by Sorrieu in Fig. 1. During the nineteenth century, nationalism emerged as a force which brought about sweeping changes in the political and mental world of Europe. The end result of these changes was the emergence of the _nation-state_ in place of the multi-national dynastic empires of Europe. The concept and practices of a _modern_ state, in which a centralised power exercised sovereign control over a clearly defined territory, had been developing over a long period of time in Europe. But a _nation-state_ was one in which the majority of its citizens, and not only its rulers, came to develop a sense of common identity and shared history or descent. This commonness did not exist from time immemorial; it was forged through struggles, through the actions of leaders and the common people. This chapter will look at the diverse processes through which nation-states and nationalism came into being in nineteenth-century Europe. 
-###### **_Source A_** 
-###### **Ernst Renan, ‘What is a Nation?’** 
-In a lecture delivered at the University of Sorbonne in 1882, the French philosopher Ernst Renan (1823-92) outlined his understanding of what makes a nation. The lecture  was subsequently published as a famous essay entitled ‘Qu’est-ce qu’une nation?’ (‘What is a Nation?’). In this essay Renan criticises the notion suggested by others that a nation is formed by a common language, race, religion, or territory: 
-‘A nation is the culmination of a long past of endeavours, sacrifice and devotion. A heroic past, great men, glory, that is the social capital upon which one bases a national idea. To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of being a people. A nation is therefore a large-scale solidarity … Its existence is a daily **plebiscite** … A province is its inhabitants; if anyone has the right to be consulted, it is the inhabitant. A nation never has any real interest in annexing or holding on to a country against its will. The existence of nations is a good thing, a necessity even. Their existence is a guarantee of liberty, which would be lost if the world had only one law and only one master.’ 
-### **_Source_** 
-##### **New words** 
-Plebiscite – A direct vote by which all the people of a region are asked to accept or reject a proposal 
-### **<mark>Discuss</mark>** 
-Summarise the attributes of a nation, as Renan understands them. Why, in his view, are nations important? 
+--- CHUNK 0 ---
+Metadata: {'subheading1': '<u>Contents</u>'}
+Content:
+## <u>Contents</u>
+Foreword iii Introduction ix **Section I: Events and Processes** I. The Rise of Nationalism in Europe 3 II. The Nationalist Movement in Indo-China 25 III. Nationalism in India 49
+**Section II: Livelihoods, Economies and Societies** IV. The Making of a Global World 77 V. The Age of Industrialisation 97 VI. Work, Life and Leisure 117
+**Section III: Everyday Life, Culture and Politics** VII. Print Culture and the Modern World 141 VIII. Novels, Society and History 159
+xi
+====================================================================================================
+
+--- CHUNK 1 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe'}
+Content:
+# The Rise of Nationalism in Europe
+**_Fig. 1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by Frédéric Sorrieu, 1848._**
+====================================================================================================
+
+--- CHUNK 2 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe'}
+Content:
+In 1848, Frédéric Sorrieu, a French artist, prepared a series of four prints visualising his dream of a world made up of ‘democratic and social Republics’, as he called them. The first print (Fig. 1) of the series, shows the peoples of Europe and America – men and women of all ages and social classes – marching in a long train, and offering homage to the statue of Liberty as they pass by it. As you would recall, artists of the time of the French Revolution personified Liberty as a female figure – here you can recognise the torch of Enlightenment she bears in one hand and the Charter of the
+====================================================================================================
+
+--- CHUNK 3 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe'}
+Content:
+Enlightenment she bears in one hand and the Charter of the Rights of Man in the other. On the earth in the foreground of the image lie the shattered remains of the symbols of **absolutist** institutions. In Sorrieu’s **utopian** vision, the peoples of the world are grouped as distinct nations, identified through their flags and national costume. Leading the procession, way past the statue of Liberty, are the United States and Switzerland, which by this time were already nation-states. France,
+====================================================================================================
+
+--- CHUNK 4 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words'}
+Content:
+## New words
+Absolutist – Literally, a government or system of rule that has no restraints on the power exercised. In history, the term refers to a form of monarchical government that was centralised, militarised and repressive Utopian – A vision of a society that is so ideal that it is unlikely to actually exist
+====================================================================================================
+
+--- CHUNK 5 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+In what way do you think this print (Fig. 1) depicts a utopian vision?
+====================================================================================================
+
+--- CHUNK 6 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+identifiable by the revolutionary tricolour, has just reached the statue. She is followed by the peoples of Germany, bearing the black, red and gold flag. Interestingly, at the time when Sorrieu created this image, the German peoples did not yet exist as a united nation – the flag they carry is an expression of liberal hopes in 1848 to unify the numerous German-speaking principalities into a nation-state under a democratic constitution. Following the German peoples are the peoples of Austria, the Kingdom of the Two Sicilies, Lombardy, Poland, England, Ireland, Hungary and Russia. From the
+====================================================================================================
+
+--- CHUNK 7 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Poland, England, Ireland, Hungary and Russia. From the heavens above, Christ, saints and angels gaze upon the scene. They have been used by the artist to symbolise fraternity among the nations of the world.
+====================================================================================================
+
+--- CHUNK 8 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+This chapter will deal with many of the issues visualised by Sorrieu in Fig. 1. During the nineteenth century, nationalism emerged as a force which brought about sweeping changes in the political and mental world of Europe. The end result of these changes was the emergence of the _nation-state_ in place of the multi-national dynastic empires of Europe. The concept and practices of a _modern_ state, in which a centralised power exercised sovereign control over a clearly defined territory, had been developing over a long period of time in Europe. But a _nation-state_ was one in which the
+====================================================================================================
+
+--- CHUNK 9 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+time in Europe. But a _nation-state_ was one in which the majority of its citizens, and not only its rulers, came to develop a sense of common identity and shared history or descent. This commonness did not exist from time immemorial; it was forged through struggles, through the actions of leaders and the common people. This chapter will look at the diverse processes through which nation-states and nationalism came into being in nineteenth-century Europe.
+====================================================================================================
+
+--- CHUNK 10 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Source A', 'subheading4': 'Ernst Renan, ‘What is a Nation?’'}
+Content:
+#### Source A  
+##### Ernst Renan, ‘What is a Nation?’
+In a lecture delivered at the University of Sorbonne in 1882, the French philosopher Ernst Renan (1823-92) outlined his understanding of what makes a nation. The lecture was subsequently published as a famous essay entitled ‘Qu’est-ce qu’une nation?’ (‘What is a Nation?’). In this essay Renan criticises the notion suggested by others that a nation is formed by a common language, race, religion, or territory:
+====================================================================================================
+
+--- CHUNK 11 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Source A', 'subheading4': 'Ernst Renan, ‘What is a Nation?’'}
+Content:
+‘A nation is the culmination of a long past of endeavours, sacrifice and devotion. A heroic past, great men, glory, that is the social capital upon which one bases a national idea. To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of being a people. A nation is therefore a large-scale solidarity … Its existence is a daily **plebiscite** … A province is its inhabitants; if anyone has the right to be consulted, it is the inhabitant. A nation never has any real
+====================================================================================================
+
+--- CHUNK 12 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Source A', 'subheading4': 'Ernst Renan, ‘What is a Nation?’'}
+Content:
+it is the inhabitant. A nation never has any real interest in annexing or holding on to a country against its will. The existence of nations is a good thing, a necessity even. Their existence is a guarantee of liberty, which would be lost if the world had only one law and only one master.’
+====================================================================================================
+
+--- CHUNK 13 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Source', 'subheading3': 'New words'}
+Content:
+### Source  
+#### New words
+Plebiscite – A direct vote by which all the people of a region are asked to accept or reject a proposal
+====================================================================================================
+
+--- CHUNK 14 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Summarise the attributes of a nation, as Renan understands them. Why, in his view, are nations important?
 footer page number:4
-### `1  The French Revolution and the Idea of the Nation` 
-The first clear expression of nationalism came with the French Revolution in 1789. France, as you would remember, was a full-fledged territorial state in 1789 under the rule of an absolute monarch. The political and constitutional changes that came in the wake of the French Revolution led to the transfer of sovereignty from the monarchy to a body of French citizens. The revolution proclaimed that it was the people who would henceforth constitute the nation and shape its destiny. 
-From the very beginning, the French revolutionaries introduced various measures and practices that could create a sense of collective identity amongst the French people. The ideas of _la patrie_ (the fatherland) and _le citoyen_ (the citizen) emphasised the notion of a united community enjoying equal rights under a constitution. A new French flag, the tricolour,   was chosen to replace the former royal standard. The Estates General  was elected by the body of active citizens and renamed the National Assembly. New hymns were composed, oaths taken and martyrs commemorated, all in the name of the nation. A centralised administrative system was put in place and it formulated uniform laws for all citizens within its territory. Internal customs duties and dues were abolished and a uniform system of weights and measures was adopted. Regional dialects were discouraged and French, as it was spoken and written in Paris, became the common language of the nation. 
-###### **_Fig. 2 — The cover of a German almanac designed by the journalist Andreas Rebmann in 1798._** 
-_The image of the French Bastille being stormed by the revolutionary crowd has been placed next to a similar fortress meant to represent the bastion of despotic rule in the German province of Kassel. Accompanying the illustration is the slogan: ‘The people must seize their own freedom!’ Rebmann lived in the  city of Mainz and was  a member of a German Jacobin group._ 
-The revolutionaries further declared that it was the mission and the destiny of the French nation to liberate the peoples of Europe from despotism, in other words to help other peoples of Europe to become nations. 
-When the news of the events in France reached the different cities of Europe, students and other members of educated middle classes began setting up Jacobin clubs. Their activities and campaigns prepared the way for the French armies which moved into Holland, Belgium, Switzerland and much of Italy in the 1790s. With the outbreak of the revolutionary wars, the French armies began to carry the idea of nationalism abroad. 
+====================================================================================================
+
+--- CHUNK 15 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+footer page number:4
+The first clear expression of nationalism came with the French Revolution in 1789. France, as you would remember, was a full-fledged territorial state in 1789 under the rule of an absolute monarch. The political and constitutional changes that came in the wake of the French Revolution led to the transfer of sovereignty from the monarchy to a body of French citizens. The revolution proclaimed that it was the people who would henceforth constitute the nation and shape its destiny.
+====================================================================================================
+
+--- CHUNK 16 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+From the very beginning, the French revolutionaries introduced various measures and practices that could create a sense of collective identity amongst the French people. The ideas of _la patrie_ (the fatherland) and _le citoyen_ (the citizen) emphasised
+**_Fig. 2 — The cover of a German almanac designed by the journalist Andreas Rebmann in 1798._**
+====================================================================================================
+
+--- CHUNK 17 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+the notion of a united community enjoying equal rights under a constitution. A new French flag, the tricolour, was chosen to replace the former royal standard. The Estates General was elected by the body of active citizens and renamed the National Assembly. New hymns were composed, oaths taken and martyrs commemorated, all in the name of the nation. A centralised administrative system was put in place and it formulated uniform laws for all citizens within its territory. Internal customs duties and dues were abolished and a uniform system of weights and measures was adopted. Regional dialects
+====================================================================================================
+
+--- CHUNK 18 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+of weights and measures was adopted. Regional dialects were discouraged and French, as it was spoken and written in Paris, became the common language of the nation.
+====================================================================================================
+
+--- CHUNK 19 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+_The image of the French Bastille being stormed by the revolutionary crowd has been placed next to a similar fortress meant to represent the bastion of despotic rule in the German province of Kassel. Accompanying the illustration is the slogan: ‘The people must seize their own freedom!’ Rebmann lived in the city of Mainz and was a member of a German Jacobin group._
+The revolutionaries further declared that it was the mission and the destiny of the French nation to liberate the peoples of Europe from despotism, in other words to help other peoples of Europe to become nations.
+====================================================================================================
+
+--- CHUNK 20 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+When the news of the events in France reached the different cities of Europe, students and other members of educated middle classes began setting up Jacobin clubs. Their activities and campaigns prepared the way for the French armies which moved into Holland, Belgium, Switzerland and much of Italy in the 1790s. With the outbreak of the revolutionary wars, the French armies began to carry the idea of nationalism abroad.
 footer page number:5
-<!-- Start of picture text -->
-ICELAND<br>(DENMARK)<br>ATLANTIC  SEA<br>NORWAY<br>(SWEDEN)<br>SWEDEN<br>SCOTLAND<br>IRELAND BRITA NGREAT DENMARK RUSSIAN EMPIRE<br>WALES HABOVER<br>ENGLAND (G.B.) PRUSSIA<br>NETHERLANDS POLAND<br>GALICIA<br>BAVARIA<br>AUSTRIAN EMPIRE<br>FRANCE<br>SWITZERLAND AUSTRIA<br>HUNGARY<br>SMALL ROMANIA<br>STATES SERBIA GEORGIA<br>SPA N CORSICA BULGARIA<br>ARMENIA<br>KINGDOM OTTOMAN EMPIRE<br>SARDINIA OF  THE<br>TWO<br>SIC L ES<br>GREECE MESOPOTAMIA<br>TUNIS<br>ALGERIA CRETE SYRIA<br>MOROCCO CYPRUS<br>MEDITERRANEAN SEA<br>PALEST NE<br>EGYPT<br>PORTUGAL<br>PERSIA<br><!-- End of picture text -->
-**_Fig. 3 — Europe after the Congress of Vienna, 1815._** 
-Within the wide swathe of territory that came under his control, Napoleon set about introducing many of the reforms that he had already introduced in France. Through a return to monarchy Napoleon had, no doubt, destroyed democracy in France, but in the administrative field he had incorporated revolutionary principles in order to make the whole system more rational and efficient. The Civil Code of 1804 – usually known as the Napoleonic Code – did away with all privileges based on birth, established  equality before the law and secured  the right to property. This Code was exported to the regions under French control. In the Dutch Republic, in Switzerland, in Italy and Germany, Napoleon simplified administrative divisions, abolished the feudal system and freed peasants from serfdom and manorial dues. In the towns too, guild restrictions were removed. Transport and communication systems were improved. Peasants, artisans, workers and new businessmen 
+====================================================================================================
+
+--- CHUNK 21 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+footer page number:5  
+ICELAND<br>(DENMARK)<br>ATLANTIC SEA<br>NORWAY<br>(SWEDEN)<br>SWEDEN<br>SCOTLAND<br>IRELAND BRITA NGREAT DENMARK RUSSIAN EMPIRE<br>WALES HABOVER<br>ENGLAND (G.B.) PRUSSIA<br>NETHERLANDS POLAND<br>GALICIA<br>BAVARIA<br>AUSTRIAN EMPIRE<br>FRANCE<br>SWITZERLAND AUSTRIA<br>HUNGARY<br>SMALL ROMANIA<br>STATES SERBIA GEORGIA<br>SPA N CORSICA BULGARIA<br>ARMENIA<br>KINGDOM OTTOMAN EMPIRE<br>SARDINIA OF THE<br>TWO<br>SIC L ES<br>GREECE MESOPOTAMIA<br>TUNIS<br>ALGERIA CRETE SYRIA<br>MOROCCO CYPRUS<br>MEDITERRANEAN SEA<br>PALEST NE<br>EGYPT<br>PORTUGAL<br>PERSIA<br>
+====================================================================================================
+
+--- CHUNK 22 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+**_Fig. 3 — Europe after the Congress of Vienna, 1815._**
+====================================================================================================
+
+--- CHUNK 23 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+Within the wide swathe of territory that came under his control, Napoleon set about introducing many of the reforms that he had already introduced in France. Through a return to monarchy Napoleon had, no doubt, destroyed democracy in France, but in the administrative field he had incorporated revolutionary principles in order to make the whole system more rational and efficient. The Civil Code of 1804 – usually known as the Napoleonic Code – did away with all privileges based on birth, established equality before the law and secured the right to property. This Code was exported to the regions
+====================================================================================================
+
+--- CHUNK 24 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+right to property. This Code was exported to the regions under French control. In the Dutch Republic, in Switzerland, in Italy and Germany, Napoleon simplified administrative divisions, abolished the feudal system and freed peasants from serfdom and manorial dues. In the towns too, guild restrictions were removed. Transport and communication systems were improved. Peasants, artisans, workers and new businessmen
+====================================================================================================
+
+--- CHUNK 25 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
 footer page number:6
-**_Fig. 4 — The Planting of Tree of Liberty in Zweibrücken, Germany._** 
-_The subject of this colour print by the German painter Karl Kaspar Fritz is the occupation of the town of Zweibrücken by the French armies. French soldiers, recognisable by their blue, white and red uniforms, have been portrayed as oppressors as they seize a peasant’s cart (left), harass some young women (centre foreground) and force a peasant down to his knees. The plaque being affixed to the Tree of Liberty carries a German inscription which in translation reads: ‘Take freedom and equality from us, the model of humanity.’ This is a sarcastic reference to the claim of the French as being liberators who opposed monarchy in the territories they entered._ 
-enjoyed a new-found freedom. Businessmen and small-scale producers of goods, in particular, began to realise that uniform laws, standardised weights and measures, and a common national currency would facilitate the movement and exchange of goods and capital from one region to another. 
-However, in the areas conquered, the reactions of the local populations to French rule were mixed. Initially, in many places such as Holland and Switzerland, as well as in certain cities like Brussels, Mainz, Milan and Warsaw, the French armies were welcomed as harbingers of liberty. But the initial enthusiasm soon turned to hostility, as it became clear that the new administrative arrangements did not go hand in hand with political freedom. Increased taxation, censorship, forced conscription into the French armies required to conquer the rest of Europe, all seemed to outweigh the advantages of the administrative changes. 
-**_Fig. 5 — The courier of Rhineland loses all that he has on his way home from Leipzig._** _Napoleon here is represented as a postman on his way back to France after he lost the battle of Leipzig in 1813. Each letter dropping out of his bag bears the names of the territories he lost._ 
+====================================================================================================
+
+--- CHUNK 26 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+**_Fig. 4 — The Planting of Tree of Liberty in Zweibrücken, Germany._** _The subject of this colour print by the German painter Karl Kaspar Fritz is the occupation of the town of Zweibrücken by the French armies. French soldiers, recognisable by their blue, white and red uniforms, have been portrayed as oppressors as they seize a peasant’s cart (left), harass some young women (centre foreground) and force a peasant down to his knees. The plaque being affixed to the Tree of Liberty carries a German inscription which in translation reads: ‘Take freedom and equality from us, the model of
+====================================================================================================
+
+--- CHUNK 27 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+reads: ‘Take freedom and equality from us, the model of humanity.’ This is a sarcastic reference to the claim of the French as being liberators who opposed monarchy in the territories they entered._
+====================================================================================================
+
+--- CHUNK 28 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+enjoyed a new-found freedom. Businessmen and small-scale producers of goods, in particular, began to realise that uniform laws, standardised weights and measures, and a common national currency would facilitate the movement and exchange of goods and capital from one region to another.
+====================================================================================================
+
+--- CHUNK 29 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+However, in the areas conquered, the reactions of the local populations to French rule were mixed. Initially, in many places such as Holland and Switzerland, as well as in certain cities like Brussels, Mainz, Milan and Warsaw, the French armies were welcomed as harbingers of liberty. But the initial enthusiasm soon turned to hostility, as it became clear that the new administrative arrangements did not go hand in hand with political freedom. Increased taxation, censorship, forced conscription into the French armies required to conquer the rest of Europe, all seemed to outweigh the advantages
+====================================================================================================
+
+--- CHUNK 30 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+the rest of Europe, all seemed to outweigh the advantages of the administrative changes.
+====================================================================================================
+
+--- CHUNK 31 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+**_Fig. 5 — The courier of Rhineland loses all that he has on his way home from Leipzig._** _Napoleon here is represented as a postman on his way back to France after he lost the battle of Leipzig in 1813. Each letter dropping out of his bag bears the names of the territories he lost._
 footer page number:7
-### `2  The Making of Nationalism in Europe` 
-If you look at the map of mid-eighteenth-century Europe you will find that there were no ‘nation-states’ as we know them today. 
-What we know today as Germany, Italy and Switzerland were divided into kingdoms, duchies and cantons whose rulers had their autonomous territories. Eastern and Central Europe were under autocratic monarchies within the territories of which lived diverse peoples. They did not see themselves as sharing a collective identity or a common culture. Often, they even spoke different languages and belonged to different ethnic groups. The Habsburg Empire that ruled over Austria-Hungary, for example, was a patchwork of many different regions and peoples. It included the Alpine regions – the Tyrol, Austria and the Sudetenland – as well as Bohemia, where the aristocracy was predominantly German-speaking. It also included the Italian-speaking provinces of Lombardy and Venetia. In Hungary, half of the population spoke Magyar while the other half spoke a variety of dialects. In Galicia, the aristocracy spoke Polish. Besides these three dominant groups, there also lived within the boundaries of the empire, a mass of subject peasant peoples – Bohemians and Slovaks to the north, Slovenes in Carniola, Croats to the south, and Roumans to the east in Transylvania. Such differences did not easily promote a sense of political unity. The only tie binding these diverse groups together was a common allegiance to the emperor. 
-**Some important dates** 
-footer page number:1797
-Napoleon invades Italy; Napoleonic wars begin. 
-1814-1815 
-Fall of Napoleon; the Vienna Peace Settlement. 
-footer page number:1821
-Greek struggle for independence begins. 
-footer page number:1848
-Revolutions in Europe; artisans, industrial workers and peasants revolt against economic hardships; middle classes demand constitutions and representative governments; Italians, Germans, Magyars, Poles, Czechs, etc. demand nation-states. 
-1859-1870 Unification of Italy. 
-1866-1871 Unification of Germany. 
-footer page number:1905
-Slav nationalism gathers force in the Habsburg and Ottoman Empires. 
-How did nationalism and the idea of the nation-state emerge? 
-##### `2.1 The Aristocracy and the New Middle Class` 
-Socially and politically, a landed aristocracy was the dominant class on the continent. The members of this class were united by a common way of life that cut across regional divisions. They owned estates in the countryside and also town-houses. They spoke French for purposes of diplomacy and in high society. Their families were often connected by ties of marriage. This powerful aristocracy was, however, numerically a small group. The majority of the population was made up of the peasantry. To the west, the bulk of the land was farmed by tenants and small owners, while in Eastern and Central Europe the pattern of landholding was characterised by vast estates which were cultivated by serfs. 
+====================================================================================================
+
+--- CHUNK 32 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe'}
+Content:
+### 2 The Making of Nationalism in Europe
+If you look at the map of mid-eighteenth-century Europe you will find that there were no ‘nation-states’ as we know them today.
+====================================================================================================
+
+--- CHUNK 33 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe'}
+Content:
+What we know today as Germany, Italy and Switzerland were divided into kingdoms, duchies and cantons whose rulers had their autonomous territories. Eastern and Central Europe were under autocratic monarchies within the territories of which lived diverse peoples. They did not see themselves as sharing a collective identity or a common culture. Often, they even spoke different languages and belonged to different ethnic groups. The Habsburg Empire that ruled over Austria-Hungary, for example, was a patchwork of many different regions and peoples. It included the Alpine regions – the Tyrol,
+====================================================================================================
+
+--- CHUNK 34 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe'}
+Content:
+and peoples. It included the Alpine regions – the Tyrol, Austria and the Sudetenland – as well as Bohemia, where the aristocracy was predominantly German-speaking. It also included the Italian-speaking provinces of Lombardy and Venetia. In Hungary, half of the population spoke Magyar while the other half spoke a variety of dialects. In Galicia, the aristocracy spoke Polish. Besides these three dominant groups, there also lived within the boundaries of the empire, a mass of subject peasant peoples – Bohemians and Slovaks to the north, Slovenes in Carniola, Croats to the south, and Roumans to
+====================================================================================================
+
+--- CHUNK 35 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe'}
+Content:
+Slovenes in Carniola, Croats to the south, and Roumans to the east in Transylvania. Such differences did not easily promote a sense of political unity. The only tie binding these diverse groups together was a common allegiance to the emperor.
+====================================================================================================
+
+--- CHUNK 36 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe'}
+Content:
+**Some important dates** <u>1797</u> Napoleon invades Italy; Napoleonic wars begin.
+<u>1814-1815</u> Fall of Napoleon; the Vienna Peace Settlement.
+====================================================================================================
+
+--- CHUNK 37 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '<u>1821</u>'}
+Content:
+#### <u>1821</u>
+Greek struggle for independence begins.
+====================================================================================================
+
+--- CHUNK 38 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '<u>1821</u>', 'subheading4': '<u>1848</u>'}
+Content:
+##### <u>1848</u>
+Revolutions in Europe; artisans, industrial workers and peasants revolt against economic hardships; middle classes demand constitutions and representative governments; Italians, Germans, Magyars, Poles, Czechs, etc. demand nation-states.
+<u>1859-1870</u> Unification of Italy.
+<u>1866-1871</u> Unification of Germany.
+====================================================================================================
+
+--- CHUNK 39 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '<u>1821</u>', 'subheading4': '<u>1848</u>', 'subheading5': '<u>1905</u>'}
+Content:
+###### <u>1905</u>
+Slav nationalism gathers force in the Habsburg and Ottoman Empires.
+How did nationalism and the idea of the nation-state emerge?
+====================================================================================================
+
+--- CHUNK 40 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
+#### 2.1 The Aristocracy and the New Middle Class
+====================================================================================================
+
+--- CHUNK 41 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
+Socially and politically, a landed aristocracy was the dominant class on the continent. The members of this class were united by a common way of life that cut across regional divisions. They owned estates in the countryside and also town-houses. They spoke French for purposes of diplomacy and in high society. Their families were often connected by ties of marriage. This powerful aristocracy was, however, numerically a small group. The majority of the population was made up of the peasantry. To the west, the bulk of the land was farmed by tenants and small owners, while in Eastern and Central
+====================================================================================================
+
+--- CHUNK 42 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
+by tenants and small owners, while in Eastern and Central Europe the pattern of landholding was characterised by vast estates which were cultivated by serfs.
+====================================================================================================
+
+--- CHUNK 43 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
 footer page number:8
-In Western and parts of Central Europe the growth of industrial production and trade meant the growth of towns and the emergence of commercial classes whose existence was based on production for the market. Industrialisation began in England in the second half of the eighteenth century, but in France and parts of the German states it occurred only during the nineteenth century. In its wake, new social groups came into being: a working-class population, and middle classes made up of industrialists, businessmen, professionals. In Central and Eastern Europe these groups were smaller in number till late nineteenth century. It was among the educated, liberal middle classes that ideas of national unity following the abolition of aristocratic privileges gained popularity. 
-##### `2.2 What did Liberal Nationalism Stand for?` 
-Ideas of national unity in early-nineteenth-century Europe were closely allied to the ideology of liberalism. The term ‘liberalism’ derives from the Latin root _liber_ , meaning free. For the new middle classes liberalism stood for freedom for the individual and equality of all before the law. Politically, it emphasised the concept of government by consent. Since the French Revolution, liberalism had stood for the end of autocracy and clerical privileges, a constitution and representative government through parliament. Nineteenth-century liberals also stressed the inviolability of private property. 
-Yet, equality before the law did not necessarily stand for universal **suffrage** . You will recall that in revolutionary France, which marked the first political experiment in liberal democracy, the right to vote and to get elected was granted exclusively to property-owning men. Men without property and all women were excluded from political rights. Only for a brief period under the Jacobins did all adult males enjoy suffrage. However, the Napoleonic Code went back to limited suffrage and reduced women to the status of a minor, subject to the authority of fathers and husbands. Throughout the nineteenth and early twentieth centuries women and non-propertied men organised opposition movements demanding equal political rights. 
-##### **New words** 
-Suffrage – The right to vote 
-In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital. During the nineteenth century this was a strong demand of the emerging middle classes. Let us take the example of the German-speaking regions in the first half of the nineteenth century. Napoleon’s administrative measures had created out of 
+====================================================================================================
+
+--- CHUNK 44 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
+In Western and parts of Central Europe the growth of industrial production and trade meant the growth of towns and the emergence of commercial classes whose existence was based on production for the market. Industrialisation began in England in the second half of the eighteenth century, but in France and parts of the German states it occurred only during the nineteenth century. In its wake, new social groups came into being: a working-class population, and middle classes made up of industrialists, businessmen, professionals. In Central and Eastern Europe these groups were smaller in number
+====================================================================================================
+
+--- CHUNK 45 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.1 The Aristocracy and the New Middle Class'}
+Content:
+and Eastern Europe these groups were smaller in number till late nineteenth century. It was among the educated, liberal middle classes that ideas of national unity following the abolition of aristocratic privileges gained popularity.
+====================================================================================================
+
+--- CHUNK 46 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+#### 2.2 What did Liberal Nationalism Stand for?
+====================================================================================================
+
+--- CHUNK 47 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+Ideas of national unity in early-nineteenth-century Europe were closely allied to the ideology of liberalism. The term ‘liberalism’ derives from the Latin root _liber_ , meaning free. For the new middle classes liberalism stood for freedom for the individual and equality of all before the law. Politically, it emphasised the concept of government by consent. Since the French Revolution, liberalism had stood for the end of autocracy and clerical privileges, a constitution and representative government through parliament. Nineteenth-century liberals also stressed the inviolability of private
+====================================================================================================
+
+--- CHUNK 48 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+liberals also stressed the inviolability of private property.
+====================================================================================================
+
+--- CHUNK 49 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+Yet, equality before the law did not necessarily stand for universal **suffrage** . You will recall that in revolutionary France, which marked the first political experiment in liberal democracy, the right to vote and to get elected was granted exclusively to property-owning men. Men without property and all women were excluded from political rights. Only for a brief period under the Jacobins did all adult males enjoy suffrage. However, the Napoleonic Code went back to limited suffrage and reduced women to the status of a minor, subject to the authority of fathers and husbands. Throughout the
+====================================================================================================
+
+--- CHUNK 50 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+to the authority of fathers and husbands. Throughout the nineteenth and early twentieth centuries women and non-propertied men organised opposition movements demanding equal political rights.
+====================================================================================================
+
+--- CHUNK 51 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+**New words**
+Suffrage – The right to vote
+In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital. During the nineteenth century this was a strong demand of the emerging middle classes. Let us take the example of the German-speaking regions in the first half of the nineteenth century. Napoleon’s administrative measures had created out of
 footer page number:9
-countless small principalities a confederation of 39 states. Each of these possessed its own currency, and weights and measures. A merchant travelling in 1833 from Hamburg to Nuremberg to sell his goods would have had to pass through 11 customs barriers and pay a customs duty of about 5 per cent at each one of them. Duties were often levied according to the weight or measurement of the goods. As each region had its own system of weights and measures, this involved time-consuming calculation. The measure of cloth, for example, was the _elle_ which in each region stood for a different length. An _elle_ of textile material bought in Frankfurt would get you 54.7 cm of cloth, in Mainz 55.1 cm, in Nuremberg 65.6 cm, in Freiburg 53.5 cm. 
-Such conditions were viewed as obstacles to economic exchange and growth by the new commercial classes, who argued for the creation of a unified economic territory allowing the unhindered movement of goods, people and capital.  In 1834, a customs union or _zollverein_ was formed at the initiative of Prussia and joined by most of the German states. The union abolished tariff barriers and reduced the number of currencies from over thirty to two. The creation of a network of railways further stimulated mobility, harnessing economic interests to national unification. A wave of economic nationalism strengthened the wider nationalist sentiments growing at the time. 
-##### `2.3 A New Conservatism after 1815` 
-Following the defeat of Napoleon in 1815, European governments were driven by a spirit of **conservatism** . Conservatives believed that established, traditional institutions of state and society –  like the monarchy, the Church, social hierarchies, property and the family – should be preserved. Most conservatives, however, did not propose a return to the society of pre-revolutionary days. Rather, they realised, from the changes initiated by Napoleon, that modernisation could in fact strengthen traditional institutions like the monarchy. It could make  state  power more effective and strong. A modern army, an efficient bureaucracy, a dynamic economy, the abolition of feudalism and serfdom could strengthen the autocratic monarchies of Europe. 
-###### **_Source B_** 
-Economists began to think in terms of the national economy. They talked of how the nation could develop and what economic measures could help forge this nation together. 
-Friedrich List, Professor of Economics at the University of Tübingen in Germany, wrote in 1834: 
-‘The aim of the zollverein is to bind the Germans economically into a nation. It will strengthen the nation materially as much by protecting its interests externally as by stimulating its internal productivity. It ought to awaken and raise national sentiment through a fusion of individual and provincial interests. The German people have realised that a free economic system is the only means to engender national feeling.’ 
-**_Source_** 
-### **<mark>Discuss</mark>** 
-Describe the political ends that List hopes to achieve through economic measures. 
-##### **New words** 
-Conservatism – A political philosophy that stressed the importance of tradition, established institutions and customs, and preferred gradual development to quick change 
-In 1815, representatives of the European powers – Britain, Russia, Prussia and Austria – who had collectively defeated Napoleon, met at Vienna to draw up a settlement for Europe. The Congress was hosted by the Austrian Chancellor Duke Metternich. The delegates 
+====================================================================================================
+
+--- CHUNK 52 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+countless small principalities a confederation of 39 states. Each of these possessed its own currency, and weights and measures. A merchant travelling in 1833 from Hamburg to Nuremberg to sell his goods would have had to pass through 11 customs barriers and pay a customs duty of about 5 per cent at each one of them. Duties were often levied according to the weight or measurement of the goods. As each region had its own system of weights and measures, this involved time-consuming calculation. The measure of cloth, for example, was the _elle_ which in each region stood for a different length.
+====================================================================================================
+
+--- CHUNK 53 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+_elle_ which in each region stood for a different length. An _elle_ of textile material bought in Frankfurt would get you 54.7 cm of cloth, in Mainz 55.1 cm, in Nuremberg 65.6 cm, in Freiburg 53.5 cm.
+====================================================================================================
+
+--- CHUNK 54 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+Such conditions were viewed as obstacles to economic exchange and growth by the new commercial classes, who argued for the creation of a unified economic territory allowing the unhindered movement of goods, people and capital. In 1834, a customs union or _zollverein_ was formed at the initiative of Prussia and joined by most of the German states. The union abolished tariff barriers and reduced the number of currencies from over thirty to two. The creation of a network of railways further stimulated mobility, harnessing economic interests to national unification. A wave of economic nationalism
+====================================================================================================
+
+--- CHUNK 55 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.2 What did Liberal Nationalism Stand for?'}
+Content:
+to national unification. A wave of economic nationalism strengthened the wider nationalist sentiments growing at the time.
+====================================================================================================
+
+--- CHUNK 56 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.3 A New Conservatism after 1815'}
+Content:
+#### 2.3 A New Conservatism after 1815
+====================================================================================================
+
+--- CHUNK 57 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.3 A New Conservatism after 1815'}
+Content:
+Following the defeat of Napoleon in 1815, European governments were driven by a spirit of **conservatism** . Conservatives believed that established, traditional institutions of state and society – like the monarchy, the Church, social hierarchies, property and the family – should be preserved. Most conservatives, however, did not propose a return to the society of pre-revolutionary days. Rather, they realised, from the changes initiated by Napoleon, that modernisation could in fact strengthen traditional institutions like the monarchy. It could make state power more effective and strong. A
+====================================================================================================
+
+--- CHUNK 58 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.3 A New Conservatism after 1815'}
+Content:
+It could make state power more effective and strong. A modern army, an efficient bureaucracy, a dynamic economy, the abolition of feudalism and serfdom could strengthen the autocratic monarchies of Europe.
+====================================================================================================
+
+--- CHUNK 59 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.3 A New Conservatism after 1815', 'subheading4': 'Source B'}
+Content:
+##### Source B
+Economists began to think in terms of the national economy. They talked of how the nation could develop and what economic measures could help forge this nation together.
+Friedrich List, Professor of Economics at the University of Tübingen in Germany, wrote in 1834:
+====================================================================================================
+
+--- CHUNK 60 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '2 The Making of Nationalism in Europe', 'subheading3': '2.3 A New Conservatism after 1815', 'subheading4': 'Source B'}
+Content:
+‘The aim of the zollverein is to bind the Germans economically into a nation. It will strengthen the nation materially as much by protecting its interests externally as by stimulating its internal productivity. It ought to awaken and raise national sentiment through a fusion of individual and provincial interests. The German people have realised that a free economic system is the only means to engender national feeling.’
+====================================================================================================
+
+--- CHUNK 61 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Source'}
+Content:
+### Source
+====================================================================================================
+
+--- CHUNK 62 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Describe the political ends that List hopes to achieve through economic measures.
+====================================================================================================
+
+--- CHUNK 63 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Conservatism – A political philosophy that stressed the importance of tradition, established institutions and customs, and preferred gradual development to quick change
+In 1815, representatives of the European powers – Britain, Russia, Prussia and Austria – who had collectively defeated Napoleon, met at Vienna to draw up a settlement for Europe. The Congress was hosted by the Austrian Chancellor Duke Metternich. The delegates
 footer page number:10
-drew up the Treaty of Vienna of 1815 with the object of undoing most of the changes that had come about in Europe during the Napoleonic wars. The Bourbon dynasty, which had been deposed during the French Revolution, was restored to power, and France lost the territories it had annexed under Napoleon. A series of states were set up on the boundaries of France to prevent French expansion in future. Thus the kingdom of the Netherlands, which included Belgium, was set up in the north and Genoa was added to Piedmont in the south. Prussia was given important new territories on its western frontiers, while Austria was given control of northern Italy. But the German confederation of 39 states that had been set up by Napoleon was left untouched. In the east, Russia was given part of Poland while Prussia was given a portion of Saxony. The main intention was to restore the monarchies that had been overthrown by Napoleon, and create a new conservative order in Europe. 
-Conservative regimes set up in 1815 were autocratic. They did not tolerate criticism and dissent, and sought to curb activities that questioned the legitimacy of autocratic governments.  Most of them imposed censorship laws to control what was said in newspapers, books, plays and songs and reflected the ideas of liberty and freedom 
-### **<mark>Activity</mark>** 
-Plot on a map of Europe the changes drawn up by the Vienna Congress. 
-### **<mark>Discuss</mark>** 
-What is the caricaturist trying to depict? 
-**_Fig. 6 — The Club of Thinkers, anonymous caricature dating to_ c.** **_1820._** 
-_The plaque on the left bears the inscription: ‘The most important question of today’s meeting: How long will thinking be allowed to us?’_ 
-_The board on the right lists the rules of the Club which include the following:_ 
-- _‘1. Silence is the first commandment of this learned society._ 
-_2. To avoid the eventuality whereby a member of this club may succumb to the temptation of speech, muzzles will be distributed to members upon entering.’_ 
+====================================================================================================
+
+--- CHUNK 64 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+drew up the Treaty of Vienna of 1815 with the object of undoing most of the changes that had come about in Europe during the Napoleonic wars. The Bourbon dynasty, which had been deposed during the French Revolution, was restored to power, and France lost the territories it had annexed under Napoleon. A series of states were set up on the boundaries of France to prevent French expansion in future. Thus the kingdom of the Netherlands, which included Belgium, was set up in the north and Genoa was added to Piedmont in the south. Prussia was given important new territories on its western
+====================================================================================================
+
+--- CHUNK 65 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+Prussia was given important new territories on its western frontiers, while Austria was given control of northern Italy. But the German confederation of 39 states that had been set up by Napoleon was left untouched. In the east, Russia was given part of Poland while Prussia was given a portion of Saxony. The main intention was to restore the monarchies that had been overthrown by Napoleon, and create a new conservative order in Europe.
+====================================================================================================
+
+--- CHUNK 66 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+Conservative regimes set up in 1815 were autocratic. They did not tolerate criticism and dissent, and sought to curb activities that questioned the legitimacy of autocratic governments. Most of them imposed censorship laws to control what was said in newspapers, books, plays and songs and reflected the ideas of liberty and freedom
+====================================================================================================
+
+--- CHUNK 67 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Plot on a map of Europe the changes drawn up by the Vienna Congress.
+====================================================================================================
+
+--- CHUNK 68 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+What is the caricaturist trying to depict?
+**_Fig. 6 — The Club of Thinkers, anonymous caricature dating to_ c.** **_1820._** _The plaque on the left bears the inscription: ‘The most important question of today’s meeting: How long will thinking be allowed to us?’_
+_The board on the right lists the rules of the Club which include the following: ‘1. Silence is the first commandment of this learned society._
+_2. To avoid the eventuality whereby a member of this club may succumb to the temptation of speech, muzzles will be distributed to members upon entering.’_
 footer page number:11
-associated with the French Revolution. The memory of the French Revolution nonetheless continued to inspire liberals. One of the major issues taken up by the liberal-nationalists, who criticised the new conservative order, was freedom of the press. 
-##### `2.4 The Revolutionaries` 
-During the years following 1815, the fear of repression drove many liberal-nationalists underground. Secret societies sprang up in many European states to train revolutionaries and spread their ideas. To be revolutionary at this time meant a commitment to oppose monarchical forms that had been established after the Vienna Congress, and to fight for liberty and freedom. Most of these revolutionaries also saw the creation of nation-states as a necessary part of this struggle for freedom. 
-One such individual was the Italian revolutionary Giuseppe Mazzini. Born in Genoa in 1807, he became a member of the secret society of the Carbonari. As a young man of 24, he was sent into exile in 1831 for attempting a revolution in Liguria. He subsequently founded two more underground societies, first, Young Italy in Marseilles, and then, Young Europe in Berne, whose members were like-minded young men from Poland, France, Italy and the German states. Mazzini believed that God had intended nations to be the natural units of mankind. So Italy could not continue to be a patchwork of small states and kingdoms. It had to be forged into a single unified republic within a wider alliance of nations. This unification alone could be the basis of Italian liberty. Following his model, secret societies were set up in Germany, France, Switzerland and Poland. Mazzini’s relentless opposition to monarchy and his vision of democratic republics frightened the conservatives.  Metternich described him as ‘the most dangerous enemy of our social order’. 
-**_Fig. 7 — Giuseppe Mazzini and the founding of Young Europe in Berne 1833._** _Print by Giacomo Mantegazza._ 
+====================================================================================================
+
+--- CHUNK 69 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+footer page number:11
+associated with the French Revolution. The memory of the French Revolution nonetheless continued to inspire liberals. One of the major issues taken up by the liberal-nationalists, who criticised the new conservative order, was freedom of the press.
+====================================================================================================
+
+--- CHUNK 70 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': '2.4 The Revolutionaries'}
+Content:
+#### 2.4 The Revolutionaries
+During the years following 1815, the fear of repression drove many liberal-nationalists underground. Secret societies sprang up in many European states to train revolutionaries and spread their ideas. To be revolutionary at this time meant a commitment to oppose monarchical forms that had been established after the Vienna Congress, and to fight for liberty and freedom. Most of these revolutionaries also saw the creation of nation-states as a necessary part of this struggle for freedom.
+====================================================================================================
+
+--- CHUNK 71 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': '2.4 The Revolutionaries'}
+Content:
+One such individual was the Italian revolutionary Giuseppe Mazzini. Born in Genoa in 1807, he became a member of the secret society of the Carbonari. As a young man of 24, he was sent into exile in 1831 for attempting a revolution in Liguria. He subsequently founded two more underground societies, first, Young Italy in Marseilles, and then, Young Europe in Berne, whose members were like-minded young men from Poland, France, Italy and the German states. Mazzini believed that God had intended nations to be the natural units of mankind. So Italy could not continue to be a patchwork of small
+====================================================================================================
+
+--- CHUNK 72 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': '2.4 The Revolutionaries'}
+Content:
+So Italy could not continue to be a patchwork of small states and kingdoms. It had to be forged into a single unified republic within a wider alliance of nations. This unification alone could be the basis of Italian liberty. Following his model, secret societies were set up in Germany, France, Switzerland and Poland. Mazzini’s relentless opposition to monarchy and his vision of democratic republics frightened the conservatives. Metternich described him as ‘the most dangerous enemy of our social order’.
+====================================================================================================
+
+--- CHUNK 73 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': '2.4 The Revolutionaries'}
+Content:
+**_Fig. 7 — Giuseppe Mazzini and the founding of Young Europe in Berne 1833._** _Print by Giacomo Mantegazza._
 footer page number:12
-### `3  The Age of Revolutions: 1830-1848` 
-As conservative regimes tried to consolidate their power, liberalism and nationalism came to be increasingly associated with revolution in many regions of Europe such as the Italian and German states, the provinces of the Ottoman Empire, Ireland and Poland. These revolutions were led by the liberal-nationalists belonging to the educated middle-class elite, among whom were professors, schoolteachers, clerks and members of the commercial middle classes. 
-The first upheaval took place in France in July 1830.  The Bourbon kings who had been restored to power during the conservative reaction after 1815, were now overthrown by liberal revolutionaries who installed a constitutional monarchy with Louis Philippe at its head. ‘When France sneezes,’ Metternich once remarked, ‘the rest of Europe catches cold.’  The July Revolution sparked an uprising in Brussels which led to Belgium breaking away from the United Kingdom of the Netherlands. 
-An event that mobilised nationalist feelings among the educated elite across Europe was the Greek war of independence. Greece had been part of the Ottoman Empire since the fifteenth century. The growth of revolutionary nationalism in Europe sparked off a struggle for independence amongst the Greeks which began in 1821. Nationalists in Greece got support from other Greeks living in exile and also from many West Europeans who had sympathies for ancient Greek culture. Poets and artists lauded Greece as the cradle of European civilisation and mobilised public opinion to support its struggle against a Muslim empire. The English poet Lord Byron organised funds and later went to fight in the war, where he died of fever in 1824. Finally, the Treaty of Constantinople of 1832 recognised Greece as an independent nation. 
-##### `3.1 The Romantic Imagination and National Feeling` 
-The development of nationalism did not come about only through wars and territorial expansion. Culture played an important role in creating the idea of the nation: art and poetry, stories and music helped express and shape nationalist feelings. 
-Let us look at Romanticism, a cultural movement which sought to develop a particular form of nationalist sentiment. Romantic artists and poets generally criticised the glorification of reason and science 
+====================================================================================================
+
+--- CHUNK 74 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848'}
+Content:
+### 3 The Age of Revolutions: 1830-1848
+As conservative regimes tried to consolidate their power, liberalism and nationalism came to be increasingly associated with revolution in many regions of Europe such as the Italian and German states, the provinces of the Ottoman Empire, Ireland and Poland. These revolutions were led by the liberal-nationalists belonging to the educated middle-class elite, among whom were professors, schoolteachers, clerks and members of the commercial middle classes.
+====================================================================================================
+
+--- CHUNK 75 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848'}
+Content:
+The first upheaval took place in France in July 1830. The Bourbon kings who had been restored to power during the conservative reaction after 1815, were now overthrown by liberal revolutionaries who installed a constitutional monarchy with Louis Philippe at its head. ‘When France sneezes,’ Metternich once remarked, ‘the rest of Europe catches cold.’ The July Revolution sparked an uprising in Brussels which led to Belgium breaking away from the United Kingdom of the Netherlands.
+====================================================================================================
+
+--- CHUNK 76 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848'}
+Content:
+An event that mobilised nationalist feelings among the educated elite across Europe was the Greek war of independence. Greece had been part of the Ottoman Empire since the fifteenth century. The growth of revolutionary nationalism in Europe sparked off a struggle for independence amongst the Greeks which began in 1821. Nationalists in Greece got support from other Greeks living in exile and also from many West Europeans who had sympathies for ancient Greek culture. Poets and artists lauded Greece as the cradle of European civilisation and mobilised public opinion to support its struggle
+====================================================================================================
+
+--- CHUNK 77 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848'}
+Content:
+and mobilised public opinion to support its struggle against a Muslim empire. The English poet Lord Byron organised funds and later went to fight in the war, where he died of fever in 1824. Finally, the Treaty of Constantinople of 1832 recognised Greece as an independent nation.
+====================================================================================================
+
+--- CHUNK 78 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+#### 3.1 The Romantic Imagination and National Feeling
+The development of nationalism did not come about only through wars and territorial expansion. Culture played an important role in creating the idea of the nation: art and poetry, stories and music helped express and shape nationalist feelings.
+Let us look at Romanticism, a cultural movement which sought to develop a particular form of nationalist sentiment. Romantic artists and poets generally criticised the glorification of reason and science
 footer page number:13
-**_Fig. 8 — The Massacre at Chios, Eugene Delacroix, 1824._** _The French painter Delacroix was one of the most important French Romantic painters. This huge painting (4.19m x 3.54m) depicts an incident in which 20,000 Greeks were said to have been killed by Turks on the island of Chios. By dramatising the incident, focusing on the suffering of women and children, and using vivid colours, Delacroix sought to appeal to the emotions of the spectators, and create sympathy for the Greeks._ 
-and focused instead on emotions, intuition and mystical feelings. Their effort was to create a sense of a shared collective heritage, a common cultural past, as the basis of a nation. 
-Other Romantics such as the German philosopher Johann Gottfried Herder (1744-1803) claimed that true German culture was to be discovered among the common people – _das volk_ . It was through folk songs, folk poetry and folk dances that the true spirit of the nation ( _volksgeist_ ) was popularised. So collecting and recording these forms of folk culture was essential to the project of nation-building. 
+====================================================================================================
+
+--- CHUNK 79 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+footer page number:13
+**_Fig. 8 — The Massacre at Chios, Eugene Delacroix, 1824._** _The French painter Delacroix was one of the most important French Romantic painters. This huge painting (4.19m x 3.54m) depicts an incident in which 20,000 Greeks were said to have been killed by Turks on the island of Chios. By dramatising the incident, focusing on the suffering of women and children, and using vivid colours, Delacroix sought to appeal to the emotions of the spectators, and create sympathy for the Greeks._
+====================================================================================================
+
+--- CHUNK 80 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+and focused instead on emotions, intuition and mystical feelings. Their effort was to create a sense of a shared collective heritage, a common cultural past, as the basis of a nation.
+Other Romantics such as the German philosopher Johann Gottfried Herder (1744-1803) claimed that true German culture was to be discovered among the common people – _das volk_ . It was through folk songs, folk poetry and folk dances that the true spirit of the nation ( _volksgeist_ ) was popularised. So collecting and recording these forms of folk culture was essential to the project of nation-building.
+====================================================================================================
+
+--- CHUNK 81 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
 footer page number:14
-The emphasis on vernacular language and the collection of local folklore was not just to recover an ancient national spirit, but also to carry the modern nationalist message to large audiences who were mostly illiterate. This was especially so in the case of Poland, which had been partitioned at the end of the eighteenth century by the Great Powers – Russia, Prussia and Austria. Even though Poland no longer existed as an independent territory, national feelings were kept alive through music and language. Karol Kurpinski, for example, celebrated the national struggle through his operas and music, turning folk dances like the polonaise and mazurka into nationalist symbols. 
-Language too played an important role in developing nationalist sentiments. After Russian occupation, the Polish language was forced out of schools and the Russian language was imposed everywhere. In 1831, an armed rebellion against Russian rule took place which was ultimately crushed. Following this, many members of the clergy in Poland began to use language as a weapon of national resistance. Polish was used for Church gatherings and all religious instruction. As a result, a large number of priests and bishops were put in jail or sent to Siberia by the Russian authorities as punishment for their refusal to preach in Russian. The use of Polish came to be seen as a symbol of the struggle against Russian dominance. 
-###### **_Box 1_** 
-###### **The Grimm Brothers: Folktales and Nation-building** 
-Grimms’ Fairy Tales is a familiar name. The brothers Jacob and Wilhelm Grimm were born in the German city of Hanau in 1785 and 1786 respectively. While both of them studied law, they soon developed an interest in collecting old folktales. They spent six years travelling from village to village, talking to people and writing down fairy tales, which were handed down through the generations. These were popular both among children and adults. In 1812, they published their first collection of tales. Subsequently, both the brothers became active in liberal politics, especially the movement for freedom of the press. In the meantime they also published a 33-volume dictionary of the German language. 
-The Grimm brothers also saw French domination as a threat to German culture, and believed that the folktales they had collected were expressions of a pure and authentic German spirit. They considered their projects of collecting folktales and developing the German language as part of the wider effort to oppose French domination and create a German national identity. 
-##### `3.2 Hunger, Hardship and Popular Revolt` 
-The 1830s were years of great economic hardship in Europe. The first half of the nineteenth century saw an enormous increase in population all over Europe. In most countries there were more seekers of jobs than employment. Population from rural areas migrated to the cities to live in overcrowded slums. Small producers in towns were often faced with stiff competition from imports of cheap machine-made goods from England, where industrialisation was more advanced than on the continent. This was especially so in textile production, which was carried out mainly in homes or small workshops and was only partly mechanised. In those regions of Europe where the aristocracy still enjoyed power, peasants struggled under the burden of feudal dues and obligations. The rise of food prices or a year of bad harvest led to widespread pauperism in town and country. 
-### **<mark>Discuss</mark>** 
-Discuss the importance of language and popular traditions in the creation of national identity. 
-The year 1848 was one such year. Food shortages and widespread unemployment brought the population of Paris out on the roads. Barricades were erected and Louis Philippe was forced to flee. A 
+====================================================================================================
+
+--- CHUNK 82 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+The emphasis on vernacular language and the collection of local folklore was not just to recover an ancient national spirit, but also to carry the modern nationalist message to large audiences who were mostly illiterate. This was especially so in the case of Poland, which had been partitioned at the end of the eighteenth century by the Great Powers – Russia, Prussia and Austria. Even though Poland no longer existed as an independent territory, national feelings were kept alive through music and language. Karol Kurpinski, for example, celebrated the national struggle through his operas and
+====================================================================================================
+
+--- CHUNK 83 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+celebrated the national struggle through his operas and music, turning folk dances like the polonaise and mazurka into nationalist symbols.
+====================================================================================================
+
+--- CHUNK 84 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+Language too played an important role in developing nationalist sentiments. After Russian occupation, the Polish language was forced out of schools and the Russian language was imposed everywhere. In 1831, an armed rebellion against Russian rule took place which was ultimately crushed. Following this, many members of the clergy in Poland began to use language as a weapon of national resistance. Polish was used for Church gatherings and all religious instruction. As a result, a large number of priests and bishops were put in jail or sent to Siberia by the Russian authorities as punishment for
+====================================================================================================
+
+--- CHUNK 85 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling'}
+Content:
+to Siberia by the Russian authorities as punishment for their refusal to preach in Russian. The use of Polish came to be seen as a symbol of the struggle against Russian dominance.
+====================================================================================================
+
+--- CHUNK 86 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling', 'subheading4': 'Box 1', 'subheading5': 'The Grimm Brothers: Folktales and Nation-building'}
+Content:
+##### Box 1  
+###### The Grimm Brothers: Folktales and Nation-building
+====================================================================================================
+
+--- CHUNK 87 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling', 'subheading4': 'Box 1', 'subheading5': 'The Grimm Brothers: Folktales and Nation-building'}
+Content:
+Grimms’ Fairy Tales is a familiar name. The brothers Jacob and Wilhelm Grimm were born in the German city of Hanau in 1785 and 1786 respectively. While both of them studied law, they soon developed an interest in collecting old folktales. They spent six years travelling from village to village, talking to people and writing down fairy tales, which were handed down through the generations. These were popular both among children and adults. In 1812, they published their first collection of tales. Subsequently, both the brothers became active in liberal politics, especially the movement for
+====================================================================================================
+
+--- CHUNK 88 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling', 'subheading4': 'Box 1', 'subheading5': 'The Grimm Brothers: Folktales and Nation-building'}
+Content:
+active in liberal politics, especially the movement for freedom of the press. In the meantime they also published a 33-volume dictionary of the German language.
+====================================================================================================
+
+--- CHUNK 89 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.1 The Romantic Imagination and National Feeling', 'subheading4': 'Box 1', 'subheading5': 'The Grimm Brothers: Folktales and Nation-building'}
+Content:
+The Grimm brothers also saw French domination as a threat to German culture, and believed that the folktales they had collected were expressions of a pure and authentic German spirit. They considered their projects of collecting folktales and developing the German language as part of the wider effort to oppose French domination and create a German national identity.
+====================================================================================================
+
+--- CHUNK 90 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.2 Hunger, Hardship and Popular Revolt'}
+Content:
+#### 3.2 Hunger, Hardship and Popular Revolt
+====================================================================================================
+
+--- CHUNK 91 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.2 Hunger, Hardship and Popular Revolt'}
+Content:
+The 1830s were years of great economic hardship in Europe. The first half of the nineteenth century saw an enormous increase in population all over Europe. In most countries there were more seekers of jobs than employment. Population from rural areas migrated to the cities to live in overcrowded slums. Small producers in towns were often faced with stiff competition from imports of cheap machine-made goods from England, where industrialisation was more advanced than on the continent. This was especially so in textile production, which was carried out mainly in homes or small workshops and was
+====================================================================================================
+
+--- CHUNK 92 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '3 The Age of Revolutions: 1830-1848', 'subheading3': '3.2 Hunger, Hardship and Popular Revolt'}
+Content:
+was carried out mainly in homes or small workshops and was only partly mechanised. In those regions of Europe where the aristocracy still enjoyed power, peasants struggled under the burden of feudal dues and obligations. The rise of food prices or a year of bad harvest led to widespread pauperism in town and country.
+====================================================================================================
+
+--- CHUNK 93 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Discuss the importance of language and popular traditions in the creation of national identity.
+The year 1848 was one such year. Food shortages and widespread unemployment brought the population of Paris out on the roads. Barricades were erected and Louis Philippe was forced to flee. A
 footer page number:15
-**_<mark>Fig. 9 — Peasants’ uprising, 1848.</mark>_** 
-National Assembly proclaimed a Republic, granted suffrage to all adult males above 21, and guaranteed the right to work. National workshops to provide employment were set up. 
-Earlier, in 1845, weavers in Silesia had led a revolt against contractors who supplied them raw material and gave them orders for finished textiles but drastically reduced their payments. The journalist Wilhelm Wolff described the events in a Silesian village as follows: 
-In these villages (with 18,000 inhabitants) cotton weaving is the most widespread occupation … The misery of the workers is extreme. The desperate need for jobs has been taken advantage of by the contractors to reduce the prices of the goods they order … 
-On 4 June at 2 p.m. a large crowd of weavers emerged from their homes and marched in pairs up to the mansion of their contractor demanding higher wages. They were treated with scorn and threats alternately. Following this, a group of them forced their way into the house, smashed its elegant windowpanes, furniture, porcelain … another group broke into the storehouse and plundered it of supplies of cloth which they tore to shreds … The contractor fled with his family to a neighbouring village which, however, refused to shelter such a person. He returned 24 hours later having requisitioned the army. In the exchange that followed, eleven weavers were shot. 
-### **<mark>Discuss</mark>** 
-Describe the cause of the Silesian weavers’ uprising. Comment on the viewpoint of the journalist. 
-### **<mark>Activity</mark>** 
-Imagine you are a weaver who saw the events as they unfolded. Write a report on what you saw. 
+**_Fig. 9 — Peasants’ uprising, 1848._**
+National Assembly proclaimed a Republic, granted suffrage to all adult males above 21, and guaranteed the right to work. National workshops to provide employment were set up.
+====================================================================================================
+
+--- CHUNK 94 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+Earlier, in 1845, weavers in Silesia had led a revolt against contractors who supplied them raw material and gave them orders for finished textiles but drastically reduced their payments. The journalist Wilhelm Wolff described the events in a Silesian village as follows:
+In these villages (with 18,000 inhabitants) cotton weaving is the most widespread occupation … The misery of the workers is extreme. The desperate need for jobs has been taken advantage of by the contractors to reduce the prices of the goods they order …
+====================================================================================================
+
+--- CHUNK 95 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+On 4 June at 2 p.m. a large crowd of weavers emerged from their homes and marched in pairs up to the mansion of their contractor demanding higher wages. They were treated with scorn and threats alternately. Following this, a group of them forced their way into the house, smashed its elegant windowpanes, furniture, porcelain … another group broke into the storehouse and plundered it of supplies of cloth which they tore to shreds … The contractor fled with his family to a neighbouring village which, however, refused to shelter such a person. He returned 24 hours later having requisitioned the
+====================================================================================================
+
+--- CHUNK 96 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+person. He returned 24 hours later having requisitioned the army. In the exchange that followed, eleven weavers were shot.
+====================================================================================================
+
+--- CHUNK 97 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Describe the cause of the Silesian weavers’ uprising. Comment on the viewpoint of the journalist.
+====================================================================================================
+
+--- CHUNK 98 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine you are a weaver who saw the events as they unfolded. Write a report on what you saw.
 footer page number:16
-##### `3.3 1848: The Revolution of the Liberals` 
-Parallel to the revolts of the poor, unemployed and starving peasants and workers in many European countries in the year 1848, a revolution led by the educated middle classes was under way. Events of February 1848 in France had brought about the abdication of the monarch and a republic based on universal male suffrage had been proclaimed. In other parts of Europe where independent nation-states did not yet exist – such as Germany, Italy, Poland, the Austro-Hungarian Empire – men and women of the liberal middle classes combined their demands for constitutionalism with national unification. They took advantage of the growing popular unrest to push their demands for the creation of a nation-state on parliamentary principles – a constitution, freedom of the press and freedom of association. 
-In the German regions a large number of political associations whose members were middle-class professionals, businessmen and prosperous artisans came together in the city of Frankfurt and decided to vote for an all-German National Assembly. On 18May 1848, 831 elected representatives marched in a festive procession to take their places in the Frankfurt parliament convened in the Church of St Paul. They drafted a constitution for a German nation to be headed by a monarchy subject to a parliament. When the deputies offered the crown on these terms to Friedrich Wilhelm IV, King of Prussia, he rejected it and joined other monarchs to oppose the elected assembly. While the opposition of the aristocracy and military became stronger, the social basis of parliament eroded. The parliament was dominated by the middle classes who resisted the demands of workers and artisans and consequently lost their support. In the end troops were called in and the assembly was forced to disband. 
-The issue of extending political rights to women was a controversial one within the liberal movement, in which large numbers of women had participated actively over the years. Women had formed their own political associations, founded newspapers and taken part in political meetings and demonstrations. Despite this they were denied 
-##### **New words** 
-Feminist – Awareness of women’s rights and interests based on the belief of the social, economic and political equality of the genders 
-###### **_Source C_** 
-###### **How were liberty and equality for women to be defined?** 
-The liberal politician Carl Welcker, an elected member of the Frankfurt Parliament, expressed the following views: 
-‘Nature has created men and women to carry out different functions … Man, the stronger, the bolder and freer of the two, has been designated as protector of the family, its provider, meant for public tasks in the domain of law, production, defence. Woman, the weaker, dependent and timid, requires the protection of man. Her sphere is the home, the care of the children, the nurturing of the family … Do we require any further proof that given such differences, equality between the sexes would only endanger harmony and destroy the dignity of the family?’ 
-Louise Otto-Peters (1819-95) was a political activist who founded a women’s journal and subsequently a **feminist** political association. The first issue of her newspaper (21 April 1849) carried the following editorial: 
-‘Let us ask how many men, possessed by thoughts of living and dying for the sake of Liberty, would be prepared to fight for the freedom of the entire people, of all human beings? When asked this question, they would all too easily respond with a “Yes!”, though their untiring efforts are intended for the benefit of only one half of humanity – men. But Liberty is indivisible! Free men therefore must not tolerate to be surrounded by the unfree …’ 
-An anonymous reader of the same newspaper sent the following letter to the editor on 25 June 1850: 
-‘It is indeed ridiculous and unreasonable to deny women political rights even though they enjoy the right to property which they make use of. They perform functions and assume responsibilities without however getting the benefits that accrue to men for the same … Why this injustice? Is it not a disgrace that even the stupidest cattle-herder possesses the right to vote, simply because he is a man, whereas highly talented women owning considerable property are excluded from this right, even though they contribute so much to the maintenance of the state?’ **_Source_** 
+====================================================================================================
+
+--- CHUNK 99 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+#### 3.3 1848: The Revolution of the Liberals
+====================================================================================================
+
+--- CHUNK 100 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+Parallel to the revolts of the poor, unemployed and starving peasants and workers in many European countries in the year 1848, a revolution led by the educated middle classes was under way. Events of February 1848 in France had brought about the abdication of the monarch and a republic based on universal male suffrage had been proclaimed. In other parts of Europe where independent nation-states did not yet exist – such as Germany, Italy, Poland, the Austro-Hungarian Empire – men and women of the liberal middle classes combined their demands for constitutionalism with national unification.
+====================================================================================================
+
+--- CHUNK 101 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+demands for constitutionalism with national unification. They took advantage of the growing popular unrest to push their demands for the creation of a nation-state on parliamentary principles – a constitution, freedom of the press and freedom of association.
+====================================================================================================
+
+--- CHUNK 102 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+In the German regions a large number of political associations whose members were middle-class professionals, businessmen and prosperous artisans came together in the city of Frankfurt and decided to vote for an all-German National Assembly. On 18May 1848, 831 elected representatives marched in a festive procession to take their places in the Frankfurt parliament convened in the Church of St Paul. They drafted a constitution for a German nation to be headed by a monarchy subject to a parliament. When the deputies offered the crown on these terms to Friedrich Wilhelm IV, King of Prussia, he
+====================================================================================================
+
+--- CHUNK 103 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+on these terms to Friedrich Wilhelm IV, King of Prussia, he rejected it and joined other monarchs to oppose the elected assembly. While the opposition of the aristocracy and military became stronger, the social basis of parliament eroded. The parliament was dominated by the middle classes who resisted the demands of workers and artisans and consequently lost their support. In the end troops were called in and the assembly was forced to disband.
+====================================================================================================
+
+--- CHUNK 104 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 1848: The Revolution of the Liberals'}
+Content:
+The issue of extending political rights to women was a controversial one within the liberal movement, in which large numbers of women had participated actively over the years. Women had formed their own political associations, founded newspapers and taken part in political meetings and demonstrations. Despite this they were denied
+====================================================================================================
+
+--- CHUNK 105 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Feminist – Awareness of women’s rights and interests based on the belief of the social, economic and political equality of the genders
+====================================================================================================
+
+--- CHUNK 106 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+##### Source C  
+###### How were liberty and equality for women to be defined?
+The liberal politician Carl Welcker, an elected member of the Frankfurt Parliament, expressed the following views:
+====================================================================================================
+
+--- CHUNK 107 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+‘Nature has created men and women to carry out different functions … Man, the stronger, the bolder and freer of the two, has been designated as protector of the family, its provider, meant for public tasks in the domain of law, production, defence. Woman, the weaker, dependent and timid, requires the protection of man. Her sphere is the home, the care of the children, the nurturing of the family … Do we require any further proof that given such differences, equality between the sexes would only endanger harmony and destroy the dignity of the family?’
+====================================================================================================
+
+--- CHUNK 108 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+Louise Otto-Peters (1819-95) was a political activist who founded a women’s journal and subsequently a **feminist** political association. The first issue of her newspaper (21 April 1849) carried the following editorial:
+====================================================================================================
+
+--- CHUNK 109 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+‘Let us ask how many men, possessed by thoughts of living and dying for the sake of Liberty, would be prepared to fight for the freedom of the entire people, of all human beings? When asked this question, they would all too easily respond with a “Yes!”, though their untiring efforts are intended for the benefit of only one half of humanity – men. But Liberty is indivisible! Free men therefore must not tolerate to be surrounded by the unfree …’
+An anonymous reader of the same newspaper sent the following letter to the editor on 25 June 1850:
+====================================================================================================
+
+--- CHUNK 110 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+‘It is indeed ridiculous and unreasonable to deny women political rights even though they enjoy the right to property which they make use of. They perform functions and assume responsibilities without however getting the benefits that accrue to men for the same … Why this injustice? Is it not a disgrace that even the stupidest cattle-herder possesses the right to vote, simply because he is a man, whereas highly talented women owning considerable property are excluded from this right, even though they contribute so much to the maintenance of the state?’ **_Source_**
 footer page number:17
-**_Fig. 10 — The Frankfurt parliament in the Church of St Paul._** _Contemporary colour print. Notice the women in the upper left gallery._ 
-suffrage rights during the election of the Assembly. When the Frankfurt parliament convened in the Church of St Paul, women were admitted only as observers to stand in the visitors’ gallery. 
-Though conservative forces were able to suppress liberal movements in 1848, they could not restore the old order. Monarchs were beginning to realise that the cycles of revolution and repression could only be ended by granting concessions to the liberal-nationalist revolutionaries. Hence, in the years after 1848, the autocratic monarchies of Central and Eastern Europe began to introduce the changes that had already taken place in Western Europe before 1815. Thus serfdom and bonded labour were abolished both in the Habsburg dominions and in Russia. The Habsburg rulers granted more autonomy to the Hungarians in 1867. 
-### **<mark>Discuss</mark>** 
-Compare the positions on the question of women’s rights voiced by the three writers cited above. What do they reveal about liberal **ideology** ? 
-##### **New words** 
-Ideology – System of ideas reflecting a particular social and political vision 
+====================================================================================================
+
+--- CHUNK 111 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+footer page number:17
+**_Fig. 10 — The Frankfurt parliament in the Church of St Paul._** _Contemporary colour print. Notice the women in the upper left gallery._
+suffrage rights during the election of the Assembly. When the Frankfurt parliament convened in the Church of St Paul, women were admitted only as observers to stand in the visitors’ gallery.
+====================================================================================================
+
+--- CHUNK 112 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+Though conservative forces were able to suppress liberal movements in 1848, they could not restore the old order. Monarchs were beginning to realise that the cycles of revolution and repression could only be ended by granting concessions to the liberal-nationalist revolutionaries. Hence, in the years after 1848, the autocratic monarchies of Central and Eastern Europe began to introduce the changes that had already taken place in Western Europe before 1815. Thus serfdom and bonded labour were abolished both in the Habsburg dominions and in Russia. The Habsburg rulers granted more autonomy to
+====================================================================================================
+
+--- CHUNK 113 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source C', 'subheading5': 'How were liberty and equality for women to be defined?'}
+Content:
+and in Russia. The Habsburg rulers granted more autonomy to the Hungarians in 1867.
+====================================================================================================
+
+--- CHUNK 114 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Compare the positions on the question of women’s rights voiced by the three writers cited above. What do they reveal about liberal **ideology** ?
+====================================================================================================
+
+--- CHUNK 115 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Ideology – System of ideas reflecting a particular social and political vision
 footer page number:18
-### `4  The Making of Germany and Italy` 
-##### `4.1 Germany – Can the Army be the Architect of a Nation?` 
-After 1848, nationalism in Europe moved away from its association with democracy and revolution. Nationalist sentiments were often mobilised by conservatives for promoting state power and achieving political domination over Europe. 
-This can be observed in the process by which Germany and Italy came to be unified as nation-states. As you have seen, nationalist feelings were widespread among middle-class Germans, who in 1848 tried to unite the different regions of the German confederation into a nation-state governed by an elected parliament. This liberal initiative to nation-building was, however, repressed by the combined forces of the monarchy and the military, supported by the large landowners (called Junkers) of Prussia. From then on, Prussia took on the leadership of the movement for national unification. Its chief minister, Otto von Bismarck, was the architect of this process carried out with the help of the Prussian army and bureaucracy. Three wars over seven years – with Austria, Denmark and France – ended in Prussian victory and completed the process of unification. In January 1871, the Prussian king, William I, was proclaimed German Emperor in a ceremony held at Versailles. 
-On the bitterly cold morning of 18 January 1871, an assembly comprising the princes of the German states, representatives of the army, important Prussian ministers including the chief minister Otto von Bismarck gathered in the unheated Hall of Mirrors in the Palace of Versailles to proclaim the new German Empire headed by Kaiser William I of Prussia. 
-The nation-building process in Germany had demonstrated the dominance of Prussian state power. The new state placed a strong emphasis on modernising the currency, banking, legal and judicial systems in Germany. Prussian measures and practices often became a model for the rest of Germany. 
-**_Fig. 11 — The proclamation of the German empire in the Hall of Mirrors at Versailles, Anton von Werner._** _At the centre stands the Kaiser and the chief commander of the Prussian army, General von Roon. Near them is Bismarck. This monumental work (2.7m x 2.7m) was completed and presented by the artist to Bismarck on the latter’s 70th birthday in 1885._ 
+====================================================================================================
+
+--- CHUNK 116 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+### 4 The Making of Germany and Italy
+```
+4.1 Germany – Can the Army be the Architect of a Nation?
+```
+After 1848, nationalism in Europe moved away from its association with democracy and revolution. Nationalist sentiments were often mobilised by conservatives for promoting state power and achieving political domination over Europe.
+====================================================================================================
+
+--- CHUNK 117 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+This can be observed in the process by which Germany and Italy came to be unified as nation-states. As you have seen, nationalist feelings were widespread among middle-class Germans, who in 1848 tried to unite the different regions of the German confederation into a nation-state governed by an elected parliament. This liberal initiative to nation-building was, however, repressed by the combined forces of the monarchy and the military, supported by the large landowners (called Junkers) of Prussia. From then on, Prussia took on the leadership of the movement for national unification. Its chief
+====================================================================================================
+
+--- CHUNK 118 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+of the movement for national unification. Its chief minister, Otto von Bismarck, was the architect of this process carried out with the help of the Prussian army and bureaucracy. Three wars over seven years – with Austria, Denmark and France – ended in Prussian victory and completed the process of unification. In January 1871, the Prussian king, William I, was proclaimed German Emperor in a ceremony held at Versailles.
+====================================================================================================
+
+--- CHUNK 119 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+On the bitterly cold morning of 18 January 1871, an assembly comprising the princes of the German states, representatives of the army, important Prussian ministers including the chief minister Otto von Bismarck gathered in the unheated Hall of Mirrors in the Palace of Versailles to proclaim the new German Empire headed by Kaiser William I of Prussia.
+====================================================================================================
+
+--- CHUNK 120 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+The nation-building process in Germany had demonstrated the dominance of Prussian state power. The new state placed a strong emphasis on modernising the currency, banking, legal and judicial systems in Germany. Prussian measures and practices often became a model for the rest of Germany.
+====================================================================================================
+
+--- CHUNK 121 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+**_Fig. 11 — The proclamation of the German empire in the Hall of Mirrors at Versailles, Anton von Werner._** _At the centre stands the Kaiser and the chief commander of the Prussian army, General von Roon. Near them is Bismarck. This monumental work (2.7m x 2.7m) was completed and presented by the artist to Bismarck on the latter’s 70th birthday in 1885._
 footer page number:19
-<!-- Start of picture text -->
-BALTIC SEA<br>NORTH SEA<br>SCHLESWIG-<br>HOLSTE N EAST PRUSSIA<br>MECKLENBURG- POMERANIA<br>SCHWER N WEST PRUSSIA<br>HANOVER<br>BRANDENBURG<br>BRUNSWICK<br>POSEN<br>WESTPHALIA<br>RUSSIAN<br>EMP RE<br>RHINELAND<br>THUR NGIAN S LESIA<br>STATES<br>Prussia before 1866<br>AUSTRIAN Conquered by Prussia in Austro-Prussia<br>EMPIRE War, 1866<br>Austrian territories excluded from German<br>Confederation 1867<br>Joined with Prussia to form German<br>BAVARIA Confederation, 1867<br>South German states joining with Prussia to<br>form German Empire, 1871<br>Won by Prussia in Franco-Prussia War, 1871<br>P R U S S I A<br>HESSEN  NASSA<br>WURTTEMBERG<br>BADEN<br><!-- End of picture text -->
-**_Fig. 12 — Unification of Germany (1866-71)._** 
-##### `4.2 Italy Unified` 
-Like Germany, Italy too had a long history of political fragmentation. Italians were scattered over several dynastic states as well as the multi-national Habsburg Empire. During the middle of the nineteenth century, Italy was divided into seven states, of which only one, Sardinia-Piedmont, was ruled by an Italian princely house. The north was under Austrian Habsburgs, the centre was ruled by the Pope and the southern regions were under the domination of the Bourbon kings of Spain. Even the Italian language had not acquired one common form and still had many regional and local variations. 
-**_Fig. 13 — Caricature of Otto von Bismarck in the German reichstag (parliament), from_ Figaro** **_, Vienna, 5 March 1870._** 
-During the 1830s, Giuseppe Mazzini had sought to put together a coherent programme for a unitary Italian Republic. He had also formed a secret society called Young Italy for the dissemination of his goals. The failure of revolutionary uprisings both in 1831 and 1848 meant that the mantle now fell on Sardinia-Piedmont under its ruler King Victor Emmanuel II to unify the Italian states through war. In the eyes of the ruling elites of this region, a unified Italy offered them the possibility of economic development and political dominance. 
-### **<mark>Activity</mark>** 
-Describe the caricature. How does it represent the relationship between Bismarck and the elected deputies of Parliament? What interpretation of democratic processes is the artist trying to convey? 
+====================================================================================================
+
+--- CHUNK 122 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+BALTIC SEA<br>NORTH SEA<br>SCHLESWIG-<br>HOLSTE N EAST PRUSSIA<br>MECKLENBURG- POMERANIA<br>SCHWER N WEST PRUSSIA<br>HANOVER<br>BRANDENBURG<br>BRUNSWICK<br>POSEN<br>WESTPHALIA<br>RUSSIAN<br>EMP RE<br>RHINELAND<br>THUR NGIAN S LESIA<br>STATES<br>Prussia before 1866<br>AUSTRIAN Conquered by Prussia in Austro-Prussia<br>EMPIRE War, 1866<br>Austrian territories excluded from German<br>Confederation 1867<br>Joined with Prussia to form German<br>BAVARIA Confederation, 1867<br>South German states joining with Prussia to<br>form German Empire, 1871<br>Won by Prussia in Franco-Prussia War, 1871<br>P R
+====================================================================================================
+
+--- CHUNK 123 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+1871<br>Won by Prussia in Franco-Prussia War, 1871<br>P R U S S I A<br>HESSEN NASSA<br>WURTTEMBERG<br>BADEN<br>
+====================================================================================================
+
+--- CHUNK 124 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy'}
+Content:
+**_Fig. 12 — Unification of Germany (1866-71)._**
+====================================================================================================
+
+--- CHUNK 125 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy', 'subheading3': '4.2 Italy Unified'}
+Content:
+#### 4.2 Italy Unified
+====================================================================================================
+
+--- CHUNK 126 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy', 'subheading3': '4.2 Italy Unified'}
+Content:
+Like Germany, Italy too had a long history of political fragmentation. Italians were scattered over several dynastic states as well as the multi-national Habsburg Empire. During the middle of the nineteenth century, Italy was divided into seven states, of which only one, Sardinia-Piedmont, was ruled by an Italian princely house. The north was under Austrian Habsburgs, the centre was ruled by the Pope and the southern regions were under the domination of the Bourbon kings of Spain. Even the Italian language had not acquired one common form and still had many regional and local variations.
+====================================================================================================
+
+--- CHUNK 127 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy', 'subheading3': '4.2 Italy Unified'}
+Content:
+**_Fig. 13 — Caricature of Otto von Bismarck in the German reichstag (parliament), from_ Figaro** **_, Vienna, 5 March 1870._**
+====================================================================================================
+
+--- CHUNK 128 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '4 The Making of Germany and Italy', 'subheading3': '4.2 Italy Unified'}
+Content:
+During the 1830s, Giuseppe Mazzini had sought to put together a coherent programme for a unitary Italian Republic. He had also formed a secret society called Young Italy for the dissemination of his goals. The failure of revolutionary uprisings both in 1831 and 1848 meant that the mantle now fell on Sardinia-Piedmont under its ruler King Victor Emmanuel II to unify the Italian states through war. In the eyes of the ruling elites of this region, a unified Italy offered them the possibility of economic development and political dominance.
+====================================================================================================
+
+--- CHUNK 129 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Describe the caricature. How does it represent the relationship between Bismarck and the elected deputies of Parliament? What interpretation of democratic processes is the artist trying to convey?
 footer page number:20
-Chief Minister Cavour who led the movement to unify the regions of Italy was neither a revolutionary nor a democrat. Like many other wealthy and educated members of the Italian elite, he spoke French much better than he did Italian. Through a tactful diplomatic alliance with France engineered by Cavour, Sardinia-Piedmont succeeded in defeating the Austrian forces in 1859. Apart from regular troops, a large number of armed volunteers under the leadership of Giuseppe Garibaldi joined the fray. In 1860, they marched into South Italy and the Kingdom of the Two Sicilies and succeeded in winning the support of the local peasants in order to drive out the Spanish rulers. In 1861 Victor Emmanuel II was proclaimed king of united Italy. However, much of the Italian population, among whom rates of illiteracy were very high, remained blissfully unaware of liberalnationalist ideology. The peasant masses who had supported Garibaldi in southern Italy had never heard of _Italia_ , and believed that _‘La  Talia’_ was Victor Emmanuel’s wife! 
-<!-- Start of picture text -->
-SWITZERLAND<br>LOMBARDY VENETIA<br>SAVOY<br>SARD NIA PARMA<br>MODENA<br>SAN MARINO<br>MONACO<br>TUSCANY<br>PAPAL<br>STATE<br>KINGDOM<br>OF BOTH<br>SICIL ES<br>TUNIS<br><!-- End of picture text -->
-**_Fig. 14(a) — Italian states before unification, 1858._** 
-### **<mark>Activity</mark>** 
-Look at Fig. 14(a). Do you think that the people living in any of these regions thought of themselves as Italians? 
-Examine Fig. 14(b). Which was the first region to become a part of unified Italy? Which was the last region to join? In which year did the largest number of states join? 
-<!-- Start of picture text -->
-SWITZERLAND<br>1866<br>AUSTRIA<br>1858<br>1858-60<br>1870<br>1860<br>1858<br>TUNIS<br><!-- End of picture text -->
-**_Fig. 14(b) — Italy after unification._** _The map shows the year in which different regions (seen in Fig 14(a) become part of a unified Italy._ 
-##### `4.3  The Strange Case of Britain` 
-The model of the nation or the nation-state, some scholars have argued, is Great Britain. In Britain the formation of the nation-state 
+====================================================================================================
+
+--- CHUNK 130 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Chief Minister Cavour who led the movement to unify the regions of Italy was neither a revolutionary nor a democrat. Like many other wealthy and educated members of the Italian elite, he spoke French much better than he did Italian. Through a tactful diplomatic alliance with France engineered by Cavour, Sardinia-Piedmont succeeded in defeating the Austrian forces in 1859. Apart from regular troops, a large number of armed volunteers under the leadership of Giuseppe Garibaldi joined the fray. In 1860, they marched into South Italy and the Kingdom of the Two Sicilies and succeeded in winning
+====================================================================================================
+
+--- CHUNK 131 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+the Kingdom of the Two Sicilies and succeeded in winning the support of the local peasants in order to drive out the Spanish rulers. In 1861 Victor Emmanuel II was proclaimed king of united Italy. However, much of the Italian population, among whom rates of illiteracy were very high, remained blissfully unaware of liberalnationalist ideology. The peasant masses who had supported Garibaldi in southern Italy had never heard of _Italia_ , and believed that _‘La Talia’_ was Victor Emmanuel’s wife!
+====================================================================================================
+
+--- CHUNK 132 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+SWITZERLAND<br>LOMBARDY VENETIA<br>SAVOY<br>SARD NIA PARMA<br>MODENA<br>SAN MARINO<br>MONACO<br>TUSCANY<br>PAPAL<br>STATE<br>KINGDOM<br>OF BOTH<br>SICIL ES<br>TUNIS<br>
+**_Fig. 14(a) — Italian states before unification, 1858._**  
+### Activity
+Look at Fig. 14(a). Do you think that the people living in any of these regions thought of themselves as Italians? Examine Fig. 14(b). Which was the first region to become a part of unified Italy? Which was the last region to join? In which year did the largest number of states join?
+====================================================================================================
+
+--- CHUNK 133 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+SWITZERLAND<br>1866<br>AUSTRIA<br>1858<br>1858-60<br>1870<br>1860<br>1858<br>TUNIS<br>
+**_Fig. 14(b) — Italy after unification._** _The map shows the year in which different regions (seen in Fig 14(a) become part of a unified Italy._
+====================================================================================================
+
+--- CHUNK 134 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+#### 4.3 The Strange Case of Britain
+The model of the nation or the nation-state, some scholars have argued, is Great Britain. In Britain the formation of the nation-state
 footer page number:21
-was not the result of a sudden upheaval or revolution. It was the result of a long-drawn-out process. There was no British nation prior to the eighteenth century. The primary identities of the people who inhabited the British Isles were **ethnic** ones – such as English, Welsh, Scot or Irish. All of these ethnic groups had their own cultural and political traditions. But as the English nation steadily grew in wealth, importance and power, it was able to extend its influence over the other nations of the islands. The English parliament, which had seized power from the monarchy in 1688 at the end of a protracted conflict, was the instrument through which a nation-state, with England at its centre, came to be forged. The Act of Union (1707) between England and Scotland that resulted in the formation of the ‘United Kingdom of Great Britain’ meant, in effect, that England was able to impose its influence on Scotland. The British parliament was henceforth dominated by its English members. The growth of a British identity meant that Scotland’s distinctive culture and political institutions were systematically suppressed. The Catholic clans that inhabited the Scottish Highlands suffered terrible repression whenever they attempted to assert their independence. The Scottish Highlanders were forbidden to speak their Gaelic language or wear their national dress, and large numbers were forcibly driven out of their homeland. 
-Ireland suffered a similar fate. It was a country deeply divided between Catholics and Protestants. The English helped the Protestants of Ireland to establish their dominance over a largely Catholic country. Catholic revolts against British dominance were suppressed. After a failed revolt led by Wolfe Tone and his United Irishmen (1798), Ireland was forcibly incorporated into the United Kingdom in 1801. A new ‘British nation’ was forged through the propagation of a dominant English culture. The symbols of the new Britain – the British flag (Union Jack), the national anthem (God Save Our Noble King), the English language – were actively promoted and the older nations survived only as subordinate partners in this union. 
-### **<mark>Activity</mark>** 
-The artist has portrayed Garibaldi as holding on to the base of the boot, so that the King of Sardinia-Piedmont can enter it from the top. Look at the map of Italy once more. What statement is this caricature making? 
-###### **_Box 2_** 
-**Giuseppe Garibaldi** (1807-82) is perhaps the most celebrated of Italian freedom fighters. He came from a family engaged in coastal trade and was a sailor in the merchant navy. In 1833 he met Mazzini, joined the Young Italy movement and participated in a republican uprising in Piedmont in 1834. The uprising was suppressed and Garibaldi had to flee to South America, where he lived in exile till 1848. In 1854, he supported Victor Emmanuel II in his efforts to unify the Italian states. In 1860, Garibaldi led the famous Expedition of the Thousand to South Italy. Fresh volunteers kept joining through the course of the campaign, till their numbers grew to about 30,000. They were popularly known as Red Shirts. 
-In 1867, Garibaldi led an army of volunteers to Rome to fight the last obstacle to the unification of Italy, the Papal States where a French garrison was stationed. The Red Shirts proved to be no match for the combined French and Papal troops. It was only in 1870 when, during the war with Prussia, France withdrew its troops from Rome that the Papal States were finally joined to Italy. 
-**_Fig. 15 – Garibaldi helping King Victor Emmanuel II of Sardinia-Piedmont to pull on the boot named ‘Italy’. English caricature of 1859._** 
-##### **New words** 
-Ethnic – Relates to a common racial, tribal, or cultural origin or background that a community identifies with or claims 
+====================================================================================================
+
+--- CHUNK 135 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+was not the result of a sudden upheaval or revolution. It was the result of a long-drawn-out process. There was no British nation prior to the eighteenth century. The primary identities of the people who inhabited the British Isles were **ethnic** ones – such as English, Welsh, Scot or Irish. All of these ethnic groups had their own cultural and political traditions. But as the English nation steadily grew in wealth, importance and power, it was able to extend its influence over the other nations of the islands. The English parliament, which had seized power from the monarchy in 1688 at the
+====================================================================================================
+
+--- CHUNK 136 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+which had seized power from the monarchy in 1688 at the end of a protracted conflict, was the instrument through which a nation-state, with England at its centre, came to be forged. The Act of Union (1707) between England and Scotland that resulted in the formation of the ‘United Kingdom of Great Britain’ meant, in effect, that England was able to impose its influence on Scotland. The British parliament was henceforth dominated by its English members. The growth of a British identity meant that Scotland’s distinctive culture and political institutions were systematically suppressed. The
+====================================================================================================
+
+--- CHUNK 137 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+political institutions were systematically suppressed. The Catholic clans that inhabited the Scottish Highlands suffered terrible repression whenever they attempted to assert their independence. The Scottish Highlanders were forbidden to speak their Gaelic language or wear their national dress, and large numbers were forcibly driven out of their homeland.
+====================================================================================================
+
+--- CHUNK 138 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+Ireland suffered a similar fate. It was a country deeply divided between Catholics and Protestants. The English helped the Protestants of Ireland to establish their dominance over a largely Catholic country. Catholic revolts against British dominance were suppressed. After a failed revolt led by Wolfe Tone and his United Irishmen (1798), Ireland was forcibly incorporated into the United Kingdom in 1801. A new ‘British nation’ was forged through the propagation of a dominant English culture. The symbols of the new Britain – the British flag (Union Jack), the national anthem (God Save Our Noble
+====================================================================================================
+
+--- CHUNK 139 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '4.3 The Strange Case of Britain'}
+Content:
+flag (Union Jack), the national anthem (God Save Our Noble King), the English language – were actively promoted and the older nations survived only as subordinate partners in this union.
+====================================================================================================
+
+--- CHUNK 140 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+The artist has portrayed Garibaldi as holding on to the base of the boot, so that the King of Sardinia-Piedmont can enter it from the top. Look at the map of Italy once more. What statement is this caricature making?
+====================================================================================================
+
+--- CHUNK 141 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Box 2'}
+Content:
+#### Box 2
+====================================================================================================
+
+--- CHUNK 142 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Box 2'}
+Content:
+**Giuseppe Garibaldi** (1807-82) is perhaps the most celebrated of Italian freedom fighters. He came from a family engaged in coastal trade and was a sailor in the merchant navy. In 1833 he met Mazzini, joined the Young Italy movement and participated in a republican uprising in Piedmont in 1834. The uprising was suppressed and Garibaldi had to flee to South America, where he lived in exile till 1848. In 1854, he supported Victor Emmanuel II in his efforts to unify the Italian states. In 1860, Garibaldi led the famous Expedition of the Thousand to South Italy. Fresh volunteers kept joining
+====================================================================================================
+
+--- CHUNK 143 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Box 2'}
+Content:
+the Thousand to South Italy. Fresh volunteers kept joining through the course of the campaign, till their numbers grew to about 30,000. They were popularly known as Red Shirts.
+====================================================================================================
+
+--- CHUNK 144 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'Box 2'}
+Content:
+In 1867, Garibaldi led an army of volunteers to Rome to fight the last obstacle to the unification of Italy, the Papal States where a French garrison was stationed. The Red Shirts proved to be no match for the combined French and Papal troops. It was only in 1870 when, during the war with Prussia, France withdrew its troops from Rome that the Papal States were finally joined to Italy.
+**_Fig. 15 – Garibaldi helping King Victor Emmanuel II of Sardinia-Piedmont to pull on the boot named ‘Italy’. English caricature of 1859._**
+====================================================================================================
+
+--- CHUNK 145 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Ethnic – Relates to a common racial, tribal, or cultural origin or background that a community identifies with or claims
 footer page number:22
-### `5  Visualising the Nation` 
-While it is easy enough to represent a ruler through a portrait or a statue, how does one go about giving a face to a nation? Artists in the eighteenth and nineteenth centuries found a way out by personifying a nation. In other words they represented a country as if it were a person. Nations were then portrayed as female figures. The female form that was chosen to personify the nation did not stand for any particular woman in real life; rather it sought to give the abstract idea of the nation a concrete form. That is, the female figure became an **allegory** of the nation. 
-You will recall that during the French Revolution artists used the female allegory to portray ideas such as Liberty, Justice and the Republic. These ideals were represented through specific objects or symbols.  As you would remember, the attributes of Liberty are the red cap, or the broken chain, while Justice is generally a blindfolded woman carrying a pair of weighing scales. 
-Similar female allegories were invented by artists in the nineteenth century to represent the nation. In France she was christened Marianne, a popular Christian name, which underlined the idea of a people’s nation. Her characteristics were drawn from those of Liberty and the Republic – the red cap, the tricolour, the cockade. Statues of Marianne were erected in public squares to remind the public of the national symbol of unity and to persuade them to identify with it. Marianne images were marked on coins and stamps. 
-Similarly, Germania became the allegory of the German nation. In visual representations, Germania wears a crown of oak leaves, as the German oak stands for heroism. 
-##### **New words** 
-Allegory – When an abstract idea (for instance, greed, envy, freedom, liberty) is expressed through a person or a thing. An allegorical story has two meanings, one literal and one symbolic 
-**_Fig. 16 — Postage stamps of 1850 with the figure of Marianne representing the Republic of France._** 
-**_Fig. 17 — Germania, Philip Veit, 1848._** _The artist prepared this painting of Germania on a cotton banner, as it was meant to hang from the ceiling of the Church of St Paul where the Frankfurt parliament was convened in March 1848._ 
+====================================================================================================
+
+--- CHUNK 146 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation'}
+Content:
+### 5 Visualising the Nation
+====================================================================================================
+
+--- CHUNK 147 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation'}
+Content:
+While it is easy enough to represent a ruler through a portrait or a statue, how does one go about giving a face to a nation? Artists in the eighteenth and nineteenth centuries found a way out by personifying a nation. In other words they represented a country as if it were a person. Nations were then portrayed as female figures. The female form that was chosen to personify the nation did not stand for any particular woman in real life; rather it sought to give the abstract idea of the nation a concrete form. That is, the female figure became an **allegory** of the nation.
+====================================================================================================
+
+--- CHUNK 148 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation'}
+Content:
+You will recall that during the French Revolution artists used the female allegory to portray ideas such as Liberty, Justice and the Republic. These ideals were represented through specific objects or symbols. As you would remember, the attributes of Liberty are the red cap, or the broken chain, while Justice is generally a blindfolded woman carrying a pair of weighing scales.
+====================================================================================================
+
+--- CHUNK 149 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation'}
+Content:
+Similar female allegories were invented by artists in the nineteenth century to represent the nation. In France she was christened Marianne, a popular Christian name, which underlined the idea of a people’s nation. Her characteristics were drawn from those of Liberty and the Republic – the red cap, the tricolour, the cockade. Statues of Marianne were erected in public squares to remind the public of the national symbol of unity and to persuade them to identify with it. Marianne images were marked on coins and stamps.
+====================================================================================================
+
+--- CHUNK 150 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation'}
+Content:
+Similarly, Germania became the allegory of the German nation. In visual representations, Germania wears a crown of oak leaves, as the German oak stands for heroism.
+====================================================================================================
+
+--- CHUNK 151 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation', 'subheading3': 'New words'}
+Content:
+#### New words
+Allegory – When an abstract idea (for instance, greed, envy, freedom, liberty) is expressed through a person or a thing. An allegorical story has two meanings, one literal and one symbolic
+**_Fig. 16 — Postage stamps of 1850 with the figure of Marianne representing the Republic of France._**
+**_Fig. 17 — Germania, Philip Veit, 1848._** _The artist prepared this painting of Germania on a cotton banner, as it was meant to hang from the ceiling of the Church of St Paul where the Frankfurt parliament was convened in March 1848._
 footer page number:23
-###### **Meanings of the symbols** 
+====================================================================================================
+
+--- CHUNK 152 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation', 'subheading3': 'New words', 'subheading4': 'Box 3'}
+Content:
+##### Box 3
+====================================================================================================
+
+--- CHUNK 153 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': '5 Visualising the Nation', 'subheading3': 'New words', 'subheading4': 'Meanings of the symbols'}
+Content:
+##### Meanings of the symbols
 |**Attribute**|**Significance**|
 |---|---|
 |Broken chains|Being freed|
@@ -223,45 +1021,7176 @@ footer page number:23
 |Olive branch around the sword|Willingness to make peace|
 |Black, red and gold tricolour|Flag of the liberal-nationalists in 1848, banned by the Dukes of the<br>German states|
 |Rays of the rising sun|Beginning of a new era|
-### **<mark>Activity</mark>** 
-With the help of the chart in Box 3, identify the attributes of Veit’s Germania and interpret the symbolic meaning of the painting. In an earlier allegorical rendering of 1836, Veit had portrayed the Kaiser’s crown at the place where he has now located the broken chain. Explain the significance of this change. 
-**_Fig. 18 — The fallen Germania, Julius Hübner, 1850._** 
-### **<mark>Activity</mark>** 
-Describe what you see in Fig. 17. What historical events could Hübner be referring to in this allegorical vision of the nation? 
+====================================================================================================
+
+--- CHUNK 154 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+With the help of the chart in Box 3, identify the attributes of Veit’s Germania and interpret the symbolic meaning of the painting. In an earlier allegorical rendering of 1836, Veit had portrayed the Kaiser’s crown at the place where he has now located the broken chain. Explain the significance of this change.
+**_Fig. 18 — The fallen Germania, Julius Hübner, 1850._**  
+### Activity
+Describe what you see in Fig. 17. What historical events could Hübner be referring to in this allegorical vision of the nation?
 footer page number:24
-###### **_Fig. 19 — Germania guarding the Rhine._** 
-_In 1860, the artist Lorenz Clasen was commissioned to paint this image. The inscription on Germania’s sword reads: ‘The German sword protects the German Rhine.’_ 
-### **<mark>Activity</mark>** 
-Look once more at Fig. 10. Imagine you were a citizen of Frankfurt in March 1848 and were present during the proceedings of the parliament. How would you (a) as a man seated in the hall of deputies, and (b) as a woman observing from the galleries, relate to the banner of Germania hanging from the ceiling? 
+====================================================================================================
+
+--- CHUNK 155 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+footer page number:24
+**_Fig. 19 — Germania guarding the Rhine._** _In 1860, the artist Lorenz Clasen was commissioned to paint this image. The inscription on Germania’s sword reads: ‘The German sword protects the German Rhine.’_  
+### Activity
+Look once more at Fig. 10. Imagine you were a citizen of Frankfurt in March 1848 and were present during the proceedings of the parliament. How would you (a) as a man seated in the hall of deputies, and (b) as a woman observing from the galleries, relate to the banner of Germania hanging from the ceiling?
 footer page number:25
-### `6  Nationalism and Imperialism` 
-By the last quarter of the nineteenth century nationalism no longer retained its idealistic liberal-democratic sentiment of the first half of the century, but became a narrow creed with limited ends. During this period nationalist groups became increasingly intolerant of each other and ever ready to go to war. The major European powers, in turn, manipulated the nationalist aspirations of the subject peoples in Europe to further their own imperialist aims. 
-The most serious source of nationalist tension in Europe after 1871 was the area called the Balkans. The Balkans was a region of geographical and ethnic variation comprising modern-day Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia and Montenegro whose inhabitants were broadly known as the Slavs. A large part of the Balkans was under the control of the Ottoman Empire. The spread of the ideas of romantic nationalism in the Balkans together with the disintegration of the Ottoman Empire made this region very explosive. All through the nineteenth century the Ottoman Empire had sought to strengthen itself through modernisation and internal reforms but with very little success. One by one, its European subject nationalities broke away from its control and declared independence. The Balkan peoples based their claims for independence or political rights on nationality and used history to prove that they had once been independent but had subsequently been subjugated by foreign powers. Hence the rebellious nationalities in the Balkans thought of their struggles as attempts to win back their long-lost independence. 
-As the different Slavic nationalities struggled to define their identity and independence, the Balkan area became an area of intense conflict. The Balkan states were fiercely jealous of each other and each hoped to gain more territory at the expense of the others. Matters were further complicated because the Balkans also became the scene of big power rivalry. During this period, there was intense rivalry among the European powers over trade and colonies as well as naval and military might. These rivalries were very evident in the way the Balkan problem unfolded. Each power – Russia, Germany, England, Austro-Hungary – was keen on countering the hold of other powers over the Balkans, and extending its own control over the area. This led to a series of wars in the region and finally the First World War. 
+====================================================================================================
+
+--- CHUNK 156 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+footer page number:25
+By the last quarter of the nineteenth century nationalism no longer retained its idealistic liberal-democratic sentiment of the first half of the century, but became a narrow creed with limited ends. During this period nationalist groups became increasingly intolerant of each other and ever ready to go to war. The major European powers, in turn, manipulated the nationalist aspirations of the subject peoples in Europe to further their own imperialist aims.
+====================================================================================================
+
+--- CHUNK 157 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+The most serious source of nationalist tension in Europe after 1871 was the area called the Balkans. The Balkans was a region of geographical and ethnic variation comprising modern-day Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia and Montenegro whose inhabitants were broadly known as the Slavs. A large part of the Balkans was under the control of the Ottoman Empire. The spread of the ideas of romantic nationalism in the Balkans together with the disintegration of the Ottoman Empire made this region very explosive. All through the nineteenth
+====================================================================================================
+
+--- CHUNK 158 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+made this region very explosive. All through the nineteenth century the Ottoman Empire had sought to strengthen itself through modernisation and internal reforms but with very little success. One by one, its European subject nationalities broke away from its control and declared independence. The Balkan peoples based their claims for independence or political rights on nationality and used history to prove that they had once been independent but had subsequently been subjugated by foreign powers. Hence the rebellious nationalities in the Balkans thought of their struggles as attempts to win
+====================================================================================================
+
+--- CHUNK 159 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+the Balkans thought of their struggles as attempts to win back their long-lost independence.
+====================================================================================================
+
+--- CHUNK 160 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+As the different Slavic nationalities struggled to define their identity and independence, the Balkan area became an area of intense conflict. The Balkan states were fiercely jealous of each other and each hoped to gain more territory at the expense of the others. Matters were further complicated because the Balkans also became the scene of big power rivalry. During this period, there was intense rivalry among the European powers over trade and colonies as well as naval and military might. These rivalries were very evident in the way the Balkan problem unfolded. Each power – Russia, Germany,
+====================================================================================================
+
+--- CHUNK 161 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+the Balkan problem unfolded. Each power – Russia, Germany, England, Austro-Hungary – was keen on countering the hold of other powers over the Balkans, and extending its own control over the area. This led to a series of wars in the region and finally the First World War.
+====================================================================================================
+
+--- CHUNK 162 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
 footer page number:26
-<!-- Start of picture text -->
-Fig. 20 — A map celebrating the British Empire.<br><!-- End of picture text -->
-_At the top, angels are shown carrying the banner of freedom. In the foreground, Britannia_ **_—_** _the_ **_—_** _symbol of the British nation is triumphantly sitting over the globe. The colonies are represented through images of tigers, elephants, forests and primitive people. The domination of the world is shown as the basis of Britain’s national pride._ 
-Nationalism, aligned with imperialism, led Europe to disaster in 1914. But meanwhile, many countries in the world which had been colonised by the European powers in the nineteenth century began to oppose imperial domination. The anti-imperial movements that developed everywhere were nationalist, in the sense that they all struggled to form independent nation-states, and were inspired by a sense of collective national unity, forged in confrontation with imperialism. European ideas of nationalism were nowhere replicated, for people everywhere developed their own specific variety of nationalism. But the idea that societies should be organised into ‘nation-states’ came to be accepted as natural and universal. 
+**_Fig. 20 — A map celebrating the British Empire._** _At the top, angels are shown carrying the banner of freedom. In the foreground, Britannia_ **_—_** _the symbol of the British nation_ **_—_** _is triumphantly sitting over the globe. The colonies are represented through images of tigers, elephants, forests and primitive people. The domination of the world is shown as the basis of Britain’s national pride._
+====================================================================================================
+
+--- CHUNK 163 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Nationalism, aligned with imperialism, led Europe to disaster in 1914. But meanwhile, many countries in the world which had been colonised by the European powers in the nineteenth century began to oppose imperial domination. The anti-imperial movements that developed everywhere were nationalist, in the sense that they all struggled to form independent nation-states, and were inspired by a sense of collective national unity, forged in confrontation with imperialism. European ideas of nationalism were nowhere replicated, for people everywhere developed their own specific variety of nationalism.
+====================================================================================================
+
+--- CHUNK 164 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+developed their own specific variety of nationalism. But the idea that societies should be organised into ‘nation-states’ came to be accepted as natural and universal.
+====================================================================================================
+
+--- CHUNK 165 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
 footer page number:27
-### **<mark>Write in brief</mark>** 
-1. Write a note on: 
-   - a) Guiseppe  Mazzini 
-   - b) Count Camillo de Cavour 
-   - c) The Greek war of independence 
-   - d) Frankfurt parliament 
-   - e) The role of women in nationalist struggles 
-2. What steps did the French revolutionaries take to create a sense of collective identity among the French people? 
-3. Who were Marianne and Germania? What was the importance of the way in which they were portrayed? 
-4. Briefly trace the process of German unification. 
-5. What changes did Napoleon introduce to make the administrative system more efficient in the territories ruled by him? 
-### **<mark>Discuss</mark>** 
-1. Explain what is meant by the 1848 revolution of the liberals.  What were the political, social and economic ideas supported by the liberals? 
-2. Choose three examples to show the contribution of culture to the growth of nationalism in Europe. 
-3. Through a focus on any two countries, explain how nations developed over the nineteenth century. 
-4. How was the history of nationalism in Britain unlike the rest of Europe? 
-5. Why did nationalist tensions emerge in the Balkans? 
-### **<mark>Project</mark>** 
-### Project 
-Find out more about nationalist symbols in countries outside Europe. For one or two countries, collect examples of pictures, posters or music that are symbols of nationalism. How are these different from European examples? 
+====================================================================================================
+
+--- CHUNK 166 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Write a note on:
+- a) Guiseppe Mazzini
+- b) Count Camillo de Cavour
+- c) The Greek war of independence
+- d) Frankfurt parliament
+- e) The role of women in nationalist struggles
+2. What steps did the French revolutionaries take to create a sense of collective identity among the French people?
+3. Who were Marianne and Germania? What was the importance of the way in which they were portrayed?
+4. Briefly trace the process of German unification.
+5. What changes did Napoleon introduce to make the administrative system more efficient in the territories ruled by him?
+====================================================================================================
+
+--- CHUNK 167 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. Explain what is meant by the 1848 revolution of the liberals. What were the political, social and economic ideas supported by the liberals?
+2. Choose three examples to show the contribution of culture to the growth of nationalism in Europe.
+3. Through a focus on any two countries, explain how nations developed over the nineteenth century.
+4. How was the history of nationalism in Britain unlike the rest of Europe?
+5. Why did nationalist tensions emerge in the Balkans?
+====================================================================================================
+
+--- CHUNK 168 ---
+Metadata: {'Chapter Name': 'The Rise of Nationalism in Europe', 'subheading1': 'New words', 'subheading2': 'Project'}
+Content:
+### Project
+Project
+Find out more about nationalist symbols in countries outside Europe. For one or two countries, collect examples of pictures, posters or music that are symbols of nationalism. How are these different from European examples?
 footer page number:28
+====================================================================================================
+
+--- CHUNK 169 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China'}
+Content:
+# The Nationalist Movement in Indo-China
+Vietnam gained formal independence in 1945, before India, but it took another three decades of fighting before the Republic of Vietnam was formed. This chapter on Indo-China will introduce you to one of the important states of the peninsula, namely, Vietnam. Nationalism in Indo-China developed in a colonial context. The knitting together of a modern Vietnamese nation that brought the different communities together was in part the result of colonisation but, as importantly, it was shaped by the struggle against colonial domination.
+====================================================================================================
+
+--- CHUNK 170 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China'}
+Content:
+If you see the historical experience of Indo-China in relation to that of India, you will discover important differences in the way colonial empires functioned and the anti-imperial movement developed. By looking at such differences and similarities you can understand the variety of ways in which nationalism has developed and shaped the contemporary world.
+**_Fig.1 – Map of Indo-China._**
+====================================================================================================
+
+--- CHUNK 171 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China'}
+Content:
+## 1 Emerging from the Shadow of China
+Indo-China comprises the modern countries of Vietnam, Laos and Cambodia (see Fig. 1). Its early history shows many different groups of people living in this area under the shadow of the powerful empire of China. Even when an independent country was established in what is now northern and central Vietnam, its rulers continued to maintain the Chinese system of government as well as Chinese culture.
+====================================================================================================
+
+--- CHUNK 172 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China'}
+Content:
+Vietnam was also linked to what has been called the maritime silk route that brought in goods, people and ideas. Other networks of trade connected it to the hinterlands where non-Vietnamese people such as the Khmer Cambodians lived.
+**_Fig. 2 – The port of Faifo._** _This port was founded by Portuguese merchants. It was one of the ports used by European trading companies much before the nineteenth century._
+====================================================================================================
+
+--- CHUNK 173 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance'}
+Content:
+### 1.1 Colonial Domination and Resistance
+The colonisation of Vietnam by the French brought the people of the country into conflict with the colonisers in all areas of life. The most visible form of French control was military and economic domination but the French also built a system that tried to reshape the culture of the Vietnamese. Nationalism in Vietnam emerged through the efforts of different sections of society to fight against the French and all they represented.
+footer page number:30
+====================================================================================================
+
+--- CHUNK 174 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance'}
+Content:
+footer page number:30
+**_Fig. 3 – Francis Garnier, a French officer who led an attack against the ruling Nguyen dynasty, being killed by soldiers of the court._** _Garnier was part of the French team that explored the Mekong river. In 1873 he was commissioned by the French to try and establish a French colony in Tonkin in the north. Garnier carried out an attack on Hanoi, the capital of Tonkin, but was killed in the fight._
+====================================================================================================
+
+--- CHUNK 175 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance'}
+Content:
+French troops landed in Vietnam in 1858 and by the mid-1880s they had established a firm grip over the northern region. After the Franco-Chinese war the French assumed control of Tonkin and Anaam and, in 1887, French Indo-China was formed. In the following decades the French sought to consolidate their position, and people in Vietnam began reflecting on the nature of the loss that Vietnam was suffering. Nationalist resistance developed out of this reflection.
+====================================================================================================
+
+--- CHUNK 176 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance'}
+Content:
+**_Fig. 4 – The Mekong river, engraving by the French Exploratory Force, in which Garnier participated._** _Exploring and mapping rivers was part of the colonial enterprise everywhere in the world. Colonisers wanted to know the route of the rivers, their origin, and the terrain they passed through. The rivers could then be properly used for trade and transport. During these explorations innumerable pictures and maps were produced._
+footer page number:31
+The famous blind poet Ngyuyen Dinh Chieu (1822-88) bemoaned what was happening to his country:
+====================================================================================================
+
+--- CHUNK 177 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance'}
+Content:
+I would rather face eternal darkness Than see the faces of traitors. I would rather see no man Than encounter one man’s suffering. I would rather see nothing Than witness the dismembering of the country in decline.
+====================================================================================================
+
+--- CHUNK 178 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance', 'subheading3': '1.2 Why the French thought Colonies Necessary'}
+Content:
+#### 1.2 Why the French thought Colonies Necessary
+Colonies were considered essential to supply natural resources and other essential goods. Like other Western nations, France also thought it was the mission of the ‘advanced’ European countries to bring the benefits of civilisation to backward peoples.
+====================================================================================================
+
+--- CHUNK 179 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance', 'subheading3': '1.2 Why the French thought Colonies Necessary'}
+Content:
+The French began by building canals and draining lands in the Mekong delta to increase cultivation. The vast system of irrigation works – canals and earthworks – built mainly with forced labour, increased rice production and allowed the export of rice to the international market. The area under rice cultivation went up from 274,000 hectares in 1873 to 1.1 million hectares in 1900 and 2.2 million in 1930. Vietnam exported two-thirds of its rice production and by 1931 had become the third largest exporter of rice in the world.
+====================================================================================================
+
+--- CHUNK 180 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance', 'subheading3': '1.2 Why the French thought Colonies Necessary'}
+Content:
+This was followed by infrastructure projects to help transport goods for trade, move military garrisons and control the entire region. Construction of a trans-Indo-China rail network that would link the northern and southern parts of Vietnam and China was begun. This final link with Yunan in China was completed by 1910. The second line was also built, linking Vietnam to Siam (as Thailand was then called), via the Cambodian capital of Phnom Penh.
+====================================================================================================
+
+--- CHUNK 181 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance', 'subheading3': '1.2 Why the French thought Colonies Necessary'}
+Content:
+By the 1920s, to ensure higher levels of profit for their businesses, French business interests were pressurising the government in Vietnam to develop the infrastructure further.
+====================================================================================================
+
+--- CHUNK 182 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '1.1 Colonial Domination and Resistance', 'subheading3': '1.3 Should Colonies be Developed?'}
+Content:
+#### 1.3 Should Colonies be Developed?
+Everyone agreed that colonies had to serve the interests of the mother country. But the question was – how? Some like Paul Bernard, an influential writer and policy-maker, strongly believed that the
+====================================================================================================
+
+--- CHUNK 183 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine a conversation between a French coloniser and a Vietnamese labourer in the canal project. The Frenchman believes he is bringing civilization to backward people and the Vietnamese labourer argues against it. In pairs act out the conversation they may have had, using evidence from the text.
+footer page number:32
+====================================================================================================
+
+--- CHUNK 184 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity'}
+Content:
+footer page number:32
+economy of the colonies needed to be developed. He argued that the purpose of acquiring colonies was to make profits. If the economy was developed and the standard of living of the people improved, they would buy more goods. The market would consequently expand, leading to better profits for French business.
+====================================================================================================
+
+--- CHUNK 185 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity'}
+Content:
+Bernard suggested that there were several barriers to economic growth in Vietnam: high population levels, low agricultural productivity and extensive indebtedness amongst the peasants. To reduce rural poverty and increase agricultural productivity it was necessary to carry out land reforms as the Japanese had done in the 1890s. However, this could not ensure sufficient employment. As the experience of Japan showed, industrialisation would be essential to create more jobs.
+====================================================================================================
+
+--- CHUNK 186 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity'}
+Content:
+The colonial economy in Vietnam was, however, primarily based on rice cultivation and rubber plantations owned by the French and a small Vietnamese elite. Rail and port facilities were set up to service this sector. **Indentured** Vietnamese labour was widely used in the rubber plantations. The French, contrary to what Bernard would have liked, did little to industrialise the economy. In the rural areas landlordism spread and the standard of living declined.
+====================================================================================================
+
+--- CHUNK 187 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Indentured labour – A form of labour widely used in the plantations from the mid-nineteenth century. Labourers worked on the basis of contracts that did not specify any rights of labourers but gave immense power to employers. Employers could bring criminal charges against labourers and punish and jail them for non-fulfilment of contracts.
+**_Fig. 5 – A French weapons merchant, Jean Dupuis, in Vietnam in the late nineteenth century._**
+====================================================================================================
+
+--- CHUNK 188 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+_Many like him explored the regions in the hope of making profits from trade. He was one of those who persuaded the French to try and establish a base in Vietnam._
+footer page number:33
+====================================================================================================
+
+--- CHUNK 189 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education'}
+Content:
+### 2 The Dilemma of Colonial Education
+French colonisation was not based only on economic exploitation. It was also driven by the idea of a ‘civilising mission’. Like the British in India, the French claimed that they were bringing modern civilisation to the Vietnamese. They took for granted that Europe had developed the most advanced civilisation. So it became the duty of the Europeans to introduce these modern ideas to the colony even if this meant destroying local cultures, religions and traditions, because these were seen as outdated and prevented modern development.
+====================================================================================================
+
+--- CHUNK 190 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education'}
+Content:
+Education was seen as one way to civilise the ‘native’. But in order to educate them, the French had to resolve a dilemma. How far were the Vietnamese to be educated? The French needed an educated local labour force but they feared that education might create problems. Once educated, the Vietnamese may begin to question colonial domination. Moreover, French citizens living in Vietnam (called colons) began fearing that they might lose their jobs – as teachers, shopkeepers, policemen – to the educated Vietnamese. So they opposed policies that would give the Vietnamese full access to French
+====================================================================================================
+
+--- CHUNK 191 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education'}
+Content:
+that would give the Vietnamese full access to French education.
+====================================================================================================
+
+--- CHUNK 192 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+#### 2.1 Talking Modern
+The French were faced with yet another problem in the sphere of education: the elites in Vietnam were powerfully influenced by Chinese culture. To consolidate their power, the French had to counter this Chinese influence. So they systematically dismantled the traditional educational system and established French schools for the Vietnamese. But this was not easy. Chinese, the language used by the elites so far, had to be replaced. But what was to take its place? Was the language to be Vietnamese or French?
+====================================================================================================
+
+--- CHUNK 193 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+There were two broad opinions on this question. Some policymakers emphasised the need to use the French language as the medium of instruction. By learning the language, they felt, the Vietnamese would be introduced to the culture and civilisation of France. This would help create an ‘Asiatic France solidly tied to European France’. The educated people in Vietnam would respect French sentiments and ideals, see the superiority of French culture, and work for the French. Others were opposed to French being the only medium of instruction. They suggested that Vietnamese be taught in lower classes
+====================================================================================================
+
+--- CHUNK 194 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+They suggested that Vietnamese be taught in lower classes and French in the higher classes. The few
+====================================================================================================
+
+--- CHUNK 195 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+footer page number:34
+who learnt French and acquired French culture were to be rewarded with French citizenship.
+====================================================================================================
+
+--- CHUNK 196 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+However, only the Vietnamese elite – comprising a small fraction of the population – could enroll in the schools, and only a few among those admitted ultimately passed the school-leaving examination. This was largely because of a deliberate policy of failing students, particularly in the final year, so that they could not qualify for the better-paid jobs. Usually, as many as two-thirds of the students failed. In 1925, in a population of 17 million, there were less than 400 who passed the examination.
+====================================================================================================
+
+--- CHUNK 197 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.1 Talking Modern'}
+Content:
+School textbooks glorified the French and justified colonial rule. The Vietnamese were represented as primitive and backward, capable of manual labour but not of intellectual reflection; they could work in the fields but not rule themselves; they were ‘skilled copyists’ but not creative. School children were told that only French rule could ensure peace in Vietnam: ‘Since the establishment of French rule the Vietnamese peasant no longer lives in constant terror of pirates … Calm is complete, and the peasant can work with a good heart.’
+====================================================================================================
+
+--- CHUNK 198 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.2 Looking Modern'}
+Content:
+#### 2.2 Looking Modern
+====================================================================================================
+
+--- CHUNK 199 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.2 Looking Modern'}
+Content:
+The Tonkin Free School was started in 1907 to provide a Westernstyle education. This education included classes in science, hygiene and French (these classes were held in the evening and had to be paid for separately). The school’s approach to what it means to be ‘modern’ is a good example of the thinking prevalent at that time. It was not enough to learn science and Western ideas: to be modern the Vietnamese had to also look modern. The school encouraged the adoption of Western styles such as having a short haircut. For the Vietnamese this meant a major break with their own identity since
+====================================================================================================
+
+--- CHUNK 200 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.2 Looking Modern'}
+Content:
+this meant a major break with their own identity since they traditionally kept long hair. To underline the importance of a total change there was even a ‘haircutting chant’:
+====================================================================================================
+
+--- CHUNK 201 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '2 The Dilemma of Colonial Education', 'subheading3': '2.2 Looking Modern'}
+Content:
+Comb in the left hand Scissors in the right, Snip, snip, clip, clip! Watch out, be careful, Drop stupid practices, Dump childish things Speak openly and frankly Study Western customs
+====================================================================================================
+
+--- CHUNK 202 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity'}
+Content:
+### Activity
+- Imagine you are a student in the Tonkin Free School in 1910. How would you react to: � what the textbooks say about the Vietnamese?
+- what the school tells you about hairstyles?
+**_Fig. 6 – A local caricature ridiculing the Vietnamese who has been westernised._** _Abandoning his own culture, he has begun wearing Western clothes and playing tennis._
+footer page number:35
+====================================================================================================
+
+--- CHUNK 203 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+#### 2.3 Resistance in Schools
+Teachers and students did not blindly follow the curriculum. Sometimes there was open opposition, at other times there was silent resistance. As the numbers of Vietnamese teachers increased in the lower classes, it became difficult to control what was actually taught. While teaching, Vietnamese teachers quietly modified the text and criticised what was stated.
+====================================================================================================
+
+--- CHUNK 204 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+In 1926 a major protest erupted in the Saigon Native Girls School. A Vietnamese girl sitting in one of the front seats was asked to move to the back of the class and allow a local French student to occupy the front bench. She refused. The principal, also a colon (French people in the colonies), expelled her. When angry students protested, they too were expelled, leading to a further spread of open protests. Seeing the situation getting out of control, the government forced the school to take the students back. The principal reluctantly agreed but warned the students, ‘I will crush all
+====================================================================================================
+
+--- CHUNK 205 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+agreed but warned the students, ‘I will crush all Vietnamese under my feet. Ah! You wish my deportation. Know well that I will leave only after I am assured Vietnamese no longer inhabit Cochinchina.’
+====================================================================================================
+
+--- CHUNK 206 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+Elsewhere, students fought against the colonial government’s efforts to prevent the Vietnamese from qualifying for white-collar jobs. They were inspired by patriotic feelings and the conviction that it was the duty of the educated to fight for the benefit of society. This brought them into conflict with the French as well as the traditional elite, since both saw their positions threatened. By the 1920s, students were forming various political parties, such as the Party of Young Annan, and publishing nationalist journals such as the _Annanese Student_ .
+====================================================================================================
+
+--- CHUNK 207 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+**Some important dates** <u>1802</u> Nguyen Anh becomes emperor symbolising the unification of the country under the Nguyen dynasty. 1867 Cochinchina (the South) becomes a French colony. 1887 Creation of the Indo-china Union, including Cochinchina, Annam, Tonkin, Cambodia and later, Laos. 1930 Ho Chi Minh forms the Vietnamese Communist Party. 1945 Vietminh start a general popular insurrection. Bao Dai abdicates. Ho Chi Minh declares independence in Hanoi (September 23). 1954 The French army is defeated at Dien Bien Phu. 1961 Kennedy decides to increase US military aid to South Vietnam. 1974
+====================================================================================================
+
+--- CHUNK 208 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+decides to increase US military aid to South Vietnam. 1974 Paris Peace Treaty. 1975 (April 30) NLF troops enter Saigon. 1976 The Socialist Republic of Vietnam is proclaimed.
+====================================================================================================
+
+--- CHUNK 209 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+Schools thus became an important place for political and cultural battles. The French sought to strengthen their rule in Vietnam through the control of education. They tried to change the values, norms and perceptions of the people, to make them believe in the superiority of French civilisation and the inferiority of the Vietnamese. Vietnamese intellectuals, on the other hand, feared that Vietnam was losing not just control over its territory but its very identity: its own culture and customs were being devalued and the people were developing a master-slave mentality. The battle against
+====================================================================================================
+
+--- CHUNK 210 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+developing a master-slave mentality. The battle against French colonial education became part of the larger battle against colonialism and for independence.
+====================================================================================================
+
+--- CHUNK 211 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Activity', 'subheading3': '2.3 Resistance in Schools'}
+Content:
+footer page number:36
+====================================================================================================
+
+--- CHUNK 212 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance'}
+Content:
+### 3 Hygiene, Disease and Everyday Resistance
+Education was not the only sphere of everyday life in which such political battles against colonialism were fought. In many other institutions we can see the variety of small ways in which the colonised expressed their anger against the colonisers.
+====================================================================================================
+
+--- CHUNK 213 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.1 Plague Strikes Hanoi'}
+Content:
+#### 3.1 Plague Strikes Hanoi
+Take the case of health and hygiene. When the French set about creating a modern Vietnam, they decided to rebuild Hanoi. The latest ideas about architecture and modern engineering skills were employed to build a new and ‘modern’ city. In 1903, the modern part of Hanoi was struck by bubonic plague. In many colonial countries, measures to control the spread of disease created serious social conflicts. But in Hanoi events took a peculiarly interesting turn.
+====================================================================================================
+
+--- CHUNK 214 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.1 Plague Strikes Hanoi'}
+Content:
+The French part of Hanoi was built as a beautiful and clean city with wide avenues and a well-laid-out sewer system, while the ‘native
+**_Fig. 7 – Modern Hanoi._** _Colonial buildings like this one came up in the French part of Hanoi._
+footer page number:37
+====================================================================================================
+
+--- CHUNK 215 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.1 Plague Strikes Hanoi'}
+Content:
+quarter’ was not provided with any modern facilities. The refuse from the old city drained straight out into the river or, during heavy rains or floods, overflowed into the streets. Thus what was installed to create a hygienic environment in the French city became the cause of the plague. The large sewers in the modern part of the city, a symbol of modernity, were an ideal and protected breeding ground for rats. The sewers also served as a great transport system, allowing the rats to move around the city without any problem. And rats began to enter the well-cared-for homes of the French
+====================================================================================================
+
+--- CHUNK 216 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.1 Plague Strikes Hanoi'}
+Content:
+rats began to enter the well-cared-for homes of the French through the sewage pipes. What was to be done?
+====================================================================================================
+
+--- CHUNK 217 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.2 The Rat Hunt'}
+Content:
+#### 3.2 The Rat Hunt
+====================================================================================================
+
+--- CHUNK 218 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.2 The Rat Hunt'}
+Content:
+To stem this invasion, a rat hunt was started in 1902. The French hired Vietnamese workers and paid them for each rat they caught. Rats began to be caught in thousands: on 30 May, for instance, 20,000 were caught but still there seemed to be no end. For the Vietnamese the rat hunt seemed to provide an early lesson in the success of collective bargaining. Those who did the dirty work of entering sewers found that if they came together they could negotiate a higher bounty. They also discovered innovative ways to profit from this situation. The bounty was paid when a tail was given as proof that
+====================================================================================================
+
+--- CHUNK 219 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.2 The Rat Hunt'}
+Content:
+The bounty was paid when a tail was given as proof that a rat had been killed. So the rat-catchers took to just clipping the tails and releasing the rats, so that the process could be repeated, over and over again. Some people, in fact, began raising rats to earn a bounty.
+====================================================================================================
+
+--- CHUNK 220 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '3 Hygiene, Disease and Everyday Resistance', 'subheading3': '3.2 The Rat Hunt'}
+Content:
+Defeated by the resistance of the weak, the French were forced to scrap the bounty programme. None of this prevented the bubonic plague, which swept through the area in 1903 and in subsequent years. In a way, the rat menace marks the limits of French power and the contradictions in their ‘civilising mission’. And the actions of the rat-catchers tell us of the numerous small ways in which colonialism was fought in everyday life.
+====================================================================================================
+
+--- CHUNK 221 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+What does the 1903 plague and the measures to control it tell us about the French colonial attitude towards questions of health and hygiene?
+footer page number:38
+====================================================================================================
+
+--- CHUNK 222 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism'}
+Content:
+### 4 Religion and Anti-colonialism
+Colonial domination was exercised by control over all areas of private and public life. The French occupied Vietnam militarily but they also sought to reshape social and cultural life. While religion played an important role in strengthening colonial control, it also provided ways of resistance. Let us consider how this happened.
+====================================================================================================
+
+--- CHUNK 223 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism'}
+Content:
+Vietnam’s religious beliefs were a mixture of Buddhism, Confucianism and local practices. Christianity, introduced by French missionaries, was intolerant of this easygoing attitude and viewed the Vietnamese tendency to revere the supernatural as something to be corrected.
+====================================================================================================
+
+--- CHUNK 224 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism'}
+Content:
+From the eighteenth century, many religious movements were hostile to the Western presence. An early movement against French control and the spread of Christianity was the Scholars Revolt in 1868. This revolt was led by officials at the imperial court angered by the spread of Catholicism and French power. They led a general uprising in
+====================================================================================================
+
+--- CHUNK 225 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+#### Box 1
+Confucius (551-479 BCE), a Chinese thinker, developed a philosophical system based on good conduct, practical wisdom and proper social relationships. People were taught to respect their parents and submit to elders. They were told that the relationship between the ruler and the people was the same as that between children and parents.
+**_Fig. 8 – The execution of Father Borie, a Catholic missionary._** _Images like this by French artists were publicised in France to stir up religious fury._
+footer page number:39
+====================================================================================================
+
+--- CHUNK 226 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+footer page number:39
+Ngu An and Ha Tien provinces where over a thousand Catholics were killed. Catholic missionaries had been active in winning converts since the early seventeenth century, and by the middle of the eighteenth century had converted some 300,000. The French crushed the movement but this uprising served to inspire other patriots to rise up against them.
+====================================================================================================
+
+--- CHUNK 227 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+The elites in Vietnam were educated in Chinese and Confucianism. But religious beliefs among the peasantry were shaped by a variety of **syncretic** traditions that combined Buddhism and local beliefs. There were many popular religions in Vietnam that were spread by people who claimed to have seen a vision of God. Some of these religious movements supported the French, but others inspired movements against colonial rule.
+====================================================================================================
+
+--- CHUNK 228 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+**New words** Syncretic – Characterised by syncretism; aims to bring together different beliefs and practices, seeing their essential unity rather than their difference Concentration camp – A prison where people are detained without due process of law. The word evokes an image of a place of torture and brutal treatment
+One such movement was the Hoa Hao. It began in 1939 and gained great popularity in the fertile Mekong delta area. It drew on religious ideas popular in anti-French uprisings of the nineteenth century.
+====================================================================================================
+
+--- CHUNK 229 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+The founder of Hoa Hao was a man called Huynh Phu So. He performed miracles and helped the poor. His criticism against useless expenditure had a wide appeal. He also opposed the sale of child brides, gambling and the use of alcohol and opium.
+====================================================================================================
+
+--- CHUNK 230 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+The French tried to suppress the movement inspired by Huynh Phu So. They declared him mad, called him the Mad Bonze, and put him in a mental asylum. Interestingly, the doctor who had to prove him insane became his follower, and finally in 1941, even the French doctors declared that he was sane. The French authorities exiled him to Laos and sent many of his followers to **concentration camps** .
+====================================================================================================
+
+--- CHUNK 231 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '4 Religion and Anti-colonialism', 'subheading3': 'Box 1'}
+Content:
+Movements like this always had a contradictory relationship with mainstream nationalism. Political parties often drew upon their support, but were uneasy about their activities. They could neither control or discipline these groups, nor support their rituals and practices.
+Yet the significance of these movements in arousing anti-imperialist sentiments should not be underestimated.
+footer page number:40
+====================================================================================================
+
+--- CHUNK 232 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+### 5 The Vision of Modernisation
+French colonialism was resisted at many levels and in various forms. But all nationalists had to grapple with one set of questions: What was it to be Modern? What was it to be Nationalist? In order to be modern, was it necessary to regard tradition as backward and reject all earlier ideas and social practices? Was it necessary to consider the ‘West’ as the symbol of development and civilisation, and try and copy the West?
+====================================================================================================
+
+--- CHUNK 233 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+Different answers were offered to such questions. Some intellectuals felt that Vietnamese traditions had to be strengthened to resist the domination of the West, while others felt that Vietnam had to learn from the West even while opposing foreign domination. These differing visions led to complex debates, which could not be easily resolved.
+====================================================================================================
+
+--- CHUNK 234 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+In the late nineteenth century, resistance to French domination was very often led by Confucian scholar-activists, who saw their world crumbling. Educated in the Confucian tradition, Phan Boi Chau (1867-1940) was one such nationalist. He became a major figure in the anti-colonial resistance from the time he formed the Revolutionary Society (Duy Tan Hoi) in 1903, with Prince Cuong De as the head.
+====================================================================================================
+
+--- CHUNK 235 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+Phan Boi Chau met the Chinese reformer Liang Qichao (1873-1929) in Yokohama in 1905. Phan’s most influential book, _The History of the Loss of Vietnam_ was written under the strong influence and advice of Qichao. It became a widely read bestseller in Vietnam and China and was even made into a play. The book focuses on two connected themes: the loss of sovereignty and the severing of ties with China – ties that bound the elites of the two countries within a shared culture. It is this double loss that Phan laments, a lament that was typical of reformers from within the traditional elite.
+====================================================================================================
+
+--- CHUNK 236 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+Other nationalists strongly differed with Phan Boi Chau. One such was Phan Chu Trinh (1871-1926). He was intensely hostile to the monarchy and opposed to the idea of resisting the French with the help of the court. His desire was to establish a democratic **republic** . Profoundly influenced by the democratic ideals of the West, he did not want a wholesale rejection of Western civilisation. He accepted the French revolutionary ideal of liberty but charged the French for not abiding by the ideal. He demanded that the French set up legal and educational institutions, and develop agriculture and
+====================================================================================================
+
+--- CHUNK 237 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation'}
+Content:
+and educational institutions, and develop agriculture and industries.
+====================================================================================================
+
+--- CHUNK 238 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation', 'subheading3': 'Source A'}
+Content:
+#### Source A
+In Japan, Phan Boi Chau and Phan Chu Trinh spent time together, discussing their visions of Vietnamese independence, and debating their differences. This is what Phan Boi Chau later wrote about their discussions:
+====================================================================================================
+
+--- CHUNK 239 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation', 'subheading3': 'Source A'}
+Content:
+‘Thereafter over more than ten days, he and I debated time and again, and our opinions were diametrically opposed. That is to say, he wished to overthrow the monarchy in order to create a basis for the promotion of popular rights; I, on the contrary, maintained that first the foreign enemy should be driven out, and after our nation’s independence was restored we could talk about other things. My plan was to make use of the monarchy, which he opposed absolutely. His plan was to raise up the people to abolish the monarchy, with which I absolutely disagreed. In other words, he and I were
+====================================================================================================
+
+--- CHUNK 240 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '5 The Vision of Modernisation', 'subheading3': 'Source A'}
+Content:
+which I absolutely disagreed. In other words, he and I were pursuing one and the same goal, but our means were considerably different.’
+====================================================================================================
+
+--- CHUNK 241 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source'}
+Content:
+### Source
+====================================================================================================
+
+--- CHUNK 242 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+What ideas did Phan Boi Chau and Phan Chu Trinh share in common? What did they differ on?
+====================================================================================================
+
+--- CHUNK 243 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Republic – A form of government based on popular consent and popular representation. It is based on the power of the people as opposed to monarchy
+footer page number:41
+====================================================================================================
+
+--- CHUNK 244 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': '5.1 Other Ways of Becoming Modern: Japan and China'}
+Content:
+#### 5.1 Other Ways of Becoming Modern: Japan and China
+Early Vietnamese nationalists had a close relationship with Japan and China. They provided models for those looking to change, a refuge for those who were escaping French police, and a location where a wider Asian network of revolutionaries could be established.
+====================================================================================================
+
+--- CHUNK 245 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': '5.1 Other Ways of Becoming Modern: Japan and China'}
+Content:
+In the first decade of the twentieth century a ‘go east movement’ became popular. In 1907-08 some 300 Vietnamese students went to Japan to acquire modern education. For many of them the primary objective was to drive out the French from Vietnam, overthrow the puppet emperor and re-establish the Nguyen dynasty that had been deposed by the French. These nationalists looked for foreign arms and help. They appealed to the Japanese as fellow Asians. Japan had modernised itself and had resisted colonisation by the West. Besides, its victory over Russia in 1907 proved its military capabilities.
+====================================================================================================
+
+--- CHUNK 246 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': '5.1 Other Ways of Becoming Modern: Japan and China'}
+Content:
+over Russia in 1907 proved its military capabilities. Vietnamese students established a branch of the Restoration Society in Tokyo but after 1908, the Japanese Ministry of Interior clamped down on them. Many, including Phan Boi Chau, were deported and forced to seek exile in China and Thailand.
+====================================================================================================
+
+--- CHUNK 247 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': '5.1 Other Ways of Becoming Modern: Japan and China'}
+Content:
+Developments in China also inspired Vietnamese nationalists. In 1911, the long established monarchy in China was overthrown by a popular movement under Sun Yat-sen, and a Republic was set up. Inspired by these developments, Vietnamese students organised the Association for the Restoration of Vietnam (Viet-Nam Quan Phuc Hoi). Now the nature of the anti-French independence movement changed. The objective was no longer to set up a constitutional monarchy but a democratic republic.
+Soon, however, the anti-imperialist movement in Vietnam came under a new type of leadership.
+====================================================================================================
+
+--- CHUNK 248 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss', 'subheading3': '5.1 Other Ways of Becoming Modern: Japan and China'}
+Content:
+**_Fig. 9 – Cartoon of Vietnamese nationalists chasing away imperialists._** _In all such nationalist representations of struggle the nationalists appear heroic, marching ahead, while the imperial forces flee._
+footer page number:42
+====================================================================================================
+
+--- CHUNK 249 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism'}
+Content:
+### 6 The Communist Movement and Vietnamese Nationalism
+The Great Depression of the 1930s had a profound impact on Vietnam. The prices of rubber and rice fell, leading to rising rural debts, unemployment and rural uprisings, such as in the provinces of Nghe An and Ha Tinh. These provinces were among the poorest, had an old radical tradition, and have been called the ‘electrical fuses’ of Vietnam – when the system was under pressure they were the first to blow. The French put these uprisings down with great severity, even using planes to bomb demonstrators.
+====================================================================================================
+
+--- CHUNK 250 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism'}
+Content:
+In February 1930, Ho Chi Minh brought together competing nationalist groups to establish the Vietnamese Communist (Vietnam Cong San Dang) Party, later renamed the Indo-Chinese Communist Party. He was inspired by the militant demonstrations of the European communist parties.
+====================================================================================================
+
+--- CHUNK 251 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism'}
+Content:
+In 1940 Japan occupied Vietnam, as part of its imperial drive to control Southeast Asia. So nationalists now had to fight against the Japanese as well as the French. The League for the Independence of Vietnam (Viet Nam Doc Lap Dong Minh), which came to be known as the Vietminh, fought the Japanese occupation and recaptured Hanoi in September 1945. The Democratic Republic of Vietnam was formed and Ho Chi Minh became Chairman.
+====================================================================================================
+
+--- CHUNK 252 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism', 'subheading3': '6.1 The New Republic of Vietnam'}
+Content:
+#### 6.1 The New Republic of Vietnam
+The new republic faced a number of challenges. The French tried to regain control by using the emperor, Bao Dai, as their puppet. Faced with the French offensive, the Vietminh were forced to retreat to the hills. After eight years of fighting, the French were defeated in 1954 at Dien Bien Phu.
+====================================================================================================
+
+--- CHUNK 253 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism', 'subheading3': '6.1 The New Republic of Vietnam', 'subheading4': 'Source B', 'subheading5': 'Declaration of independence'}
+Content:
+##### Source B  
+###### Declaration of independence
+The declaration of the new republic began by reaffirming the principles of the declaration of independence of the United States in 1771 and of the French Revolution in 1791 but added that the French imperialists do not follow these principles for they
+‘have violated our fatherland and oppressed our fellow citizens. They have acted contrary to the ideals of humanity and justice.
+====================================================================================================
+
+--- CHUNK 254 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism', 'subheading3': '6.1 The New Republic of Vietnam', 'subheading4': 'Source B', 'subheading5': 'Declaration of independence'}
+Content:
+‘In the field of politics, they have deprived us of all liberties. They have imposed upon us inhuman laws … They have built more prisons than schools. They have mercilessly slain our patriots; they have drowned our uprisings in rivers of blood.
+‘They have fettered public opinion; they have practiced **obscurantism** against our people …
+====================================================================================================
+
+--- CHUNK 255 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '6 The Communist Movement and Vietnamese Nationalism', 'subheading3': '6.1 The New Republic of Vietnam', 'subheading4': 'Source B', 'subheading5': 'Declaration of independence'}
+Content:
+‘For these reasons, we members of the Provisional Government, representing the entire population of Vietnam, declare that we shall henceforth have no connection with imperialist France; that we abolish all the privileges which the French have arrogated to themselves on our territory …
+‘We solemnly proclaim to the entire world: Vietnam has the right to be free and independent, and in fact has become free and independent.’
+====================================================================================================
+
+--- CHUNK 256 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source'}
+Content:
+### Source
+The Supreme French Commander of the French armies, General Henry Navarre had declared confidently in 1953 that they would soon be victorious. But on 7 May 1954, the Vietminh annihilated and captured more than 16,000 soldiers of the French Expeditionary Corps. The entire commanding staff, including a general, 16 colonels and 1,749 officers, were taken prisoner.
+**New words** Obscurantist – Person or ideas that mislead
+====================================================================================================
+
+--- CHUNK 257 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source'}
+Content:
+**New words** Obscurantist – Person or ideas that mislead
+In the peace negotiations in Geneva that followed the French defeat, the Vietnamese were persuaded to accept the division of the country. North and south were split: Ho Chi Minh and the communists took
+footer page number:43
+power in the north while Bao Dai’s regime was put in power in the south.
+====================================================================================================
+
+--- CHUNK 258 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source'}
+Content:
+This division set in motion a series of events that turned Vietnam into a battlefield bringing death and destruction to its people as well as the environment. The Bao Dai regime was soon overthrown by a coup led by Ngo Dinh Diem. Diem built a repressive and authoritarian government. Anyone who opposed him was called a communist and was jailed and killed. Diem retained Ordinance 10, a French law that permitted Christianity but outlawed Buddhism. His dictatorial rule came to be opposed by a broad opposition united under the banner of the National Liberation Front (NLF).
+====================================================================================================
+
+--- CHUNK 259 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source'}
+Content:
+With the help of the Ho Chi Minh government in the north, the NLF fought for the unification of the country. The US
+**_Fig. 10 – The French Commander in Indo-China, General Henri Navarre (right)._** _Navarre wanted to attack the Vietminh even in their remote bases. As a consequence the French opened many fronts of attack and scattered their forces. Navarre’s plans backfired in the North Eastern Valley of Dien Bien Phu._
+====================================================================================================
+
+--- CHUNK 260 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2'}
+Content:
+#### Box 2
+At Dien Bien Phu the French were outwitted by the Vietminh forces led by General Vo Nguyen Giap. The French Commander, Navarre, had not thought of all the problems he would face in the battle. The valley where French garrisons were located was flooded in the monsoon and the area was covered with bushes, making it difficult to move troops and tanks, or trace the Vietminh anti-aircraft guns hidden in the jungle.
+====================================================================================================
+
+--- CHUNK 261 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2'}
+Content:
+From their base in the hills, the Vietminh surrounded the French garrisons in the valley below, digging trenches and tunnels to move without being detected. Supplies and reinforcements could not reach the besieged French garrison, the wounded French soldiers could not be moved, and the French airstrip became unusable because of continuous artillery fire.
+====================================================================================================
+
+--- CHUNK 262 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2'}
+Content:
+Dien Bien Phu became a very important symbol of struggle. It strengthened Vietminh conviction in their capacity to fight powerful imperial forces through determination and proper strategy. Stories of the battle were retold in villages and cities to inspire people.
+**_Fig. 11 – Supplies being taken to Dien Bien Phu._** _Vietminh forces used bicycles and porters to transport supplies. They went through jungles and hidden tracks to escape enemy attacks._
+footer page number:44
+====================================================================================================
+
+--- CHUNK 263 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2', 'subheading4': 'Box 3', 'subheading5': 'Ho Chi Minh (1890-1969)'}
+Content:
+##### Box 3  
+###### Ho Chi Minh (1890-1969)
+====================================================================================================
+
+--- CHUNK 264 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2', 'subheading4': 'Box 3', 'subheading5': 'Ho Chi Minh (1890-1969)'}
+Content:
+Little is known about his early life mostly because Minh chose to downplay his personal background and identify himself with the cause of Vietnam. Probably born as Nguyen Van Thanh in Central Vietnam, he studied at French schools that produced leaders such as Ngo Dinh Diem, Vo Nguyen Giap and Pham Van Dong. He briefly taught in 1910, and in 1911, learnt baking and took a job on a French liner on the Saigon-Marseilles run. Minh became an active member of the Commintern, meeting Lenin and other leaders. In May 1941, after 30 years abroad in Europe, Thailand and China, Minh finally returned to
+====================================================================================================
+
+--- CHUNK 265 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2', 'subheading4': 'Box 3', 'subheading5': 'Ho Chi Minh (1890-1969)'}
+Content:
+in Europe, Thailand and China, Minh finally returned to Vietnam. In 1943 he took the name Ho Chi Minh (He Who Enlightens). He became president of the Vietnam Democratic Republic. Ho Chi Minh died on 3 September 1969. He led the party successfully for over 40 years, struggling to preserve Vietnamese autonomy.
+====================================================================================================
+
+--- CHUNK 266 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'Box 2', 'subheading4': 'Box 3', 'subheading5': 'Ho Chi Minh (1890-1969)'}
+Content:
+watched this alliance with fear. Worried about communists gaining power, it decided to intervene decisively, sending in troops and arms.
+====================================================================================================
+
+--- CHUNK 267 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War'}
+Content:
+#### 6.2 The Entry of the US into the War
+US entry into the war marked a new phase that proved costly to the Vietnamese as well as to the Americans. From 1965 to 1972, over 3,403,100 US services personnel served in Vietnam (7,484 were women). Even though the US had advanced technology and good
+**_Fig. 12 – American soldiers searching rice fields for Vietcongs._**
+footer page number:45
+medical supplies, casualties were high. About 47,244 died in battle and 303,704 were wounded. (Of those wounded, 23,014 were listed by the Veterans Administration to be 100 per cent disabled.)
+====================================================================================================
+
+--- CHUNK 268 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War'}
+Content:
+This phase of struggle with the US was brutal. Thousands of US troops arrived equipped with heavy weapons and tanks and backed by the most powerful bombers of the time – B52s. The wide spread attacks and use of chemical weapons – **Napalm,** Agent Orange, and phosphorous bombs – destroyed many villages and decimated jungles. Civilians died in large numbers.
+====================================================================================================
+
+--- CHUNK 269 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War'}
+Content:
+The effect of the war was felt within the US as well. Many were critical of the government for getting involved in a war that they saw as indefensible. When the youth were drafted for the war, the anger spread. Compulsory service in the armed forces, however, could be waived for university graduates. This meant that many of those sent to fight did not belong to the privileged elite but were minorities and children of working-class families.
+====================================================================================================
+
+--- CHUNK 270 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War'}
+Content:
+The US media and films played a major role in both supporting as well as criticising the war. Hollywood made films in support of the war, such as John Wayne’s _Green Berets_ (1968). This has been cited by many as an example of an unthinking propaganda film that was responsible for motivating many young men to die in the war. Other films were more critical as they tried to understand the reasons for this war. John Ford Coppola’s _Apocalypse Now_ (1979) reflected the moral confusion that the war had caused in the US.
+====================================================================================================
+
+--- CHUNK 271 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War', 'subheading4': 'Box 4', 'subheading5': 'Agent Orange: The Deadly Poison'}
+Content:
+##### Box 4  
+###### Agent Orange: The Deadly Poison
+====================================================================================================
+
+--- CHUNK 272 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War', 'subheading4': 'Box 4', 'subheading5': 'Agent Orange: The Deadly Poison'}
+Content:
+Agent Orange is a defoliant, a plant killer, so called because it was stored in drums marked with an orange band. Between 1961 and 1971, some 11 million gallons of this chemical was sprayed from cargo planes by US forces. Their plan was to destroy forests and fields, so that it would be easier to kill if there was no jungle cover for people to hide in. Over 14 per cent of the country’s farmland was affected by this poison. Its effect has been staggering, continuing to affect people till today. Dioxin, an element of Agent Orange, is known to cause cancer and brain damage in children, and,
+====================================================================================================
+
+--- CHUNK 273 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War', 'subheading4': 'Box 4', 'subheading5': 'Agent Orange: The Deadly Poison'}
+Content:
+is known to cause cancer and brain damage in children, and, according to a study, is also the cause of the high incidence of deformities found in the sprayed areas.
+====================================================================================================
+
+--- CHUNK 274 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War', 'subheading4': 'Box 4', 'subheading5': 'Agent Orange: The Deadly Poison'}
+Content:
+The tonnage of bombs, including chemical arms, used during the US intervention (mostly against civilian targets) in Vietnam exceeds that used throughout the Second World War.
+====================================================================================================
+
+--- CHUNK 275 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.2 The Entry of the US into the War', 'subheading4': 'Box 4', 'subheading5': 'Agent Orange: The Deadly Poison'}
+Content:
+The war grew out of a fear among US policy-planners that the victory of the Ho Chi Minh government would start a domino effect – communist governments would be established in other countries in the area. They **_Fig. 13_** underestimated the power of nationalism to move people to action, inspire them to sacrifice their home and family, live under horrific conditions, and fight for independence. They underestimated the power of a small country to fight the most technologically advanced country in the world.
+**_Fig. 13 – In December 1972 Hanoi was bombed._**
+====================================================================================================
+
+--- CHUNK 276 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': 'New words'}
+Content:
+#### New words
+Napalm – An organic compound used to thicken gasoline for firebombs. The mixture burns slowly and when it comes in contact with surfaces like the human body, it sticks and continues to burn. Developed in the US, it was used in the Second World War. Despite an international outcry, it was used in Vietnam.
+footer page number:46
+====================================================================================================
+
+--- CHUNK 277 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail'}
+Content:
+#### 6.3 The Ho Chi Minh Trail
+The story of the Ho Chi Minh trail is one way of understanding the nature of the war that the Vietnamese fought against the US. It symbolises how the Vietnamese used their limited resources to great advantage. The trail, an immense network of footpaths and roads, was used to transport men and materials from the north to the south. The trail was improved from the late 1950s, and from 1967 about 20,000 North Vietnamese troops came south each month on this trail.
+====================================================================================================
+
+--- CHUNK 278 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail'}
+Content:
+The trail had support bases and hospitals along the way. In some parts supplies were transported in trucks, but mostly they were carried by porters, who were mainly women. These porters carried about 25 kilos on their backs, or about 70 kilos on their bicycles.
+Most of the trail was outside Vietnam in neighbouring Laos and Cambodia with branch lines extending into South Vietnam. The US regularly bombed this trail trying to disrupt supplies, but efforts to destroy this important supply line by intensive bombing failed because they were rebuilt very quickly.
+====================================================================================================
+
+--- CHUNK 279 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail'}
+Content:
+NORTH<br>VIETNAM<br>Khesanh<br>Hue<br>LAOS<br>Danang<br>THAILAND<br>Mekong Quangngai<br>Dakto<br>Pheiku Quinhon<br>CAMBODIA<br>Mekong Banmethuot<br>Tonle Sap<br>SOUTH<br>VIETNAM<br>Tayninh<br>Saigon<br>South China Sea<br>Minh<br>Trail<br>Ho<br>Chi<br>
+**_Fig.14 – The Ho Chi Minh trail._** _Notice how the trail moved through Laos and Cambodia._
+**_Fig. 15 – Rebuilding damaged roads._** _Roads damaged by bombs were quickly rebuilt._
+footer page number:47
+**_Fig.16 – On the Ho Chi Minh trail._**
+====================================================================================================
+
+--- CHUNK 280 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail', 'subheading4': 'Source C', 'subheading5': 'Letters of Mr Do Sam'}
+Content:
+##### Source C  
+###### Letters of Mr Do Sam
+Do Sam was a colonel in the North Vietnamese artillery regiment. He was part of the Tet Offensive started in 1968, to unify North and South Vietnam and win the battle against US. These are extracts from his letters written to his wife from the scene of battle. They show how, in the nationalist imagination, personal love mingles with love for the country and the desire for freedom. Sacrifice appears necessary for happiness.
+====================================================================================================
+
+--- CHUNK 281 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail', 'subheading4': 'Source C', 'subheading5': 'Letter dated 6/1968'}
+Content:
+###### Letter dated 6/1968
+‘You ask me what “you miss most when you think of me?” I miss the environment of our wedding ... I miss the small cozy room with lots of memories. I miss …
+‘Right after our wedding I had to again leave to fight in order to protect the coastal areas of our country. What a short time we had before I had to station permanently in the South. The more I think, the more I feel for you; therefore I would have to be more determined to protect the country in order to bring happiness for millions of couples like us …
+====================================================================================================
+
+--- CHUNK 282 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail', 'subheading4': 'Source C', 'subheading5': 'Letter dated 6/1968'}
+Content:
+‘Last night the car kept heading south. This morning I am writing to you sitting on a stone, surrounded by the sound of streams and the rustle of trees, as if they were celebrating our happiness. Looking forward to the day when we can return victoriously. Then we could live in greater happiness, couldn’t we? Wish you good health and miss me always …’  
+###### Letter dated 6/1968
+‘Though you are always in my mind I have to focus on my work to contribute to the victory of the ongoing struggle of our nation …
+====================================================================================================
+
+--- CHUNK 283 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Source', 'subheading3': '6.3 The Ho Chi Minh Trail', 'subheading4': 'Source C', 'subheading5': 'Letter dated 6/1968'}
+Content:
+‘I have promised myself that only when the South is liberated and peace and happiness return to the people, only then could I be free to focus on building our own happiness, only then I could be satisfied with our family life …’
+- Hung, Dang Vuong, **_Những lá thư thời chiến Việt Nam_** (Letters Written during the War in Vietnam), publication of Hoi nha van (Writers’ Association), 2005. Translation by Nguen Quoc Anh. **_Source_**
+footer page number:48
+====================================================================================================
+
+--- CHUNK 284 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes'}
+Content:
+### 7 The Nation and Its Heroes
+Another way of looking at social movements is to see how they affect different groups in society. Let us see how the roles of women were specified in the anti-imperialist movement in Vietnam, and what that tells us about nationalist ideology.
+====================================================================================================
+
+--- CHUNK 285 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.1 Women as Rebels'}
+Content:
+#### 7.1 Women as Rebels
+Women in Vietnam traditionally enjoyed greater equality than in China, particularly among the lower classes, but they had only limited freedom to determine their future and played no role in public life.
+====================================================================================================
+
+--- CHUNK 286 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.1 Women as Rebels'}
+Content:
+As the nationalist movement grew, the status of women came to be questioned and a new image of womanhood emerged. Writers and political thinkers began idealising women who rebelled against social norms. In the 1930s, a famous novel by Nhat Linh caused a scandal because it showed a woman leaving a forced marriage and marrying someone of her choice, someone who was involved in nationalist politics. This rebellion against social conventions marked the arrival of the new woman in Vietnamese society.
+====================================================================================================
+
+--- CHUNK 287 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.2 Heroes of Past Times'}
+Content:
+#### 7.2 Heroes of Past Times
+====================================================================================================
+
+--- CHUNK 288 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.2 Heroes of Past Times'}
+Content:
+Rebel women of the past were similarly celebrated. In 1913, the nationalist Phan Boi Chau wrote a play based on the lives of the Trung sisters who had fought against Chinese domination in 39-43 **CE** . In this play he depicted these sisters as patriots fighting to save the Vietnamese nation from the Chinese. The actual reasons for the revolt are a matter of debate among scholars, but after Phan’s play the Trung sisters came to be idealised and glorified. They were depicted in paintings, plays and novels as representing the indomitable will and the intense patriotism of the Vietnamese. We are
+====================================================================================================
+
+--- CHUNK 289 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.2 Heroes of Past Times'}
+Content:
+will and the intense patriotism of the Vietnamese. We are told that they gathered a force of over 30,000, resisted the Chinese for two years, and when ultimately defeated, they committed suicide, instead of surrendering to the enemy.
+====================================================================================================
+
+--- CHUNK 290 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.2 Heroes of Past Times'}
+Content:
+Other women rebels of the past were part of the popular nationalist lore. One of the most venerated was Trieu Au who lived in the third century CE. Orphaned in childhood, she lived with her brother. On growing up she left home, went into the jungles, organised a large army and resisted Chinese rule. Finally, when her army was
+**_Fig. 17 – Image of Trieu Au worshipped as a sacred figure._** _Rebels who resisted Chinese rule continue to be celebrated._
+footer page number:49
+====================================================================================================
+
+--- CHUNK 291 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.2 Heroes of Past Times'}
+Content:
+footer page number:49
+crushed, she drowned herself. She became a sacred figure, not just a martyr who fought for the honour of the country. Nationalists popularised her image to inspire people to action.
+====================================================================================================
+
+--- CHUNK 292 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.3 Women as Warriors'}
+Content:
+#### 7.3 Women as Warriors
+In the 1960s, photographs in magazines and journals showed women as brave fighters. There were pictures of women militia shooting down planes. They were portrayed as young, brave and dedicated. Stories were written to show how happy they felt when they joined the army and could carry a rifle. Some stories spoke of their incredible bravery in single-handedly killing the enemy – Nguyen Thi Xuan, for instance, was reputed to have shot down a jet with just twenty bullets.
+====================================================================================================
+
+--- CHUNK 293 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.3 Women as Warriors'}
+Content:
+Women were represented not only as warriors but also as workers: they were shown with a rifle in one hand and a hammer in the other. Whether young or old, women began to be depicted as selflessly working and fighting to save the country. As casualties in the war increased in the 1960s, women were urged to join the struggle in larger numbers.
+====================================================================================================
+
+--- CHUNK 294 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.3 Women as Warriors'}
+Content:
+Many women responded and joined the resistance movement. They helped in nursing the wounded, constructing underground rooms and tunnels and fighting the enemy. Along the Ho Chi Minh trail young volunteers kept open 2,195 km of strategic roads and guarded 2,500 key points. They built six airstrips, neutralised tens of thousands of bombs, transported tens of thousands of kilograms of cargo, weapons and food and shot down fifteen planes. Between 1965 and 1975, of the 17,000 youth who worked on the trail, 70 to 80 per cent were women. One military historian argues that there were 1.5 million
+====================================================================================================
+
+--- CHUNK 295 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.3 Women as Warriors'}
+Content:
+One military historian argues that there were 1.5 million women in the regular army, the militia, the local forces and professional teams.
+====================================================================================================
+
+--- CHUNK 296 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.4 Women in Times of Peace'}
+Content:
+#### 7.4 Women in Times of Peace
+By the 1970s, as peace talks began to get under way and the end of the war seemed near, women were no longer represented as warriors. Now the image of women as workers begins to predominate. They are shown working in agricultural cooperatives, factories and production units, rather than as fighters.
+**_Fig. 18 – With a gun in one hand._** _Stories about women showed them eager to join the army. A common description was: ‘A rosy-cheeked woman, here I am fighting side by side with you men. The prison is my school, the sword is my child, the gun is my husband.’_
+====================================================================================================
+
+--- CHUNK 297 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '7 The Nation and Its Heroes', 'subheading3': '7.4 Women in Times of Peace'}
+Content:
+**_Fig. 19 – Vietnamese women doctors nursing the wounded._**
+footer page number:50
+====================================================================================================
+
+--- CHUNK 298 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '8 The End of the War'}
+Content:
+### 8 The End of the War
+====================================================================================================
+
+--- CHUNK 299 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '8 The End of the War'}
+Content:
+The prolongation of the war created strong reactions even within the US. It was clear that the US had failed to achieve its objectives: the Vietnamese resistance had not been crushed; the support of the Vietnamese people for US action had not been won. In the meantime, thousands of young US soldiers had lost their lives, and countless Vietnamese civilians had been killed. This was a war that has been called the first television war. Battle scenes were shown on the daily news programmes. Many became disillusioned with what the US was doing and writers such as Mary McCarthy, and actors like
+====================================================================================================
+
+--- CHUNK 300 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '8 The End of the War'}
+Content:
+doing and writers such as Mary McCarthy, and actors like Jane Fonda even visited North Vietnam and praised their heroic defence of the country. The scholar Noam Chomsky called the war ‘the greatest threat to peace, to national self-determination, and to international cooperation’.
+====================================================================================================
+
+--- CHUNK 301 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '8 The End of the War'}
+Content:
+**_Fig. 20 – North Vietnamese prisoners in South Vietnam being released after the accord ._**
+The widespread questioning of government policy strengthened moves to negotiate an end to the war. A peace settlement was signed in Paris in January 1974. This ended conflict with the US but fighting between the Saigon regime and the NLF continued. The NLF occupied the presidential palace in Saigon on 30 April 1975 and unified Vietnam.
+**_Fig. 21 – Vietcong soldiers pose triumphantly atop a tank after Saigon is liberated._** _What does this image tell us about the nature of Vietnamese nationalism?_
+====================================================================================================
+
+--- CHUNK 302 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': '8 The End of the War'}
+Content:
+footer page number:51
+====================================================================================================
+
+--- CHUNK 303 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Write a note on:
+- a) What was meant by the ‘civilising mission’ of the colonisers b) Huynh Phu So
+2. Explain the following:
+- a) Only one-third of the students in Vietnam would pass the school-leaving examinations.
+- b) The French began building canals and draining lands in the Mekong delta.
+- c) The government made the Saigon Native Girls School take back the students it had expelled.
+- d) Rats were most common in the modern, newly built areas of Hanoi.
+====================================================================================================
+
+--- CHUNK 304 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Write in brief'}
+Content:
+3. Describe the ideas behind the Tonkin Free School. To what extent was it a typical example of colonial ideas in Vietnam?
+4. What was Phan Chu Trinh’s objective for Vietnam? How were his ideas different from those of Phan Boi Chau?
+====================================================================================================
+
+--- CHUNK 305 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. With reference to what you have read in this chapter, discuss the influence of China on Vietnam’s culture and life.
+2. What was the role of religious groups in the development of anti-colonial feeling in Vietnam?
+3. Explain the causes of the US involvement in the war in Vietnam. What effect did this involvement have on life within the US itself?
+4. Write an evaluation of the Vietnamese war against the US from the point of a) a porter on the Ho Chi Minh trail. b) a woman soldier.
+====================================================================================================
+
+--- CHUNK 306 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Discuss'}
+Content:
+5. What was the role of women in the anti-imperial struggle in Vietnam? Compare this with the role of women in the nationalist struggle in India.
+====================================================================================================
+
+--- CHUNK 307 ---
+Metadata: {'Chapter Name': 'The Nationalist Movement in Indo-China', 'subheading1': '1 Emerging from the Shadow of China', 'subheading2': 'Project'}
+Content:
+### Project
+Find out about the anti-imperialist movement in any one country in South America. Imagine that a freedom fighter from this country meets a Vietminh soldier; they become friends and talk about their experiences of the freedom struggles in their countries. Write about the conversation they might have. Project
+footer page number:52
+====================================================================================================
+
+--- CHUNK 308 ---
+Metadata: {'Chapter Name': 'Nationalism in India'}
+Content:
+# Nationalism in India
+As you have seen, modern nationalism in Europe came to be associated with the formation of nation-states. It also meant a change in people’s understanding of who they were, and what defined their identity and sense of belonging. New symbols and icons, new songs and ideas forged new links and redefined the boundaries of communities. In most countries the making of this new national identity was a long process. How did this consciousness emerge in India?
+====================================================================================================
+
+--- CHUNK 309 ---
+Metadata: {'Chapter Name': 'Nationalism in India'}
+Content:
+In India, as in Vietnam and many other colonies, the growth of modern nationalism is intimately connected to the anti-colonial movement. People began discovering their unity in the process of their struggle with colonialism. The sense of being oppressed under colonialism provided a shared bond that tied many different groups together. But each class and group felt the effects of colonialism differently, their experiences were varied, and their notions of freedom were not always the same. The Congress under Mahatma Gandhi tried to forge these groups together within one movement. But the unity
+====================================================================================================
+
+--- CHUNK 310 ---
+Metadata: {'Chapter Name': 'Nationalism in India'}
+Content:
+these groups together within one movement. But the unity did not emerge without conflict.
+====================================================================================================
+
+--- CHUNK 311 ---
+Metadata: {'Chapter Name': 'Nationalism in India'}
+Content:
+In an earlier textbook you have read about the growth of nationalism in India up to the first decade of the twentieth century. In this chapter we will pick up the story from the 1920s and study the NonCooperation and Civil Disobedience Movements. We will explore how the Congress sought to develop the national movement, how different social groups participated in the movement, and how nationalism captured the imagination of people.
+**_Fig. 1 – 6 April 1919._** _Mass processions on the streets became a common feature during the national movement._
+====================================================================================================
+
+--- CHUNK 312 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation'}
+Content:
+## 1 The First World War, Khilafat and Non-Cooperation
+In the years after 1919, we see the national movement spreading to new areas, incorporating new social groups, and developing new modes of struggle. How do we understand these developments? What implications did they have?
+====================================================================================================
+
+--- CHUNK 313 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation'}
+Content:
+First of all, the war created a new economic and political situation. It led to a huge increase in defence expenditure which was financed by war loans and increasing taxes: customs duties were raised and income tax introduced. Through the war years prices increased – doubling between 1913 and 1918 – leading to extreme hardship for the common people. Villages were called upon to supply soldiers, and the **forced recruitment** in rural areas caused widespread anger. Then in 1918-19 and 1920-21, crops failed in many parts of India, resulting in acute shortages of food. This was accompanied by an
+====================================================================================================
+
+--- CHUNK 314 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation'}
+Content:
+in acute shortages of food. This was accompanied by an influenza epidemic. According to the census of 1921, 12 to 13 million people perished as a result of famines and the epidemic.
+====================================================================================================
+
+--- CHUNK 315 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation'}
+Content:
+**New words**
+Forced recruitment – A process by which the colonial state forced people to join the army
+People hoped that their hardships would end after the war was over. But that did not happen.
+At this stage a new leader appeared and suggested a new mode of struggle.
+====================================================================================================
+
+--- CHUNK 316 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha'}
+Content:
+### 1.1 The Idea of Satyagraha
+Mahatma Gandhi returned to India in January 1915. As you know, he had come from South Africa where he had successfully fought
+**_Fig. 2 – Indian workers in South Africa march through Volksrust, 6 November 1913._** _Mahatma Gandhi was leading the workers from Newcastle to Transvaal. When the marchers were stopped and Gandhiji arrested, thousands of more workers joined the_ satyagraha _against racist laws that denied rights to non-whites._
+footer page number:54
+====================================================================================================
+
+--- CHUNK 317 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha'}
+Content:
+the racist regime with a novel method of mass agitation, which he called satyagraha. The idea of satyagraha emphasised the power of truth and the need to search for truth. It suggested that if the cause was true, if the struggle was against injustice, then physical force was not necessary to fight the oppressor. Without seeking vengeance or being aggressive, a satyagrahi could win the battle through nonviolence. This could be done by appealing to the conscience of the oppressor. People – including the oppressors – had to be persuaded to see the truth, instead of being forced to accept truth
+====================================================================================================
+
+--- CHUNK 318 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha'}
+Content:
+to see the truth, instead of being forced to accept truth through the use of violence. By this struggle, truth was bound to ultimately triumph. Mahatma Gandhi believed that this _dharma_ of non-violence could unite all Indians.
+====================================================================================================
+
+--- CHUNK 319 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha'}
+Content:
+After arriving in India, Mahatma Gandhi successfully organised satyagraha movements in various places. In 1916 he travelled to Champaran in Bihar to inspire the peasants to struggle against the oppressive plantation system.Then in 1917, he organised a satyagraha to support the peasants of the Kheda district of Gujarat. Affected by crop failure and a plague epidemic, the peasants of Kheda could not pay the revenue, and were demanding that revenue collection be relaxed. In 1918, Mahatma Gandhi went to Ahmedabad to organise a satyagraha movement amongst cotton mill workers.
+====================================================================================================
+
+--- CHUNK 320 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha', 'subheading3': 'Source A', 'subheading4': 'Mahatma Gandhi on Satyagraha'}
+Content:
+#### Source A  
+##### Mahatma Gandhi on Satyagraha
+‘It is said of “passive resistance” that it is the weapon of the weak, but the power which is the subject of this article can be used only by the strong. This power is not passive resistance; indeed it calls for intense activity. The movement in South Africa was not passive but active …
+‘ Satyagraha is not physical force. A satyagrahi does not inflict pain on the adversary; he does not seek his destruction … In the use of satyagraha, there is no ill-will whatever.
+====================================================================================================
+
+--- CHUNK 321 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha', 'subheading3': 'Source A', 'subheading4': 'Mahatma Gandhi on Satyagraha'}
+Content:
+‘ Satyagraha is pure soul-force. Truth is the very substance of the soul. That is why this force is called satyagraha. The soul is informed with knowledge. In it burns the flame of love. … Nonviolence is the supreme dharma …
+‘It is certain that India cannot rival Britain or Europe in force of arms. The British worship the war-god and they can all of them become, as they are becoming, bearers of arms. The hundreds of millions in India can never carry arms. They have made the religion of non-violence their own ...’ **_Source_**
+====================================================================================================
+
+--- CHUNK 322 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '1.1 The Idea of Satyagraha', 'subheading3': '1.2 The Rowlatt Act'}
+Content:
+#### 1.2 The Rowlatt Act
+Emboldened with this success, Gandhiji in 1919 decided to launch a nationwide satyagraha against the proposed Rowlatt Act (1919). This Act had been hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members. It gave the government enormous powers to repress political activities, and allowed detention of political prisoners without trial for two years. Mahatma Gandhi wanted non-violent civil disobedience against such unjust laws, which would start with a _hartal_ on 6 April.
+====================================================================================================
+
+--- CHUNK 323 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+### Activity
+Read the text carefully. What did Mahatma Gandhi mean when he said _satyagraha_ is active resistance?
+====================================================================================================
+
+--- CHUNK 324 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+Rallies were organised in various cities, workers went on strike in railway workshops, and shops closed down. Alarmed by the popular upsurge, and scared that lines of communication such as the railways and telegraph would be disrupted, the British administration decided to clamp down on nationalists. Local leaders were picked up from Amritsar, and Mahatma Gandhi was barred from entering Delhi. On 10 April, the police in Amritsar fired upon a peaceful procession, provoking widespread attacks on banks, post offices and railway stations. Martial law was imposed and General Dyer took command.
+====================================================================================================
+
+--- CHUNK 325 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+footer page number:55
+On 13 April the infamous Jallianwalla Bagh incident took place. On that day a crowd of villagers who had come to Amritsar to attend a fair gathered in the enclosed ground of Jallianwalla Bagh. Being from outside the city, they were unaware of the martial law that had been imposed. Dyer entered the area, blocked the exit points, and opened fire on the crowd, killing hundreds. His object, as he declared later, was to ‘produce a moral effect’, to create in the minds of satyagrahis a feeling of terror and awe.
+====================================================================================================
+
+--- CHUNK 326 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. There were strikes, clashes with the police and attacks on government buildings. The government responded with brutal repression, seeking to humiliate and terrorise people: satyagrahis were forced to rub their noses on the ground, crawl on the streets, and do _salaam_ (salute) to all sahibs; people were flogged and villages (around Gujranwala in Punjab, now in Pakistan) were bombed. Seeing violence spread, Mahatma Gandhi called off the movement.
+====================================================================================================
+
+--- CHUNK 327 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+While the Rowlatt satyagraha had been a widespread movement, it was still limited mostly to cities and towns. Mahatma Gandhi now felt the need to launch a more broad-based movement in India. But he was certain that no such movement could be organised without bringing the Hindus and Muslims closer together. One way of doing this, he felt, was to take up the Khilafat issue. The First World War had ended with the defeat of Ottoman Turkey. And there were rumours that a harsh peace treaty was going to be imposed on the Ottoman emperor – the spiritual head of the Islamic world (the Khalifa). To
+====================================================================================================
+
+--- CHUNK 328 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+– the spiritual head of the Islamic world (the Khalifa). To defend the Khalifa’s temporal powers, a Khilafat Committee was formed in Bombay in March 1919. A young generation of Muslim leaders like the brothers Muhammad Ali and Shaukat Ali, began discussing with Mahatma Gandhi about the possibility of a united mass action on the issue. Gandhiji saw this as an opportunity to bring Muslims under the umbrella of a unified national movement. At the Calcutta session of the Congress in September 1920, he convinced other leaders of the need to start a non-cooperation movement in support of Khilafat
+====================================================================================================
+
+--- CHUNK 329 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+to start a non-cooperation movement in support of Khilafat as well as for swaraj.
+====================================================================================================
+
+--- CHUNK 330 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+**_Fig. 3 – General Dyer’s ‘crawling orders’ being administered by British soldiers, Amritsar, Punjab, 1919_** _._
+====================================================================================================
+
+--- CHUNK 331 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '1.3 Why Non-cooperation?'}
+Content:
+#### 1.3 Why Non-cooperation?
+In his famous book _Hind Swaraj_ (1909) Mahatma Gandhi declared that British rule was established in India with the cooperation of
+footer page number:56
+Indians, and had survived only because of this cooperation. If Indians refused to cooperate, British rule in India would collapse within a year, and swaraj would come.
+====================================================================================================
+
+--- CHUNK 332 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '1.3 Why Non-cooperation?'}
+Content:
+How could non-cooperation become a movement? Gandhiji proposed that the movement should unfold in stages. It should begin with the surrender of titles that the government awarded, and a **boycott** of civil services, army, police, courts and legislative councils, schools, and foreign goods. Then, in case the government used repression, a full civil disobedience campaign would be launched. Through the summer of 1920 Mahatma Gandhi and Shaukat Ali toured extensively, mobilising popular support for the movement.
+====================================================================================================
+
+--- CHUNK 333 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Boycott – The refusal to deal and associate with people, or participate in activities, or buy and use things; usually a form of protest
+====================================================================================================
+
+--- CHUNK 334 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Many within the Congress were, however, concerned about the proposals. They were reluctant to boycott the council elections scheduled for November 1920, and they feared that the movement might lead to popular violence. In the months between September and December there was an intense tussle within the Congress. For a while there seemed no meeting point between the supporters and the opponents of the movement. Finally, at the Congress session at Nagpur in December 1920, a compromise was worked out and the Non-Cooperation programme was adopted.
+====================================================================================================
+
+--- CHUNK 335 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+How did the movement unfold? Who participated in it? How did different social groups conceive of the idea of Non-Cooperation?
+**_Fig. 4 – The boycott of foreign cloth, July 1922._** _Foreign cloth was seen as the symbol of Western economic and cultural domination._
+footer page number:57
+====================================================================================================
+
+--- CHUNK 336 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '2 Differing Strands within the Movement'}
+Content:
+### 2 Differing Strands within the Movement
+The Non-Cooperation-Khilafat Movement began in January 1921. Various social groups participated in this movement, each with its own specific aspiration. All of them responded to the call of Swaraj, but the term meant different things to different people.
+====================================================================================================
+
+--- CHUNK 337 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '2 Differing Strands within the Movement', 'subheading3': '2.1 The Movement in the Towns'}
+Content:
+#### 2.1 The Movement in the Towns
+The movement started with middle-class participation in the cities. Thousands of students left government-controlled schools and colleges, headmasters and teachers resigned, and lawyers gave up their legal practices. The council elections were boycotted in most provinces except Madras, where the Justice Party, the party of the non-Brahmans, felt that entering the council was one way of gaining some power – something that usually only Brahmans had access to.
+====================================================================================================
+
+--- CHUNK 338 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '2 Differing Strands within the Movement', 'subheading3': '2.1 The Movement in the Towns'}
+Content:
+The effects of non-cooperation on the economic front were more dramatic. Foreign goods were boycotted, liquor shops **picketed** , and foreign cloth burnt in huge bonfires. The import of foreign cloth halved between 1921 and 1922, its value dropping from Rs 102 crore to Rs 57 crore. In many places merchants and traders refused to trade in foreign goods or finance foreign trade. As the boycott movement spread, and people began discarding imported clothes and wearing only Indian ones, production of Indian textile mills and handlooms went up.
+====================================================================================================
+
+--- CHUNK 339 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '2 Differing Strands within the Movement', 'subheading3': '2.1 The Movement in the Towns'}
+Content:
+But this movement in the cities gradually slowed down for a variety of reasons. _Khadi_ cloth was often more expensive than massproduced mill cloth and poor people could not afford to buy it. How then could they boycott mill cloth for too long? Similarly the boycott of British institutions posed a problem. For the movement to be successful, alternative Indian institutions had to be set up so that they could be used in place of the British ones. These were slow to come up. So students and teachers began trickling back to government schools and lawyers joined back work in government courts.
+====================================================================================================
+
+--- CHUNK 340 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '2 Differing Strands within the Movement', 'subheading3': '2.1 The Movement in the Towns'}
+Content:
+**New words** Picket – A form of demonstration or protest by which people block the entrance to a shop, factory or office
+====================================================================================================
+
+--- CHUNK 341 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+### Activity
+The year is 1921. You are a student in a government-controlled school. Design a poster urging school students to answer Gandhiji’s call to join the Non-Cooperation Movement.
+====================================================================================================
+
+--- CHUNK 342 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.2 Rebellion in the Countryside'}
+Content:
+#### 2.2 Rebellion in the Countryside
+From the cities, the Non-Cooperation Movement spread to the countryside. It drew into its fold the struggles of peasants and tribals
+footer page number:58
+which were developing in different parts of India in the years after the war.
+====================================================================================================
+
+--- CHUNK 343 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.2 Rebellion in the Countryside'}
+Content:
+In Awadh, peasants were led by Baba Ramchandra – a _sanyasi_ who had earlier been to Fiji as an indentured labourer. The movement here was against _talukdars_ and landlords who demanded from peasants exorbitantly high rents and a variety of other cesses. Peasants had to do **_begar_** and work at landlords’ farms without any payment. As tenants they had no security of tenure, being regularly evicted so that they could acquire no right over the leased land. The peasant movement demanded reduction of revenue, abolition of _begar_ , and social boycott of oppressive landlords. In many places
+====================================================================================================
+
+--- CHUNK 344 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.2 Rebellion in the Countryside'}
+Content:
+and social boycott of oppressive landlords. In many places _nai_ – _dhobi bandhs_ were organised by panchayats to deprive landlords of the services of even barbers and washermen. In June 1920, Jawaharlal Nehru began going around the villages in Awadh, talking to the villagers, and trying to understand their grievances. By October, the Oudh Kisan Sabha was set up headed by Jawaharlal Nehru, Baba Ramchandra and a few others. Within a month, over 300 branches had been set up in the villages around the region. So when the NonCooperation Movement began the following year, the effort of the
+====================================================================================================
+
+--- CHUNK 345 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.2 Rebellion in the Countryside'}
+Content:
+Movement began the following year, the effort of the Congress was to integrate the Awadh peasant struggle into the wider struggle. The peasant movement, however, developed in forms that the Congress leadership was unhappy with. As the movement spread in 1921, the houses of _talukdars_ and merchants were attacked, bazaars were looted, and grain hoards were taken over. In many places local leaders told peasants that Gandhiji had declared that no taxes were to be paid and land was to be redistributed among the poor. The name of the Mahatma was being invoked to sanction all action and
+====================================================================================================
+
+--- CHUNK 346 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.2 Rebellion in the Countryside'}
+Content:
+of the Mahatma was being invoked to sanction all action and aspirations.
+====================================================================================================
+
+--- CHUNK 347 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+_Begar_ – Labour that villagers were forced to contribute without any payment
+====================================================================================================
+
+--- CHUNK 348 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+### Activity
+If you were a peasant in Uttar Pradesh in 1920, how would you have responded to Gandhiji’s call for Swaraj? Give reasons for your response.
+====================================================================================================
+
+--- CHUNK 349 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+#### Source B
+On 6 January 1921, the police in United Provinces fired at peasants near Rae Bareli. Jawaharlal Nehru wanted to go to the place of firing, but was stopped by the police. Agitated and angry, Nehru addressed the peasants who gathered around him. This is how he later described the meeting:
+====================================================================================================
+
+--- CHUNK 350 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+‘They behaved as brave men, calm and unruffled in the face of danger. I do not know how they felt but I know what my feelings were. For a moment my blood was up, non-violence was almost forgotten – but for a moment only. The thought of the great leader, who by God’s goodness has been sent to lead us to victory, came to me, and I saw the kisans seated and standing near me, less excited, more peaceful than I was – and the moment of weakness passed, I spoke to them in all humility on non-violence – I needed the lesson more than they – and they heeded me and peacefully dispersed.’
+====================================================================================================
+
+--- CHUNK 351 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+Quoted in Sarvapalli Gopal, Jawaharlal Nehru: A Biography, Vol. I.
+**_Source_**
+footer page number:59
+====================================================================================================
+
+--- CHUNK 352 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+Tribal peasants interpreted the message of Mahatma Gandhi and the idea of _swaraj_ in yet another way. In the Gudem Hills of Andhra Pradesh, for instance, a militant guerrilla movement spread in the early 1920s – not a form of struggle that the Congress could approve. Here, as in other forest regions, the colonial government had closed large forest areas, preventing people from entering the forests to graze their cattle, or to collect fuelwood and fruits. This enraged the hill people. Not only were their livelihoods affected but they felt that their traditional rights were being denied. When
+====================================================================================================
+
+--- CHUNK 353 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+felt that their traditional rights were being denied. When the government began forcing them to contribute _begar_ for road building, the hill people revolted. The person who came to lead them was an interesting figure. Alluri Sitaram Raju claimed that he had a variety of special powers: he could make correct astrological predictions and heal people, and he could survive even bullet shots. Captivated by Raju, the rebels proclaimed that he was an incarnation of God. Raju talked of the greatness of Mahatma Gandhi, said he was inspired by the Non-Cooperation Movement, and persuaded people to
+====================================================================================================
+
+--- CHUNK 354 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source B'}
+Content:
+by the Non-Cooperation Movement, and persuaded people to wear _khadi_ and give up drinking. But at the same time he asserted that India could be liberated only by the use of force, not non-violence. The Gudem rebels attacked police stations, attempted to kill British officials and carried on guerrilla warfare for achieving swaraj. Raju was captured and executed in 1924, and over time became a folk hero.
+====================================================================================================
+
+--- CHUNK 355 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.3 Swaraj in the Plantations'}
+Content:
+#### 2.3 Swaraj in the Plantations
+====================================================================================================
+
+--- CHUNK 356 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.3 Swaraj in the Plantations'}
+Content:
+Workers too had their own understanding of Mahatma Gandhi and the notion of swaraj. For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed, and it meant retaining a link with the village from which they had come. Under the Inland Emigration Act of 1859, plantation workers were not permitted to leave the tea gardens without permission, and in fact they were rarely given such permission. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home.
+====================================================================================================
+
+--- CHUNK 357 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': '2.3 Swaraj in the Plantations'}
+Content:
+the authorities, left the plantations and headed home. They believed that Gandhi Raj was coming and everyone would be given land in their own villages. They, however, never reached their destination. Stranded on the way by a railway and steamer strike, they were caught by the police and brutally beaten up.
+====================================================================================================
+
+--- CHUNK 358 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+### Activity
+Find out about other participants in the National Movement who were captured and put to death by the British. Can you think of a similar example from the national movement in Indo-China (Chapter 2)?
+footer page number:60
+====================================================================================================
+
+--- CHUNK 359 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+footer page number:60
+The visions of these movements were not defined by the Congress programme. They interpreted the term swaraj in their own ways, imagining it to be a time when all suffering and all troubles would be over. Yet, when the tribals chanted Gandhiji’s name and raised slogans demanding ‘ _Swatantra Bharat’_ , they were also emotionally relating to an all-India agitation. When they acted in the name of Mahatma Gandhi, or linked their movement to that of the Congress, they were identifying with a movement which went beyond the limits of their immediate locality.
+====================================================================================================
+
+--- CHUNK 360 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+**_Fig. 5 – Chauri Chaura, 1922._** _At Chauri Chaura in Gorakhpur, a peaceful demonstration in a bazaar turned into a violent clash with the police. Hearing of the incident, Mahatma Gandhi called a halt to the Non-Cooperation Movement._
+footer page number:61
+====================================================================================================
+
+--- CHUNK 361 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+### 3 Towards Civil Disobedience
+====================================================================================================
+
+--- CHUNK 362 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+In February 1922, Mahatma Gandhi decided to withdraw the Non-Cooperation Movement. He felt the movement was turning violent in many places and satyagrahis needed to be properly trained before they would be ready for mass struggles. Within the Congress, some leaders were by now tired of mass struggles and wanted to participate in elections to the provincial councils that had been set up by the Government of India Act of 1919. They felt that it was important to oppose British policies within the councils, argue for reform and also demonstrate that these councils were not truly democratic. C. R.
+====================================================================================================
+
+--- CHUNK 363 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+that these councils were not truly democratic. C. R. Das and Motilal Nehru formed the Swaraj Party within the Congress to argue for a return to council politics. But younger leaders like Jawaharlal Nehru and Subhas Chandra Bose pressed for more radical mass agitation and for full independence.
+====================================================================================================
+
+--- CHUNK 364 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+In such a situation of internal debate and dissension two factors again shaped Indian politics towards the late 1920s. The first was the effect of the worldwide economic depression. Agricultural prices began to fall from 1926 and collapsed after 1930. As the demand for agricultural goods fell and exports declined, peasants found it difficult to sell their harvests and pay their revenue. By 1930, the countryside was in turmoil.
+====================================================================================================
+
+--- CHUNK 365 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+Against this background the new Tory government in Britain constituted a Statutory Commission under Sir John Simon. Set up in response to the nationalist movement, the commission was to look into the functioning of the constitutional system in India and suggest changes. The problem was that the commission did not have a single Indian member. They were all British.
+====================================================================================================
+
+--- CHUNK 366 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+When the Simon Commission arrived in India in 1928, it was greeted with the slogan ‘Go back Simon’. All parties, including the Congress and the Muslim League, participated in the demonstrations. In an effort to win them over, the viceroy, Lord Irwin, announced in October 1929, a vague offer of ‘dominion status’ for India in an unspecified future, and a Round Table Conference to discuss a future constitution. This did not satisfy the Congress leaders. The radicals within the Congress, led by
+====================================================================================================
+
+--- CHUNK 367 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+**_Fig. 6 – Meeting of Congress leaders at Allahabad, 1931._** _Apart from Mahatma Gandhi, you can see Sardar Vallabhbhai Patel (extreme left), Jawaharlal Nehru (extreme right) and Subhas Chandra Bose (fifth from right)._
+footer page number:62
+====================================================================================================
+
+--- CHUNK 368 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+Jawaharlal Nehru and Subhas Chandra Bose, became more assertive. The liberals and moderates, who were proposing a constitutional system within the framework of British dominion, gradually lost their influence. In December 1929, under the presidency of Jawaharlal Nehru, the Lahore Congress formalised the demand of ‘Purna Swaraj’ or full independence for India. It was declared that 26 January 1930, would be celebrated as the Independence Day when people were to take a pledge to struggle for complete independence. But the celebrations attracted very little attention. So Mahatma Gandhi had to
+====================================================================================================
+
+--- CHUNK 369 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience'}
+Content:
+attracted very little attention. So Mahatma Gandhi had to find a way to relate this abstract idea of freedom to more concrete issues of everyday life.
+====================================================================================================
+
+--- CHUNK 370 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement'}
+Content:
+#### 3.1 The Salt March and the Civil Disobedience Movement
+====================================================================================================
+
+--- CHUNK 371 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement'}
+Content:
+Mahatma Gandhi found in salt a powerful symbol that could unite the nation. On 31 January 1930, he sent a letter to Viceroy Irwin stating eleven demands. Some of these were of general interest; others were specific demands of different classes, from industrialists to peasants. The idea was to make the demands wide-ranging, so that all classes within Indian society could identify with them and everyone could be brought together in a united campaign. The most stirring of all was the demand to abolish the salt tax. Salt was something consumed by the rich and the poor alike, and it was one of the
+====================================================================================================
+
+--- CHUNK 372 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement'}
+Content:
+by the rich and the poor alike, and it was one of the most essential items of food. The tax on salt and the government monopoly over its production, Mahatma Gandhi declared, revealed the most oppressive face of British rule.
+====================================================================================================
+
+--- CHUNK 373 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement', 'subheading4': 'Source C', 'subheading5': 'The Independence Day Pledge, 26 January 1930'}
+Content:
+##### Source C  
+###### The Independence Day Pledge, 26 January 1930
+====================================================================================================
+
+--- CHUNK 374 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement', 'subheading4': 'Source C', 'subheading5': 'The Independence Day Pledge, 26 January 1930'}
+Content:
+‘We believe that it is the inalienable right of the Indian people, as of any other people, to have freedom and to enjoy the fruits of their toil and have the necessities of life, so that they may have full opportunities of growth. We believe also that if any government deprives a people of these rights and oppresses them, the people have a further right to alter it or to abolish it. The British Government in India has not only deprived the Indian people of their freedom but has based itself on the exploitation of the masses, and has ruined India economically, politically, culturally, and
+====================================================================================================
+
+--- CHUNK 375 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '3 Towards Civil Disobedience', 'subheading3': '3.1 The Salt March and the Civil Disobedience Movement', 'subheading4': 'Source C', 'subheading5': 'The Independence Day Pledge, 26 January 1930'}
+Content:
+has ruined India economically, politically, culturally, and spiritually. We believe, therefore, that India must sever the British connection and attain Purna Swaraj or Complete Independence.’
+====================================================================================================
+
+--- CHUNK 376 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+### Source
+====================================================================================================
+
+--- CHUNK 377 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+Mahatma Gandhi’s letter was, in a way, an ultimatum. If the demands were not fulfilled by 11 March, the letter stated, the Congress would launch a civil disobedience campaign. Irwin was unwilling to negotiate. So Mahatma Gandhi started his famous salt march accompanied by 78 of his trusted volunteers. The march was over 240 miles, from Gandhiji’s ashram in Sabarmati to the Gujarati coastal town of Dandi. The volunteers walked for 24 days, about 10 miles a day. Thousands came to hear Mahatma Gandhi wherever he stopped, and he told them what he meant by swaraj and urged them to peacefully defy
+====================================================================================================
+
+--- CHUNK 378 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+what he meant by swaraj and urged them to peacefully defy the British. On 6 April he reached Dandi, and ceremonially violated the law, manufacturing salt by boiling sea water.
+====================================================================================================
+
+--- CHUNK 379 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+This marked the beginning of the Civil Disobedience Movement. How was this movement different from the Non-Cooperation Movement? People were now asked not only to refuse cooperation
+footer page number:63
+**_Fig. 7 – The Dandi march._** _During the salt march Mahatma Gandhi was accompanied by 78 volunteers. On the way they were joined by thousands._
+====================================================================================================
+
+--- CHUNK 380 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+with the British, as they had done in 1921-22, but also to break colonial laws. Thousands in different parts of the country broke the salt law, manufactured salt and demonstrated in front of government salt factories. As the movement spread, foreign cloth was boycotted, and liquor shops were picketed. Peasants refused to pay revenue and _chaukidari_ taxes, village officials resigned, and in many places forest people violated forest laws – going into Reserved Forests to collect wood and graze cattle.
+====================================================================================================
+
+--- CHUNK 381 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+Worried by the developments, the colonial government began arresting the Congress leaders one by one. This led to violent clashes in many palaces. When Abdul Ghaffar Khan, a devout disciple of Mahatma Gandhi, was arrested in April 1930, angry crowds demonstrated in the streets of Peshawar, facing armoured cars and police firing. Many were killed. A month later, when Mahatma Gandhi himself was arrested, industrial workers in Sholapur attacked police posts, municipal buildings, lawcourts and railway stations – all structures that symbolised British rule. A frightened government responded with a
+====================================================================================================
+
+--- CHUNK 382 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+British rule. A frightened government responded with a policy of brutal repression. Peaceful satyagrahis were attacked, women and children were beaten, and about 100,000 people were arrested.
+====================================================================================================
+
+--- CHUNK 383 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+In such a situation, Mahatma Gandhi once again decided to call off the movement and entered into a pact with Irwin on 5 March 1931. By this Gandhi-Irwin Pact, Gandhiji consented to participate in a Round Table Conference (the Congress had boycotted the first
+**_Fig. 8 – Police cracked down on satyagrahis, 1930._**
+footer page number:64
+====================================================================================================
+
+--- CHUNK 384 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+Round Table Conference) in London and the government agreed to release the political prisoners. In December 1931, Gandhiji went to London for the conference, but the negotiations broke down and he returned disappointed. Back in India, he discovered that the government had begun a new cycle of repression. Ghaffar Khan and Jawaharlal Nehru were both in jail, the Congress had been declared illegal, and a series of measures had been imposed to prevent meetings, demonstrations and boycotts. With great apprehension, Mahatma Gandhi relaunched the Civil Disobedience Movement. For over a year, the
+====================================================================================================
+
+--- CHUNK 385 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source'}
+Content:
+the Civil Disobedience Movement. For over a year, the movement continued, but by 1934 it lost its momentum.
+====================================================================================================
+
+--- CHUNK 386 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement'}
+Content:
+#### 3.2 How Participants saw the Movement
+Let us now look at the different social groups that participated in the Civil Disobedience Movement. Why did they join the movement? What were their ideals? What did swaraj mean to them?
+====================================================================================================
+
+--- CHUNK 387 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement'}
+Content:
+In the countryside, rich peasant communities – like the Patidars of Gujarat and the Jats of Uttar Pradesh – were active in the movement. Being producers of commercial crops, they were very hard hit by the trade depression and falling prices. As their cash income disappeared, they found it impossible to pay the government’s revenue demand. And the refusal of the government to reduce the revenue demand led to widespread resentment. These rich peasants became enthusiastic supporters of the Civil Disobedience Movement, organising their communities, and at times forcing reluctant members, to
+====================================================================================================
+
+--- CHUNK 388 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement'}
+Content:
+communities, and at times forcing reluctant members, to participate in the boycott programmes. For them the fight for swaraj was a struggle against high revenues. But they were deeply disappointed when the movement was called off in 1931 without the revenue rates being revised. So when the movement was restarted in 1932, many of them refused to participate.
+====================================================================================================
+
+--- CHUNK 389 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+##### Box 1  
+###### ‘To the altar of this revolution we have brought our youth as incense’
+====================================================================================================
+
+--- CHUNK 390 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+Many nationalists thought that the struggle against the British could not be won through non-violence. In 1928, the Hindustan Socialist Republican Army (HSRA) was founded at a meeting in Ferozeshah Kotla ground in Delhi. Amongst its leaders were Bhagat Singh, Jatin Das and Ajoy Ghosh. In a series of dramatic actions in different parts of India, the HSRA targeted some of the symbols of British power. In April 1929, Bhagat Singh and Batukeswar Dutta threw a bomb in the Legislative Assembly. In the same year there was an attempt to blow up the train that Lord Irwin was travelling in. Bhagat
+====================================================================================================
+
+--- CHUNK 391 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+blow up the train that Lord Irwin was travelling in. Bhagat Singh was 23 when he was tried and executed by the colonial government. During his trial, Bhagat Singh stated that he did not wish to glorify ‘the cult of the bomb and pistol’ but wanted a revolution in society:
+====================================================================================================
+
+--- CHUNK 392 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+‘Revolution is the inalienable right of mankind. Freedom is the imprescriptible birthright of all. The labourer is the real sustainer of society … To the altar of this revolution we have brought our youth as incense, for no sacrifice is too great for so magnificent a cause. We are content. We await the advent of revolution. Inquilab Zindabad!’
+====================================================================================================
+
+--- CHUNK 393 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+The poorer peasantry were not just interested in the lowering of the revenue demand. Many of them were small tenants cultivating land they had rented from landlords. As the Depression continued and cash incomes dwindled, the small tenants found it difficult to pay their rent. They wanted the unpaid rent to the landlord to be remitted. They joined a variety of radical movements, often led by Socialists and Communists. Apprehensive of raising issues that might upset the rich peasants and landlords, the Congress was unwilling to support ‘no rent’ campaigns in most places. So the relationship
+====================================================================================================
+
+--- CHUNK 394 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+‘no rent’ campaigns in most places. So the relationship between the poor peasants and the Congress remained uncertain.
+====================================================================================================
+
+--- CHUNK 395 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+footer page number:65
+====================================================================================================
+
+--- CHUNK 396 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+What about the business classes? How did they relate to the Civil Disobedience Movement? During the First World War, Indian merchants and industrialists had made huge profits and become powerful (see Chapter 5). Keen on expanding their business, they now reacted against colonial policies that restricted business activities. They wanted protection against imports of foreign goods, and a rupee-sterling foreign exchange ratio that would discourage imports. To organise business interests, they formed the Indian Industrial and Commercial Congress in 1920 and the Federation of the Indian Chamber of
+====================================================================================================
+
+--- CHUNK 397 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+in 1920 and the Federation of the Indian Chamber of Commerce and Industries (FICCI) in 1927. Led by prominent industrialists like Purshottamdas Thakurdas and G. D. Birla, the industrialists attacked colonial control over the Indian economy, and supported the Civil Disobedience Movement when it was first launched. They gave financial assistance and refused to buy or sell imported goods. Most businessmen came to see swaraj as a time when colonial restrictions on business would no longer exist and trade and industry would flourish without constraints. But after the failure of the Round Table
+====================================================================================================
+
+--- CHUNK 398 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+constraints. But after the failure of the Round Table Conference, business groups were no longer uniformly enthusiastic. They were apprehensive of the spread of militant activities, and worried about prolonged disruption of business, as well as of the growing influence of socialism amongst the younger members of the Congress.
+====================================================================================================
+
+--- CHUNK 399 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+The industrial working classes did not participate in the Civil Disobedience Movement in large numbers, except in the Nagpur region. As the industrialists came closer to the Congress, workers stayed aloof. But in spite of that, some workers did participate in the Civil Disobedience Movement, selectively adopting some of the ideas of the Gandhian programme, like boycott of foreign goods, as part of their own movements against low wages and poor working conditions. There were strikes by railway workers in 1930 and dockworkers in 1932. In 1930 thousands of workers in Chotanagpur tin mines wore
+====================================================================================================
+
+--- CHUNK 400 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+In 1930 thousands of workers in Chotanagpur tin mines wore Gandhi caps and participated in protest rallies and boycott campaigns. But the Congress was reluctant to include workers’ demands as part of its programme of struggle. It felt that this would alienate industrialists and divide the antiimperial forces.
+====================================================================================================
+
+--- CHUNK 401 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+Some important dates <u>1918-19</u> Distressed UP peasants organised by Baba Ramchandra. April 1919 Gandhian _hartal_ against Rowlatt Act; Jallianwala Bagh massacre. January 1921 Non-Cooperation and Khilafat movement launched. February 1922 Chauri Chaura; Gandhiji withdraws NonCooperation movement. May 1924 Alluri Sitarama Raju arrested ending a two-year armed tribal struggle. December 1929 Lahore Congress; Congress adopts the demand for ‘Purna Swaraj’. 1930
+Ambedkar establishes Depressed Classes Association. March 1930
+====================================================================================================
+
+--- CHUNK 402 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+Gandhiji begins Civil Disobedience Movement by breaking salt law at Dandi. March 1931 Gandhiji ends Civil Disobedience Movement. December 1931 Second Round Table Conference. 1932 Civil Disobedience re-launched.
+Another important feature of the Civil Disobedience Movement was the large-scale participation of women. During Gandhiji’s salt march, thousands of women came out of their homes to listen to him. They participated in protest marches, manufactured salt, and
+footer page number:66
+====================================================================================================
+
+--- CHUNK 403 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+footer page number:66
+**_Fig. 9 – Women join nationalist processions._** _During the national movement, many women, for the first time in their lives, moved out of their homes on to a public arena. Amongst the marchers you can see many old women, and mothers with children in their arms._
+====================================================================================================
+
+--- CHUNK 404 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+picketed foreign cloth and liquor shops. Many went to jail. In urban areas these women were from high-caste families; in rural areas they came from rich peasant households. Moved by Gandhiji’s call, they began to see service to the nation as a sacred duty of women. Yet, this increased public role did not necessarily mean any radical change in the way the position of women was visualised. Gandhiji was convinced that it was the duty of women to look after home and hearth, be good mothers and good wives. And for a long time the Congress was reluctant to allow women to hold any position of
+====================================================================================================
+
+--- CHUNK 405 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Source', 'subheading3': '3.2 How Participants saw the Movement', 'subheading4': 'Box 1', 'subheading5': '‘To the altar of this revolution we have brought our youth as incense’'}
+Content:
+was reluctant to allow women to hold any position of authority within the organisation. It was keen only on their symbolic presence.
+====================================================================================================
+
+--- CHUNK 406 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Why did various classes and groups of Indians participate in the Civil Disobedience Movement?
+====================================================================================================
+
+--- CHUNK 407 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+#### 3.3 The Limits of Civil Disobedience
+Not all social groups were moved by the abstract concept of swaraj. One such group was the nation’s ‘untouchables’, who from around the 1930s had begun to call themselves dalit or oppressed. For long the Congress had ignored the dalits, for fear of offending the _sanatanis,_ the conservative high-caste Hindus. But Mahatma Gandhi declared that swaraj would not come for a hundred years if untouchability was not eliminated. He called the ‘untouchables’ harijan,
+footer page number:67
+====================================================================================================
+
+--- CHUNK 408 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+or the children of God, organised satyagraha to secure them entry into temples, and access to public wells, tanks, roads and schools. He himself cleaned toilets to dignify the work of the bhangi (the sweepers), and persuaded upper castes to change their heart and give up ‘the sin of untouchability’. But many dalit leaders were keen on a different political solution to the problems of the community. They began organising themselves, demanding reserved seats in educational institutions, and a separate electorate that would choose dalit members for legislative councils. Political empowerment,
+====================================================================================================
+
+--- CHUNK 409 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+members for legislative councils. Political empowerment, they believed, would resolve the problems of their social disabilities. Dalit participation in the Civil Disobedience Movement was therefore limited, particularly in the Maharashtra and Nagpur region where their organisation was quite strong.
+====================================================================================================
+
+--- CHUNK 410 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+Dr B.R. Ambedkar, who organised the dalits into the Depressed Classes Association in 1930, clashed with Mahatma Gandhi at the second Round Table Conference by demanding separate electorates for dalits. When the British government conceded Ambedkar’s demand, Gandhiji began a fast unto death. He believed that separate electorates for dalits would slow down the process of their integration into society. Ambedkar ultimately accepted Gandhiji’s position and the result was the Poona Pact of September 1932. It gave the Depressed Classes (later to be known as the Schedule Castes) reserved seats in
+====================================================================================================
+
+--- CHUNK 411 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+to be known as the Schedule Castes) reserved seats in provincial and central legislative councils, but they were to be voted in by the general electorate. The dalit movement, however, continued to be apprehensive of the Congressled national movement.
+====================================================================================================
+
+--- CHUNK 412 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+Some of the Muslim political organisations in India were also lukewarm in their response to the Civil Disobedience Movement. After the decline of the Non-Cooperation-Khilafat movement, a large section of Muslims felt alienated from the Congress. From the mid-1920s the Congress came to be more visibly associated with openly Hindu religious nationalist groups like the Hindu Mahasabha. As relations between Hindus and Muslims worsened, each community organised religious processions with militant fervour, provoking Hindu-Muslim communal clashes and riots in various cities. Every riot deepened the
+====================================================================================================
+
+--- CHUNK 413 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+and riots in various cities. Every riot deepened the distance between the two communities.
+====================================================================================================
+
+--- CHUNK 414 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+The Congress and the Muslim League made efforts to renegotiate an alliance, and in 1927 it appeared that such a unity could be forged. The important differences were over the question of representation in the future assemblies that were to be elected. Muhammad Ali
+**_Fig. 10 – Mahatma Gandhi, Jawaharlal Nehru and Maulana Azad at Sevagram Ashram, Wardha, 1935._**
+footer page number:68
+====================================================================================================
+
+--- CHUNK 415 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+footer page number:68
+Jinnah, one of the leaders of the Muslim League, was willing to give up the demand for separate electorates, if Muslims were assured reserved seats in the Central Assembly and representation in proportion to population in the Muslim-dominated provinces (Bengal and Punjab). Negotiations over the question of representation continued but all hope of resolving the issue at the All Parties Conference in 1928 disappeared when M.R. Jayakar of the Hindu Mahasabha strongly opposed efforts at compromise.
+====================================================================================================
+
+--- CHUNK 416 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience'}
+Content:
+When the Civil Disobedience Movement started there was thus an atmosphere of suspicion and distrust between communities. Alienated from the Congress, large sections of Muslims could not respond to the call for a united struggle. Many Muslim leaders and intellectuals expressed their concern about the status of Muslims as a minority within India. They feared that the culture and identity of minorities would be submerged under the domination of a Hindu majority.
+====================================================================================================
+
+--- CHUNK 417 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+##### Source D
+In 1930, Sir Muhammad Iqbal, as president of the Muslim League, reiterated the importance of separate electorates for the Muslims as an important safeguard for their minority political interests. His statement is supposed to have provided the intellectual justification for the Pakistan demand that came up in subsequent years. This is what he said:
+====================================================================================================
+
+--- CHUNK 418 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+‘I have no hesitation in declaring that if the principle that the Indian Muslim is entitled to full and free development on the lines of his own culture and tradition in his own Indian home-lands is recognised as the basis of a permanent communal settlement, he will be ready to stake his all for the freedom of India. The principle that each group is entitled to free development on its own lines is not inspired by any feeling of narrow communalism … A community which is inspired by feelings of ill-will towards other communities is low and ignoble. I entertain the highest respect for the
+====================================================================================================
+
+--- CHUNK 419 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+is low and ignoble. I entertain the highest respect for the customs, laws, religions and social institutions of other communities. Nay, it is my duty according to the teachings of the Quran, even to defend their places of worship, if need be. Yet I love the communal group which is the source of life and behaviour and which has formed me what I am by giving me its religion, its literature, its thought, its culture and thereby its whole past as a living operative factor in my present consciousness …
+====================================================================================================
+
+--- CHUNK 420 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+‘Communalism in its higher aspect, then, is indispensable to the formation of a harmonious whole in a country like India. The units of Indian society are not territorial as in European countries … The principle of European democracy cannot be applied to India without recognising the fact of communal groups. The Muslim demand for the creation of a Muslim India within India is, therefore, perfectly justified…
+====================================================================================================
+
+--- CHUNK 421 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+‘The Hindu thinks that separate electorates are contrary to the spirit of true nationalism, because he understands the word “nation” to mean a kind of universal amalgamation in which no communal entity ought to retain its private individuality. Such a state of things, however, does not exist. India is a land of racial and religious variety. Add to this the general economic inferiority of the Muslims, their enormous debt, especially in the Punjab, and their insufficient majorities in some of the provinces, as at present constituted and you will begin to see clearly the meaning of our anxiety
+====================================================================================================
+
+--- CHUNK 422 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+you will begin to see clearly the meaning of our anxiety to retain separate electorates.’
+====================================================================================================
+
+--- CHUNK 423 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss', 'subheading3': '3.3 The Limits of Civil Disobedience', 'subheading4': 'Source D'}
+Content:
+**_Source_**
+====================================================================================================
+
+--- CHUNK 424 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Read the Source D carefully. Do you agree with Iqbal’s idea of communalism? Can you define communalism in a different way?
+footer page number:69
+====================================================================================================
+
+--- CHUNK 425 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+### 4 The Sense of Collective Belonging
+**_Fig. 11 – Bal Gangadhar Tilak, an early-twentieth-century print._** _Notice how Tilak is surrounded by symbols of unity. The sacred institutions of different faiths (temple, church, masjid) frame the central figure._
+Nationalism spreads when people begin to believe that they are all part of the same nation, when they discover some unity that binds them together. But how did the nation become a reality in the minds of people? How did people belonging to different communities, regions or language groups develop a sense of collective belonging?
+====================================================================================================
+
+--- CHUNK 426 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+This sense of collective belonging came partly through the experience of united struggles. But there were also a variety of cultural processes through which nationalism captured people’s imagination. History and fiction, folklore and songs, popular prints and symbols, all played a part in the making of nationalism.
+footer page number:70
+====================================================================================================
+
+--- CHUNK 427 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+The identity of the nation, as you know (see Chapter 1), is most often symbolised in a figure or image. This helps create an image with which people can identify the nation. It was in the twentieth century, with the growth of nationalism, that the identity of India came to be visually associated with the image of Bharat Mata. The image was first created by Bankim Chandra Chattopadhyay. In the 1870s he wrote ‘Vande Mataram’ as a hymn to the motherland. Later it was included in his novel _Anandamath_ and widely sung during the Swadeshi movement in Bengal. Moved by the Swadeshi movement,
+====================================================================================================
+
+--- CHUNK 428 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+movement in Bengal. Moved by the Swadeshi movement, Abanindranath Tagore painted his famous image of Bharat Mata (see Fig. 12). In this painting Bharat Mata is portrayed as an ascetic figure; she is calm, composed, divine and spiritual. In subsequent years, the image of Bharat Mata acquired many different forms, as it circulated in popular prints, and was painted by different artists (see Fig. 14). Devotion to this mother figure came to be seen as evidence of one’s nationalism.
+====================================================================================================
+
+--- CHUNK 429 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+Ideas of nationalism also developed through a movement to revive Indian folklore. In late-nineteenth-century India, nationalists began recording folk tales sung by bards and they toured villages to gather folk songs and legends. These tales, they believed, gave a true picture of traditional culture that had been corrupted and damaged by outside forces. It was essential to preserve this folk tradition in order to discover one’s national identity and restore a sense of pride in one’s past. In Bengal, Rabindranath Tagore himself began collecting ballads, nursery rhymes and myths, and led the
+====================================================================================================
+
+--- CHUNK 430 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+collecting ballads, nursery rhymes and myths, and led the movement for folk
+====================================================================================================
+
+--- CHUNK 431 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+**_Fig. 12 – Bharat Mata, Abanindranath Tagore, 1905._** _Notice that the mother figure here is shown as dispensing learning, food and clothing. The_ mala _in one hand emphasises her ascetic quality. Abanindranath Tagore, like Ravi Varma before him, tried to develop a style of painting that could be seen as truly Indian._
+====================================================================================================
+
+--- CHUNK 432 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+**_Fig. 13 – Jawaharlal Nehru, a popular print._** _Nehru is here shown holding the image of Bharat Mata and the map of India close to his heart. In a lot of popular prints, nationalist leaders are shown offering their heads to Bharat Mata. The idea of sacrifice for the mother was powerful within popular imagination._
+footer page number:71
+====================================================================================================
+
+--- CHUNK 433 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+footer page number:71
+revival. In Madras, Natesa Sastri published a massive four-volume collection of Tamil folk tales, _The Folklore of Southern India_ . He believed that folklore was national literature; it was ‘the most trustworthy manifestation of people’s real thoughts and characteristics’.
+====================================================================================================
+
+--- CHUNK 434 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+As the national movement developed, nationalist leaders became more and more aware of such icons and symbols in unifying people and inspiring in them a feeling of nationalism. During the Swadeshi movement in Bengal, a tricolour flag (red, green and yellow) was designed. It had eight lotuses representing eight provinces of British India, and a crescent moon, representing Hindus and Muslims. By 1921, Gandhiji had designed the Swaraj flag. It was again a tricolour (red, green and white) and had a spinning wheel in the centre, representing the Gandhian ideal of self-help. Carrying the flag,
+====================================================================================================
+
+--- CHUNK 435 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+the Gandhian ideal of self-help. Carrying the flag, holding it aloft, during marches became a symbol of defiance.
+====================================================================================================
+
+--- CHUNK 436 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+Another means of creating a feeling of nationalism was through reinterpretation of history. By the end of the nineteenth century many Indians began feeling that to instill a sense of pride in the nation, Indian history had to be thought about differently. The British saw Indians as backward and primitive, incapable of governing themselves. In response, Indians began looking into the past to discover India’s great achievements. They wrote about the glorious developments in ancient times when art and architecture, science and mathematics, religion and culture, law and philosophy, crafts and
+====================================================================================================
+
+--- CHUNK 437 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+religion and culture, law and philosophy, crafts and trade had flourished. This glorious time, in their view, was followed by a history of decline, when India was colonised. These nationalist histories urged the readers to take pride in India’s great achievements in the past and struggle to change the miserable conditions of life under British rule.
+====================================================================================================
+
+--- CHUNK 438 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': '4 The Sense of Collective Belonging'}
+Content:
+**_Fig. 14 – Bharat Mata._** _This figure of Bharat Mata is a contrast to the one painted by Abanindranath Tagore. Here she is shown with a_ trishul _, standing beside a lion and an elephant – both symbols of power and authority._
+====================================================================================================
+
+--- CHUNK 439 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity'}
+Content:
+### Activity
+Look at Figs. 12 and 14. Do you think these images will appeal to all castes and communities? Explain your views briefly.
+These efforts to unify people were not without problems. When the past being glorified was Hindu, when the images celebrated were drawn from Hindu iconography, then people of other communities felt left out.
+====================================================================================================
+
+--- CHUNK 440 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Source E'}
+Content:
+#### Source E
+‘In earlier times, foreign travellers in India marvelled at the courage, truthfulness and modesty of the people of the Arya vamsa; now they remark mainly on the absence of those qualities. In those days Hindus would set out on conquest and hoist their flags in Tartar, China and other countries; now a few soldiers from a tiny island far away are lording it over the land of India.’
+Tarinicharan Chattopadhyay, Bharatbarsher Itihas (The History of Bharatbarsh), vol. 1, 1858.
+**_Source_**
+footer page number:72
+====================================================================================================
+
+--- CHUNK 441 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+#### Conclusion
+====================================================================================================
+
+--- CHUNK 442 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+A growing anger against the colonial government was thus bringing together various groups and classes of Indians into a common struggle for freedom in the first half of the twentieth century. The Congress under the leadership of Mahatma Gandhi tried to channel people’s grievances into organised movements for independence. Through such movements the nationalists tried to forge a national unity. But as we have seen, diverse groups and classes participated in these movements with varied aspirations and expectations. As their grievances were wide-ranging, freedom from colonial rule also meant
+====================================================================================================
+
+--- CHUNK 443 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+were wide-ranging, freedom from colonial rule also meant different things to different people. The Congress continuously attempted to resolve differences, and ensure that the demands of one group did not alienate another. This is precisely why the unity within the movement often broke down. The high points of Congress activity and nationalist unity were followed by phases of disunity and inner conflict between groups.
+====================================================================================================
+
+--- CHUNK 444 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+In other words, what was emerging was a nation with many voices wanting freedom from colonial rule.
+footer page number:73
+====================================================================================================
+
+--- CHUNK 445 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Explain:
+- a) Why growth of nationalism in the colonies is linked to an anti-colonial movement. b) How the First World War helped in the growth of the National Movement in India. c) Why Indians were outraged by the Rowlatt Act.
+- d) Why Gandhiji decided to withdraw the Non-Cooperation Movement.
+2. What is meant by the idea of satyagraha?
+3. Write a newspaper report on: a) The Jallianwala Bagh massacre b) The Simon Commission
+4. Compare the images of Bharat Mata in this chapter with the image of Germania in Chapter 1.
+====================================================================================================
+
+--- CHUNK 446 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. List all the different social groups which joined the Non-Cooperation Movement of 1921. Then choose any three and write about their hopes and struggles to show why they joined the movement.
+2. Discuss the Salt March to make clear why it was an effective symbol of resistance against colonialism.
+3. Imagine you are a woman participating in the Civil Disobedience Movement. Explain what the experience meant to your life.
+4. Why did political leaders differ sharply over the question of separate electorates?
+====================================================================================================
+
+--- CHUNK 447 ---
+Metadata: {'Chapter Name': 'Nationalism in India', 'subheading1': '1 The First World War, Khilafat and Non-Cooperation', 'subheading2': 'Project'}
+Content:
+### Project
+Find out about the anti-colonial movement in Kenya. Compare and contrast India’s national movement with the ways in which Kenya became independent. Project
+footer page number:74
+====================================================================================================
+
+--- CHUNK 448 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World'}
+Content:
+# The Making of a Global World  
+## 1 The Pre-modern World
+When we talk of ‘globalisation’ we often refer to an economic system that has emerged since the last 50 years or so. But as you will see in this chapter, the making of the global world has a long history – of trade, of migration, of people in search of work, the movement of capital, and much else. As we think about the dramatic and visible signs of global interconnectedness in our lives today, we need to understand the phases through which this world in which we live has emerged.
+====================================================================================================
+
+--- CHUNK 449 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World'}
+Content:
+All through history, human societies have become steadily more interlinked. From ancient times, travellers, traders, priests and pilgrims travelled vast distances for knowledge, opportunity and spiritual fulfilment, or to escape persecution. They carried goods, money, values, skills, ideas, inventions, and even germs and diseases. As early as 3000 BCE an active coastal trade linked the Indus valley civilisations with present-day West Asia. For more than a millennia, _cowries_ (the Hindi c _owdi_ or seashells, used as a form of currency) from the Maldives found their way to China and East
+====================================================================================================
+
+--- CHUNK 450 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World'}
+Content:
+from the Maldives found their way to China and East Africa. The long-distance spread of disease-carrying germs may be traced as far back as the seventh century. By the thirteenth century it had become an unmistakable link.
+====================================================================================================
+
+--- CHUNK 451 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World'}
+Content:
+**_Fig. 1 – Image of a ship on a memorial stone, Goa Museum, tenth century CE._** _From the ninth century, images of ships appear regularly in memorial stones found in the western coast, indicating the significance of oceanic trade._
+====================================================================================================
+
+--- CHUNK 452 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World'}
+Content:
+### 1.1 Silk Routes Link the World
+====================================================================================================
+
+--- CHUNK 453 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World'}
+Content:
+The silk routes are a good example of vibrant pre-modern trade and cultural links between distant parts of the world. The name ‘silk routes’ points to the importance of West-bound Chinese silk cargoes along this route. Historians have identified several silk routes, over land and by sea, knitting together vast regions of Asia, and linking Asia with Europe and northern Africa. They are known to have existed since before the Christian Era and thrived almost till the fifteenth century. But Chinese pottery also travelled the same route, as did textiles and spices from India and Southeast Asia. In
+====================================================================================================
+
+--- CHUNK 454 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World'}
+Content:
+did textiles and spices from India and Southeast Asia. In return, precious metals – gold and silver – flowed from Europe to Asia.
+====================================================================================================
+
+--- CHUNK 455 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World'}
+Content:
+Trade and cultural exchange always went hand in hand. Early Christian missionaries almost certainly travelled this route to Asia, as did early Muslim preachers a few centuries later. Much before all this, Buddhism emerged from eastern India and spread in several directions through intersecting points on the silk routes.
+**_Fig. 2 – Silk route trade as depicted in a Chinese cave painting, eighth century, Cave 217, Mogao Grottoes, Gansu, China._**
+====================================================================================================
+
+--- CHUNK 456 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.2 Food Travels: Spaghetti and Potato'}
+Content:
+#### 1.2 Food Travels: Spaghetti and Potato
+====================================================================================================
+
+--- CHUNK 457 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.2 Food Travels: Spaghetti and Potato'}
+Content:
+Food offers many examples of long-distance cultural exchange. Traders and travellers introduced new crops to the lands they travelled. Even ‘ready’ foodstuff in distant parts of the world might share common origins. Take spaghetti and noodles. It is believed that noodles travelled west from China to become spaghetti. Or, perhaps Arab traders took pasta to fifth-century Sicily, an island now in Italy. Similar foods were also known in India and Japan, so the truth about their origins may never be known. Yet such guesswork suggests the possibilities of long-distance cultural contact even in the
+====================================================================================================
+
+--- CHUNK 458 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.2 Food Travels: Spaghetti and Potato'}
+Content:
+possibilities of long-distance cultural contact even in the pre-modern world.
+====================================================================================================
+
+--- CHUNK 459 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.2 Food Travels: Spaghetti and Potato'}
+Content:
+Many of our common foods such as potatoes, soya, groundnuts, maize, tomatoes, chillies, sweet potatoes, and so on were not known to our ancestors until about five centuries ago. These foods were only introduced in Europe and Asia after Christopher Columbus accidentally discovered the vast continent that would later become known as the Americas.
+**_Fig. 3 – Merchants from Venice and the Orient exchanging goods, from Marco Polo,_ Book of Marvels** **_, fifteenth century._**
+footer page number:78
+====================================================================================================
+
+--- CHUNK 460 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.2 Food Travels: Spaghetti and Potato'}
+Content:
+footer page number:78
+(Here we will use ‘America’ to describe North America, South America and the Caribbean.) In fact, many of our common foods came from America’s original inhabitants – the American Indians.
+Sometimes the new crops could make the difference between life and death. Europe’s poor began to eat better and live longer with the introduction of the humble potato. Ireland’s poorest peasants became so dependent on potatoes that when disease destroyed the potato crop in the mid-1840s, hundreds of thousands died of starvation.
+====================================================================================================
+
+--- CHUNK 461 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade'}
+Content:
+#### 1.3 Conquest, Disease and Trade
+The pre-modern world shrank greatly in the sixteenth century after European sailors found a sea route to Asia and also successfully crossed the western ocean to America. For centuries before, the Indian Ocean had known a bustling trade, with goods, people, knowledge, customs, etc. criss-crossing its waters. The Indian subcontinent was central to these flows and a crucial point in their networks. The entry of the Europeans helped expand or redirect some of these flows towards Europe.
+====================================================================================================
+
+--- CHUNK 462 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade'}
+Content:
+Before its ‘discovery’, America had been cut off from regular contact with the rest of the world for millions of years. But from the sixteenth century, its vast lands and abundant crops and minerals began to transform trade and lives everywhere.
+Precious metals, particularly silver, from mines located in presentday Peru and Mexico also enhanced Europe’s wealth and financed its trade with Asia. Legends spread in seventeenth-century Europe about South America’s fabled wealth. Many expeditions set off in search of El Dorado, the fabled city of gold.
+====================================================================================================
+
+--- CHUNK 463 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade'}
+Content:
+The Portuguese and Spanish conquest and colonisation of America was decisively under way by the mid-sixteenth century. European conquest was not just a result of superior firepower. In fact, the most powerful weapon of the Spanish conquerors was not a conventional military weapon at all. It was the germs such as those of smallpox that they carried on their person. Because of their long isolation, America’s original inhabitants had no immunity against these diseases that came from Europe. Smallpox in particular proved a deadly killer. Once introduced, it spread deep into the continent, ahead
+====================================================================================================
+
+--- CHUNK 464 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade'}
+Content:
+Once introduced, it spread deep into the continent, ahead even of any Europeans reaching there. It killed and decimated whole communities, paving the way for conquest.
+====================================================================================================
+
+--- CHUNK 465 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade'}
+Content:
+**_Fig. 4 – The Irish Potato Famine,_ Illustrated London News** **_, 1849._**
+_Hungry children digging for potatoes in a field that has already been harvested, hoping to discover some leftovers. During the Great Irish Potato Famine (1845 to 1849), around 1,000,000 people died of starvation in Ireland, and double the number emigrated in search of work._
+====================================================================================================
+
+--- CHUNK 466 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade', 'subheading4': 'Box 1', 'subheading5': '‘Biological’ warfare?'}
+Content:
+##### Box 1  
+###### ‘Biological’ warfare?
+John Winthorp, the first governor of the Massachusetts Bay colony in New England, wrote in May 1634 that smallpox signalled God’s blessing for the colonists: ‘… the natives … were neere (near) all dead of small Poxe (pox), so as the Lord hathe (had) cleared our title to what we possess’.
+Alfred Crosby, Ecological Imperialism.
+footer page number:79
+Guns could be bought or captured and turned against the invaders. But not diseases such as smallpox to which the conquerors were mostly immune.
+====================================================================================================
+
+--- CHUNK 467 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade', 'subheading4': 'Box 1', 'subheading5': '‘Biological’ warfare?'}
+Content:
+**New words** Dissenter – One who refuses to accept established beliefs and practices
+Until the nineteenth century, poverty and hunger were common in Europe. Cities were crowded and deadly diseases were widespread. Religious conflicts were common, and religious **dissenters** were persecuted. Thousands therefore fled Europe for America. Here, by the eighteenth century, plantations worked by slaves captured in Africa were growing cotton and sugar for European markets.
+====================================================================================================
+
+--- CHUNK 468 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '1.1 Silk Routes Link the World', 'subheading3': '1.3 Conquest, Disease and Trade', 'subheading4': 'Box 1', 'subheading5': '‘Biological’ warfare?'}
+Content:
+Until well into the eighteenth century, China and India were among the world’s richest countries. They were also pre-eminent in Asian trade. However, from the fifteenth century, China is said to have restricted overseas contacts and retreated into isolation. China’s reduced role and the rising importance of the Americas gradually moved the centre of world trade westwards. Europe now emerged as the centre of world trade.
+====================================================================================================
+
+--- CHUNK 469 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Explain what we mean when we say that the world ‘shrank’ in the 1500s.
+**_Fig. 5 – Slaves for sale, New Orleans,_ Illustrated London News** **_, 1851._** _A prospective buyer carefully inspecting slaves lined up before the auction. You can see two children along with four women and seven men in top hats and suit waiting to be sold. To attract buyers, slaves were often dressed in their best clothes._
+footer page number:80
+====================================================================================================
+
+--- CHUNK 470 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)'}
+Content:
+### 2 The Nineteenth Century (1815-1914)
+The world changed profoundly in the nineteenth century. Economic, political, social, cultural and technological factors interacted in complex ways to transform societies and reshape external relations.
+====================================================================================================
+
+--- CHUNK 471 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)'}
+Content:
+Economists identify three types of movement or ‘flows’ within international economic exchanges. The first is the flow of trade which in the nineteenth century referred largely to trade in goods (e.g., cloth or wheat). The second is the flow of labour – the migration of people in search of employment. The third is the movement of capital for short-term or long-term investments over long distances.
+====================================================================================================
+
+--- CHUNK 472 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)'}
+Content:
+All three flows were closely interwoven and affected peoples’ lives more deeply now than ever before. The interconnections could sometimes be broken – for example, labour migration was often more restricted than goods or capital flows. Yet it helps us understand the nineteenth-century world economy better if we look at the three flows together.
+====================================================================================================
+
+--- CHUNK 473 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+#### 2.1 A World Economy Takes Shape
+A good place to start is the changing pattern of food production and consumption in industrial Europe. Traditionally, countries liked to be self-sufficient in food. But in nineteenth-century Britain, self-sufficiency in food meant lower living standards and social conflict. Why was this so?
+====================================================================================================
+
+--- CHUNK 474 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+Population growth from the late eighteenth century had increased the demand for food grains in Britain. As urban centres expanded and industry grew, the demand for agricultural products went up, pushing up food grain prices. Under pressure from landed groups, the government also restricted the import of corn. The laws allowing the government to do this were commonly known as the ‘Corn Laws’. Unhappy with high food prices, industrialists and urban dwellers forced the abolition of the Corn Laws.
+====================================================================================================
+
+--- CHUNK 475 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+After the Corn Laws were scrapped, food could be imported into Britain more cheaply than it could be produced within the country. British agriculture was unable to compete with imports. Vast areas of land were now left uncultivated, and thousands of men and women were thrown out of work. They flocked to the cities or migrated overseas.
+footer page number:81
+====================================================================================================
+
+--- CHUNK 476 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+footer page number:81
+As food prices fell, consumption in Britain rose. From the midnineteenth century, faster industrial growth in Britain also led to higher incomes, and therefore more food imports. Around the world – in Eastern Europe, Russia, America and Australia – lands were cleared and food production expanded to meet the British demand.
+====================================================================================================
+
+--- CHUNK 477 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+It was not enough merely to clear lands for agriculture. Railways were needed to link the agricultural regions to the ports. New harbours had to be built and old ones expanded to ship the new cargoes. People had to settle on the lands to bring them under cultivation. This meant building homes and settlements. All these activities in turn required capital and labour. Capital flowed from financial centres such as London. The demand for labour in places where labour was in short supply – as in America and Australia – led to more migration.
+====================================================================================================
+
+--- CHUNK 478 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+Nearly 50 million people emigrated from Europe to America and Australia in the nineteenth century. All over the world some 150 million are estimated to have left their homes, crossed oceans and vast distances over land in search of a better future.
+**_Fig. 6 – Emigrant ship leaving for the US, by M.W. Ridley, 1869._**
+**_Fig. 7 – Irish emigrants waiting to board the ship, by Michael Fitzgerald, 1874._**
+footer page number:82
+====================================================================================================
+
+--- CHUNK 479 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+Thus by 1890, a global agricultural economy had taken shape, accompanied by complex changes in labour movement patterns, capital flows, ecologies and technology. Food no longer came from a nearby village or town, but from thousands of miles away. It was not grown by a peasant tilling his own land, but by an agricultural worker, perhaps recently arrived, who was now working on a large farm that only a generation ago had most likely been a forest. It was transported by railway, built for that very purpose, and by ships which were increasingly manned in these decades by low-paid workers from
+====================================================================================================
+
+--- CHUNK 480 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '2 The Nineteenth Century (1815-1914)', 'subheading3': '2.1 A World Economy Takes Shape'}
+Content:
+manned in these decades by low-paid workers from southern Europe, Asia, Africa and the Caribbean.
+====================================================================================================
+
+--- CHUNK 481 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity'}
+Content:
+### Activity
+Prepare a flow chart to show how Britain’s decision to import food led to increased migration to America and Australia.  
+### Activity
+Imagine that you are an agricultural worker who has arrived in America from Ireland. Write a paragraph on why you chose to come and how you are earning your living.
+====================================================================================================
+
+--- CHUNK 482 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity'}
+Content:
+Some of this dramatic change, though on a smaller scale, occurred closer home in west Punjab. Here the British Indian government built a network of irrigation canals to transform semi-desert wastes into fertile agricultural lands that could grow wheat and cotton for export. The Canal Colonies, as the areas irrigated by the new canals were called, were settled by peasants from other parts of Punjab.
+====================================================================================================
+
+--- CHUNK 483 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity'}
+Content:
+Of course, food is merely an example. A similar story can be told for cotton, the cultivation of which expanded worldwide to feed British textile mills. Or rubber. Indeed, so rapidly did regional specialisation in the production of commodities develop, that between 1820 and 1914 world trade is estimated to have multiplied 25 to 40 times. Nearly 60 per cent of this trade comprised ‘primary products’ – that is, agricultural products such as wheat and cotton, and minerals such as coal.
+====================================================================================================
+
+--- CHUNK 484 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.2 Role of Technology'}
+Content:
+#### 2.2 Role of Technology
+What was the role of technology in all this? The railways, steamships, the telegraph, for example, were important inventions without which we cannot imagine the transformed nineteenth-century world. But technological advances were often the result of larger social, political and economic factors. For example, colonisation stimulated new investments and improvements in transport: faster railways, lighter wagons and larger ships helped move food more cheaply and quickly from faraway farms to final markets.
+footer page number:83
+====================================================================================================
+
+--- CHUNK 485 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.2 Role of Technology'}
+Content:
+footer page number:83
+**_Fig. 8 — The Smithfield Club Cattle Show,_ Illustrated London News,** **_1851_ .** _Cattle were traded at fairs, brought by farmers for sale. One of the oldest livestock markets in London was at Smithfield. In the midnineteenth century a huge poultry and meat market was established near the railway line connecting Smithfield to all the meat-supplying centres of the country._
+====================================================================================================
+
+--- CHUNK 486 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.2 Role of Technology'}
+Content:
+The trade in meat offers a good example of this connected process. Till the 1870s, animals were shipped live from America to Europe and then slaughtered when they arrived there. But live animals took up a lot of ship space. Many also died in voyage, fell ill, lost weight, or became unfit to eat. Meat was hence an expensive luxury beyond the reach of the European poor. High prices in turn kept demand and production down until the development of a new technology, namely, refrigerated ships, which enabled the transport of perishable foods over long distances.
+====================================================================================================
+
+--- CHUNK 487 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.2 Role of Technology'}
+Content:
+Now animals were slaughtered for food at the starting point – in America, Australia or New Zealand – and then transported to Europe as frozen meat. This reduced shipping costs and lowered meat prices in Europe. The poor in Europe could now consume a more varied diet. To the earlier monotony of bread and potatoes many, though not all, could now add meat (and butter and eggs) to their diet. Better living conditions promoted social peace within the country and support for imperialism abroad.
+====================================================================================================
+
+--- CHUNK 488 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.2 Role of Technology'}
+Content:
+**_Fig. 9 – Meat being loaded on to the ship,_ Alexandra, Illustrated London News** **_, 1878._** _Export of meat was possible only after ships were refrigerated._
+====================================================================================================
+
+--- CHUNK 489 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+#### 2.3 Late nineteenth-century Colonialism
+Trade flourished and markets expanded in the late nineteenth century. But this was not only a period of expanding trade and increased prosperity. It is important to realise that there was a darker side to this process. In many parts of the world, the expansion of trade and a closer relationship with the world economy also meant a loss of freedoms and livelihoods. Latenineteenth-century European conquests produced many painful economic, social and ecological changes through which the colonised societies were brought into the world economy.
+====================================================================================================
+
+--- CHUNK 490 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+footer page number:84
+Look at a map of Africa (Fig. 10). You will see some countries’ borders run straight, as if they were drawn using a ruler. Well, in fact this was almost how rival European powers in Africa drew up the borders demarcating their respective territories. In 1885 the big European powers met in Berlin to complete the carving up of Africa between them.
+====================================================================================================
+
+--- CHUNK 491 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+Britain and France made vast additions to their overseas territories in the late nineteenth century. Belgium and Germany became new colonial powers. The US also became a colonial power in the late 1890s by taking over some colonies earlier held by Spain.
+Let us look at one example of the destructive impact of colonialism on the economy and livelihoods of colonised people.
+====================================================================================================
+
+--- CHUNK 492 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+SPANISH<br>MOROCCO<br>TUNISIA MEDITERRANEAN SEA<br>MOROCCO<br>SPANISH ALGERIA LIBYA<br>SAHARA (TRIPOLI)<br>EGYPT<br>RIO<br>DE ORO<br>FRENCH<br>FRENCH WEST AFRICA EQUATORIAL ERITREA FRENCH<br>AFRICA ANGLO- SOMALILAND<br>FRENCH SUDAN<br>EGYPTIAN<br>SUDAN<br>PORT NIGERIA BRITISH<br>GUINEA SOMALILAND<br>ETHIOPIA<br>SIERRA CAMEROONS ITALIAN<br>LEONE TOGO SOMALILAND<br>GOLD BRITISH<br>IVORY COAST MIDDLE CONGO EAST AFRICA<br>COAST FREE STATE<br>CONGO<br>(BELGIAN<br>CONGO) GERMAN<br>ATLANTIC EAST AFRICA<br>OCEAN<br>ANGOLA<br>NORTHERN PORTUGUESE<br>RHODESIA EAST
+====================================================================================================
+
+--- CHUNK 493 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+PORTUGUESE<br>RHODESIA EAST AFRICA<br>SOUTHERN<br>GERMAN<br>BELGIANBRITISH SOUTH WEST RHODESIA MADAGASCAR<br>FRENCHGERMAN AFRICA<br>ITALIAN<br>PORTUGUESE<br>SPANISH<br>BRITISH DOMINION UNION OF<br>INDEPENDENT STATE SOUTH AFRICA<br>RED SEA<br>
+====================================================================================================
+
+--- CHUNK 494 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism'}
+Content:
+**_Fig. 10 – Map of colonial Africa at the end of the nineteenth century._**
+====================================================================================================
+
+--- CHUNK 495 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism', 'subheading4': 'Box 2', 'subheading5': 'Sir Henry Morton Stanley in Central Africa'}
+Content:
+##### Box 2  
+###### Sir Henry Morton Stanley in Central Africa
+====================================================================================================
+
+--- CHUNK 496 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism', 'subheading4': 'Box 2', 'subheading5': 'Sir Henry Morton Stanley in Central Africa'}
+Content:
+Stanley was a journalist and explorer sent by the New York Herald to find Livingston, a missionary and explorer who had been in Africa for several years. Like other European and American explorers of the time, Stanley went with arms, mobilised local hunters, warriors and labourers to help him, fought with local tribes, investigated African terrains, and mapped different regions. These explorations helped the conquest of Africa. Geographical explorations were not driven by an innocent search for scientific information. They were directly linked to imperial projects.
+====================================================================================================
+
+--- CHUNK 497 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.3 Late nineteenth-century Colonialism', 'subheading4': 'Box 2', 'subheading5': 'Sir Henry Morton Stanley in Central Africa'}
+Content:
+**_Fig. 11_ –** **_Sir Henry Morton Stanley and his retinue in Central Africa_** _,_ **Illustrated London News,** **_1871._**
+footer page number:85
+====================================================================================================
+
+--- CHUNK 498 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+#### 2.4 Rinderpest, or the Cattle Plague
+In Africa, in the 1890s, a fast-spreading disease of cattle plague or rinderpest had a terrifying impact on people’s livelihoods and the local economy. This is a good example of the widespread European imperial impact on colonised societies. It shows how in this era of conquest even a disease affecting cattle reshaped the lives and fortunes of thousands of people and their relations with the rest of the world.
+====================================================================================================
+
+--- CHUNK 499 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+Historically, Africa had abundant land and a relatively small population. For centuries, land and livestock sustained African livelihoods and people rarely worked for a wage. In latenineteenth-century Africa there were few consumer goods that wages could buy. If you had been an African possessing land and livestock – and there was plenty of both – you too would have seen little reason to work for a wage.
+====================================================================================================
+
+--- CHUNK 500 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+**_Fig. 12 – Transport to the Transvaal gold mines,_ The Graphic** **_, 1887._** _Crossing the Wilge river was the quickest method of transport to the gold fields of Transvaal. After the discovery of gold in Witwatersrand, Europeans rushed to the region despite their fear of disease and death, and the difficulties of the journey. By the 1890s, South Africa contributed over 20 per cent of the world gold production._
+====================================================================================================
+
+--- CHUNK 501 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+In the late nineteenth century, Europeans were attracted to Africa due to its vast resources of land and minerals. Europeans came to Africa hoping to establish plantations and mines to produce crops and minerals for export to Europe. But there was an unexpected problem – a shortage of labour willing to work for wages.
+Employers used many methods to recruit and retain labour. Heavy
+taxes were imposed which could be paid only by working for wages on plantations and mines. Inheritance laws were changed so that
+====================================================================================================
+
+--- CHUNK 502 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+**_Fig. 13_ —** **_Diggers at work in the Transvaal gold fields in South Africa,_ The Graphic,** **_1875._**
+footer page number:86
+peasants were displaced from land: only one member of a family was allowed to inherit land, as a result of which the others were pushed into the labour market. Mineworkers were also confined in compounds and not allowed to move about freely.
+Then came rinderpest, a devastating cattle disease.
+====================================================================================================
+
+--- CHUNK 503 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+Then came rinderpest, a devastating cattle disease.
+Rinderpest arrived in Africa in the late 1880s. It was carried by infected cattle imported from British Asia to feed the Italian soldiers invading Eritrea in East Africa. Entering Africa in the east, rinderpest moved west ‘like forest fire’, reaching Africa’s Atlantic coast in 1892. It reached the Cape (Africa’s southernmost tip) five years later. Along the way rinderpest killed 90 per cent of the cattle.
+====================================================================================================
+
+--- CHUNK 504 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Rinderpest, or the Cattle Plague'}
+Content:
+The loss of cattle destroyed African livelihoods. Planters, mine owners and colonial governments now successfully monopolised what scarce cattle resources remained, to strengthen their power and to force Africans into the labour market. Control over the scarce resource of cattle enabled European colonisers to conquer and subdue Africa. Similar stories can be told about the impact of Western conquest on other parts of the nineteenth-century world.
+====================================================================================================
+
+--- CHUNK 505 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Indentured Labour Migration from India'}
+Content:
+#### 2.4 Indentured Labour Migration from India
+The example of **indentured labour** migration from India also illustrates the two-sided nature of the nineteenth-century world. It was a world of faster economic growth as well as great misery, higher incomes for some and poverty for others, technological advances in some areas and new forms of coercion in others.
+====================================================================================================
+
+--- CHUNK 506 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': '2.4 Indentured Labour Migration from India'}
+Content:
+In the nineteenth century, hundreds of thousands of Indian and Chinese labourers went to work on plantations, in mines, and in road and railway construction projects around the world. In India, indentured labourers were hired under contracts which promised return travel to India after they had worked five years on their employer’s plantation.
+====================================================================================================
+
+--- CHUNK 507 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Indentured labour – A bonded labourer under contract to work for an employer for a specific amount of time, to pay off his passage to a new country or home
+====================================================================================================
+
+--- CHUNK 508 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Most Indian indentured workers came from the present-day regions of eastern Uttar Pradesh, Bihar, central India and the dry districts of Tamil Nadu. In the mid-nineteenth century these regions experienced many changes – cottage industries declined, land rents rose, lands were cleared for mines and plantations. All this affected the lives of the poor: they failed to pay their rents, became deeply indebted and were forced to migrate in search of work.
+footer page number:87
+====================================================================================================
+
+--- CHUNK 509 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+footer page number:87
+The main destinations of Indian indentured migrants were the Caribbean islands (mainly Trinidad, Guyana and Surinam), Mauritius and Fiji. Closer home, Tamil migrants went to Ceylon and Malaya. Indentured workers were also recruited for tea plantations in Assam.
+====================================================================================================
+
+--- CHUNK 510 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Recruitment was done by agents engaged by employers and paid a small commission. Many migrants agreed to take up work hoping to escape poverty or oppression in their home villages. Agents also tempted the prospective migrants by providing false information about final destinations, modes of travel, the nature of the **_Fig. 14_ —** work, and living and working conditions. Often migrants were not even told that they were to embark on a long sea voyage. Sometimes agents even forcibly abducted less willing migrants.
+====================================================================================================
+
+--- CHUNK 511 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+**_Fig. 14_ —** **_Indian indentured labourers in a cocoa plantation in Trinidad, early nineteenth century._**
+Nineteenth-century indenture has been described as a ‘new system of slavery’. On arrival at the plantations, labourers found conditions to be different from what they had imagined. Living and working conditions were harsh, and there were few legal rights.
+====================================================================================================
+
+--- CHUNK 512 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Discuss the importance of language and popular traditions in the creation of national identity.
+====================================================================================================
+
+--- CHUNK 513 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+But workers discovered their own ways of surviving. Many of them escaped into the wilds, though if caught they faced severe punishment. Others developed new forms of individual and collective selfexpression, blending different cultural forms, old and new. In Trinidad the annual Muharram procession was transformed into a riotous carnival called ‘Hosay’ (for Imam Hussain) in which workers of all races and religions joined. Similarly, the protest religion of Rastafarianism (made famous by the Jamaican reggae star Bob Marley) is also said to reflect social and cultural links with Indian migrants
+====================================================================================================
+
+--- CHUNK 514 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+to reflect social and cultural links with Indian migrants to the Caribbean. ‘Chutney music’, popular in Trinidad and Guyana, is another creative contemporary expression of the post-indenture experience. These forms of cultural fusion are part of the making of the global world, where things from different places get mixed, lose their original characteristics and become something entirely new.
+====================================================================================================
+
+--- CHUNK 515 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+Most indentured workers stayed on after their contracts ended, or returned to their new homes after a short spell in India. Consequently, there are large communities of people of Indian descent in these countries. Have you heard of the Nobel Prize-winning writer
+**_Fig. 15_ —** **_Indentured laboureres photographed for identification._** _For the employers, the numbers and not the names mattered._
+footer page number:88
+====================================================================================================
+
+--- CHUNK 516 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+footer page number:88
+V.S. Naipaul? Some of you may have followed the exploits of West Indies cricketers Shivnarine Chanderpaul and Ramnaresh Sarwan. If you have wondered why their names sound vaguely Indian, the answer is that they are descended from indentured labour migrants from India.
+====================================================================================================
+
+--- CHUNK 517 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+From the 1900s India’s nationalist leaders began opposing the system of indentured labour migration as abusive and cruel. It was abolished in 1921. Yet for a number of decades afterwards, descendants of Indian indentured workers, often thought of as ‘coolies’, remained an uneasy minority in the Caribbean islands. Some of Naipaul’s early novels capture their sense of loss and alienation.
+====================================================================================================
+
+--- CHUNK 518 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad'}
+Content:
+#### 2.5 Indian Entrepreneurs Abroad
+Growing food and other crops for the world market required capital. Large plantations could borrow it from banks and markets. But what about the humble peasant?
+====================================================================================================
+
+--- CHUNK 519 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad'}
+Content:
+Enter the Indian banker. Do you know of the Shikaripuri shroffs and Nattukottai Chettiars? They were amongst the many groups of bankers and traders who financed export agriculture in Central and Southeast Asia, using either their own funds or those borrowed from European banks. They had a sophisticated system to transfer money over large distances, and even developed indigenous forms of corporate organisation.
+====================================================================================================
+
+--- CHUNK 520 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad'}
+Content:
+Indian traders and moneylenders also followed European colonisers into Africa. Hyderabadi Sindhi traders, however, ventured beyond European colonies. From the 1860s they established flourishing emporia at busy ports worldwide, selling local and imported curios to tourists whose numbers were beginning to swell, thanks to the development of safe and comfortable passenger vessels.
+**_Fig. 16_ —** **_A contract form of an indentured labourer._**
+====================================================================================================
+
+--- CHUNK 521 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad', 'subheading4': 'Source A'}
+Content:
+##### Source A
+====================================================================================================
+
+--- CHUNK 522 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad', 'subheading4': 'Source A'}
+Content:
+**The testimony of an indentured labourer** Extract from the testimony of Ram Narain Tewary, an indentured labourer who spent ten years on Demerara in the early twentieth century. ‘… in spite of my best efforts, I could not properly do the works that were allotted to me ... In a few days I got my hands bruised all over and I could not go to work for a week for which I was prosecuted and sent to jail for 14 days. ... new emigrants find the tasks allotted to them extremely heavy and cannot complete them in a day. ... Deductions are also made from wages if the work is considered to have been
+====================================================================================================
+
+--- CHUNK 523 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad', 'subheading4': 'Source A'}
+Content:
+also made from wages if the work is considered to have been done unsatisfactorily. Many people cannot therefore earn their full wages and are punished in various ways. In fact, the labourers have to spend their period of indenture in great trouble …’
+====================================================================================================
+
+--- CHUNK 524 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.5 Indian Entrepreneurs Abroad', 'subheading4': 'Source A'}
+Content:
+Source: Department of Commerce and Industry, Emigration Branch. 1916 **_Source_**
+====================================================================================================
+
+--- CHUNK 525 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+#### 2.6 Indian Trade, Colonialism and the Global System
+Historically, fine cottons produced in India were exported to Europe. With industrialisation, British cotton manufacture began to expand, and industrialists pressurised the government to restrict cotton imports and protect local industries. Tariffs were imposed on cloth imports into Britain. Consequently, the inflow of fine Indian cotton began to decline.
+From the early nineteenth century, British manufacturers also began to seek overseas markets for their cloth. Excluded from the British
+footer page number:89
+====================================================================================================
+
+--- CHUNK 526 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+footer page number:89
+**_Fig. 17 – East India Company House, London._** _This was the nerve centre of the worldwide operations of the East India Company._
+market by tariff barriers, Indian textiles now faced stiff competition in other international markets. If we look at the figures of exports from India, we see a steady decline of the share of cotton textiles: from some 30 per cent around 1800 to 15 per cent by 1815. By the 1870s this proportion had dropped to below 3 per cent.
+====================================================================================================
+
+--- CHUNK 527 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+What, then, did India export? The figures again tell a dramatic story. While exports of manufactures declined rapidly, export of raw materials increased equally fast. Between 1812 and 1871, the share of raw cotton exports rose from 5 per cent to 35 per cent. Indigo used for dyeing cloth was another important export for
+**_Fig. 18 – A distant view of Surat and its river._** _All through the seventeenth and early eighteenth centuries, Surat remained the main centre of overseas trade in the western Indian Ocean._
+footer page number:90
+====================================================================================================
+
+--- CHUNK 528 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+footer page number:90
+many decades. And, as you have read last year, opium shipments to China grew rapidly from the 1820s to become for a while India’s single largest export. Britain grew opium in India and exported it to China and, with the money earned through this sale, it financed its tea and other imports from China.
+====================================================================================================
+
+--- CHUNK 529 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+Over the nineteenth century, British manufactures flooded the Indian market. Food grain and raw material exports from India to Britain and the rest of the world increased. But the value of British exports to India was much higher than the value of British imports from India. Thus Britain had a ‘trade surplus’ with India. Britain used this surplus to balance its trade deficits with other countries – that is, with countries from which Britain was importing more than it was selling to. This is how a multilateral settlement system works – it allows one country’s deficit with another country to be
+====================================================================================================
+
+--- CHUNK 530 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+it allows one country’s deficit with another country to be settled by its surplus with a third country. By helping Britain balance its deficits, India played a crucial role in the late-nineteenth-century world economy.
+====================================================================================================
+
+--- CHUNK 531 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+Britain’s trade surplus in India also helped pay the so-called ‘home charges’ that included private remittances home by British officials and traders, interest payments on India’s external debt, and pensions of British officials in India.
+====================================================================================================
+
+--- CHUNK 532 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '2.6 Indian Trade, Colonialism and the Global System'}
+Content:
+Aleppo Bukhara<br>Yarkand<br>Alexandria<br>Basra Lahore<br>Bandar Abbas Hoogly Canton<br>Muscat<br>Surat<br>Jedda Hanoi<br>Macha Masulipatam Bangkok<br>Madras<br>Goa<br>Indian Ocean Acheh Malacca<br>Mombasa<br>Batavia<br>Bantam<br>Mozambique<br>Sea route<br>Land route<br>Volume of trade passing through the port<br>The Great<br>Persian Gulf<br>Wall<br>Red Sea<br>
+**_Fig. 19 – The trade routes that linked India to the world at the end of the seventeenth century._**
+footer page number:91
+====================================================================================================
+
+--- CHUNK 533 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy'}
+Content:
+### 3 The Inter-war Economy
+The First World War (1914-18) was mainly fought in Europe. But its impact was felt around the world. Notably for our concerns in this chapter, it plunged the first half of the twentieth century into a crisis that took over three decades to overcome. During this period the world experienced widespread economic and political instability, and another catastrophic war.
+====================================================================================================
+
+--- CHUNK 534 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.1 Wartime Transformations'}
+Content:
+#### 3.1 Wartime Transformations
+The First World War, as you know, was fought between two power blocs. On the one side were the Allies – Britain, France and Russia (later joined by the US); and on the opposite side were the Central Powers – Germany, Austria-Hungary and Ottoman Turkey. When the war began in August 1914, many governments thought it would be over by Christmas. It lasted more than four years.
+====================================================================================================
+
+--- CHUNK 535 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.1 Wartime Transformations'}
+Content:
+The First World War was a war like no other before. The fighting involved the world’s leading industrial nations which now harnessed the vast powers of modern industry to inflict the greatest possible destruction on their enemies.
+====================================================================================================
+
+--- CHUNK 536 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.1 Wartime Transformations'}
+Content:
+This war was thus the first modern industrial war. It saw the use of machine guns, tanks, aircraft, chemical weapons, etc. on a massive scale. These were all increasingly products of modern largescale industry. To fight the war, millions of soldiers had to be recruited from around the world and moved to the frontlines on large ships and trains. The scale of death and destruction – 9 million dead and 20 million injured – was unthinkable before the industrial age, without the use of industrial arms.
+====================================================================================================
+
+--- CHUNK 537 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.1 Wartime Transformations'}
+Content:
+Most of the killed and maimed were men of working age. These deaths and injuries reduced the able-bodied workforce in Europe. With fewer numbers within the family, household incomes declined after the war.
+During the war, industries were restructured to produce war-related goods. Entire societies were also reorganised for war – as men went to battle, women stepped in to undertake jobs that earlier only men were expected to do.
+**_Fig. 20 – Workers in a munition factory during the First World War._** _Production of armaments increased rapidly to meet war demands._
+footer page number:92
+====================================================================================================
+
+--- CHUNK 538 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.1 Wartime Transformations'}
+Content:
+footer page number:92
+The war led to the snapping of economic links between some of the world’s largest economic powers which were now fighting each other to pay for them. So Britain borrowed large sums of money from US banks as well as the US public. Thus the war transformed the US from being an international debtor to an international creditor. In other words, at the war’s end, the US and its citizens owned more overseas assets than foreign governments and citizens owned in the US.
+====================================================================================================
+
+--- CHUNK 539 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.2 Post-war Recovery'}
+Content:
+#### 3.2 Post-war Recovery
+Post-war economic recovery proved difficult. Britain, which was the world’s leading economy in the pre-war period, in particular faced a prolonged crisis. While Britain was preoccupied with war, industries had developed in India and Japan. After the war Britain found it difficult to recapture its earlier position of dominance in the Indian market, and to compete with Japan internationally. Moreover, to finance war expenditures Britain had borrowed liberally from the US. This meant that at the end of the war Britain was burdened with huge external debts.
+====================================================================================================
+
+--- CHUNK 540 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.2 Post-war Recovery'}
+Content:
+The war had led to an economic boom, that is, to a large increase in demand, production and employment. When the war boom ended, production contracted and unemployment increased. At the same time the government reduced bloated war expenditures to bring them into line with peacetime revenues. These developments led to huge job losses – in 1921 one in every five British workers was out of work. Indeed, anxiety and uncertainty about work became an enduring part of the post-war scenario.
+====================================================================================================
+
+--- CHUNK 541 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.2 Post-war Recovery'}
+Content:
+Many agricultural economies were also in crisis. Consider the case of wheat producers. Before the war, eastern Europe was a major supplier of wheat in the world market. When this supply was disrupted during the war, wheat production in Canada, America and Australia expanded dramatically. But once the war was over, production in eastern Europe revived and created a glut in wheat output. Grain prices fell, rural incomes declined, and farmers fell deeper into debt.
+====================================================================================================
+
+--- CHUNK 542 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+#### 3.3 Rise of Mass Production and Consumption
+In the US, recovery was quicker. We have already seen how the war helped boost the US economy. After a short period of economic
+footer page number:93
+trouble in the years after the war, the US economy resumed its strong growth in the early 1920s.
+====================================================================================================
+
+--- CHUNK 543 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+One important feature of the US economy of the 1920s was mass production. The move towards mass production had begun in the late nineteenth century, but in the 1920s it became a characteristic feature of industrial production in the US. A well-known pioneer of mass production was the car manufacturer Henry Ford. He adapted the assembly line of a Chicago slaughterhouse (in which slaughtered animals were picked apart by butchers as they came down a conveyor belt) to his new car plant in Detroit. He realised that the ‘assembly line’ method would allow a faster and cheaper way of producing
+====================================================================================================
+
+--- CHUNK 544 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+method would allow a faster and cheaper way of producing vehicles. The assembly line forced workers to **_Fig._** repeat a single task mechanically and continuously – such as fitting a particular part to the car – at a pace dictated by the conveyor belt. This was a way of increasing the output per worker by speeding up the pace of work. Standing in front of a conveyor belt no worker could afford to delay the motions, take a break, or even have a friendly word with a workmate. As a result, Henry Ford’s cars came off the assembly line at three-minute intervals, a speed much faster than that
+====================================================================================================
+
+--- CHUNK 545 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+at three-minute intervals, a speed much faster than that achieved by previous methods. The T- Model Ford was the world’s first mass-produced car.
+====================================================================================================
+
+--- CHUNK 546 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+**_Fig. 21 – T-Model automobiles lined up outside the factory._**
+At first workers at the Ford factory were unable to cope with the stress of working on assembly lines in which they could not control the pace of work. So they quit in large numbers. In desperation Ford doubled the daily wage to $5 in January 1914. At the same time he banned trade unions from operating in his plants.
+====================================================================================================
+
+--- CHUNK 547 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+Henry Ford recovered the high wage by repeatedly speeding up the production line and forcing workers to work ever harder. So much so, he would soon describe his decision to double the daily wage as the ‘best cost-cutting decision’ he had ever made.
+====================================================================================================
+
+--- CHUNK 548 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+Fordist industrial practices soon spread in the US. They were also widely copied in Europe in the 1920s. Mass production lowered costs and prices of engineered goods. Thanks to higher wages, more workers could now afford to purchase durable consumer goods such as cars. Car production in the US rose from 2 million in 1919 to more than 5 million in 1929. Similarly, there was a spurt in the purchase of refrigerators, washing machines, radios, gramophone players, all through a system of ‘hire purchase’ (i.e., on
+footer page number:94
+====================================================================================================
+
+--- CHUNK 549 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+footer page number:94
+credit repaid in weekly or monthly instalments). The demand for refrigerators, washing machines, etc. was also fuelled by a boom in house construction and home ownership, financed once again by loans.
+The housing and consumer boom of the 1920s created the basis of prosperity in the US. Large investments in housing and household goods seemed to create a cycle of higher employment and incomes, rising consumption demand, more investment, and yet more employment and incomes.
+====================================================================================================
+
+--- CHUNK 550 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.3 Rise of Mass Production and Consumption'}
+Content:
+In 1923, the US resumed exporting capital to the rest of the world and became the largest overseas lender. US imports and capital exports also boosted European recovery and world trade and income growth over the next six years.
+All this, however, proved too good to last. By 1929 the world would be plunged into a depression such as it had never experienced before.
+====================================================================================================
+
+--- CHUNK 551 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression'}
+Content:
+#### 3.4 The Great Depression
+The Great Depression began around 1929 and lasted till the mid1930s. During this period most parts of the world experienced catastrophic declines in production, employment, incomes and trade. The exact timing and impact of the depression varied across countries. But in general, agricultural regions and communities were the worst affected. This was because the fall in agricultural prices was greater and more prolonged than that in the prices of industrial goods.
+====================================================================================================
+
+--- CHUNK 552 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression'}
+Content:
+The depression was caused by a combination of several factors. We have already seen how fragile the post-war world economy was. First: agricultural overproduction remained a problem. This was made worse by falling agricultural prices. As prices slumped and agricultural incomes declined, farmers tried to expand production and bring a larger volume of produce to the market to maintain their overall income. This worsened the glut in the market, pushing down prices even further. Farm produce rotted for a lack of buyers.
+====================================================================================================
+
+--- CHUNK 553 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression'}
+Content:
+Second: in the mid-1920s, many countries financed their investments through loans from the US. While it was often extremely easy to raise loans in the US when the going was good, US overseas lenders panicked at the first sign of trouble. In the first half of 1928, US
+====================================================================================================
+
+--- CHUNK 554 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+##### Box 3
+**_Fig. 22 – Migrant agricultural worker’s family, homeless and hungry, during the Great Depression, 1936._** _Courtesy: Library of Congress, Prints and Photographs Division._
+Many years later, Dorothea Lange, the photographer who shot this picture, recollected the moment of her encounter with the hungry mother:
+====================================================================================================
+
+--- CHUNK 555 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+‘I saw and approached the hungry and desperate mother, as if drawn by a magnet … I did not ask her name or her history. She told me her age, that she was thirty-two. She said that they (i.e., she and her seven children) had been living on frozen vegetables from the surrounding fields, and birds that the children killed … There she sat … with her children huddled around her, and seemed to know that my pictures might help her, and so she helped me …’
+From: Popular Photography, February 1960.
+footer page number:95
+====================================================================================================
+
+--- CHUNK 556 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+footer page number:95
+overseas loans amounted to over $ 1 billion. A year later it was one quarter of that amount. Countries that depended crucially on US loans now faced an acute crisis.
+====================================================================================================
+
+--- CHUNK 557 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+The withdrawal of US loans affected much of the rest of the world, though in different ways. In Europe it led to the failure of some major banks and the collapse of currencies such as the British pound sterling. In Latin America and elsewhere it intensified the slump in agricultural and raw material prices. The US attempt to protect its economy in the depression by doubling import duties also dealt another severe blow to world trade.
+====================================================================================================
+
+--- CHUNK 558 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+The US was also the industrial country most severely affected by the depression. With the fall in prices and the prospect of a depression, US banks had also slashed domestic lending and called back loans. Farms could not sell their harvests, households were ruined, and businesses collapsed. Faced with falling incomes, many households in the US could not repay what they had borrowed, and were forced to give up their homes, cars and other consumer durables. The consumerist prosperity of the 1920s now disappeared in a puff of dust. As unemployment soared, people trudged long distances looking
+====================================================================================================
+
+--- CHUNK 559 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+unemployment soared, people trudged long distances looking for any work they could find. Ultimately, the US banking system itself collapsed. Unable to recover investments, collect loans and repay depositors, thousands of banks went bankrupt and were forced to close. The numbers are phenomenal: by 1933 over 4,000 banks had closed and between 1929 and 1932 about 110, 000 companies had collapsed.
+====================================================================================================
+
+--- CHUNK 560 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+**_Fig. 23 – People lining up for unemployment benefits, US, photograph by Dorothea Lange, 1938._** _Courtesy: Library of Congress, Prints and Photographs Division. When an unemployment census showed 10 million people out of work, the local government in many US states began making small allowances to the unemployed. These long queues came to symbolise the poverty and unemployment of the depression years_ **_._**
+====================================================================================================
+
+--- CHUNK 561 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.4 The Great Depression', 'subheading4': 'Box 3'}
+Content:
+By 1935, a modest economic recovery was under way in most industrial countries. But the Great Depression’s wider effects on society, politics and international relations, and on peoples’ minds, proved more enduring.
+====================================================================================================
+
+--- CHUNK 562 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+#### 3.5 India and the Great Depression
+If we look at the impact of the depression on India we realise how integrated the global economy had become by the early twentieth century. The tremors of a crisis in one part of the world were quickly relayed to other parts, affecting lives, economies and societies worldwide.
+In the nineteenth century, as you have seen, colonial India had become an exporter of agricultural goods and importer of manufactures. The depression immediately affected Indian trade. India’s exports
+footer page number:96
+====================================================================================================
+
+--- CHUNK 563 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+footer page number:96
+and imports nearly halved between 1928 and 1934. As international prices crashed, prices in India also plunged. Between 1928 and 1934, wheat prices in India fell by 50 per cent.
+Peasants and farmers suffered more than urban dwellers. Though agricultural prices fell sharply, the colonial government refused to reduce revenue demands. Peasants producing for the world market were the worst hit.
+====================================================================================================
+
+--- CHUNK 564 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+Consider the jute producers of Bengal. They grew raw jute that was processed in factories for export in the form of gunny bags. But as gunny exports collapsed, the price of raw jute crashed more than 60 per cent. Peasants who borrowed in the hope of better times or to increase output in the hope of higher incomes faced ever lower prices, and fell deeper and deeper into debt. Thus the Bengal jute growers’ lament:
+====================================================================================================
+
+--- CHUNK 565 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+grow more jute, brothers, with the hope of greater cash. Costs and debts of jute will make your hopes get dashed. When you have spent all your money and got the crop off the ground, … traders, sitting at home, will pay only Rs 5 a maund.
+====================================================================================================
+
+--- CHUNK 566 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+Across India, peasants’ indebtedness increased. They used up their savings, mortgaged lands, and sold whatever jewellery and precious metals they had to meet their expenses. In these depression years, India became an exporter of precious metals, notably gold. The famous economist John Maynard Keynes thought that Indian gold exports promoted global economic recovery. They certainly helped speed up Britain’s recovery, but did little for the Indian peasant. Rural India was thus seething with unrest when Mahatma Gandhi launched the civil disobedience movement at the height of the depression in
+====================================================================================================
+
+--- CHUNK 567 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '3 The Inter-war Economy', 'subheading3': '3.5 India and the Great Depression'}
+Content:
+disobedience movement at the height of the depression in 1931.
+====================================================================================================
+
+--- CHUNK 568 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Who profits from jute cultivation according to the jute growers’ lament? Explain.
+The depression proved less grim for urban India. Because of falling prices, those with fixed incomes – say town-dwelling landowners who received rents and middle-class salaried employees – now found themselves better off. Everything cost less. Industrial investment also grew as the government extended tariff protection to industries, under the pressure of nationalist opinion.
+footer page number:97
+====================================================================================================
+
+--- CHUNK 569 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era'}
+Content:
+### 4 Rebuilding a World Economy: The Post-war Era
+The Second World War broke out a mere two decades after the end of the First World War. It was fought between the Axis powers (mainly Nazi Germany, Japan and Italy) and the Allies (Britain, France, the Soviet Union and the US). It was a war waged for six years on many fronts, in many places, over land, on sea, in the air.
+====================================================================================================
+
+--- CHUNK 570 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era'}
+Content:
+Once again death and destruction was enormous. At least 60 million people, or about 3 per cent of the world’s 1939 population, are believed to have been killed, directly or indirectly, as a result of the war. Millions more were injured.
+====================================================================================================
+
+--- CHUNK 571 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era'}
+Content:
+Unlike in earlier wars, most of these deaths took place outside the battlefields. Many more civilians than soldiers died from war-related causes. Vast parts of Europe and Asia were devastated, and several cities were destroyed by aerial bombardment or relentless artillery attacks. The war caused an immense amount of economic devastation and social disruption. Reconstruction promised to be long and difficult.
+**_Fig. 24 – German forces attack Russia, July 1941._** _Hitler’s attempt to invade Russia was a turning point in the war._
+====================================================================================================
+
+--- CHUNK 572 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era'}
+Content:
+Two crucial influences shaped post-war reconstruction. The first was the US’s emergence as the dominant economic, political and military power in the Western world. The second was the dominance of the Soviet Union. It had made huge sacrifices to defeat Nazi Germany, and transformed itself from a backward agricultural country into a world power during the very years when the capitalist world was trapped in the Great Depression.
+**_Fig. 25 – Stalingrad in Soviet Russia devastated by the war._**
+====================================================================================================
+
+--- CHUNK 573 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era', 'subheading3': '4.1 Post-war Settlement and the Bretton Woods Institutions'}
+Content:
+#### 4.1 Post-war Settlement and the Bretton Woods Institutions
+Economists and politicians drew two key lessons from inter-war economic experiences. First, an industrial society based on mass production cannot be sustained without mass consumption. But to ensure mass consumption, there was a need for high and stable incomes. Incomes could not be stable if employment was unstable. Thus stable incomes also required steady, full employment.
+But markets alone could not guarantee full employment. Therefore governments would have to step in to minimise
+footer page number:98
+====================================================================================================
+
+--- CHUNK 574 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era', 'subheading3': '4.1 Post-war Settlement and the Bretton Woods Institutions'}
+Content:
+footer page number:98
+fluctuations of price, output and employment. Economic stability could be ensured only through the intervention of the government.
+The second lesson related to a country’s economic links with the outside world. The goal of full employment could only be achieved if governments had power to control flows of goods, capital and labour.
+====================================================================================================
+
+--- CHUNK 575 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era', 'subheading3': '4.1 Post-war Settlement and the Bretton Woods Institutions'}
+Content:
+Thus in brief, the main aim of the post-war international economic system was to preserve economic stability and full employment in the industrial world. Its framework was agreed upon at the United Nations Monetary and Financial Conference held in July 1944 at Bretton Woods in New Hampshire, USA.
+**_Fig. 26 – Mount Washington Hotel situated in Bretton Woods, US._** _This is the place where the famous conference was held._
+====================================================================================================
+
+--- CHUNK 576 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era', 'subheading3': '4.1 Post-war Settlement and the Bretton Woods Institutions'}
+Content:
+The Bretton Woods conference established the International Monetary Fund (IMF) to deal with external surpluses and deficits of its member nations. The International Bank for Reconstruction and Development (popularly known as the World Bank) was set up to finance postwar reconstruction. The IMF and the World Bank are referred to as the Bretton Woods institutions or sometimes the Bretton Woods twins. The post-war international economic system is also often described as the Bretton Woods system.
+====================================================================================================
+
+--- CHUNK 577 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': '4 Rebuilding a World Economy: The Post-war Era', 'subheading3': '4.1 Post-war Settlement and the Bretton Woods Institutions'}
+Content:
+The IMF and the World Bank commenced financial operations in 1947. Decision-making in these institutions is controlled by the Western industrial powers. The US has an effective right of veto over key IMF and World Bank decisions.
+The international monetary system is the system linking national currencies and monetary system. The Bretton Woods system was based on fixed exchange rates. In this system, national currencies, for example the Indian rupee, were pegged to the dollar at a fixed exchange rate. The dollar itself was anchored to gold at a fixed price of $35 per ounce of gold.
+====================================================================================================
+
+--- CHUNK 578 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Briefly summarise the two lessons learnt by economists and politicians from the inter-war economic experience?
+====================================================================================================
+
+--- CHUNK 579 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.2 The Early Post-war Years'}
+Content:
+#### 4.2 The Early Post-war Years
+The Bretton Woods system inaugurated an era of unprecedented growth of trade and incomes for the Western industrial nations and Japan. World trade grew annually at over 8 per cent between 1950 and 1970 and incomes at nearly 5 per cent. The growth was also mostly stable, without large fluctuations. For much of this period the unemployment rate, for example, averaged less than 5 per cent in most industrial countries.
+footer page number:99
+====================================================================================================
+
+--- CHUNK 580 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.2 The Early Post-war Years'}
+Content:
+footer page number:99
+These decades also saw the worldwide spread of technology and enterprise. Developing countries were in a hurry to catch up with the advanced industrial countries. Therefore, they invested vast amounts of capital, importing industrial plant and equipment featuring modern technology.
+====================================================================================================
+
+--- CHUNK 581 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.3 Decolonisation and Independence'}
+Content:
+#### 4.3 Decolonisation and Independence
+When the Second World War ended, large parts of the world were still under European colonial rule. Over the next two decades most colonies in Asia and Africa emerged as free, independent nations. They were, however, overburdened by poverty and a lack of resources, and their economies and societies were handicapped by long periods of colonial rule.
+====================================================================================================
+
+--- CHUNK 582 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.3 Decolonisation and Independence'}
+Content:
+The IMF and the World Bank were designed to meet the financial needs of the industrial countries. They were not equipped to cope with the challenge of poverty and lack of development in the former colonies. But as Europe and Japan rapidly rebuilt their economies, they grew less dependent on the IMF and the World Bank. Thus from the late 1950s the Bretton Woods institutions began to shift their attention more towards developing countries.
+====================================================================================================
+
+--- CHUNK 583 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.3 Decolonisation and Independence', 'subheading4': 'Box 4', 'subheading5': 'What are MNCs?'}
+Content:
+##### Box 4  
+###### What are MNCs?
+====================================================================================================
+
+--- CHUNK 584 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.3 Decolonisation and Independence', 'subheading4': 'Box 4', 'subheading5': 'What are MNCs?'}
+Content:
+Multinational corporations (MNCs) are large companies that operate in several countries at the same time. The first MNCs were established in the 1920s. Many more came up in the 1950s and 1960s as US businesses expanded worldwide and Western Europe and Japan also recovered to become powerful industrial economies. The worldwide spread of MNCs was a notable feature of the 1950s and 1960s. This was partly because high import **tariffs** imposed by different governments forced MNCs to locate their manufacturing operations and become ‘domestic producers’ in as many countries as possible.
+====================================================================================================
+
+--- CHUNK 585 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Tariff – Tax imposed on a country’s imports from the rest of the world. Tariffs are levied at the point of entry, i.e., at the border or the airport.
+====================================================================================================
+
+--- CHUNK 586 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+As colonies, many of the less developed regions of the world had been part of Western empires. Now, ironically, as newly independent countries facing urgent pressures to lift their populations out of poverty, they came under the guidance of international agencies dominated by the former colonial powers. Even after many years of decolonisation, the former colonial powers still controlled vital resources such as minerals and land in many of their former colonies.
+====================================================================================================
+
+--- CHUNK 587 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+Large corporations of other powerful countries, for example the US, also often managed to secure rights to exploit developing countries’ natural resources very cheaply.
+====================================================================================================
+
+--- CHUNK 588 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+At the same time, most developing countries did not benefit from the fast growth the Western economies experienced in the 1950s and 1960s. Therefore they organised themselves as a group – the Group of 77 (or G-77) – to demand a new international economic order (NIEO). By the NIEO they meant a system that would give them real control over their natural resources, more development assistance, fairer prices for raw materials, and better access for their manufactured goods in developed countries’ markets.
+footer page number:100
+====================================================================================================
+
+--- CHUNK 589 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.4 End of Bretton Woods and the Beginning of ‘Globalisation’'}
+Content:
+#### 4.4 End of Bretton Woods and the Beginning of ‘Globalisation’
+Despite years of stable and rapid growth, not all was well in this post-war world. From the 1960s the rising costs of its overseas involvements weakened the US’s finances and competitive strength. The US dollar now no longer commanded confidence as the world’s principal currency. It could not maintain its value in relation to gold. This eventually led to the collapse of the system of **fixed exchange rates** and the introduction of a system of **floating exchange rates** .
+====================================================================================================
+
+--- CHUNK 590 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.4 End of Bretton Woods and the Beginning of ‘Globalisation’'}
+Content:
+From the mid-1970s the international financial system also changed in important ways. Earlier, developing countries could turn to international institutions for loans and development assistance. But now they were forced to borrow from Western commercial banks and private lending institutions. This led to periodic debt crises in the developing world, and lower incomes and increased poverty, especially in Africa and Latin America.
+====================================================================================================
+
+--- CHUNK 591 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.4 End of Bretton Woods and the Beginning of ‘Globalisation’'}
+Content:
+The industrial world was also hit by unemployment that began rising from the mid-1970s and remained high until the early 1990s. From the late 1970s MNCs also began to shift production operations to low-wage Asian countries.
+China had been cut off from the post-war world economy since its revolution in 1949. But new economic policies in China and the collapse of the Soviet Union and Soviet-style communism in Eastern Europe brought many countries back into the fold of the world economy.
+====================================================================================================
+
+--- CHUNK 592 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.4 End of Bretton Woods and the Beginning of ‘Globalisation’'}
+Content:
+Wages were relatively low in countries like China. Thus they became attractive destinations for investment by foreign MNCs competing to capture world markets. Have you noticed that most of the TVs, mobile phones, and toys we see in the shops seem to be made in China? This is because of the low-cost structure of the Chinese economy, most importantly its low wages.
+====================================================================================================
+
+--- CHUNK 593 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': '4.4 End of Bretton Woods and the Beginning of ‘Globalisation’'}
+Content:
+The relocation of industry to low-wage countries stimulated world trade and capital flows. In the last two decades the world’s economic geography has been transformed as countries such as India, China and Brazil have undergone rapid economic transformation.
+====================================================================================================
+
+--- CHUNK 594 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Exchange rates **–** They link national currencies for purposes of international trade. There are broadly two kinds of exchange rates: fixed exchange rate and floating exchange rate Fixed exchange rates **–** When exchange rates are fixed and governments intervene to prevent movements in them Flexible or floating exchange rates **–** These rates fluctuate depending on demand and supply of currencies in foreign exchange markets, in principle without interference by governments
+footer page number:101
+====================================================================================================
+
+--- CHUNK 595 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Give two examples of different types of global exchanges which took place before the seventeenth century, choosing one example from Asia and one from the Americas.
+2. Explain how the global transfer of disease in the pre-modern world helped in the colonisation of the Americas.
+3. Write a note to explain the effects of the following: a) The British government’s decision to abolish the Corn Laws.
+- b) The coming of rinderpest to Africa.
+- c) The death of men of working-age in Europe because of the World War.
+- d) The Great Depression on the Indian economy.
+====================================================================================================
+
+--- CHUNK 596 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Write in brief'}
+Content:
+- d) The Great Depression on the Indian economy.
+- e) The decision of MNCs to relocate production to Asian countries.
+4. Give two examples from history to show the impact of technology on food availability.
+5. What is meant by the Bretton Woods Agreement?
+====================================================================================================
+
+--- CHUNK 597 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+6. Imagine that you are an indentured Indian labourer in the Caribbean. Drawing from the details in this chapter, write a letter to your family describing your life and feelings.
+7. Explain the three types of movements or flows within international economic exchange. Find one example of each type of flow which involved India and Indians, and write a short account of it.
+8. Explain the causes of the Great Depression.
+9. Explain what is referred to as the G-77 countries. In what ways can G-77 be seen as a reaction to the activities of the Bretton Woods twins?
+====================================================================================================
+
+--- CHUNK 598 ---
+Metadata: {'Chapter Name': 'The Making of a Global World', 'subheading1': '1 The Pre-modern World', 'subheading2': 'Project'}
+Content:
+### Project
+Find out more about gold and diamond mining in South Africa in the nineteenth century. Who controlled the gold and diamond companies? Who were the miners and what were their lives like?
+Project
+footer page number:102
+====================================================================================================
+
+--- CHUNK 599 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation'}
+Content:
+# The Age of Industrialisation
+**_Fig. 1 – Dawn of the Century, published by E.T. Paull Music Co., New York, England, 1900._**
+====================================================================================================
+
+--- CHUNK 600 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation'}
+Content:
+In 1900, a popular music publisher E.T. Paull produced a music book that had a picture on the cover page announcing the ‘Dawn of the Century’ (Fig. 1). As you can see from the illustration, at the centre of the picture is a goddess-like figure, the angel of progress, bearing the flag of the new century. She is gently perched on a wheel with wings, symbolising time. Her flight is taking her into the future. Floating about, behind her, are the signs of progress: railway, camera, machines, printing press and factory.
+====================================================================================================
+
+--- CHUNK 601 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation'}
+Content:
+This glorification of machines and technology is even more marked in a picture which appeared on the pages of a trade magazine over a hundred years ago (Fig. 2). It shows two magicians. The one at the top is Aladdin from the **Orient** who built a beautiful palace with his
+====================================================================================================
+
+--- CHUNK 602 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words'}
+Content:
+## New words
+Orient – The countries to the east of the Mediterranean, usually referring to Asia. The term arises out of a western viewpoint that sees this region as premodern, traditional and mysterious
+magic lamp. The one at the bottom is the modern mechanic, who with his modern tools weaves a new magic: builds bridges, ships, towers and high-rise buildings. Aladdin is shown as representing the East and the past, the mechanic stands for the West and modernity.
+====================================================================================================
+
+--- CHUNK 603 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words'}
+Content:
+These images offer us a triumphant account of the modern world. Within this account the modern world is associated with rapid technological change and innovations, machines and factories, railways and steamships. The history of industrialisation thus becomes simply a story of development, and the modern age appears as a wonderful time of technological progress.
+====================================================================================================
+
+--- CHUNK 604 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words'}
+Content:
+These images and associations have now become part of popular imagination. Do you not see rapid industrialisation as a time of progress and modernity? Do you not think that the spread of railways and factories, and construction of high-rise buildings and bridges is a sign of society’s development?
+====================================================================================================
+
+--- CHUNK 605 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words'}
+Content:
+How have these images developed? And how do we relate to these ideas? Is industrialisation always based on rapid technological development? Can we today continue to glorify continuous mechanisation of all work? What has industrialisation meant to people’s lives? To answer such questions we need to turn to the history of industrialisation.
+**_Fig. 2 – Two Magicians, published in_ Inland Printers** **_, 26 January 1901._**
+====================================================================================================
+
+--- CHUNK 606 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words'}
+Content:
+In this chapter we will look at this history by focusing first on Britain, the first industrial nation, and then India, where the pattern of industrial change was conditioned by colonial rule.
+====================================================================================================
+
+--- CHUNK 607 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Give two examples where modern development that is associated with progress has lead to problems. You may like to think of areas related to environmental issues, nuclear weapons or disease.
+footer page number:104
+====================================================================================================
+
+--- CHUNK 608 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+### 1 Before the Industrial Revolution
+All too often we associate industrialisation with the growth of factory industry. When we talk of industrial production we refer to factory production. When we talk of industrial workers we mean factory workers. Histories of industrialisation very often begin with the setting up of the first factories.
+====================================================================================================
+
+--- CHUNK 609 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+There is a problem with such ideas. Even before factories began to dot the landscape in England and Europe, there was large-scale industrial production for an international market. This was not based on factories. Many historians now refer to this phase of industrialisation as **proto** -industrialisation.
+**New words** Proto – Indicating the first or early form of something
+====================================================================================================
+
+--- CHUNK 610 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+In the seventeenth and eighteenth centuries, merchants from the towns in Europe began moving to the countryside, supplying money to peasants and artisans, persuading them to produce for an international market. With the expansion of world trade and the acquisition of colonies in different parts of the world, the demand for goods began growing. But merchants could not expand production within towns. This was because here urban crafts and trade guilds were powerful. These were associations of producers that trained craftspeople, maintained control over production, regulated competition and
+====================================================================================================
+
+--- CHUNK 611 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+control over production, regulated competition and prices, and restricted the entry of new people into the trade. Rulers granted different guilds the monopoly right to produce and trade in specific products. It was therefore difficult for new merchants to set up business in towns. So they turned to the countryside.
+====================================================================================================
+
+--- CHUNK 612 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+In the countryside poor peasants and artisans began working for merchants. As you have seen in the textbook last year, this was a time when open fields were disappearing and commons were being enclosed. Cottagers and poor peasants who had earlier depended on common lands for their survival, gathering their firewood, berries, vegetables, hay and straw, had to now look for alternative sources of income. Many had tiny plots of land which could not provide work for all members of the household. So when merchants came around and offered advances to produce goods for them, peasant households
+====================================================================================================
+
+--- CHUNK 613 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+advances to produce goods for them, peasant households eagerly agreed. By working for the merchants, they
+====================================================================================================
+
+--- CHUNK 614 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+**_Fig. 3 – Spinning in the eighteenth century._** _You can see each member of the family involved in the production of yarn. Notice that one wheel is moving only one spindle._
+footer page number:105
+could remain in the countryside and continue to cultivate their small plots. Income from proto-industrial production supplemented their shrinking income from cultivation. It also allowed them a fuller use of their family labour resources.
+====================================================================================================
+
+--- CHUNK 615 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+Within this system a close relationship developed between the town and the countryside. Merchants were based in towns but the work was done mostly in the countryside. A merchant clothier in England purchased wool from a wool **stapler** , and carried it to the spinners; the yarn (thread) that was spun was taken in subsequent stages of production to weavers, **fullers** , and then to dyers. The finishing was done in London before the export merchant sold the cloth in the international market. London in fact came to be known as a finishing centre.
+====================================================================================================
+
+--- CHUNK 616 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution'}
+Content:
+This proto-industrial system was thus part of a network of commercial exchanges. It was controlled by merchants and the goods were produced by a vast number of producers working within their family farms, not in factories. At each stage of production 20 to 25 workers were employed by each merchant. This meant that each clothier was controlling hundreds of workers.
+====================================================================================================
+
+--- CHUNK 617 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution', 'subheading3': '1.1 The Coming Up of the Factory'}
+Content:
+#### 1.1 The Coming Up of the Factory
+The earliest factories in England came up by the 1730s. But it was only in the late eighteenth century that the number of factories multiplied.
+The first symbol of the new era was cotton. Its production boomed in the late nineteenth century. In 1760 Britain was importing 2.5 million pounds of raw cotton to feed its cotton industry. By 1787 this import soared to 22 million pounds. This increase was linked to a number of changes within the process of production. Let us look briefly at some of these.
+====================================================================================================
+
+--- CHUNK 618 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution', 'subheading3': '1.1 The Coming Up of the Factory'}
+Content:
+A series of inventions in the eighteenth century increased the efficacy of each step of the production process ( **carding** , twisting and spinning, and rolling). They enhanced the output per worker, enabling each worker to produce more, and they made possible the production of stronger threads and yarn. Then Richard Arkwright created the cotton mill. Till this time, as you have seen, cloth production was spread all over the countryside and carried out within village households. But now, the costly new machines could be purchased, set up and maintained in the mill. Within the mill all the
+====================================================================================================
+
+--- CHUNK 619 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution', 'subheading3': 'New words'}
+Content:
+#### New words
+Stapler – A person who ‘staples’ or sorts wool according to its fibre Fuller – A person who ‘fulls’ – that is, gathers – cloth by pleating Carding – The process in which fibres, such as cotton or wool, are prepared prior to spinning
+**_Fig. 4 – A Lancashire cotton mill, painted by C.E. Turner,_ The Illustrated London News** **_, 1925._**
+_The artist said: ‘Seen through the humid atmosphere that makes Lancashire the best cotton-spinning locality in the world, a huge cotton-mill aglow with electricity in the twilight, is a most impressive sight.’_
+footer page number:106
+====================================================================================================
+
+--- CHUNK 620 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution', 'subheading3': 'New words'}
+Content:
+footer page number:106
+processes were brought together under one roof and management. This allowed a more careful supervision over the production process, a watch over quality, and the regulation of labour, all of which had been difficult to do when production was in the countryside.
+====================================================================================================
+
+--- CHUNK 621 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '1 Before the Industrial Revolution', 'subheading3': 'New words'}
+Content:
+In the early nineteenth century, factories increasingly became an intimate part of the English landscape. So visible were the imposing new mills, so magical seemed to be the power of new technology, that contemporaries were dazzled. They concentrated their attention on the mills, almost forgetting the bylanes and the workshops where production still continued.
+====================================================================================================
+
+--- CHUNK 622 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+The way in which historians focus on industrialisation rather than on small workshops is a good example of how what we believe today about the past is influenced by what historians choose to notice and what they ignore. Note down one event or aspect of your own life which adults such as your parents or teachers may think is unimportant, but which you believe to be important.
+**_Fig. 5 – Industrial Manchester by M. Jackson,_ The Illustrated London News,** **_1857._** _Chimneys billowing smoke came to characterise the industrial landscape._
+====================================================================================================
+
+--- CHUNK 623 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '1.2 The Pace of Industrial Change'}
+Content:
+#### 1.2 The Pace of Industrial Change
+How rapid was the process of industrialisation? Does industrialisation mean only the growth of factory industries?
+====================================================================================================
+
+--- CHUNK 624 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '1.2 The Pace of Industrial Change'}
+Content:
+First: The most dynamic industries in Britain were clearly cotton and metals. Growing at a rapid pace, cotton was the leading sector in the first phase of industrialisation up to the 1840s. After that the iron and steel industry led the way. With the expansion of railways, in England from the 1840s and in the colonies from the 1860s, the demand for iron and steel increased rapidly. By 1873 Britain was exporting iron and steel worth about £ 77 million, double the value of its cotton export.
+====================================================================================================
+
+--- CHUNK 625 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Look at Figs. 4 and 5. Can you see any difference in the way the two images show industrialisation? Explain your view briefly.
+footer page number:107
+Second: the new industries could not easily displace traditional industries. Even at the end of the nineteenth century, less than 20 per cent of the total workforce was employed in technologically advanced industrial sectors. Textiles was a dynamic sector, but a large portion of the output was produced not within factories, but outside, within domestic units.
+====================================================================================================
+
+--- CHUNK 626 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Third: the pace of change in the ‘traditional’ industries was not set by steam-powered cotton or metal industries, but they did not remain entirely stagnant either. Seemingly ordinary and small innovations were the basis of growth in many non-mechanised sectors such as food processing, building, pottery, glass work, tanning, furniture making, and production of implements.
+**_Fig. 6 – A fitting shop at a railway works in England,_ The Illustrated London News** **_, 1849._** _In the fitting shop new locomotive engines were completed and old ones repaired._
+====================================================================================================
+
+--- CHUNK 627 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Fourth: technological changes occurred slowly. They did not spread dramatically across the industrial landscape. New technology was expensive and merchants and industrialists were cautious about using it. The machines often broke down and repair was costly. They were not as effective as their inventors and manufacturers claimed.
+====================================================================================================
+
+--- CHUNK 628 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Consider the case of the steam engine. James Watt improved the steam engine produced by Newcomen and patented the new engine in 1781. His industrialist friend Mathew Boulton manufactured the new model. But for years he could find no buyers. At the beginning of the nineteenth century, there were no more than 321 steam engines all over England. Of these, 80 were in cotton industries, nine in wool industries, and the rest in mining, canal works and iron works. Steam engines were not used in any of the other industries till much later in the century. So even the most powerful new technology that
+====================================================================================================
+
+--- CHUNK 629 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+the century. So even the most powerful new technology that enhanced the productivity of labour manifold was slow to be accepted by industrialists.
+====================================================================================================
+
+--- CHUNK 630 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+Historians now have come to increasingly recognise that the typical worker in the mid-nineteenth century was not a machine operator but the traditional craftsperson and labourer.
+**_Fig. 7 – A spinning factory in 1830._** _You can see how giant wheels moved by steam power could set in motion hundreds of spindles to manufacture thread._
+footer page number:108
+====================================================================================================
+
+--- CHUNK 631 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power'}
+Content:
+### 2 Hand Labour and Steam Power
+In Victorian Britain there was no shortage of human labour. Poor peasants and vagrants moved to the cities in large numbers in search of jobs, waiting for work. As you will know, when there is plenty of labour, wages are low. So industrialists had no problem of labour shortage or high wage costs. They did not want to introduce machines that got rid of human labour and required large capital investment.
+====================================================================================================
+
+--- CHUNK 632 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power'}
+Content:
+In many industries the demand for labour was seasonal. Gas works and breweries were especially busy through the cold months. So they needed more workers to meet their peak demand. Bookbinders and printers, catering to Christmas demand, too needed extra hands before December. At the waterfront, winter was the time that ships were repaired and spruced up. In all such industries where production fluctuated with the season, industrialists usually preferred hand labour, employing workers for the season.
+====================================================================================================
+
+--- CHUNK 633 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power'}
+Content:
+**_Fig. 8 – People on the move in search of work,_ The Illustrated London News** **_, 1879._** _Some people were always on the move selling small goods and looking for temporary work._
+A range of products could be produced only with hand labour. Machines were oriented to producing uniforms, standardised goods for a mass market. But the demand in the market was often for goods with intricate designs and specific shapes. In mid-nineteenth-century Britain, for instance, 500 varieties of
+====================================================================================================
+
+--- CHUNK 634 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power', 'subheading3': 'Source A'}
+Content:
+#### Source A
+Will Thorne is one of those who went in search of seasonal work, loading bricks and doing odd jobs. He describes how job-seekers walked to London in search of work:
+====================================================================================================
+
+--- CHUNK 635 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power', 'subheading3': 'Source A'}
+Content:
+‘I had always wanted to go to London, and my desire … was stimulated by letters from an old workmate … who was now working at the Old Kent Road Gas Works … I finally decided to go … in November, 1881. With two friends I started out to walk the journey, filled with the hope that we would be able to obtain employment, when we get there, with the kind assistance of my friend … we had little money when we started, not enough to pay for our food and lodgings each night until we arrived in London. Some days we walked as much as twenty miles, and other days less. Our money was gone at the end of the
+====================================================================================================
+
+--- CHUNK 636 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power', 'subheading3': 'Source A'}
+Content:
+and other days less. Our money was gone at the end of the third day … For two nights we slept out – once under a haystack, and once in an old farm shed … On arrival in London we tried to find … my friend … but … were unsuccessful. Our money was gone, so there was nothing for us to do but to walk around until late at night, and then try to find some place to sleep. We found an old building and slept in it that night. The next day, Sunday, late in the afternoon, we got to the Old Kent Gas Works, and applied for work. To my great surprise, the man we had been looking for was working at the time.
+====================================================================================================
+
+--- CHUNK 637 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power', 'subheading3': 'Source A'}
+Content:
+the man we had been looking for was working at the time. He spoke to the foreman and I was given a job.’
+====================================================================================================
+
+--- CHUNK 638 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '2 Hand Labour and Steam Power', 'subheading3': 'Source A'}
+Content:
+Quoted in Raphael Samuel, ‘Comers and Goers’, in H.J. Dyos and Michael Wolff, eds, The Victorian City: Images and Realities, 1973.
+====================================================================================================
+
+--- CHUNK 639 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Source'}
+Content:
+### Source
+====================================================================================================
+
+--- CHUNK 640 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine that you are a merchant writing back to a salesman who has been trying to persuade you to buy a new machine. Explain in your letter what you have heard and why you do not wish to invest in the new technology.
+footer page number:109
+hammers were produced and 45 kinds of axes. These required human skill, not mechanical technology.
+====================================================================================================
+
+--- CHUNK 641 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+In Victorian Britain, the upper classes – the aristocrats and the bourgeoisie – preferred things produced by hand. Handmade products came to symbolise refinement and class. They were better finished, individually produced, and carefully designed. Machinemade goods were for export to the colonies.
+In countries with labour shortage, industrialists were keen on using mechanical power so that the need for human labour can be minimised. This was the case in nineteenth-century America. Britain, however, had no problem hiring human hands.
+====================================================================================================
+
+--- CHUNK 642 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+#### 2.1 Life of the Workers
+The abundance of labour in the market affected the lives of workers. As news of possible jobs travelled to the countryside, hundreds tramped to the cities. The actual possibility of getting a job depended on existing networks of friendship and kin relations. If you had a relative or a friend in a factory, you were more likely to get a job quickly. But not everyone had social connections. Many jobseekers had to wait weeks, spending nights under bridges or in night
+====================================================================================================
+
+--- CHUNK 643 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+**_Fig. 9 – Workers in an iron works, north-east England, painting by William Bell Scott, 1861._** _Many artists from the late nineteenth century began idealising workers: they were shown suffering hardship and pain for the cause of the nation._
+====================================================================================================
+
+--- CHUNK 644 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+**_Fig. 10 – Houseless and Hungry, painting by Samuel Luke Fildes, 1874._** _This painting shows the homeless in London applying for tickets to stay overnight in a workhouse. These shelters were maintained under the supervision of the Poor Law Commissioners for the ‘destitute, wayfarers, wanderers and foundling’. Staying in these workhouses was a humiliating experience: everyone was subjected to a medical examination to see whether they were carrying disease, their bodies were cleansed, and their clothes purified. They had to also do hard labour._
+footer page number:110
+====================================================================================================
+
+--- CHUNK 645 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+footer page number:110
+shelters. Some stayed in Night Refuges that were set up by private individuals; others went to the Casual Wards maintained by the Poor Law authorities.
+Seasonality of work in many industries meant prolonged periods without work. After the busy season was over, the poor were on the streets again. Some returned to the countryside after the winter, when the demand for labour in the rural areas opened up in places. But most looked for odd jobs, which till the mid-nineteenth century were difficult to find.
+====================================================================================================
+
+--- CHUNK 646 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+Wages increased somewhat in the early nineteenth century. But they tell us little about the welfare of the workers. The average figures hide the variations between trades and the fluctuations from year to year. For instance, when prices rose sharply during the prolonged Napoleonic War, the real value of what the workers earned fell significantly, since the same wages could now buy fewer things. Moreover, the income of workers depended not on the wage rate alone. What was also critical was the period of employment: the number of days of work determined the average daily income of the workers.
+====================================================================================================
+
+--- CHUNK 647 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+of work determined the average daily income of the workers. At the best of times till the mid-nineteenth century, about 10 per cent of the urban population were extremely poor. In periods of economic slump, like the 1830s, the proportion of unemployed went up to anything between 35 and 75 per cent in different regions.
+====================================================================================================
+
+--- CHUNK 648 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '2.1 Life of the Workers'}
+Content:
+The fear of unemployment made workers hostile to the introduction of new technology. When the **Spinning Jenny** was introduced in  
+spindles<br>  
+spindles<br>
+**_Fig. 11 – A Spinning Jenny, a drawing by T.E. Nicholson, 1835._** _Notice the number of spindles that could be operated with one wheel._
+====================================================================================================
+
+--- CHUNK 649 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Spinning Jenny – Devised by James Hargreaves in 1764, this machine speeded up the spinning process and reduced labour demand. By turning one single wheel a worker could set in motion a number of spindles and spin several threads at the same time.
+====================================================================================================
+
+--- CHUNK 650 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source B'}
+Content:
+##### Source B
+====================================================================================================
+
+--- CHUNK 651 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+A magistrate reported in 1790 about an incident when he was called in to protect a manufacturer’s property from being attacked by workers:
+====================================================================================================
+
+--- CHUNK 652 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+‘From the depredations of a lawless Banditti of colliers and their wives, for the wives had lost their work to spinning engines … they advanced at first with much insolence, avowing their intention of cutting to pieces the machine lately introduced in the woollen manufacture; which they suppose, if generally adopted, will lessen the demand for manual labour. The women became clamorous. The men were more open to conviction and after some expostulation were induced to desist from their purpose and return peaceably home.’
+====================================================================================================
+
+--- CHUNK 653 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+Look at Figs. 3, 7 and 11, then reread source B. Explain why many workers were opposed to the use of the Spinning Jenny.
+J.L. Hammond and B. Hammond, The Skilled Labourer 1760-1832, quoted in Maxine Berg, The Age of Manufactures.
+**_Source_**
+footer page number:111
+====================================================================================================
+
+--- CHUNK 654 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+**_Source_**
+footer page number:111
+**_Fig. 12 – A shallow underground railway being constructed in central London,_ Illustrated Times** **_, 1868_** _. From the 1850s railway stations began coming up all over London. This meant a demand for large numbers of workers to dig tunnels, erect timber scaffolding, do the brick and iron works. Job-seekers moved from one construction site to another._
+the woollen industry, women who survived on hand spinning began attacking the new machines. This conflict over the introduction of the jenny continued for a long time.
+====================================================================================================
+
+--- CHUNK 655 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+After the 1840s, building activity intensified in the cities, opening up greater opportunities of employment. Roads were widened, new railway stations came up, railway lines were extended, tunnels dug, drainage and sewers laid, rivers embanked. The number of workers employed in the transport industry doubled in the 1840s, and doubled again in the subsequent 30 years.
+footer page number:112
+====================================================================================================
+
+--- CHUNK 656 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '3 Industrialisation in the Colonies'}
+Content:
+### 3 Industrialisation in the Colonies
+Let us now move to India to see how a colony industrialises. Once again we will look not only at factory industries but also at the non-mechanised sector. We will limit our discussion primarily to textile industries.
+====================================================================================================
+
+--- CHUNK 657 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '3 Industrialisation in the Colonies', 'subheading3': '3.1 The Age of Indian Textiles'}
+Content:
+#### 3.1 The Age of Indian Textiles
+====================================================================================================
+
+--- CHUNK 658 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '3 Industrialisation in the Colonies', 'subheading3': '3.1 The Age of Indian Textiles'}
+Content:
+Before the age of machine industries, silk and cotton goods from India dominated the international market in textiles. Coarser cottons were produced in many countries, but the finer varieties often came from India. Armenian and Persian merchants took the goods from Punjab to Afghanistan, eastern Persia and Central Asia. Bales of fine textiles were carried on camel back via the north-west frontier, through mountain passes and across deserts. A vibrant sea trade operated through the main pre-colonial ports. Surat on the Gujarat coast connected India to the Gulf and Red Sea Ports; Masulipatam on
+====================================================================================================
+
+--- CHUNK 659 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '3 Industrialisation in the Colonies', 'subheading3': '3.1 The Age of Indian Textiles'}
+Content:
+India to the Gulf and Red Sea Ports; Masulipatam on the Coromandel coast and Hoogly in Bengal had trade links with Southeast Asian ports.
+====================================================================================================
+
+--- CHUNK 660 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+### Activity
+On a map of Asia, find and draw the sea and land links of the textile trade from India to Central Asia, West Asia and Southeast Asia.
+====================================================================================================
+
+--- CHUNK 661 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+A variety of Indian merchants and bankers were involved in this network of export trade – financing production, carrying goods and supplying exporters. Supply merchants linked the port towns to the inland regions. They gave advances to weavers, procured the woven cloth from weaving villages, and carried the supply to the ports. At the port, the big shippers and export merchants had brokers who negotiated the price and bought goods from the supply merchants operating inland.
+By the 1750s this network, controlled by Indian merchants, was breaking down.
+====================================================================================================
+
+--- CHUNK 662 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+The European companies gradually gained power – first securing a variety of concessions from local courts, then the monopoly rights to trade. This resulted in a decline of the old ports of Surat and Hoogly through which local merchants had operated. Exports from these ports fell dramatically, the credit that had financed the earlier trade began drying up, and the local bankers slowly went bankrupt. In the last years of the seventeenth century, the gross value of trade that passed through Surat had been Rs 16 million. By the 1740s it had slumped to Rs 3 million.
+footer page number:113
+====================================================================================================
+
+--- CHUNK 663 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity'}
+Content:
+footer page number:113
+**_Fig. 13 – The English factory at Surat, a seventeenth-century drawing._**
+While Surat and Hoogly decayed, Bombay and Calcutta grew. This shift from the old ports to the new ones was an indicator of the growth of colonial power. Trade through the new ports came to be controlled by European companies, and was carried in European ships. While many of the old trading houses collapsed, those that wanted to survive had to now operate within a network shaped by European trading companies.
+How did these changes affect the life of weavers and other artisans?
+====================================================================================================
+
+--- CHUNK 664 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+#### 3.2 What Happened to Weavers?
+The consolidation of East India Company power after the 1760s did not initially lead to a decline in textile exports from India. British cotton industries had not yet expanded and Indian fine textiles were in great demand in Europe. So the company was keen on expanding textile exports from India.
+Before establishing political power in Bengal and Carnatic in the 1760s and 1770s, the East India Company had found it difficult to ensure a regular supply of goods for export. The French, Dutch,
+**_Fig. 14 – A weaver at work, Gujarat._**
+footer page number:114
+====================================================================================================
+
+--- CHUNK 665 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+footer page number:114
+Portuguese as well as the local traders competed in the market to secure woven cloth. So the weaver and supply merchants could bargain and try selling the produce to the best buyer. In their letters back to London, Company officials continuously complained of difficulties of supply and the high prices.
+====================================================================================================
+
+--- CHUNK 666 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+However, once the East India Company established political power, it could assert a monopoly right to trade. It proceeded to develop a system of management and control that would eliminate competition, control costs, and ensure regular supplies of cotton and silk goods. This it did through a series of steps.
+First: the Company tried to eliminate the existing traders and brokers connected with the cloth trade, and establish a more direct control over the weaver. It appointed a paid servant called the _gomastha_ to supervise weavers, collect supplies, and examine the quality of cloth.
+====================================================================================================
+
+--- CHUNK 667 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+Second: it prevented Company weavers from dealing with other buyers. One way of doing this was through the system of advances. Once an order was placed, the weavers were given loans to purchase the raw material for their production. Those who took loans had to hand over the cloth they produced to the _gomastha_ . They could not take it to any other trader.
+====================================================================================================
+
+--- CHUNK 668 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+As loans flowed in and the demand for fine textiles expanded, weavers eagerly took the advances, hoping to earn more. Many weavers had small plots of land which they had earlier cultivated along with weaving, and the produce from this took care of their family needs. Now they had to lease out the land and devote all their time to weaving. Weaving, in fact, required the labour of the entire family, with children and women all engaged in different stages of the process.
+====================================================================================================
+
+--- CHUNK 669 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+Soon, however, in many weaving villages there were reports of clashes between weavers and _gomasthas_ . Earlier supply merchants had very often lived within the weaving villages, and had a close relationship with the weavers, looking after their needs and helping them in times of crisis. The new _gomasthas_ were outsiders, with no long-term social link with the village. They acted arrogantly, marched into villages with **sepoys** and peons, and punished weavers for delays in supply – often beating and flogging them. The weavers lost the space to bargain for prices and sell to different
+====================================================================================================
+
+--- CHUNK 670 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.2 What Happened to Weavers?'}
+Content:
+lost the space to bargain for prices and sell to different buyers: the price they received from the Company was miserably low and the loans they had accepted tied them to the Company.
+====================================================================================================
+
+--- CHUNK 671 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Sepoy – This is how the British pronounced the word _sipahi,_ meaning an Indian soldier in the service of the British
+footer page number:115
+In many places in Carnatic and Bengal, weavers deserted villages and migrated, setting up looms in other villages where they had some family relation. Elsewhere, weavers along with the village traders revolted, opposing the Company and its officials. Over time many weavers began refusing loans, closing down their workshops and taking to agricultural labour.
+By the turn of the nineteenth century, cotton weavers faced a new set of problems.
+====================================================================================================
+
+--- CHUNK 672 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India'}
+Content:
+#### 3.3 Manchester Comes to India
+In 1772, Henry Patullo, a Company official, had ventured to say that the demand for Indian textiles could never reduce, since no other nation produced goods of the same quality. Yet by the beginning of the nineteenth century we see the beginning of a long decline of textile exports from India. In 1811-12 piece-goods accounted for 33 per cent of India’s exports; by 1850-51 it was no more than 3 per cent.
+Why did this happen? What were its implications?
+====================================================================================================
+
+--- CHUNK 673 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India'}
+Content:
+As cotton industries developed in England, industrial groups began worrying about imports from other countries. They pressurised the government to impose import duties on cotton textiles so that Manchester goods could sell in Britain without facing any competition from outside. At the same time industrialists persuaded the East India Company to sell British manufactures in Indian markets as well. Exports of British cotton goods increased dramatically in the early nineteenth century. At the end of the eighteenth century there had been virtually no import of cotton piece-goods into India. But
+====================================================================================================
+
+--- CHUNK 674 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India'}
+Content:
+virtually no import of cotton piece-goods into India. But by 1850 cotton piece-goods constituted over 31 per cent of the value of Indian imports; and by the 1870s this figure was over 50 per cent.
+====================================================================================================
+
+--- CHUNK 675 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India'}
+Content:
+Cotton weavers in India thus faced two problems at the same time: their export market collapsed, and the local market shrank, being glutted with Manchester imports. Produced by machines at lower costs, the imported cotton goods were so cheap that weavers could not easily compete with them. By the 1850s, reports from most weaving regions of India narrated stories of decline and desolation.
+By the 1860s, weavers faced a new problem. They could not get sufficient supply of raw cotton of good quality. When the American
+====================================================================================================
+
+--- CHUNK 676 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India', 'subheading4': 'Source C', 'subheading5': 'The Commissioner of Patna wrote:'}
+Content:
+##### Source C  
+###### The Commissioner of Patna wrote:
+‘It appears that twenty yeas ago, a brisk trade was carried on in the manufacture of cloth at Jahanabad, and Behar, which has in the former place entirely ceased, while in the latter the amount of manufacture is very limited, in consequence of the cheap and durable goods from Manchester with which the Native manufactures are unable to compete.’
+Quoted in J. Krishnamurty, ‘Deindustrialisation in Gangetic Bihar during the nineteenth century’, The Indian Economic and Social History Review, 1985.
+**_Source_**
+====================================================================================================
+
+--- CHUNK 677 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India', 'subheading4': 'Source D'}
+Content:
+##### Source D
+Reporting on the Koshtis, a community of weavers, the Census Report of Central Provinces stated:
+‘The Koshtis, like the weavers of the finer kinds of cloth in other parts of India, have fallen upon evil times. They are unable to compete with the showy goods which Manchester sends in such profusion, and they have of late years emigrated in great numbers, chiefly to Berar, where as day labourers they are able to obtain wages …’
+====================================================================================================
+
+--- CHUNK 678 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India', 'subheading4': 'Source D'}
+Content:
+Census Report of Central Provinces, 1872, quoted in Sumit Guha, ‘The handloom industry in Central India, 1825-1950’, The Indian Economic and Social History Review.
+**_Source_**
+footer page number:116
+**_Fig. 15 – Bombay harbour, a late-eighteenth-century drawing._** _Bombay and Calcutta grew as trading ports from the 1780s. This marked the decline of the old trading order and the growth of the colonial economy._
+====================================================================================================
+
+--- CHUNK 679 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Activity', 'subheading3': '3.3 Manchester Comes to India', 'subheading4': 'Source D'}
+Content:
+Civil War broke out and cotton supplies from the US were cut off, Britain turned to India. As raw cotton exports from India increased, the price of raw cotton shot up. Weavers in India were starved of supplies and forced to buy raw cotton at exorbitant prices. In this, situation weaving could not pay.
+Then, by the end of the nineteenth century, weavers and other craftspeople faced yet another problem. Factories in India began production, flooding the market with machine- goods. How could weaving industries possibly survive?
+footer page number:117
+====================================================================================================
+
+--- CHUNK 680 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up'}
+Content:
+### 4 Factories Come Up
+The first cotton mill in Bombay came up in 1854 and it went into production two years later. By 1862 four mills were at work with 94,000 spindles and 2,150 looms. Around the same time jute mills came up in Bengal, the first being set up in 1855 and another one seven years later, in 1862. In north India, the Elgin Mill was started in Kanpur in the 1860s, and a year later the first cotton mill of Ahmedabad was set up. By 1874, the first spinning and weaving mill of Madras began production.
+====================================================================================================
+
+--- CHUNK 681 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up'}
+Content:
+Who set up the industries? Where did the capital come from? Who came to work in the mills?
+====================================================================================================
+
+--- CHUNK 682 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+#### 4.1 The Early Entrepreneurs
+Industries were set up in different regions by varying sorts of people. Let us see who they were.
+====================================================================================================
+
+--- CHUNK 683 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+The history of many business groups goes back to trade with China. From the late eighteenth century, as you have read in your book last year, the British in India began exporting opium to China and took tea from China to England. Many Indians became junior players in this trade, providing finance, procuring supplies, and shipping consignments. Having earned through trade, some of these businessmen had visions of developing industrial enterprises in India. In Bengal, Dwarkanath Tagore made his fortune in the China trade before he turned to industrial investment, setting up six joint-stock
+====================================================================================================
+
+--- CHUNK 684 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+turned to industrial investment, setting up six joint-stock companies in the 1830s and 1840s. Tagore’s enterprises sank along with those of others in the wider business crises of the 1840s, but later in the nineteenth century many of the China traders became successful industrialists. In Bombay, Parsis like Dinshaw Petit and Jamsetjee Nusserwanjee Tata who built huge industrial empires in India, accumulated their initial wealth partly from exports to China, and partly from raw cotton shipments to England. Seth Hukumchand, a Marwari businessman who set up the first Indian jute mill in Calcutta
+====================================================================================================
+
+--- CHUNK 685 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+who set up the first Indian jute mill in Calcutta in 1917, also traded with China. So did the father as well as grandfather of the famous industrialist G.D. Birla.
+====================================================================================================
+
+--- CHUNK 686 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+Capital was accumulated through other trade networks. Some merchants from Madras traded with Burma while others had links with the Middle East and East Africa. There were yet other
+**_Fig. 16 – Jamsetjee Jeejeebhoy._** _Jeejeebhoy was the son of a Parsi weaver. Like many others of his time, he was involved in the China trade and shipping. He owned a large fleet of ships, but competition from English and American shippers forced him to sell his ships by the 1850s._
+====================================================================================================
+
+--- CHUNK 687 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+**_Fig. 17 – Dwarkanath Tagore._** _Dwarkanath Tagore believed that India would develop through westernisation and industrialisation. He invested in shipping, shipbuilding, mining, banking, plantations and insurance._
+footer page number:118
+commercial groups, but they were not directly involved in external trade. They operated within India, carrying goods from one place to another, banking money, transferring funds between cities, and financing traders. When opportunities of investment in industries opened up, many of them set up factories.
+====================================================================================================
+
+--- CHUNK 688 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+As colonial control over Indian trade tightened, the space within which Indian merchants could function became increasingly limited. They were barred from trading with Europe in manufactured goods, and had to export mostly raw materials and food grains – raw cotton, opium, wheat and indigo – required by the British. They were also gradually edged out of the shipping business.
+====================================================================================================
+
+--- CHUNK 689 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.1 The Early Entrepreneurs'}
+Content:
+Till the First World War, European Managing Agencies in fact controlled a large sector of Indian industries. Three of the biggest ones were Bird Heiglers & Co., Andrew Yule, and Jardine Skinner & Co. These Agencies mobilised capital, set up joint-stock companies and managed them. In most instances Indian financiers provided the capital while the European Agencies made all investment and business decisions. The European merchant-industrialists had their own chambers of commerce which Indian businessmen were not allowed to join.
+====================================================================================================
+
+--- CHUNK 690 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+#### 4.2 Where Did the Workers Come From?
+Factories needed workers. With the expansion of factories, this demand increased. In 1901, there were 584,000 workers in Indian factories. By 1946 the number was over 2,436, 000. Where did the workers come from?
+====================================================================================================
+
+--- CHUNK 691 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+In most industrial regions workers came from the districts around. Peasants and artisans who found no work in the village went to the industrial centres in search of work. Over 50 per cent workers in the Bombay cotton industries in 1911 came from the neighbouring district of Ratnagiri, while the mills of Kanpur got most of their textile hands from the villages within the district of Kanpur. Most often millworkers moved between the village and the city, returning to their village homes during harvests and festivals.
+====================================================================================================
+
+--- CHUNK 692 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+Over time, as news of employment spread, workers travelled great distances in the hope of work in the mills. From the United Provinces, for instance, they went to work in the textile mills of Bombay and in the jute mills of Calcutta.
+====================================================================================================
+
+--- CHUNK 693 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+**_Fig. 18 – Partners in enterprise – J.N. Tata, R.D. Tata, Sir R.J. Tata, and Sir D.J. Tata._** _In 1912, J.N. Tata set up the first iron and steel works in India at Jamshedpur. Iron and steel industries in India started much later than textiles. In colonial India industrial machinery, railways and locomotives were mostly imported. So capital goods industries could not really develop in any significant way till Independence._
+**_Fig. 19 – Young workers of a Bombay mill, early twentieth century._** _When workers went back to their village homes, they liked dressing up._
+footer page number:119
+====================================================================================================
+
+--- CHUNK 694 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+Getting jobs was always difficult, even when mills multiplied and the demand for workers increased. The numbers seeking work were always more than the jobs available. Entry into the mills was also restricted. Industrialists usually employed a jobber to get new recruits. Very often the jobber was an old and trusted worker. He got people from his village, ensured them jobs, helped them settle in the city and provided them money in times of crisis. The jobber therefore became a person with some authority and power. He began demanding money and gifts for his favour and controlling the lives of
+====================================================================================================
+
+--- CHUNK 695 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+money and gifts for his favour and controlling the lives of workers.
+====================================================================================================
+
+--- CHUNK 696 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?'}
+Content:
+The number of factory workers increased over time. However, as you will see, they were a small proportion of the total industrial workforce.
+====================================================================================================
+
+--- CHUNK 697 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?', 'subheading4': 'Source E'}
+Content:
+##### Source E
+Vasant Parkar, who was once a millworker in Bombay, said:
+‘The workers would pay the jobbers money to get their sons work in the mill … The mill worker was closely associated with his village, physically and emotionally. He would go home to cut the harvest and for sowing. The Konkani would go home to cut the paddy and the Ghati, the sugarcane. It was an accepted practice for which the mills granted leave.’
+Meena Menon and Neera Adarkar, One Hundred Years: One Hundred Voices, 2004.
+**_Source_**
+====================================================================================================
+
+--- CHUNK 698 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?', 'subheading4': 'Source E'}
+Content:
+**_Source_**
+**_Fig. 20 – A head jobber._** _Notice how the posture and clothes emphasise the jobber’s position of authority._
+====================================================================================================
+
+--- CHUNK 699 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '4 Factories Come Up', 'subheading3': '4.2 Where Did the Workers Come From?', 'subheading4': 'Source F'}
+Content:
+##### Source F
+Bhai Bhosle, a trade unionist of Bombay, recollected his childhood in the 1930s and 1940s:
+‘In those days, the shift was 10 hours – from 5 pm to 3 am – terrible working hours. My father worked for 35 years; he got the asthma like disease and could not work any more…Then my father went back to village.’
+Meena Menon and Neera Adarkar, One Hundred Years: One Hundred Voices.
+====================================================================================================
+
+--- CHUNK 700 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Source'}
+Content:
+### Source
+**_Fig. 21 – Spinners at work in an Ahmedabad mill._** _Women worked mostly in the spinning departments._
+footer page number:120
+====================================================================================================
+
+--- CHUNK 701 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+### 5 The Peculiarities of Industrial Growth
+European Managing Agencies, which dominated industrial production in India, were interested in certain kinds of products. They established tea and coffee plantations, acquiring land at cheap rates from the colonial government; and they invested in mining, indigo and jute. Most of these were products required primarily for export trade and not for sale in India.
+====================================================================================================
+
+--- CHUNK 702 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+When Indian businessmen began setting up industries in the late nineteenth century, they avoided competing with Manchester goods in the Indian market. Since yarn was not an important part of British imports into India, the early cotton mills in India produced coarse cotton yarn (thread) rather than fabric. When yarn was imported it was only of the superior variety. The yarn produced in Indian spinning mills was used by handloom weavers in India or exported to China.
+====================================================================================================
+
+--- CHUNK 703 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+By the first decade of the twentieth century a series of changes affected the pattern of industrialisation. As the swadeshi movement gathered momentum, nationalists mobilised people to boycott foreign cloth. Industrial groups organised themselves to protect their collective interests, pressurising the government to increase tariff protection and grant other concessions. From 1906, moreover, the export of Indian yarn to China declined since produce from Chinese and Japanese mills flooded the Chinese market. So industrialists in India began shifting from yarn to cloth production. Cotton
+====================================================================================================
+
+--- CHUNK 704 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+India began shifting from yarn to cloth production. Cotton piecegoods production in India doubled between 1900 and 1912.
+====================================================================================================
+
+--- CHUNK 705 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+Yet, till the First World War, industrial growth was slow. The war created a dramatically new situation. With British mills busy with war production to meet the needs of the army, Manchester imports into India declined. Suddenly, Indian mills had a vast home market to supply. As the war prolonged, Indian factories were called upon to supply war needs: jute bags, cloth for army uniforms, tents and leather boots, horse and mule saddles and a host of other items. New factories were set up and old
+====================================================================================================
+
+--- CHUNK 706 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+**_Fig. 22 – The first office of the Madras Chamber of Commerce._** _By the late nineteenth century merchants in different regions began meeting and forming Chambers of Commerce to regulate business and decide on issues of collective concern._
+footer page number:121
+ones ran multiple shifts. Many new workers were employed and everyone was made to work longer hours. Over the war years industrial production boomed.
+====================================================================================================
+
+--- CHUNK 707 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth'}
+Content:
+After the war, Manchester could never recapture its old position in the Indian market. Unable to modernise and compete with the US, Germany and Japan, the economy of Britain crumbled after the war. Cotton production collapsed and exports of cotton cloth from Britain fell dramatically. Within the colonies, local industrialists gradually consolidated their position, substituting foreign manufactures and capturing the home market.
+====================================================================================================
+
+--- CHUNK 708 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': '5.1 Small-scale Industries Predominate'}
+Content:
+#### 5.1 Small-scale Industries Predominate
+While factory industries grew steadily after the war, large industries formed only a small segment of the economy. Most of them – about 67 per cent in 1911 – were located in Bengal and Bombay. Over the rest of the country, small-scale production continued to predominate. Only a small proportion of the total industrial labour force worked in registered factories: 5 per cent in 1911 and 10 per cent in 1931. The rest worked in small workshops and household units, often located in alleys and bylanes, invisible to the passer-by.
+====================================================================================================
+
+--- CHUNK 709 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': '5.1 Small-scale Industries Predominate'}
+Content:
+In fact, in some instances, handicrafts production actually expanded in the twentieth century. This is true even in the case of the handloom sector that we have discussed. While cheap machine-made thread wiped out the spinning industry in the nineteenth century, the weavers survived, despite problems. In the twentieth century, handloom cloth production expanded steadily: almost trebling between 1900 and 1940.
+**_Fig. 23 – A Hand-woven Cloth._** _The intricate designs of hand-woven cloth could not be easily copied by the mills._
+====================================================================================================
+
+--- CHUNK 710 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'How did this happen?'}
+Content:
+#### How did this happen?
+====================================================================================================
+
+--- CHUNK 711 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'How did this happen?'}
+Content:
+This was partly because of technological changes. Handicrafts people adopt new technology if that helps them improve production without excessively pushing up costs. So, by the second decade of the twentieth century we find weavers using looms with a **fly shuttle.** This increased productivity per worker, speeded up production and reduced labour demand. By 1941, over 35 per cent of handlooms in India were fitted with fly shuttles: in regions like Travancore, Madras, Mysore, Cochin, Bengal the proportion was 70 to 80 per cent. There were several other small innovations that helped weavers
+====================================================================================================
+
+--- CHUNK 712 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'How did this happen?'}
+Content:
+were several other small innovations that helped weavers improve their productivity and compete with the mill sector.
+====================================================================================================
+
+--- CHUNK 713 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'New words'}
+Content:
+#### New words
+Fly shuttle – It is a mechanical device used for weaving, moved by means of ropes and pullies. It places the horizontal threads ( called the weft) into the verticle threads (called the warp). The invention of the fly shuttle made it possible for weavers to operate large looms and weave wide pieces of cloth.
+footer page number:122
+====================================================================================================
+
+--- CHUNK 714 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'New words'}
+Content:
+Certain groups of weavers were in a better position than others to survive the competition with mill industries. Amongst weavers some produced coarse cloth while others wove finer varieties. The coarser cloth was bought by the poor and its demand fluctuated violently. In times of bad harvests and famines, when the rural poor had little to eat, and their cash income disappeared, they could not possibly buy cloth. The demand for the finer varieties bought by the well-to-do was more stable. The rich could buy these even when the poor starved. Famines did not affect the sale of Banarasi or
+====================================================================================================
+
+--- CHUNK 715 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'New words'}
+Content:
+starved. Famines did not affect the sale of Banarasi or Baluchari saris. Moreover, as you have seen, mills could not imitate specialised weaves. Saris with woven borders, or the famous lungis and handkerchiefs of Madras, could not be easily displaced by mill production.
+====================================================================================================
+
+--- CHUNK 716 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'New words'}
+Content:
+Weavers and other craftspeople who continued to expand production through the twentieth century, did not necessarily prosper. They lived hard lives and worked long hours. Very often the entire household – including all the women and children – had to work at various stages of the production process. But they were not simply remnants of past times in the age of factories. Their life and labour was integral to the process of industrialisation.  
+Punjab<br>United Provinces<br>Bihar<br>Central Provinces<br>Bengal<br>Bombay<br>Madras<br>
+====================================================================================================
+
+--- CHUNK 717 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '5 The Peculiarities of Industrial Growth', 'subheading3': 'New words'}
+Content:
+**_Fig. 24 – Location of large-scale industries in India, 1931._** _The circles indicate the size of industries in the different regions._
+footer page number:123
+====================================================================================================
+
+--- CHUNK 718 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+### 6 Market for Goods
+We have seen how British manufacturers attempted to take over the Indian market, and how Indian weavers and craftsmen, traders and industrialists resisted colonial controls, demanded tariff protection, created their own spaces, and tried to extend the market for their produce.
+But when new products are produced people have to be persuaded to buy them. They have to feel like using the product. How was this done?
+====================================================================================================
+
+--- CHUNK 719 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+One way in which new consumers are created is through advertisements. As you know, advertisements make products appear desirable and necessary. They try to shape the minds of people and create new needs. Today we live in a world where advertisements surround us. They appear in newspapers, magazines, hoardings, street walls, television screens. But if we look back into history we find that from the very beginning of the industrial age, advertisements have played a part in expanding the markets for products, and in shaping a new consumer culture.
+====================================================================================================
+
+--- CHUNK 720 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+When Manchester industrialists began selling cloth in India, they put labels on the cloth bundles. The label was needed to make the place of manufacture and the name of the company familiar to the buyer. The label was also to be a mark of quality. When buyers saw ‘MADE IN MANCHESTER’ written in bold on the label, they were expected to feel confident about buying the cloth.
+**_Fig. 25 – Gripe Water calendar of 1928 by M.V. Dhurandhar._** _The image of baby Krishna was most commonly used to popularise baby products._
+====================================================================================================
+
+--- CHUNK 721 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+**_Fig. 26(a) – Manchester labels, early twentieth century._** _Images of numerous Indian gods and goddesses – Kartika, Lakshmi, Saraswati – are shown in imported cloth labels approving the quality of the product being marketed._
+**_Fig. 26(b) – Maharaja Ranjit Singh on a Manchester label._** _Historic figures are used to create respect for the product._
+_Fig. 26(a) Fig. 26(b)_
+footer page number:124
+====================================================================================================
+
+--- CHUNK 722 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+_Fig. 26(a) Fig. 26(b)_
+footer page number:124
+But labels did not only carry words and texts. They also carried images and were very often beautifully illustrated. If we look at these old labels, we can have some idea of the mind of the manufacturers, their calculations, and the way they appealed to the people.
+====================================================================================================
+
+--- CHUNK 723 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+Images of Indian gods and goddesses regularly appeared on these labels. It was as if the association with gods gave divine approval to the goods being sold. The imprinted image of Krishna or Saraswati was also intended to make the manufacture from a foreign land appear somewhat familiar to Indian people.
+====================================================================================================
+
+--- CHUNK 724 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+By the late nineteenth century, manufacturers were printing calendars to popularise their products. Unlike newspapers and magazines, calendars were used even by people who could not read. They were hung in tea shops and in poor people’s homes just as much as in offices and middle-class apartments. And those who hung the calendars had to see the advertisements, day after day, through the year. In these calendars, once again, we see the figures of gods being used to sell new products.
+====================================================================================================
+
+--- CHUNK 725 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods'}
+Content:
+Like the images of gods, figures of important personages, of emperors and nawabs, adorned advertisement and calendars. The message very often seemed to say: if you respect the royal figure, then respect this product; when the product was being used by kings, or produced under royal command, its quality could not be questioned.
+When Indian manufacturers advertised the nationalist message was clear and loud. If you care for the nation then buy products that Indians produce. Advertisements became a vehicle of the nationalist message of swadeshi.
+====================================================================================================
+
+--- CHUNK 726 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods', 'subheading3': 'Conclusion'}
+Content:
+#### Conclusion
+Clearly, the age of industries has meant major technological changes, growth of factories, and the making of a new industrial labour force. However, as you have seen, hand technology and small-scale production remained an important part of the industrial landscape. Look again at Figs. 1 and 2. What would you now say of the images they project?
+**_Fig. 27 – Sunlight soap calendar of 1934._** _Here God Vishnu is shown bringing sunlight from across the skies._
+====================================================================================================
+
+--- CHUNK 727 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': '6 Market for Goods', 'subheading3': 'Conclusion'}
+Content:
+**_Fig. 28 – An Indian mill cloth label._** _The goddess is shown offering cloth produced in an Ahmedabad mill, and asking people to use things made in India._
+footer page number:125
+====================================================================================================
+
+--- CHUNK 728 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Explain the following:
+- a) Women workers in Britain attacked the Spinning Jenny.
+- b) In the seventeenth century merchants from towns in Europe began employing peasants and artisans within the villages.
+- c) The port of Surat declined by the end of the eighteenth century.
+- d) The East India Company appointed _gomasthas_ to supervise weavers in India.
+2. Write True or False against each statement:
+- a) At the end of the nineteenth century, 80 per cent of the total workforce in Europe was employed in the technologically advanced industrial sector.
+====================================================================================================
+
+--- CHUNK 729 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Write in brief'}
+Content:
+- b) The international market for fine textiles was dominated by India till the eighteenth century.
+- c) The American Civil War resulted in the reduction of cotton exports from India.
+- d) The introduction of the fly shuttle enabled handloom workers to improve their productivity.
+3. Explain what is meant by proto-industrialisation.
+====================================================================================================
+
+--- CHUNK 730 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. Why did some industrialists in nineteenth-century Europe prefer hand labour over machines?
+2. How did the East India Company procure regular supplies of cotton and silk textiles from Indian weavers?
+3. Imagine that you have been asked to write an article for an encyclopaedia on Britain and the history of cotton. Write your piece using information from the entire chapter.
+4. Why did industrial production in India increase during the First World War?
+====================================================================================================
+
+--- CHUNK 731 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Discuss', 'subheading5': ''}
+Content:
+######
+====================================================================================================
+
+--- CHUNK 732 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Project work'}
+Content:
+### Project work
+====================================================================================================
+
+--- CHUNK 733 ---
+Metadata: {'Chapter Name': 'The Age of Industrialisation', 'subheading1': 'New words', 'subheading2': 'Project'}
+Content:
+### Project
+Select any one industry in your region and find out its history. How has the technology changed? Where do the workers come from? How are the products advertised and marketed? Try and talk to the employers and some workers to get their views about the industry’s history.
+footer page number:126
+====================================================================================================
+
+--- CHUNK 734 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+# Work, Life and Leisure Cities in the Contemporary World
+====================================================================================================
+
+--- CHUNK 735 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+In 1880, Durgacharan Ray wrote a novel, _Debganer Martye Aagaman_ ( _The Gods Visit Earth_ ), in which Brahma, the Creator in Hindu mythology, took a train to Calcutta with some other gods. As Varuna, the Rain God, conducted them around the capital of British India, the gods were wonderstruck by the big, modern city – the train itself, the large ships on the river Ganges, factories belching smoke, bridges and monuments and a dazzling array of shops selling a wide range of commodities. The gods were so impressed by the marvels of the teeming metropolis that they decided to build a Museum and a
+====================================================================================================
+
+--- CHUNK 736 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+metropolis that they decided to build a Museum and a High Court in Heaven!
+====================================================================================================
+
+--- CHUNK 737 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+The city of Calcutta in the nineteenth century was brimming with opportunities – for trade and commerce, education and jobs. But the gods were disturbed by another aspect of city life – its cheats and thieves, its grinding poverty, and the poor quality of housing for many. Brahma himself got tricked into buying a pair of cheap glasses and when he tried to buy a pair of shoes, he was greatly confused by the shopkeepers who accused one another of being swindlers. The gods were also perturbed at the confusion of caste, religious and gender identities in the city. All social distinctions that
+====================================================================================================
+
+--- CHUNK 738 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+gender identities in the city. All social distinctions that appeared to be natural and normal seemed to be breaking down.
+====================================================================================================
+
+--- CHUNK 739 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+Like Durgacharan Ray, many others in nineteenth-century India were both amazed and confused by what they saw in the cities. The city seemed to offer a series of contrasting images and experiences – wealth and poverty, splendour and dirt, opportunities and disappointments.
+====================================================================================================
+
+--- CHUNK 740 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World'}
+Content:
+Were cities always like the one described above? Though urbanisation has a long history, the modern city worldwide has developed only over the last 200 years. Three historical processes have shaped modern cities in decisive ways: the rise of industrial capitalism, the establishment of colonial rule over large parts of the world, and the development of democratic ideals. This chapter will trace some of the processes of this urbanisation. It will explore how the modern city emerges, and what happens within the city.
+====================================================================================================
+
+--- CHUNK 741 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City'}
+Content:
+## 1 Characteristics of the City
+====================================================================================================
+
+--- CHUNK 742 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City'}
+Content:
+To begin with, how do we distinguish between cities on the one hand and towns and villages on the other? Towns and cities that first appeared along river valleys, such as Ur, Nippur and Mohenjodaro, were larger in scale than other human settlements. Ancient cities could develop only when an increase in food supplies made it possible to support a wide range of non-food producers. Cites were often the centres of political power, administrative network, trade and industry, religious institutions, and intellectual activity, and supported various social groups such as artisans, merchants and
+====================================================================================================
+
+--- CHUNK 743 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City'}
+Content:
+various social groups such as artisans, merchants and priests.
+====================================================================================================
+
+--- CHUNK 744 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City'}
+Content:
+Cities themselves can vary greatly in size and complexity. They can be densely settled modern-day **metropolises** , which combine political and economic functions for an entire region, and support very large populations. Or they can be smaller urban centres with limited functions.
+====================================================================================================
+
+--- CHUNK 745 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City'}
+Content:
+This chapter will discuss the history of **urbanisation** in the modern world. We will look in some detail at two modern cities, as examples of metropolitan development. The first is London, the largest city in the world, and an imperial centre in the nineteenth century, and the second is Bombay, one of the most important modern cities in the Indian subcontinent.
+====================================================================================================
+
+--- CHUNK 746 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Can you think of appropriate examples from Indian history for each of these categories: a religious centre, a market town, a regional capital, a metropolis? Find out about the history of any one of them.
+**New words** Metropolis – A large, densely populated city of a country or state, often the capital of the region Urbanisation – Development of a city or town
+====================================================================================================
+
+--- CHUNK 747 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.1 Industrialisation and the Rise of the Modern City in England'}
+Content:
+#### 1.1 Industrialisation and the Rise of the Modern City in England
+Industrialisation changed the form of urbanisation in the modern period. However, even as late as the 1850s, many decades after the beginning of the industrial revolution, most Western countries were largely rural. The early industrial cities of Britain such as Leeds and Manchester attracted large numbers of migrants to the textile mills set up in the late eighteenth century. In 1851, more than three-quarters of the adults living in Manchester were migrants from rural areas.
+====================================================================================================
+
+--- CHUNK 748 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.1 Industrialisation and the Rise of the Modern City in England'}
+Content:
+Now let us look at London. By 1750, one out of every nine people of England and Wales lived in London. It was a colossal city with a population of about 675,000. Over the nineteenth century, London continued to expand. Its population multiplied fourfold in the 70 years between 1810 and 1880, increasing from 1 million to about 4 million.
+footer page number:128
+====================================================================================================
+
+--- CHUNK 749 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.1 Industrialisation and the Rise of the Modern City in England'}
+Content:
+The city of London was a powerful magnet for migrant populations, even though it did not have large factories. ‘Nineteenth century London,’ says the historian Gareth Stedman Jones, ‘was a city of clerks and shopkeepers, of small masters and skilled artisans, of a growing number of semi skilled and sweated outworkers, of soldiers and servants, of casual labourers, street sellers, and beggars.’ Apart from the London dockyards, five major types of industries employed large numbers: clothing and footwear, wood and furniture, metals and engineering, printing and stationery, and precision products
+====================================================================================================
+
+--- CHUNK 750 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.1 Industrialisation and the Rise of the Modern City in England'}
+Content:
+printing and stationery, and precision products such as surgical instruments, watches, and objects of precious metal. During the First World War (1914-18) London began manufacturing motor cars and electrical goods, and the number of large factories increased until they accounted for nearly one-third of all jobs in the city.
+====================================================================================================
+
+--- CHUNK 751 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.2 Marginal Groups'}
+Content:
+#### 1.2 Marginal Groups
+As London grew, crime flourished. We are told that 20,000 criminals were living in London in the 1870s. We know a great deal about criminal activities in this period, for crime became an object of widespread concern. The police were worried about law and order, **philanthropists** were anxious about public morality, and industrialists wanted a hard-working and orderly labour force. So the population of criminals was counted, their activities were watched, and their ways of life were investigated.
+====================================================================================================
+
+--- CHUNK 752 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.2 Marginal Groups'}
+Content:
+In the mid-nineteenth century, Henry Mayhew wrote several volumes on the London labour, and compiled long lists of those who made a living from crime. Many of whom he listed as ‘criminals’ were in fact poor people who lived by stealing lead from roofs, food from shops, lumps of coal, and clothes drying on hedges. There were others who were more skilled at their trade, expert at their jobs. They were the cheats and tricksters, pickpockets and petty thieves crowding the streets of London. In an attempt to discipline the population, the authorities imposed high penalties for crime and offered
+====================================================================================================
+
+--- CHUNK 753 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.2 Marginal Groups'}
+Content:
+authorities imposed high penalties for crime and offered work to those who were considered the ‘deserving poor’.
+====================================================================================================
+
+--- CHUNK 754 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.2 Marginal Groups'}
+Content:
+Factories employed large numbers of women in the lateeighteenth and early nineteenth centuries. With technological developments, women gradually lost their industrial jobs, and were forced to work within households. The 1861 census recorded a quarter of a million domestic servants in London, of whom the vast majority were  
+River Thames<br>1784<br>1862<br>1914<br>
+1980 Population **_Fig. 1 – The growth of London, a map showing its population in four different eras._**
+**New words** Philanthropist – Someone who works for social upliftment and charity, donating time and money for the purpose
+====================================================================================================
+
+--- CHUNK 755 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.2 Marginal Groups'}
+Content:
+footer page number:129
+women, many of them recent migrants. A large number of women used their homes to increase family income by taking in lodgers or through such activities as tailoring, washing or matchbox making. However, there was a change once again in the twentieth century. As women got employment in wartime industries and offices, they withdrew from domestic service.
+====================================================================================================
+
+--- CHUNK 756 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine that you are a newspaper reporter writing a piece on the changes you see in London in 1811. What problems are you likely to write about? Who would have gained from the changes?
+====================================================================================================
+
+--- CHUNK 757 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+Large number of children were pushed into low-paid work, often by their parents. Andrew Mearns, a clergyman who wrote _The Bitter Cry of Outcast London_ in the 1880s, showed why crime was more profitable than labouring in small underpaid factories: ‘A child seven years old is easily known to make 10 shillings 6 pence a week from thieving … Before he can gain as much as the young thief [a boy] must make 56 gross of matchboxes a week, or 1,296 a day.’ It was only after the passage of the Compulsory Elementary Education Act in 1870, and the factory acts beginning from 1902, that children were
+====================================================================================================
+
+--- CHUNK 758 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+the factory acts beginning from 1902, that children were kept out of industrial work.
+====================================================================================================
+
+--- CHUNK 759 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+#### 1.3 Housing
+Older cities like London changed dramatically when people began pouring in after the Industrial Revolution. Factory or workshop
+**_Fig. 2 – A Stranger’s Home,_ The Illustrated London News** **_,1870._** _Night Refuges and Strangers’ Homes were opened in winter by charitable societies and local authorities in many towns. The poor flocked to these places in the hope of food, warmth and shelter._
+footer page number:130
+owners did not house the migrant workers. Instead, individual landowners put up cheap, and usually unsafe, **tenements** for the new arrivals.
+====================================================================================================
+
+--- CHUNK 760 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+Although poverty was not unknown in the countryside, it was more concentrated and starkly visible in the city. In 1887, Charles Booth, a Liverpool shipowner, conducted the first social survey of lowskilled London workers in the East End of London. He found that as many as 1 million Londoners (about one-fifth of the population of London at the time) were very poor and were expected to live only up to an average age of 29 (compared to the average life expectancy of 55 among the gentry and the middle class). These people were more than likely to die in a ‘workhouse, hospital or lunatic asylum’.
+====================================================================================================
+
+--- CHUNK 761 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+likely to die in a ‘workhouse, hospital or lunatic asylum’. London, he concluded ‘needed the rebuilding of at least 400,000 rooms to house its poorest citizens’.
+====================================================================================================
+
+--- CHUNK 762 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+For a while the better-off city dwellers continued to demand that slums simply be cleared away. But gradually a larger and larger number of people began to recognise the need for housing for the poor. What were the reasons for this increasing concern? First, the vast mass of one-room houses occupied by the poor were seen as a serious threat to public health: they were overcrowded, badly ventilated, and lacked sanitation. Second, there were worries about fire hazards created by poor housing. Third, there was a widespread fear of social disorder, especially after the Russian Revolution in 1917.
+====================================================================================================
+
+--- CHUNK 763 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+disorder, especially after the Russian Revolution in 1917. Workers’ mass housing schemes were planned to prevent the London poor from turning rebellious.
+====================================================================================================
+
+--- CHUNK 764 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.3 Housing'}
+Content:
+**_Fig. 3 – Rat-trap seller, cartoon by Rowlandson, 1799._** _Rowlandson recorded the types of trades in London that were beginning to disappear with the development of industrial capitalism._
+====================================================================================================
+
+--- CHUNK 765 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Tenement – Run-down and often overcrowded apartment house, especially in a poor section of a large city
+====================================================================================================
+
+--- CHUNK 766 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+In many cities of India today, there are moves to clear away the slums where poor people live. Discuss whether or not it is the responsibility of the government to make arrangements for houses for these people.
+**_Fig. 4 – A London slum in 1889._** _What are the different uses of street space that are visible in this picture? What would have changed in the conditions of working class housing in the twentieth century?_
+footer page number:131
+====================================================================================================
+
+--- CHUNK 767 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+footer page number:131
+**_Fig. 5 – For the poor, the street often was the only place for rest, leisure and fun._ The Illustrated London News** **_, 1856._** _Over the nineteenth century, the elites became increasingly worried about drunkenness and squalor on the streets. Gradually, a_ **_temperance movement_** _developed to fight against the evils of drinking._
+====================================================================================================
+
+--- CHUNK 768 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source A'}
+Content:
+#### Source A
+====================================================================================================
+
+--- CHUNK 769 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.4 Cleaning London'}
+Content:
+#### 1.4 Cleaning London
+A variety of steps were taken to clean up London. Attempts were made to decongest localities, green the open spaces, reduce pollution and landscape the city. Large blocks of apartments were built, akin to those in Berlin and New York – cities which had similar housing problems. Rent control was introduced in Britain during the First World War to ease the impact of a severe housing shortage.
+====================================================================================================
+
+--- CHUNK 770 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.4 Cleaning London'}
+Content:
+The congestion in the nineteenth-century industrial city also led to a yearning for clean country air. Many wealthy residents of London were able to afford a holiday home in the countryside. Demands were made for new ‘lungs’ for the city, and some attempts
+====================================================================================================
+
+--- CHUNK 771 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine you are investigating the conditions in which the London poor lived. Write a note discussing all the dangers to public health which were created by these conditions.
+‘The children too must not be forgotten in the open spaces. The kinderbank, or low seat to suit their short legs, should always be provided and where possible spaces of turf be supplied with swings or seesaws, with ponds for sailing boats, and with sand pits where these can be kept sufficiently clean.’
+**_Source_**
+====================================================================================================
+
+--- CHUNK 772 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Temperance movement – A largely middleclass-led social reform movement which emerged in Britain and America from the nineteenth century onwards. It identified alcoholism as the cause of the ruin of families and society, and aimed at reducing the consumption of alcoholic drinks particularly amongst the working classes.
+footer page number:132
+were made to bridge the difference between city and countryside through such ideas as the Green Belt around London.
+====================================================================================================
+
+--- CHUNK 773 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Architect and planner Ebenezer Howard developed the principle of the Garden City, a pleasant space full of plants and trees, where people would both live and work. He believed this would also produce better-quality citizens. Following Howard’s ideas Raymond Unwin and Barry Parker designed the garden city of New Earswick. There were common garden spaces, beautiful views, and great attention to detail. In the end, only well-off workers could afford these houses.
+====================================================================================================
+
+--- CHUNK 774 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Between the two World Wars (1919-39) the responsibility for housing the working classes was accepted by the British state, and a million houses, most of them single-family cottages, were built by local authorities. Meanwhile, the city had extended beyond the range where people could walk to work, and the development of suburbs made new forms of mass transport absolutely necessary.
+====================================================================================================
+
+--- CHUNK 775 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+#### 1.5 Transport in the City
+**_Fig. 6 – New Earswick, a garden suburb._** _Notice the enclosed green space to produce a new community life._
+How could people be persuaded to leave the city and live in garden suburbs unless there were some means of travelling to the city for work? The London underground railway partially solved the housing crisis by carrying large masses of people to and from the city.
+====================================================================================================
+
+--- CHUNK 776 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+The very first section of the Underground in the world opened on 10 January 1863 between Paddington and Farrington Street in London. On that day 10,000 passengers were carried, with trains running every ten minutes. By 1880 the expanded train service was carrying 40 million passengers a year _._ At first people were afraid to travel underground. This is what one newspaper reader warned:
+====================================================================================================
+
+--- CHUNK 777 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+The compartment in which I sat was filled with passengers who were smoking pipes. The atmosphere was a mixture of sulphur, coal dust and foul fumes from the gas lamps above, so that by the time we reached Moorgate, I was near dead of **asphyxiation** and heat. I should think these underground railways must soon be discontinued for they are a menace to health.
+**_Fig. 7 – Railway lines being laid in London,_ Illustrated Times** **_, 1868._**
+footer page number:133
+====================================================================================================
+
+--- CHUNK 778 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+footer page number:133
+Many felt that the ‘iron monsters’ added to the mess and unhealthiness of the city. Charles Dickens wrote in _Dombey and Son_ (1848) about the massive destruction in the process of construction:
+Houses were knocked down; streets broken through and stopped; deep pits and trenches dug in the ground; enormous heaps of earth and clay thrown up; … there were a hundred thousand shapes and substances of incompleteness, wildly mingled out their places, upside down, burrowing in the earth . . .
+====================================================================================================
+
+--- CHUNK 779 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+To make approximately two miles of railway, 900 houses had to be destroyed. Thus the London tube railway led to a massive displacement of the London poor, especially between the two World Wars.
+Yet the Underground eventually became a huge success. By the twentieth century, most large metropolises such as New York, Tokyo and Chicago could not do without their well-functioning transit systems. As a result, the population in the city became more dispersed. Better-planned suburbs and a good railway network enabled large numbers to live outside central London and travel to work.
+====================================================================================================
+
+--- CHUNK 780 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '1.5 Transport in the City'}
+Content:
+These new conveniences wore down social distinctions and also created new ones. How did these changes affect domestic and public life? Did they have the same significance for all social groups?
+====================================================================================================
+
+--- CHUNK 781 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Asphyxiation – Suffocation due to lack of oxygen supply
+**_Fig. 8 – London Underground advertisement for Golders Green, around 1900._** _You can see the Underground advertisement persuading people to move to green, uncrowded and picturesque suburbs._
+**_Fig. 9 – Cows on the streets of London,_ The Graphic** **_, 1877._** _Clearing streets was part of the project of building a modern city. In the nineteenth century, cows regularly blocked traffic on London roads._
+footer page number:134
+====================================================================================================
+
+--- CHUNK 782 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City'}
+Content:
+### 2 Social Change in the City
+In the eighteenth century, the family had been a unit of production and consumption as well as of political decision-making. The function and the shape of the family were completely transformed by life in the industrial city.
+====================================================================================================
+
+--- CHUNK 783 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City'}
+Content:
+Ties between members of households loosened, and among the working class the institution of marriage tended to break down. Women of the upper and middle classes in Britain, on the other hand, faced increasingly higher levels of isolation, although their lives were made easier by domestic maids who cooked, cleaned and cared for young children on low wages.
+====================================================================================================
+
+--- CHUNK 784 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City'}
+Content:
+Women who worked for wages had some control over their lives, particularly among the lower social classes. However, many social reformers felt that the family as an institution had broken down, and needed to be saved or reconstructed by pushing these women back into the home.
+====================================================================================================
+
+--- CHUNK 785 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.1 Men, Women and Family in the City'}
+Content:
+#### 2.1 Men, Women and Family in the City
+====================================================================================================
+
+--- CHUNK 786 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.1 Men, Women and Family in the City'}
+Content:
+The city no doubt encouraged a new spirit of **individualism** among both men and women, and a freedom from the collective values that were a feature of the smaller rural communities. But men and women did not have equal access to this new urban space. As women lost their industrial jobs and conservative people railed against their presence in public spaces, women were forced to withdraw into their homes. The public space became increasingly a male preserve, and the domestic sphere was seen as the proper place for women. Most political movements of the nineteenth century, such as Chartism (a
+====================================================================================================
+
+--- CHUNK 787 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.1 Men, Women and Family in the City'}
+Content:
+movements of the nineteenth century, such as Chartism (a movement demanding the vote for all adult males) and the 10-hour movement (limiting hours of work in factories), mobilised large numbers of men. Only gradually did women come to participate in political movements for suffrage that demanded the
+====================================================================================================
+
+--- CHUNK 788 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': 'New words'}
+Content:
+#### New words
+Individualism – A theory which promotes the liberty, rights or independent action of the individual, rather than of the community
+footer page number:135
+right to vote for women, or for married women’s rights to property (from the 1870s).
+By the twentieth century, the urban family had been transformed yet again, partly by the experience of the valuable wartime work done by women, who were employed in large numbers to meet war demands. The family now consisted of much smaller units.
+====================================================================================================
+
+--- CHUNK 789 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': 'New words'}
+Content:
+Above all, the family became the heart of a new market – of goods and services, and of ideas. If the new industrial city provided opportunities for mass work, it also raised the problem of mass leisure on Sundays and other common holidays. How did people organise their new-found leisure time?
+====================================================================================================
+
+--- CHUNK 790 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+#### 2.2 Leisure and Consumption
+For wealthy Britishers, there had long been an annual ‘London Season’. Several cultural events, such as the opera, the theatre and classical music performances were organised for an elite group of 300-400 families in the late eighteenth century. Meanwhile, working classes met in pubs to have a drink, exchange news and sometimes also to organise for political action.
+====================================================================================================
+
+--- CHUNK 791 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+Many new types of large-scale entertainment for the common people came into being, some made possible with money from the state. Libraries, art galleries and museums were established in the nineteenth century to provide people with a sense of history and pride in the achievements of the British. At first, visitors to the British Museum in London numbered just about 15,000 every year, but when entry was made free in 1810, visitors swamped the museum: their number jumped to 127,643 in 1824-25, shooting up to 825, 901 by 1846. Music halls were popular among the lower classes, and, by the early
+====================================================================================================
+
+--- CHUNK 792 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+were popular among the lower classes, and, by the early twentieth century, cinema became the great mass entertainment for mixed audiences.
+====================================================================================================
+
+--- CHUNK 793 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+British industrial workers were increasingly encouraged to spend their holidays by the sea, so as to derive the benefits of the sun and bracing winds. Over 1 million British people went to the seaside at Blackpool in 1883; by 1939 their numbers had gone up to 7 million.
+**_Fig. 10 – A famous London resort, painting by T.E. Turner, 1923._**
+_Pleasure gardens came in the nineteenth century to provide facilities for sports, entertainment and refreshments for the well-to-do._
+footer page number:136
+====================================================================================================
+
+--- CHUNK 794 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+footer page number:136
+**_Fig. 11 – Sailor’s Home in East London,_ The Illustrated London News,** **_1873._** _The working poor created spaces of entertainment wherever they lived._
+**_Fig. 12 – A tavern with coaches parked in front, early nineteenth century._**
+====================================================================================================
+
+--- CHUNK 795 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '2 Social Change in the City', 'subheading3': '2.2 Leisure and Consumption'}
+Content:
+_The image makes clear the connection taverns had with horse-drawn coaches in the early nineteenth century. Before the railway age, taverns were places where horse-drawn coaches halted, and tired travellers had food and drink and rested the night. Taverns were located on coach routes and had facilities for overnight stays. After the coming of the railway and bus transport, taverns went into decline along with horse-drawn coach transport. Pubs came up near railway stations and bus depots. Here people could stop for a quick drink and chat._
+footer page number:137
+====================================================================================================
+
+--- CHUNK 796 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City'}
+Content:
+### 3 Politics in the City
+In the severe winter of 1886, when outdoor work came to a standstill, the London poor exploded in a riot, demanding relief from the terrible conditions of poverty. Alarmed shopkeepers closed down their establishments, fearing the 10,000-strong crowd that was marching from Deptford to London. The marchers had to be dispersed by the police. A similar riot occurred in late 1887; this time, it was brutally suppressed by the police in what came to be known as the Bloody Sunday of November 1887.
+====================================================================================================
+
+--- CHUNK 797 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City'}
+Content:
+Two years later, thousands of London’s dockworkers went on strike and marched through the city. According to one writer, ‘thousands of the strikers had marched through the city without a pocket being picked or a window being broken …’ The 12-day strike was called to gain recognition for the dockworkers’ union.
+====================================================================================================
+
+--- CHUNK 798 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City'}
+Content:
+From these examples you can see that large masses of people could be drawn into political causes in the city. A large city population was thus both a threat and an opportunity. State authorities went to great lengths to reduce the possibility of rebellion and enhance urban aesthetics, as the example of Paris shows.
+**_Fig. 13 – A scene during the dockworkers’ strike, 1889._**
+footer page number:138
+====================================================================================================
+
+--- CHUNK 799 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+#### Box 1  
+##### Haussmanisation of Paris
+In 1852, Louis Napoleon III (a nephew of Napoleon Bonaparte) crowned himself emperor. After taking over, he undertook the rebuilding of Paris with vigour. The chief architect of the new Paris was Baron Haussmann, the Prefect of the Seine. His name has come to stand for the forcible reconstruction of cities to enhance their beauty and impose order. The poor were evicted from the centre of Paris to reduce the possibility of political rebellion and to beautify the city.
+====================================================================================================
+
+--- CHUNK 800 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+For 17 years after 1852, Haussmann rebuilt Paris. Straight, broad avenues or boulevards and open spaces were designed, and full-grown trees transplanted. By 1870, one-fifth of the streets of Paris were Haussmann’s creation. In addition, policemen were employed, night patrols were begun, and bus shelters and tap water introduced.
+Public works on this scale employed a large number of people: one in five working persons in Paris was in the building trade in the 1860s. Yet this reconstruction displaced up to 350,000 people from the centre of Paris.
+====================================================================================================
+
+--- CHUNK 801 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+Even some of the wealthier inhabitants of Paris thought that the city had been monstrously transformed. The Goncourt brothers, writing in the 1860s, for instance, lamented the passing of an earlier way of life, and the development of an upper-class culture. Others believed that Haussmann had ‘killed the street’ and its life, to produce an empty, boring city, full of similar-looking boulevards and facades. In a play called Maison Neuve written in 1866, an old shopkeeper said, ‘Nowadays for the slightest excursion there are miles to go! An eternal sidewalk going on and on forever! A tree, a
+====================================================================================================
+
+--- CHUNK 802 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+go! An eternal sidewalk going on and on forever! A tree, a bench, a kiosk! A tree, a bench, a kiosk! A tree, a bench …’
+====================================================================================================
+
+--- CHUNK 803 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+The outcry against Haussmann’s Paris soon got converted into civic pride as the new capital became the toast of all Europe. Paris became the hub of many new architectural, social and intellectual developments that were very influential right through the twentieth century, even in other parts of the globe.  
+New streets<br>Other major streets<br>River Seine<br>
+**_Fig. 14 – Plan of principal streets in Paris built by Baron Haussmann between 1850 and 1870._**
+====================================================================================================
+
+--- CHUNK 804 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '3 Politics in the City', 'subheading3': 'Box 1', 'subheading4': 'Haussmanisation of Paris'}
+Content:
+**_Fig. 15 – A cartoon representing Haussmann as the ‘Attila of the Straight Line’, holding a compass and a set square, and dominating the plan of Paris._**
+footer page number:139
+====================================================================================================
+
+--- CHUNK 805 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '4 The City in Colonial India'}
+Content:
+### 4 The City in Colonial India
+====================================================================================================
+
+--- CHUNK 806 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '4 The City in Colonial India'}
+Content:
+In sharp contrast to Western Europe in the same period, Indian cities did not mushroom in the nineteenth century. The pace of urbanisation in India was slow under colonial rule. In the early twentieth century, no more than 11 per cent of Indians were living in cities. A large proportion of these urban dwellers were residents of the three **Presidency cities** . These were multi-functional cities: they had major ports, warehouses, homes and offices, army camps, as well as educational institutions, museums and libraries. Bombay was the premier city of India. It expanded rapidly from the late
+====================================================================================================
+
+--- CHUNK 807 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '4 The City in Colonial India'}
+Content:
+premier city of India. It expanded rapidly from the late nineteenth century, its population going up from 644,405 in 1872 to nearly 1,500,000 in 1941.
+====================================================================================================
+
+--- CHUNK 808 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '4 The City in Colonial India'}
+Content:
+Let us look at how Bombay developed.
+====================================================================================================
+
+--- CHUNK 809 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '4 The City in Colonial India', 'subheading3': 'New words'}
+Content:
+#### New words
+Presidency cities – The capitals of the Bombay, Bengal and Madras Presidencies in British India
+====================================================================================================
+
+--- CHUNK 810 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Read Source B carefully. What are the common features of city life that the authors note? What are the contradictory experiences they point to?
+====================================================================================================
+
+--- CHUNK 811 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+#### Source B  
+##### Contradictory experiences of cities
+Kali Prasanna Singh wrote a satire in Bengali describing an evening scene in the Indian part of Calcutta around 1862:
+====================================================================================================
+
+--- CHUNK 812 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+‘Gradually the darkness thickens. At this time, thanks to English shoes, striped Santipur scarfs [sic] and Simla dhuties, you can’t tell high from low. Groups of fast young men, with peals of laughter and plenty of English talk are knocking at this door and that. They left home when they saw the lamps lighted in the evening and will return when the flour mills begin to work ... Some cover their faces with scarfs [sic] and think that no one recognises them. It is the evening of … a Saturday and the city is unusually crowded.’
+====================================================================================================
+
+--- CHUNK 813 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+Hutam Pyancher Naksha, a collection of short sketches on urban life in Calcutta, 1862. Translated by Bankim Chandra Chattopadhyay.
+====================================================================================================
+
+--- CHUNK 814 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+In 1899, G.G. Agarkar wrote about Bombay: ‘The enormous expanse of Bombay city; its great and palatial private and governmental mansions; broad streets which accommodate up to six carriages abreast … the struggle to enter the merchants lanes; the frequent troublesome noise of passenger and goods trains whistles and wheels; the wearisome bargaining in every market, by customers who wander from place to place making enquiries with silver and notes in their pockets to buy a variety of commodities; the throngs of thousands of boats visible in the harbour … the more or less rushed pace of official
+====================================================================================================
+
+--- CHUNK 815 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+in the harbour … the more or less rushed pace of official and private employees going to work, checking their watches … The clouds of black smoke emitted by factory chimneys and the noise of large machines in the innards of buildings … Men and women with and without families belonging to every caste and rank travelling in carriages or horseback or on foot, to take the air and enjoy a drive along the sea shore in the slanting rays of the sun as it descends on the horizon … ’ G.G. Agarkar, ‘The Obverse Side of British Rule or our Dire Poverty’.
+====================================================================================================
+
+--- CHUNK 816 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source B', 'subheading4': 'Contradictory experiences of cities'}
+Content:
+**_Fig. 16 – A bustling street in Null Bazaar, Bombay, photograph by Raja Deen Dayal, late nineteenth century._**
+**_Source_**
+footer page number:140
+====================================================================================================
+
+--- CHUNK 817 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.1 Bombay: The Prime City of India?'}
+Content:
+#### 4.1 Bombay: The Prime City of India?
+In the seventeenth century, Bombay was a group of seven islands under Portuguese control. In 1661, control of the islands passed into British hands after the marriage of Britain’s King Charles II to the Portuguese princess. The East India Company quickly shifted its base from Surat, its principal western port, to Bombay.
+====================================================================================================
+
+--- CHUNK 818 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.1 Bombay: The Prime City of India?'}
+Content:
+**_Fig. 17 – A view of Bombay, 1852._** _You can see the Colaba lighthouse on the right and St Thomas’s Church in the distant background. It was still possible in the mid-nineteenth century for artists to search for picturesque spots. The major development projects had not yet started._
+====================================================================================================
+
+--- CHUNK 819 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.1 Bombay: The Prime City of India?'}
+Content:
+At first, Bombay was the major outlet for cotton textiles from Gujarat. Later, in the nineteenth century, the city functioned as a port through which large quantities of raw materials such as cotton and opium would pass. Gradually, it also became an important administrative centre in western India, and then, by the end of the nineteenth century, a major industrial centre.
+====================================================================================================
+
+--- CHUNK 820 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.2 Work in the City'}
+Content:
+#### 4.2 Work in the City
+Bombay became the capital of the Bombay Presidency in 1819, after the Maratha defeat in the Anglo-Maratha war. The city quickly expanded. With the growth of trade in cotton and opium, large communities of traders and bankers as well as artisans and shopkeepers came to settle in Bombay. The establishment of textile mills led to a fresh surge in migration.
+The first cotton textile mill in Bombay was established in 1854. By 1921, there were 85 cotton mills with about 146,000 workers. Only  
+Old islands<br>Land<br>reclamation<br>
+====================================================================================================
+
+--- CHUNK 821 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.2 Work in the City'}
+Content:
+Old islands<br>Land<br>reclamation<br>
+**_Fig. 18 – A map of Bombay in the 1930s showing the seven islands and the reclamations._**
+footer page number:141
+about one-fourth of Bombay’s inhabitants between 1881 and 1931 were born in Bombay: the rest came from outside. Large numbers flowed in from the nearby district of Ratnagiri to work in the Bombay mills.
+====================================================================================================
+
+--- CHUNK 822 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': '4.2 Work in the City'}
+Content:
+Women formed as much as 23 per cent of the mill workforce in the period between 1919 and 1926. After that, their numbers dropped steadily to less than 10 per cent of the total workforce. By the late 1930s, women’s jobs were increasingly taken over by machines or by men.
+====================================================================================================
+
+--- CHUNK 823 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Have a debate in class with speakers for and against the motion, on the following topic: ‘City development cannot take place without destroying communities and lifestyles. This is a necessary part of development.’
+====================================================================================================
+
+--- CHUNK 824 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+Bombay dominated the maritime trade of India till well into the twentieth century. It was also at the junction head of two major railways. The railways encouraged an even higher scale of migration into the city. For instance, famine in the dry regions of Kutch drove large numbers of people into Bombay in 1888-89. The flood of migrants in some years created panic and alarm in official circles. Worried by the influx of population during the plague epidemic of 1898, district authorities sent about 30,000 people back to their places of origin by 1901.
+====================================================================================================
+
+--- CHUNK 825 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+#### 4.3 Housing and Neighbourhoods
+====================================================================================================
+
+--- CHUNK 826 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+Bombay was a crowded city. While every Londoner in the 1840s enjoyed an average space of 155 square yards, Bombay had a mere 9.5 square yards. By 1872, when London had an average of 8 persons per house, the density in Bombay was as high as 20. From its earliest days, Bombay did not grow according to any plan, and houses, especially in the Fort area, were interspersed with gardens. The Bombay Fort area which formed the heart of the city in the early 1800s was divided between a ‘native’ town, where most of the Indians lived, and a European or ‘white’ section. A European suburb and an industrial
+====================================================================================================
+
+--- CHUNK 827 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+or ‘white’ section. A European suburb and an industrial zone began to develop to the north of the Fort settlement area, with a similar suburb and cantonment in the south. This racial pattern was true of all three Presidency cities.
+====================================================================================================
+
+--- CHUNK 828 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+With the rapid and unplanned expansion of the city, the crisis of housing and water supply became acute by the mid-1850s. The arrival of the textile mills only increased the pressure on Bombay’s housing.
+Like the European elite, the richer Parsi, Muslim and uppercaste traders and industrialists of Bombay lived in sprawling,
+**_Fig. 19 – Interior of Esplanade House built for J.N. Tata in 1887._**
+footer page number:142
+**_Fig. 20 – Scene by Robert Grindlay of Bombay, 1826._** _A number of palanquins are being carried across the square._
+====================================================================================================
+
+--- CHUNK 829 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+spacious bungalows. In contrast, more than 70 per cent of the working people lived in the thickly populated _chawls_ of Bombay. Since workers walked to their place of work, 90 per cent of millworkers were housed in Girangaon, a ‘mill village’ not more than 15 minutes’ walk from the mills.
+====================================================================================================
+
+--- CHUNK 830 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+_Chawls_ were multi-storeyed structures which had been built from at least the 1860s in the ‘native’ parts of the town. Like the tenements in London, these houses were largely owned by private landlords, such as merchants, bankers, and building contractors, looking for quick ways of earning money from anxious migrants. Each _chawl_ was divided into smaller one-room tenements which had no private toilets.
+====================================================================================================
+
+--- CHUNK 831 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+Many families could reside at a time in a tenement. The Census of 1901 reported that ‘the mass of the island’s population or 80 per cent of the total, resides in tenements of one room; the average number of occupants lies between 4 and 5 …’ High rents forced workers to share homes, either with relatives or caste fellows who were streaming into the city. People had to keep the windows of their rooms closed even in humid weather due to the ‘close proximity of filthy gutters, privies, buffalo stables etc.’ Yet, though water was scarce, and people often quarrelled every morning for a turn at the
+====================================================================================================
+
+--- CHUNK 832 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+and people often quarrelled every morning for a turn at the tap, observers found that houses were kept quite clean.
+====================================================================================================
+
+--- CHUNK 833 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.3 Housing and Neighbourhoods'}
+Content:
+The homes being small, streets and neighbourhoods were used for a variety of activities such as cooking, washing and sleeping. Liquor
+====================================================================================================
+
+--- CHUNK 834 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Look at Fig. 20 What kinds of people do you think used this mode of transport? Compare it with the pictures of the horse-drawn tram (Fig. 22) and the electric tram. Notice the inversion of the numbers involved: the horsedrawn tram or electric tram needed only one operator while a single traveller required several people.
+====================================================================================================
+
+--- CHUNK 835 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+#### Source C  
+##### Why spaces cannot be cleared
+Bombay’s first Municipal Commissioner, Arthur Crawford, was appointed in 1865. He tried to keep several ‘dangerous trades’ out of south Bombay. He described how builders and entrepreneurs bribed inspectors to continue with their haphazard use of space, even when their activities increased pollution:
+====================================================================================================
+
+--- CHUNK 836 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+‘… Kessowjee Naik brought his dyers back to their old quarters. I prosecuted them, but was defeated. Kessowjee Naik spent money like water, eminent physicians swore solemnly that dye pits were beneficial to health! … This infamous success emboldened a powerful German firm to open a large steam Dyeing Factory close to Parbadevi Temple whose refuse waters polluted the fair sands of Mahim Bay … Last but not least Bhoys and Dasses, Shenvis Brahmins and all the Jees, set up cotton and spinning mills anywhere their sweet will prompted them: for example close to the Byculla Club itself, around the
+====================================================================================================
+
+--- CHUNK 837 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+for example close to the Byculla Club itself, around the Race Course and Kamathippora Foras Road, in Khetwady, on Girgaum Raod and at Chowpatty.’
+====================================================================================================
+
+--- CHUNK 838 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+While reading such statements we must remember that colonial officials liked to represent Englishmen as honest and Indians as corrupt, the Englishmen as concerned with pollution of the environment and Indians as being uncaring about such issues.
+**_Source_**
+footer page number:143
+====================================================================================================
+
+--- CHUNK 839 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+shops and **_akharas_** came up in any empty spot. Streets were also used for different types of leisure activities. Parvathibai Bhor recalled her childhood years in the early twentieth century this way: ‘There was an open space in the middle of our four _chawls_ . There the magicians, monkey players or acrobats used to regularly perform their acts. The Nandi bull used to come. I used to be especially afraid of the Kadaklakshmi. To see that they had to beat themselves on their naked bodies in order to fill their stomachs frightened me.’ Finally, _chawls_ were also the place for the exchange
+====================================================================================================
+
+--- CHUNK 840 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+me.’ Finally, _chawls_ were also the place for the exchange of news about jobs, strikes, riots or demonstrations.
+====================================================================================================
+
+--- CHUNK 841 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+Caste and family groups in the mill neighbourhoods were headed by someone who was similar to a village headman. Sometimes, the jobber in the mills could be the local neighbourhood leader. He settled disputes, organised food supplies, or arranged informal credit. He also brought important information on political developments.
+People who belonged to the **‘depressed classes’** found it even more difficult to find housing. Lower castes were kept out of many _chawls_ and often had to live in shelters made of corrugated sheets, leaves, or bamboo poles.
+====================================================================================================
+
+--- CHUNK 842 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+If town planning in London emerged from fears of social revolution, planning in Bombay came about as a result of fears about the plague epidemic. The City of Bombay Improvement Trust was established in 1898; it focused on clearing poorer homes out of the city centre. By 1918, Trust schemes had deprived 64,000 people of their homes, but only 14,000 were rehoused. In 1918, a Rent Act was passed to keep rents reasonable, but it had the opposite effect of producing a severe housing crisis, since landlords withdrew houses from the market.
+====================================================================================================
+
+--- CHUNK 843 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Source C', 'subheading4': 'Why spaces cannot be cleared'}
+Content:
+Expansion of the city has always posed a problem in Bombay because of a scarcity of land. One of the ways the city of Bombay has developed is through massive **reclamation** projects.
+====================================================================================================
+
+--- CHUNK 844 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.4 Land Reclamation in Bombay'}
+Content:
+#### 4.4 Land Reclamation in Bombay
+Did you know that the seven islands of Bombay were joined into one landmass only over a period of time? The earliest project began in 1784. The Bombay governor William Hornby approved the building of the great sea wall which prevented the flooding of the low-lying areas of Bombay.
+**_Fig. 21 –_ Chawl** **_on Kalbadevi Road built in the early twentieth century._** _What do you notice about the organisation of space in this building?_
+====================================================================================================
+
+--- CHUNK 845 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine that you are a young person living in a _chawl_ . Describe one day in your life.
+====================================================================================================
+
+--- CHUNK 846 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+_Akharas_ – Traditional wrestling schools, generally located in every neighbourhood, where young people were trained to ensure both physical and moral fitness Depressed classes – A term often used to denote those who were seen within the caste order as ‘lower castes’ and ‘untouchables’ Reclamation – The reclaiming of marshy or submerged areas or other wasteland for settlements, cultivation or other use
+footer page number:144
+====================================================================================================
+
+--- CHUNK 847 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+Since then, there have been several reclamation projects. The need for additional commercial space in the mid-nineteenth century led to the formulation of several plans, both by government and private companies, for the reclamation of more land from the sea. Private companies became more interested in taking financial risks. In 1864, the Back Bay Reclamation Company won the right to reclaim the western foreshore from the tip of Malabar Hill to the end of Colaba. Reclamation often meant the levelling of the hills around Bombay. By the 1870s, although most of the private companies closed down
+====================================================================================================
+
+--- CHUNK 848 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+1870s, although most of the private companies closed down due to the mounting cost, the city had expanded to about 22 square miles. As the population continued to increase rapidly in the early twentieth century, every bit of the available area was built over and new areas were reclaimed from the sea.
+====================================================================================================
+
+--- CHUNK 849 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+**_Fig. 22 – Colaba Causeway, late nineteenth century._** _Notice that the trams are being drawn by horses.You can see stables for horses on the left and the Tram Company’s offices in the background._
+A successful reclamation project was undertaken by the Bombay Port Trust, which built a dry dock between 1914 and 1918 and used the excavated earth to create the 22-acre Ballard Estate. Subsequently, the famous Marine Drive of Bombay was developed.
+====================================================================================================
+
+--- CHUNK 850 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.5 Bombay as the City of Dreams: The World of Cinema and Culture'}
+Content:
+#### 4.5 Bombay as the City of Dreams: The World of Cinema and Culture
+**_Fig. 23 – Marine Drive._** _A familiar landmark of Bombay, it was built on land reclaimed from the sea in the twentieth century._
+Who does not associate Bombay with its film industry? Despite its massive overcrowding and difficult living conditions, Bombay appears to many as a _‘mayapuri’_ – a city of dreams.
+====================================================================================================
+
+--- CHUNK 851 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.5 Bombay as the City of Dreams: The World of Cinema and Culture'}
+Content:
+Many Bombay films deal with the arrival in the city of new migrants, and their encounters with the real pressures of daily life. Some popular songs from the Bombay film industry speak of the contradictory aspects of the city. In the film _CID_ (1956) the hero’s buddy sings, ‘ _Ai dil hai mushkil jeena yahan; zara hatke zara bachke, ye hai Bambai meri jaan_ ’ (My heart, it is difficult to live here! move over a little, take care of yourself! this is Bombay! my love). A slightly more disillusioned voice sings in _Guest House_ (1959): ‘ _Jiska juta usika sar, dil hai chhote bada shahar, are vah
+====================================================================================================
+
+--- CHUNK 852 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.5 Bombay as the City of Dreams: The World of Cinema and Culture'}
+Content:
+_Jiska juta usika sar, dil hai chhote bada shahar, are vah re vah teri Bambai_ ’ (Bombay, you city what a place! Here one gets beaten with one’s own shoes! The city is big but people’s hearts are small!).
+====================================================================================================
+
+--- CHUNK 853 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.5 Bombay as the City of Dreams: The World of Cinema and Culture'}
+Content:
+When did the Bombay film industry make its first appearance? Harishchandra Sakharam Bhatwadekar shot a scene of a wrestling
+footer page number:145
+match in Bombay’s Hanging Gardens and it became India’s first movie in 1896. Soon after, Dadasaheb Phalke made _Raja Harishchandra_ (1913). After that, there was no turning back. By 1925, Bombay had become India’s film capital, producing films for a national audience. The amount of money invested in about 50 Indian films in 1947 was Rs 756 million. By 1987, the film industry employed 520,000 people.
+====================================================================================================
+
+--- CHUNK 854 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': '4.5 Bombay as the City of Dreams: The World of Cinema and Culture'}
+Content:
+Most of the people in the film industry were themselves migrants who came from cities like Lahore, Calcutta, Madras and contributed to the national character of the industry. Those who came from Lahore, then in Punjab, were especially important for the development of the Hindi film industry. Many famous writers, like Ismat Chughtai and Saadat Hasan Manto, were associated with Hindi cinema.
+Bombay films have contributed in a big way to produce an image of the city as a blend of dream and reality, of slums and star bungalows.
+====================================================================================================
+
+--- CHUNK 855 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Read Source D. What does the poem communicate about the opportunities and experience for each new generation?
+====================================================================================================
+
+--- CHUNK 856 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'The Many Sides of Bombay'}
+Content:
+#### Source D  
+##### The Many Sides of Bombay
+**_Source_**
+My father came down the Sahyadris A quilt over his shoulder He stood at your doorstep With nothing but his labour
+I carried a tiffin box To the mill since childhood I was cast the way A smith forges a hammer I learned my ropes Working on a loom Learnt on occasion To go on strike
+My father withered away toiling So will I, and will my little ones Perhaps they too face such sad nights Wrapped in coils of darkness
+====================================================================================================
+
+--- CHUNK 857 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'The Many Sides of Bombay'}
+Content:
+The verses of this poem are a stark contrast to the glittering world of films, pointing to the endless toil which new migrants encounter in the city.
+Excerpted from the poem Maze Vidyapeeth (1975) by Narayan Surve.
+footer page number:146
+====================================================================================================
+
+--- CHUNK 858 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2'}
+Content:
+##### Box 2
+Not all cities in Asian countries developed in an unplanned manner. There were many cities that were carefully planned and organised. Consider the case of modern Singapore.
+====================================================================================================
+
+--- CHUNK 859 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+###### Lee Kuan Yew’s Singapore
+Today, most of us know Singapore as a successful, rich, and wellplanned city, a model for city planning worldwide. Yet the city’s rise to this status is quite recent. Until 1965, Singapore, though an important port, shared all the problems of other Asian cities. Planning was known in Singapore since 1822, but benefited only the small community of white people who ruled Singapore. For the majority of its inhabitants, there was overcrowding, lack of sanitation, poor housing, and poverty.
+====================================================================================================
+
+--- CHUNK 860 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+**_Fig. 24 – Singapore Marina, which is built on land reclaimed from the sea._**
+====================================================================================================
+
+--- CHUNK 861 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+All this changed after the city became an independent nation in 1965 under the leadership of Lee Kuan Yew, President of the People’s Action Party. A massive housing and development programme was undertaken and it completely altered the face of the island nation. Through a programme of total planning which left nothing to chance, every inch of the island’s territory was controlled in its use. The government itself won popular support by providing nearly 85 per cent of the population with ownership housing of good quality. The tall housing blocks, which were well ventilated and serviced, were
+====================================================================================================
+
+--- CHUNK 862 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+blocks, which were well ventilated and serviced, were examples of good physical planning. But the buildings also redesigned social life: crime was reduced through external corridors, the aged were housed alongside their families, ’void decks’ or empty floors were provided in all buildings for community activities.
+====================================================================================================
+
+--- CHUNK 863 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+Migration into the city was strictly controlled. Social relations between the three major groups of people (the Chinese, the Malays and the Indians) were also monitored to prevent racial conflict. Newspapers and journals and all forms of communication and association were also strictly controlled.
+====================================================================================================
+
+--- CHUNK 864 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+In 1986, in the National Day Rally speech, Lee Kuan Yew’s recalled his early experiments with planning: ‘… we would not have made economic progress, if we had not intervened on very personal matters: who your neighbour is, how you live, the noise you make, how you spit or what language you use. We decide what is right. Never mind what the people think **–** that is another problem.’ Reported in The Straits Times.
+====================================================================================================
+
+--- CHUNK 865 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss', 'subheading3': 'Source D', 'subheading4': 'Box 2', 'subheading5': 'Lee Kuan Yew’s Singapore'}
+Content:
+Although the citizens of Singapore enjoy a very high degree of material comfort and wealth, there are many who point out that the city lacks a lively and challenging political culture.
+====================================================================================================
+
+--- CHUNK 866 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Compare the examples of the work done by Baron Haussmann in Paris and Lee Kuan Yew, almost a hundred years later, in Singapore. Discuss if physical comfort and beauty in the city can be introduced only by controlling social and private life. In your opinion, is this a good enough reason for the government to make rules about the way in which people should live their personal lives?
+footer page number:147
+====================================================================================================
+
+--- CHUNK 867 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+### 5 Cities and the Challenge of the Environment
+City development everywhere occurred at the expense of ecology and the environment. Natural features were flattened out or transformed in response to the growing demand for space for factories, housing and other institutions. Large quantities of refuse and waste products polluted air and water, while excessive noise became a feature of urban life.
+====================================================================================================
+
+--- CHUNK 868 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+The widespread use of coal in homes and industries in nineteenthcentury England raised serious problems. In industrial cities such as Leeds, Bradford and Manchester, hundreds of factory chimneys spewed black smoke into the skies. People joked that most inhabitants of these cities grew up believing that the skies were grey and all vegetation was black! Shopkeepers, homeowners and others complained about the black fog that descended on their towns, causing bad tempers, smoke-related illnesses, and dirty clothes.
+====================================================================================================
+
+--- CHUNK 869 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+When people first joined campaigns for cleaner air, the goal was to control the nuisance through legislation. This was not at all easy, since factory owners and steam engine owners did not want to spend
+**_Fig. 25 – The London smog,_ The Illustrated London News** **_, 1847._** _Smoke from burning of coal, in industries and in homes, covered London, making it difficult to breathe the air or see the road._
+footer page number:148
+====================================================================================================
+
+--- CHUNK 870 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+footer page number:148
+on technologies that would improve their machines. By the 1840s, a few towns such as Derby, Leeds and Manchester had laws to control smoke in the city. But smoke was not easy to monitor or measure, and owners got away with small adjustments to their machinery that did nothing to stop the smoke. Moreover, the Smoke Abatement Acts of 1847 and 1853, as they were called, did not always work to clear the air.
+====================================================================================================
+
+--- CHUNK 871 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+Calcutta too had a long history of air pollution. Its inhabitants inhaled grey smoke, particularly in the winter. Since the city was built on marshy land, the resulting fog combined with smoke to generate thick black smog. High levels of pollution were a consequence of the huge population that depended on dung and wood as fuel in their daily life. But the main polluters were the industries and establishments that used steam engines run on coal.
+====================================================================================================
+
+--- CHUNK 872 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+Colonial authorities were at first intent on clearing the place of miasmas, or harmful vapours, but the railway line introduced in 1855 brought a dangerous new pollutant into the picture – coal from Raniganj. The high content of ash in Indian coal was a problem. Many pleas were made to banish the dirty mills from the city, with no effect. However, in 1863, Calcutta became the first Indian city to get smoke nuisance legislation.
+====================================================================================================
+
+--- CHUNK 873 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': '5 Cities and the Challenge of the Environment'}
+Content:
+In 1920, the rice mills of Tollygunge began to burn rice husk instead of coal, leading residents to complain that ‘the air is filled up with black soot which falls like drizzling rain from morning till night, and it has become impossible to live’. The inspectors of the Bengal Smoke Nuisance Commission finally managed to control industrial smoke. Controlling domestic smoke, however, was far more difficult.
+====================================================================================================
+
+--- CHUNK 874 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity'}
+Content:
+### Activity
+Write out a notice from the Bengal Smoke Nuisance Commission to the owner of a factory pointing out the dangers and harmful effects of industrial smoke.
+====================================================================================================
+
+--- CHUNK 875 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+#### Conclusion
+Despite its problems, the city has always been attractive to those seeking freedom and opportunity. Even the gods in Durgacharan’s novel, referred to at the beginning of this chapter, found heaven imperfect, compared with all that they had witnessed and experienced on their visit to Calcutta. Yet all the aspects of city life that upset them were signs of the new routes to social and economic mobility that the city offered to the millions who had made it their home.
+footer page number:149
+====================================================================================================
+
+--- CHUNK 876 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Give two reasons why the population of London expanded from the middle of the eighteenth century.
+2. What were the changes in the kind of work available to women in London between the nineteenth and the twentieth century? Explain the factors which led to this change.
+3. How does the existence of a large urban population affect each of the following? Illustrate with historical examples.
+a) A private landlord b) A Police Superintendent in charge of law and order c) A leader of a political party
+====================================================================================================
+
+--- CHUNK 877 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Write in brief'}
+Content:
+4. Give explanations for the following: a) Why well-off Londoners supported the need to build housing for the poor in the nineteenth century.
+- a) Why well-off Londoners supported the need to build housing for the poor in the nineteenth century.
+- b) Why a number of Bombay films were about the lives of migrants.
+- c) What led to the major expansion of Bombay’s population in the mid-nineteenth century.
+====================================================================================================
+
+--- CHUNK 878 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. What forms of entertainment came up in nineteenth century England to provide leisure activities for the people.
+2. Explain the social changes in London which led to the need for the Underground railway. Why was the development of the Underground criticised?
+3. Explain what is meant by the Haussmanisation of Paris. To what extent would you support or oppose this form of development? Write a letter to the editor of a newspaper, to either support or oppose this, giving reasons for your view.
+====================================================================================================
+
+--- CHUNK 879 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Discuss'}
+Content:
+4. To what extent does government regulation and new laws solve problems of pollution? Discuss one example each of the success and failure of legislation to change the quality of
+- a) public life Discuss
+- b) private life
+====================================================================================================
+
+--- CHUNK 880 ---
+Metadata: {'Chapter Name': 'Work, Life and Leisure Cities in the Contemporary World', 'subheading1': '1 Characteristics of the City', 'subheading2': 'Project'}
+Content:
+### Project
+Make sure you watch any one of the Mumbai films discussed in this chapter. Compare and contrast the portrayal of the city in one film discussed in this chapter, with a film set in Mumbai, which you have recently seen. Project
+Project
+footer page number:150
+====================================================================================================
+
+--- CHUNK 881 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World'}
+Content:
+# Print Culture and the Modern World
+====================================================================================================
+
+--- CHUNK 882 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World'}
+Content:
+It is difficult for us to imagine a world without printed matter. We find evidence of print everywhere around us – in books, journals, newspapers, prints of famous paintings, and also in everyday things like theatre programmes, official circulars, calendars, diaries, advertisements, cinema posters at street corners. We read printed literature, see printed images, follow the news through newspapers, and track public debates that appear in print. We take for granted this world of print and often forget that there was a time before print. We may not realise that print itself has a history which
+====================================================================================================
+
+--- CHUNK 883 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World'}
+Content:
+We may not realise that print itself has a history which has, in fact, shaped our contemporary world. What is this history? When did printed literature begin to circulate? How has it helped create the modern world?
+====================================================================================================
+
+--- CHUNK 884 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World'}
+Content:
+In this chapter we will look at the development of print, from its beginnings in East Asia to its expansion in Europe and in India. We will understand the impact of the spread of technology and consider how social lives and cultures changed with the coming of print.
+**_Fig. 1 – Book making before the age of print, from_ Akhlaq-i-Nasiri** **_, 1595._**
+====================================================================================================
+
+--- CHUNK 885 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World'}
+Content:
+_This is a royal workshop in the sixteenth century, much before printing began in India. You can see the text being dictated, written and illustrated. The art of writing and illustrating by hand was important in the age before print. Think about what happened to these forms of art with the coming of printing machines._
+====================================================================================================
+
+--- CHUNK 886 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books'}
+Content:
+## 1 The First Printed Books
+The earliest kind of print technology was developed in China, Japan and Korea. This was a system of hand printing. From AD 594 onwards, books in China were printed by rubbing paper – also invented there – against the inked surface of woodblocks. As both sides of the thin, porous sheet could not be printed, the traditional Chinese ‘accordion book’ was folded and stitched at the side. Superbly skilled craftsmen could duplicate, with remarkable accuracy, the beauty of **calligraphy.**
+**New words**
+Calligraphy – The art of beautiful and stylised writing
+====================================================================================================
+
+--- CHUNK 887 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books'}
+Content:
+Calligraphy – The art of beautiful and stylised writing
+The imperial state in China was, for a very long time, the major producer of printed material. China possessed a huge bureaucratic system which recruited its personnel through civil service examinations. Textbooks for this examination were printed in vast numbers under the sponsorship of the imperial state. From the sixteenth century, the number of examination candidates went up and that increased the volume of print.
+====================================================================================================
+
+--- CHUNK 888 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books'}
+Content:
+By the seventeenth century, as urban culture bloomed in China, the uses of print diversified. Print was no longer used just by scholarofficials. Merchants used print in their everyday life, as they collected trade information. Reading increasingly became a leisure activity. The new readership preferred fictional narratives, poetry, autobiographies, anthologies of literary masterpieces, and romantic plays. Rich women began to read, and many women began publishing their poetry and plays. Wives of scholar-officials published their works and courtesans wrote about their lives.
+====================================================================================================
+
+--- CHUNK 889 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books'}
+Content:
+This new reading culture was accompanied by a new technology. Western printing techniques and mechanical presses were imported in the late nineteenth century as Western powers established their outposts in China. Shanghai became the hub of the new print culture, catering to the Western-style schools. From hand printing there was now a gradual shift to mechanical printing.
+====================================================================================================
+
+--- CHUNK 890 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan'}
+Content:
+### 1.1 Print in Japan
+Buddhist missionaries from China introduced hand-printing technology into Japan around AD 768-770. The oldest Japanese book, printed in AD 868, is the Buddhist _Diamond Sutra_ , containing six sheets of text and woodcut illustrations. Pictures were printed on textiles,
+**_Fig. 2 – A page from the_ Diamond Sutra.**
+footer page number:154
+playing cards and paper money. In medieval Japan, poets and prose writers were regularly published, and books were cheap and abundant.
+====================================================================================================
+
+--- CHUNK 891 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan'}
+Content:
+Printing of visual material led to interesting publishing practices. In the late eighteenth century, in the flourishing urban circles at Edo (later to be known as Tokyo), illustrated collections of paintings depicted an elegant urban culture, involving artists, courtesans, and teahouse gatherings. Libraries and bookstores were packed with hand-printed material of various types – books on women, musical instruments, calculations, tea ceremony, flower arrangements, proper etiquette, cooking and famous places.
+====================================================================================================
+
+--- CHUNK 892 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan', 'subheading3': 'Box 1'}
+Content:
+#### Box 1
+====================================================================================================
+
+--- CHUNK 893 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan', 'subheading3': 'Box 1'}
+Content:
+**Kitagawa Utamaro** , born in Edo in 1753, was widely known for his contributions to an art form called ukiyo (‘pictures of the floating world’) or depiction of ordinary human experiences, especially urban ones. These prints travelled to contemporary US and Europe and influenced artists like Manet, Monet and Van Gogh. Publishers like Tsutaya Juzaburo identified subjects and commissioned artists who drew the theme in outline. Then a skilled woodblock carver pasted the drawing on a woodblock and carved a printing block to reproduce the painter’s lines. In the process, the original drawing
+====================================================================================================
+
+--- CHUNK 894 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan', 'subheading3': 'Box 1'}
+Content:
+the painter’s lines. In the process, the original drawing would be destroyed and only prints would survive.
+====================================================================================================
+
+--- CHUNK 895 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '1.1 Print in Japan', 'subheading3': 'Box 1'}
+Content:
+**_Fig. 3 – An_ ukiyo** **_print by Kitagawa Utamaro._**
+**_Fig. 4_ –** **_A morning scene,_ ukiyo** **_print by Shunman Kubo, late eighteenth century._**
+_A man looks out of the window at the snowfall while women prepare tea and perform other domestic duties._
+footer page number:155
+====================================================================================================
+
+--- CHUNK 896 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+### 2 Print Comes to Europe
+====================================================================================================
+
+--- CHUNK 897 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+For centuries, silk and spices from China flowed into Europe through the silk route. In the eleventh century, Chinese paper reached Europe via the same route. Paper made possible the production of manuscripts, carefully written by scribes. Then, in 1295, Marco Polo, a great explorer, returned to Italy after many years of exploration in China. As you read above, China already had the technology of woodblock printing. Marco Polo brought this knowledge back with him. Now Italians began producing books with woodblocks, and soon the technology spread to other parts of Europe. Luxury editions were
+====================================================================================================
+
+--- CHUNK 898 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+spread to other parts of Europe. Luxury editions were still handwritten on very expensive **vellum** , meant for aristocratic circles and rich monastic libraries which scoffed at printed books as cheap vulgarities. Merchants and students in the university towns bought the cheaper printed copies.
+====================================================================================================
+
+--- CHUNK 899 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+**New words** Vellum – A parchment made from the skin of animals
+As the demand for books increased, booksellers all over Europe began exporting books to many different countries. Book fairs were held at different places. Production of handwritten manuscripts was also organised in new ways to meet the expanded demand. Scribes or skilled handwriters were no longer solely employed by wealthy or influential patrons but increasingly by booksellers as well. More than 50 scribes often worked for one bookseller.
+====================================================================================================
+
+--- CHUNK 900 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+But the production of handwritten manuscripts could not satisfy the ever-increasing demand for books. Copying was an expensive, laborious and time-consuming business. Manuscripts were fragile, awkward to handle, and could not be carried around or read easily. Their circulation therefore remained limited. With the growing demand for books, woodblock printing gradually became more and more popular. By the early fifteenth century, woodblocks were being widely used in Europe to print textiles, playing cards, and religious pictures with simple, brief texts.
+====================================================================================================
+
+--- CHUNK 901 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '2 Print Comes to Europe'}
+Content:
+There was clearly a great need for even quicker and cheaper reproduction of texts. This could only be with the invention of a new print technology. The breakthrough occurred at Strasbourg, Germany, where Johann Gutenberg developed the first-known printing press in the 1430s.
+====================================================================================================
+
+--- CHUNK 902 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine that you are Marco Polo. Write a letter from China to describe the world of print which you have seen there.
+footer page number:156
+====================================================================================================
+
+--- CHUNK 903 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '2.1 Gutenberg and the Printing Press'}
+Content:
+#### 2.1 Gutenberg and the Printing Press
+====================================================================================================
+
+--- CHUNK 904 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '2.1 Gutenberg and the Printing Press'}
+Content:
+Gutenberg was the son of a merchant and grew up on a large agricultural estate. From his childhood he had seen wine and olive presses. Subsequently, he learnt the art of polishing stones, became a master goldsmith, and also acquired the expertise to create lead moulds used for making trinkets. Drawing on this knowledge, Gutenberg adapted existing technology to design his innovation. The olive press provided the model for the printing press, and moulds were used for casting the metal types for the letters of the alphabet. By 1448, Gutenberg perfected the system. The first book he printed was
+====================================================================================================
+
+--- CHUNK 905 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '2.1 Gutenberg and the Printing Press'}
+Content:
+perfected the system. The first book he printed was the Bible. About 180 copies were printed and it took three years to produce them. By the standards of the time this was fast production.
+====================================================================================================
+
+--- CHUNK 906 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '2.1 Gutenberg and the Printing Press'}
+Content:
+The new technology did not entirely displace the existing art of producing books by hand.
+In fact, printed books at first closely resembled the written manuscripts in appearance and layout. The metal letters imitated the ornamental handwritten styles. Borders were illuminated by hand with foliage and other patterns, and illustrations were painted. In the books printed for the rich, space for decoration was kept blank on the printed page. Each purchaser could choose the design and decide on the painting school that would do the illustrations.
+====================================================================================================
+
+--- CHUNK 907 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '2.1 Gutenberg and the Printing Press'}
+Content:
+In the hundred years between 1450 and 1550, printing presses were set up in most countries of Europe. Printers from Germany travelled to other countries, seeking work and helping start new presses. As the number of printing presses grew, book production boomed. The second half of the fifteenth century saw 20 million copies of printed books flooding the markets in Europe. The number went up in the sixteenth century to about 200 million copies.
+This shift from hand printing to mechanical printing led to the print revolution.
+====================================================================================================
+
+--- CHUNK 908 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Platen – In letterpress printing, platen is a board which is pressed onto the back of the paper to get the impression from the type. At one time it used to be a wooden board; later it was made of steel
+**_Fig. 5 – A Portrait of Johann Gutenberg, 1584._**  
+Frame<br>Screw<br>Handle<br>Platen<br>Printing block<br>placed over<br>paper<br>
+====================================================================================================
+
+--- CHUNK 909 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+**_Fig. 6 – Gutenberg Printing Press._** _Notice the long handle attached to the screw. This handle was used to turn the screw and press down the_ **_platen_** _over the printing block that was placed on top of a sheet of damp paper. Gutenberg developed metal types for each of the 26 characters of the Roman alphabet and devised a way of moving them around so as to compose different words of the text. This came to be known as the moveable type printing machine, and it remained the basic print technology over the next 300 years. Books could now be produced much faster than was possible when
+====================================================================================================
+
+--- CHUNK 910 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+could now be produced much faster than was possible when each print block was prepared by carving a piece of wood by hand. The Gutenberg press could print 250 sheets on one side per hour._
+====================================================================================================
+
+--- CHUNK 911 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+footer page number:157
+**_Fig. 7 – Pages of Gutenberg’s Bible, the first printed book in Europe._** _Gutenberg printed about 180 copies, of which no more than 50 have survived._
+====================================================================================================
+
+--- CHUNK 912 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+_Look at these pages of Gutenberg’s Bible carefully. They were not just products of new technology. The text was printed in the new Gutenberg press with metal type, but the borders were carefully designed, painted and illuminated by hand by artists. No two copies were the same. Every page of each copy was different. Even when two copies look similar, a careful comparison will reveal differences. Elites everywhere preferred this lack of uniformity: what they possessed then could be claimed as unique, for no one else owned a copy that was exactly the same._
+====================================================================================================
+
+--- CHUNK 913 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+_In the text you will notice the use of colour within the letters in various places. This had two functions: it added colour to the page, and highlighted all the holy words to emphasise their significance. But the colour on every page of the text was added by hand. Gutenberg printed the text in black, leaving spaces where the colour could be filled in later._
+====================================================================================================
+
+--- CHUNK 914 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+**_Fig. 8 – A printer’s workshop, sixteenth century_** _. This picture depicts what a printer’s shop looked like in the sixteenth century. All the activities are going on under one roof. In the foreground on the right,_ **_compositors_** _are at work, while on the left_ **_galleys_** _are being prepared and ink is being applied on the metal types; in the background, the printers are turning the screws of the press, and near them proofreaders are at work. Right in front is the final product – the double-page printed sheets, stacked in neat piles, waiting to be bound._  
+#### New words
+====================================================================================================
+
+--- CHUNK 915 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Compositor – The person who composes the text for printing Galley – Metal frame in which types are laid and the text composed
+footer page number:158
+====================================================================================================
+
+--- CHUNK 916 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '3 The Print Revolution and Its Impact'}
+Content:
+### 3 The Print Revolution and Its Impact
+What was the print revolution? It was not just a development, a new way of producing books; it transformed the lives of people, changing their relationship to information and knowledge, and with institutions and authorities. It influenced popular perceptions and opened up new ways of looking at things.
+Let us explore some of these changes.
+====================================================================================================
+
+--- CHUNK 917 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '3 The Print Revolution and Its Impact', 'subheading3': '3.1 A New Reading Public'}
+Content:
+#### 3.1 A New Reading Public
+With the printing press, a new reading public emerged. Printing reduced the cost of books. The time and labour required to produce each book came down, and multiple copies could be produced with greater ease. Books flooded the market, reaching out to an ever-growing readership.
+====================================================================================================
+
+--- CHUNK 918 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+### Activity
+You are a bookseller advertising the availability of new cheap printed books. Design a poster for your shop window.
+====================================================================================================
+
+--- CHUNK 919 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+Access to books created a new culture of reading. Earlier, reading was restricted to the elites. Common people lived in a world of oral culture. They heard sacred texts read out, **ballads** recited, and folk tales narrated. Knowledge was transferred orally. People collectively heard a story, or saw a performance. As you will see in Chapter 8, they did not read a book individually and silently. Before the age of print, books were not only expensive but they could not be produced in sufficient numbers. Now books could reach out to wider sections of people. If earlier there was a hearing
+====================================================================================================
+
+--- CHUNK 920 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+to wider sections of people. If earlier there was a hearing public, now a reading public came into being.
+====================================================================================================
+
+--- CHUNK 921 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+But the transition was not so simple. Books could be read only by the literate, and the rates of literacy in most European countries were very low till the twentieth century. How, then, could publishers persuade the common people to welcome the printed book? To do this, they had to keep in mind the wider reach of the printed work: even those who did not read could certainly enjoy listening to books being read out. So printers began publishing popular ballads and folk tales, and such books would be profusely illustrated with pictures. These were then sung and recited at gatherings in villages
+====================================================================================================
+
+--- CHUNK 922 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+These were then sung and recited at gatherings in villages and in **taverns** in towns.
+====================================================================================================
+
+--- CHUNK 923 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+Oral culture thus entered print and printed material was orally transmitted. The line that separated the oral and reading cultures became blurred. And the hearing public and reading public became intermingled.
+**New words** Ballad – A historical account or folk tale in verse, usually sung or recited Taverns – Places where people gathered to drink alcohol, to be served food, and to meet friends and exchange news
+footer page number:159
+====================================================================================================
+
+--- CHUNK 924 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+#### 3.2 Religious Debates and the Fear of Print
+Print created the possibility of wide circulation of ideas, and introduced a new world of debate and discussion. Even those who disagreed with established authorities could now print and circulate their ideas. Through the printed message, they could persuade people to think differently, and move them to action. This had significance in different spheres of life.
+====================================================================================================
+
+--- CHUNK 925 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+Not everyone welcomed the printed book, and those who did also had fears about it. Many were apprehensive of the effects that the easier access to the printed word and the wider circulation of books, could have on people’s minds. It was feared that if there was no control over what was printed and read then rebellious and irreligious thoughts might spread. If that happened the authority of ‘valuable’ literature would be destroyed. Expressed by religious authorities and monarchs, as well as many writers and artists, this anxiety was the basis of widespread criticism of the new printed
+====================================================================================================
+
+--- CHUNK 926 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+was the basis of widespread criticism of the new printed literature that had began to circulate.
+====================================================================================================
+
+--- CHUNK 927 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+**_Fig. 9 – J.V. Schley, L’Imprimerie, 1739._** _This is one of the many images produced in early modern Europe, celebrating the coming of print. You can see the printing press descending from heaven, carried by a goddess. On two sides of the goddess, blessing the machine, are Minerva (the goddess of wisdom) and Mercury (the messenger god, also symbolising reason). The women in the foreground are holding plaques with the portraits of six pioneer printers of different countries. In the middle ground on the left (figure encircled) is the portrait of Gutenberg._
+====================================================================================================
+
+--- CHUNK 928 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+Let us consider the implication of this in one sphere of life in early modern Europe – namely, religion.
+In 1517, the religious reformer Martin Luther wrote Ninety Five Theses criticising many of the practices and rituals of the Roman Catholic Church. A printed
+====================================================================================================
+
+--- CHUNK 929 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+copy of this was posted on a church door in Wittenberg. It challenged the Church to debate his ideas. Luther’s writings were immediately reproduced in vast numbers and read widely. This lead to a division within the Church and to the beginning of the **Protestant Reformation** . Luther’s translation of the New Testament sold 5,000 copies within a few weeks and a second edition appeared within three months. Deeply grateful to print, Luther said, ‘Printing is the ultimate gift of God and the greatest one.’ Several scholars, in fact, think that print brought about a new intellectual atmosphere
+====================================================================================================
+
+--- CHUNK 930 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.2 Religious Debates and the Fear of Print'}
+Content:
+that print brought about a new intellectual atmosphere and helped spread the new ideas that led to the Reformation.
+====================================================================================================
+
+--- CHUNK 931 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Protestant Reformation – A sixteenth-century movement to reform the Catholic Church dominated by Rome. Martin Luther was one of the main Protestant reformers. Several traditions of anti-Catholic Christianity developed out of the movement
+footer page number:160
+====================================================================================================
+
+--- CHUNK 932 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.3 Print and Dissent'}
+Content:
+#### 3.3 Print and Dissent
+====================================================================================================
+
+--- CHUNK 933 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.3 Print and Dissent'}
+Content:
+Print and popular religious literature stimulated many distinctive individual interpretations of faith even among little-educated working people. In the sixteenth century, Manocchio, a miller in Italy, began to read books that were available in his locality. He reinterpreted the message of the Bible and formulated a view of God and Creation that enraged the Roman Catholic Church. When the Roman Church began its **inquisition** to repress **heretical** ideas, Manocchio was hauled up twice and ultimately executed. The Roman Church, troubled by such effects of popular readings and questionings
+====================================================================================================
+
+--- CHUNK 934 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.3 Print and Dissent'}
+Content:
+by such effects of popular readings and questionings of faith, imposed severe controls over publishers and booksellers and began to maintain an Index of Prohibited Books from 1558 **.**
+====================================================================================================
+
+--- CHUNK 935 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': '3.3 Print and Dissent'}
+Content:
+**_Fig. 10 – The macabre dance._**
+_This sixteenth-century print shows how the fear of printing was dramatised in visual representations of the time. In this highly interesting woodcut the coming of print is associated with the end of the world. The interior of the printer’s workshop here is the site of a dance of death. Skeletal figures control the printer and his workers, define and dictate what is to be done and what is to be produced._
+====================================================================================================
+
+--- CHUNK 936 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words'}
+Content:
+#### New words
+Inquisition – A former Roman Catholic court for identifying and punishing heretics Heretical – Beliefs which do not follow the accepted teachings of the Church. In medieval times, heresy was seen as a threat to the right of the Church to decide on what should be believed and what should not. Heretical beliefs were severely punished Satiety – The state of being fulfilled much beyond the point of satisfaction Seditious – Action, speech or writing that is seen as opposing the government
+====================================================================================================
+
+--- CHUNK 937 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source A', 'subheading5': 'Fear of the book'}
+Content:
+##### Source A  
+###### Fear of the book
+Erasmus, a Latin scholar and a Catholic reformer, who criticised the excesses of Catholicism but kept his distance from Luther, expressed a deep anxiety about printing. He wrote in Adages (1508):
+====================================================================================================
+
+--- CHUNK 938 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity', 'subheading3': 'New words', 'subheading4': 'Source A', 'subheading5': 'Fear of the book'}
+Content:
+‘To what corner of the world do they not fly, these swarms of new books? It may be that one here and there contributes something worth knowing, but the very multitude of them is hurtful to scholarship, because it creates a glut, and even in good things **satiety** is most harmful ... [printers] fill the world with books, not just trifling things (such as I write, perhaps), but stupid, ignorant, slanderous, scandalous, raving, irreligious and **seditious** books, and the number of them is such that even the valuable publications lose their value.’
+====================================================================================================
+
+--- CHUNK 939 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Source'}
+Content:
+### Source
+====================================================================================================
+
+--- CHUNK 940 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Write briefly why some people feared that the development of print could lead to the growth of dissenting ideas.
+footer page number:161
+====================================================================================================
+
+--- CHUNK 941 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania'}
+Content:
+### 4 The Reading Mania
+Through the seventeenth and eighteenth centuries literacy rates went up in most parts of Europe. Churches of different **denominations** set up schools in villages, carrying literacy to peasants and artisans. By the end of the eighteenth century, in some parts of Europe literacy rates were as high as 60 to 80 per cent. As literacy and schools spread in European countries, there was a virtual reading mania. People wanted books to read and printers produced books in everincreasing numbers.
+====================================================================================================
+
+--- CHUNK 942 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania'}
+Content:
+New forms of popular literature appeared in print, targeting new audiences. Booksellers employed pedlars who roamed around villages, carrying little books for sale. There were **almanacs** or ritual calendars, along with ballads and folktales. But other forms of reading matter, largely for entertainment, began to reach ordinary readers as well. In England, penny **chapbooks** were carried by petty pedlars known as chapmen, and sold for a penny, so that even the poor could buy them. In France, were the ‘Biliotheque Bleue’, which were low-priced small books printed on poor quality paper, and
+====================================================================================================
+
+--- CHUNK 943 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania'}
+Content:
+low-priced small books printed on poor quality paper, and bound in cheap blue covers. Then there were the romances, printed on four to six pages, and the more substantial ‘histories’ which were stories about the past. Books were of various sizes, serving many different purposes and interests.
+====================================================================================================
+
+--- CHUNK 944 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania'}
+Content:
+The periodical press developed from the early eighteenth century, combining information about current affairs with entertainment. Newspapers and journals carried information about wars and trade, as well as news of developments in other places.
+====================================================================================================
+
+--- CHUNK 945 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania'}
+Content:
+Similarly, the ideas of scientists and philosophers now became more accessible to the common people. Ancient and medieval scientific texts were compiled and published, and maps and scientific diagrams were widely printed. When scientists like Isaac Newton began to publish their discoveries, they could influence a much wider circle of scientifically minded readers. The writings of thinkers such as Thomas Paine, Voltaire and Jean Jacques Rousseau were also widely printed and read. Thus their ideas about science, reason and rationality found their way into popular literature.
+====================================================================================================
+
+--- CHUNK 946 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words'}
+Content:
+#### New words
+Denominations – Sub groups within a religion Almanac – An annual publication giving astronomical data, information about the movements of the sun and moon, timing of full tides and eclipses, and much else that was of importance in the everyday life of people Chapbook – A term used to describe pocketsize books that are sold by travelling pedlars called chapmen. These became popular from the time of the sixteenth-century print revolution
+====================================================================================================
+
+--- CHUNK 947 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words', 'subheading4': 'Box 2'}
+Content:
+##### Box 2
+In 1791, a London publisher, James Lackington, wrote in his diary:
+====================================================================================================
+
+--- CHUNK 948 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words', 'subheading4': 'Box 2'}
+Content:
+The sale of books in general has increased prodigiously within the last twenty years. The poorer sort of farmers and even the poor country people in general who before that period spent their winter evenings in relating stories of witches, ghosts, hobgoblins … now shorten the winter night by hearing their sons and daughters read them tales, romances, etc. If John goes to town with a load of hay, he is charged to be sure not to forget to bring home Peregrine Pickle’s Adventure … and when Dolly is sent to sell her eggs, she is commissioned to purchase The History of Joseph Andrews.’
+====================================================================================================
+
+--- CHUNK 949 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words', 'subheading4': 'Box 2'}
+Content:
+footer page number:162
+====================================================================================================
+
+--- CHUNK 950 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.1 ‘Tremble, therefore, tyrants of the world!’'}
+Content:
+#### 4.1 ‘Tremble, therefore, tyrants of the world!’
+====================================================================================================
+
+--- CHUNK 951 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.1 ‘Tremble, therefore, tyrants of the world!’'}
+Content:
+By the mid-eighteenth century, there was a common conviction that books were a means of spreading progress and enlightenment. Many believed that books could change the world, liberate society from **despotism** and tyranny, and herald a time when reason and intellect would rule. Louise-Sebastien Mercier, a novelist in eighteenth-century France, declared: ‘The printing press is the most powerful engine of progress and public opinion is the force that will sweep despotism away.’ In many of Mercier’s novels, the heroes are transformed by acts of reading. They devour books, are lost in the world
+====================================================================================================
+
+--- CHUNK 952 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.1 ‘Tremble, therefore, tyrants of the world!’'}
+Content:
+acts of reading. They devour books, are lost in the world books create, and become enlightened in the process. Convinced of the power of print in bringing enlightenment and destroying the basis of despotism, Mercier proclaimed: ‘Tremble, therefore, tyrants of the world! Tremble before the virtual writer!’
+====================================================================================================
+
+--- CHUNK 953 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution'}
+Content:
+#### 4.2 Print Culture and the French Revolution
+Many historians have argued that print culture created the conditions within which French Revolution occurred. Can we make such a connection?
+====================================================================================================
+
+--- CHUNK 954 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+##### Source B
+This is how Mercier describes the impact of the printed word, and the power of reading in one of his books:
+====================================================================================================
+
+--- CHUNK 955 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+‘Anyone who had seen me reading would have compared me to a man dying of thirst who was gulping down some fresh, pure water … Lighting my lamp with extraordinary caution, I threw myself hungrily into the reading. An easy eloquence, effortless and animated, carried me from one page to the next without my noticing it. A clock struck off the hours in the silence of the shadows, and I heard nothing. My lamp began to run out of oil and produced only a pale light, but still I read on. I could not even take out time to raise the wick for fear of interrupting my pleasure. How those new ideas rushed
+====================================================================================================
+
+--- CHUNK 956 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+of interrupting my pleasure. How those new ideas rushed into my brain! How my intelligence adopted them!’
+====================================================================================================
+
+--- CHUNK 957 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+Quoted by Robert Darnton, The Forbidden BestSellers of Pre-Revolutionary France, 1995. **_Source_**
+Three types of arguments have been usually put forward.
+====================================================================================================
+
+--- CHUNK 958 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+First: print popularised the ideas of the Enlightenment thinkers. Collectively, their writings provided a critical commentary on tradition, superstition and despotism. They argued for the rule of reason rather than custom, and demanded that everything be judged through the application of reason and rationality. They attacked the sacred authority of the Church and the despotic power of the state, thus eroding the legitimacy of a social order based on tradition. The writings of Voltaire and Rousseau were read widely; and those who read these books saw the world through new eyes, eyes that were
+====================================================================================================
+
+--- CHUNK 959 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': '4.2 Print Culture and the French Revolution', 'subheading4': 'Source B'}
+Content:
+these books saw the world through new eyes, eyes that were questioning, critical and rational.
+====================================================================================================
+
+--- CHUNK 960 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words'}
+Content:
+#### New words
+Despotism – A system of governance in which absolute power is exercised by an individual, unregulated by legal and constitutional checks
+Second: print created a new culture of dialogue and debate. All values, norms and institutions were re-evaluated and discussed by a public that had become aware of the power of reason, and recognised the need to question existing ideas and beliefs. Within this public culture, new ideas of social revolution came into being.
+====================================================================================================
+
+--- CHUNK 961 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words'}
+Content:
+Third: by the 1780s there was an outpouring of literature that mocked the royalty and criticised their morality. In the process, it raised
+footer page number:163
+questions about the existing social order. Cartoons and caricatures typically suggested that the monarchy remained absorbed only in sensual pleasures while the common people suffered immense hardships. This literature circulated underground and led to the growth of hostile sentiments against the monarchy.
+====================================================================================================
+
+--- CHUNK 962 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '4 The Reading Mania', 'subheading3': 'New words'}
+Content:
+How do we look at these arguments? There can be no doubt that print helps the spread of ideas. But we must remember that people did not read just one kind of literature. If they read the ideas of Voltaire and Rousseau, they were also exposed to monarchical and Church propaganda. They were not influenced directly by everything they read or saw. They accepted some ideas and rejected others. They interpreted things their own way. Print did not directly shape their minds, but it did open up the possibility of thinking differently.
+====================================================================================================
+
+--- CHUNK 963 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+### Activity
+Imagine that you are a cartoonist in France before the revolution. Design a cartoon as it would have appeared in a pamphlet.
+**_Fig. 11 – The nobility and the common people before the French Revolution_** _,_ **_a cartoon of the late eighteenth century._**
+_The cartoon shows how the ordinary people – peasants, artisans and workers – had a hard time while the nobility enjoyed life and oppressed them. Circulation of cartoons like this one had an impact on the thinking of people before the revolution._
+====================================================================================================
+
+--- CHUNK 964 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+Why do some historians think that print culture created the basis for the French Revolution?
+footer page number:164
+====================================================================================================
+
+--- CHUNK 965 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century'}
+Content:
+### 5 The Nineteenth Century
+The nineteenth century saw vast leaps in mass literacy in Europe, bringing in large numbers of new readers among children, women and workers.
+====================================================================================================
+
+--- CHUNK 966 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers'}
+Content:
+#### 5.1 Children, Women and Workers
+====================================================================================================
+
+--- CHUNK 967 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers'}
+Content:
+As primary education became compulsory from the late nineteenth century, children became an important category of readers. Production of school textbooks became critical for the publishing industry. A children’s press, devoted to literature for children alone, was set up in France in 1857. This press published new works as well as old fairy tales and folk tales. The Grimm Brothers in Germany spent years compiling traditional folk tales gathered from peasants. What they collected was edited before the stories were published in a collection in 1812. Anything that was considered unsuitable for
+====================================================================================================
+
+--- CHUNK 968 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers'}
+Content:
+in 1812. Anything that was considered unsuitable for children or would appear vulgar to the elites, was not included in the published version. Rural folk tales thus acquired a new form. In this way, print recorded old tales but also changed them.
+====================================================================================================
+
+--- CHUNK 969 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers'}
+Content:
+Women became important as readers as well as writers. Penny magazines (see Fig. 12) were especially meant for women, as were manuals teaching proper behaviour and housekeeping. When novels began to be written in the nineteenth century, women were seen as important readers. Some of the bestknown novelists were women: Jane Austen, the Bronte sisters, George Eliot. Their writings became important in defining a new type of woman: a person with will, strength of personality, determination and the power to think.
+====================================================================================================
+
+--- CHUNK 970 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers'}
+Content:
+**_Fig. 12 – Frontispiece of_ Penny Magazine.** Penny Magazine _was published between 1832 and 1835 in England by the Society for the Diffusion of Useful Knowledge. It was aimed primarily at the working class._
+====================================================================================================
+
+--- CHUNK 971 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers', 'subheading4': 'Box 3'}
+Content:
+##### Box 3
+Lending libraries had been in existence from the seventeenth century onwards. In the nineteenth century, lending libraries in England became instruments for educating white-collar workers, artisans and lower-middle-class people. Sometimes, self-educated working class people wrote for themselves. After the working day was gradually shortened from the mid-nineteenth century, workers had some time for self-improvement and self-expression. They wrote political tracts and autobiographies in large numbers.
+====================================================================================================
+
+--- CHUNK 972 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.1 Children, Women and Workers', 'subheading4': 'Box 3'}
+Content:
+Thomas Wood, a Yorkshire mechanic, narrated how he would rent old newspapers and read them by firelight in the evenings as he could not afford candles. Autobiographies of poor people narrated their struggles to read against grim obstacles: the twentieth-century Russian revolutionary author Maxim Gorky’s My Childhood and My University provide glimpses of such struggles.
+footer page number:165
+====================================================================================================
+
+--- CHUNK 973 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.2 Further Innovations'}
+Content:
+#### 5.2 Further Innovations
+====================================================================================================
+
+--- CHUNK 974 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.2 Further Innovations'}
+Content:
+By the late eighteenth century, the press came to be made out of metal. Through the nineteenth century, there were a series of further innovations in printing technology. By the mid-nineteenth century, Richard M. Hoe of New York had perfected the power-driven cylindrical press. This was capable of printing 8,000 sheets per hour. This press was particularly useful for printing newspapers. In the late nineteenth century, the offset press was developed which could print up to six colours at a time. From the turn of the twentieth century, electrically operated presses accelerated printing
+====================================================================================================
+
+--- CHUNK 975 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.2 Further Innovations'}
+Content:
+century, electrically operated presses accelerated printing operations. A series of other developments followed. Methods of feeding paper improved, the quality of plates became better, automatic paper reels and photoelectric controls of the colour register were introduced. The accumulation of several individual mechanical improvements transformed the appearance of printed texts.
+====================================================================================================
+
+--- CHUNK 976 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '5 The Nineteenth Century', 'subheading3': '5.2 Further Innovations'}
+Content:
+Printers and publishers continuously developed new strategies to sell their product. Nineteenth-century periodicals serialised important novels, which gave birth to a particular way of writing novels. In the 1920s in England, popular works were sold in cheap series, called the Shilling Series. The dust cover or the book jacket is also a twentieth-century innovation. With the onset of the Great Depression in the 1930s, publishers feared a decline in book purchases. To sustain buying, they brought out cheap paperback editions.
+====================================================================================================
+
+--- CHUNK 977 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+### Activity
+Look at Fig. 13. What impact do such advertisements have on the public mind? Do you think everyone reacts to printed material in the same way?
+**_Fig. 13 – Advertisements at a railway station in England, a lithograph by Alfred Concanen, 1874._** _Printed advertisements and notices were plastered on street walls, railway platforms and public buildings._
+footer page number:166
+====================================================================================================
+
+--- CHUNK 978 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print'}
+Content:
+### 6 India and the World of Print
+Let us see when printing began in India and how ideas and information were written before the age of print.
+====================================================================================================
+
+--- CHUNK 979 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.1 Manuscripts Before the Age of Print'}
+Content:
+#### 6.1 Manuscripts Before the Age of Print
+India had a very rich and old tradition of handwritten manuscripts – in Sanskrit, Arabic, Persian, as well as in various vernacular languages. Manuscripts were copied on palm leaves or on handmade paper. Pages were sometimes beautifully illustrated. They would be either pressed between wooden covers or sewn together to ensure preservation. Manuscripts continued to be produced till well after the introduction of print, down to the late nineteenth century.
+====================================================================================================
+
+--- CHUNK 980 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.1 Manuscripts Before the Age of Print'}
+Content:
+Manuscripts, however, were highly expensive and fragile. They had to be handled carefully, and they could not be read easily as the
+**_Fig. 14 – Pages from the_ Gita Govinda** **_of Jayadeva, eighteenth century._** _This is a palm-leaf handwritten manuscript in accordion format._
+====================================================================================================
+
+--- CHUNK 981 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.1 Manuscripts Before the Age of Print'}
+Content:
+**_Fig. 15 – Pages from the_ Diwan** **_of Hafiz, 1824._** _Hafiz was a fourteenth-century poet whose collected works are known as_ Diwan _. Notice the beautiful calligraphy and the elaborate illustration and design. Manuscripts like this continued to be produced for the rich even after the coming of the letterpress._
+footer page number:167
+====================================================================================================
+
+--- CHUNK 982 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.1 Manuscripts Before the Age of Print'}
+Content:
+footer page number:167
+script was written in different styles. So manuscripts were not widely used in everyday life. Even though pre-colonial Bengal had developed an extensive network of village primary schools, students very often did not read texts. They only learnt to write. Teachers dictated portions of texts from memory and students wrote them down. Many thus became literate without ever actually reading any kinds of texts.
+**_Fig. 16 – Pages from the Rigveda._**
+====================================================================================================
+
+--- CHUNK 983 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.1 Manuscripts Before the Age of Print'}
+Content:
+**_Fig. 16 – Pages from the Rigveda._**
+_Handwritten manuscripts continued to be produced in India till much after the coming of print. This manuscript was produced in the eighteenth century in the Malayalam script._
+====================================================================================================
+
+--- CHUNK 984 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.2 Print Comes to India'}
+Content:
+#### 6.2 Print Comes to India
+The printing press first came to Goa with Portuguese missionaries in the mid-sixteenth century. Jesuit priests learnt Konkani and printed several tracts. By 1674, about 50 books had been printed in the Konkani and in Kanara languages. Catholic priests printed the first Tamil book in 1579 at Cochin, and in 1713 the first Malayalam book was printed by them. By 1710, Dutch Protestant missionaries had printed 32 Tamil texts, many of them translations of older works.
+====================================================================================================
+
+--- CHUNK 985 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.2 Print Comes to India'}
+Content:
+The English language press did not grow in India till quite late even though the English East India Company began to import presses from the late seventeenth century.
+====================================================================================================
+
+--- CHUNK 986 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.2 Print Comes to India'}
+Content:
+From 1780, James Augustus Hickey began to edit the _Bengal Gazette_ , a weekly magazine that described itself as ‘a commercial paper open to all, but influenced by none’. So it was private English enterprise, proud of its independence from colonial influence, that began English printing in India. Hickey published a lot of advertisements, including those that related to the import and sale of slaves. But he also published a lot of gossip about the Company’s senior officials in India. Enraged by this, Governor-General Warren Hastings persecuted Hickey, and encouraged the publication of
+====================================================================================================
+
+--- CHUNK 987 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.2 Print Comes to India'}
+Content:
+persecuted Hickey, and encouraged the publication of officially sanctioned newspapers that could counter the flow of information that damaged the image of the colonial government. By the close of the eighteenth century, a number of newspapers and journals appeared in print. There were Indians, too, who began to publish Indian newspapers. The first to appear was the weekly _Bengal Gazette_ , brought out by Gangadhar Bhattacharya, who was close to Rammohun Roy.
+====================================================================================================
+
+--- CHUNK 988 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '6 India and the World of Print', 'subheading3': '6.2 Print Comes to India', 'subheading4': 'Source C'}
+Content:
+##### Source C
+As late as 1768, a William Bolts affixed a notice on a public building in Calcutta:
+‘To the Public: Mr. Bolts takes this method of informing the public that the want of a printing press in this city being of a great disadvantage in business ... he is going to give the best encouragement to any ... persons who are versed in the business of printing.’
+Bolts, however, left for England soon after and nothing came of the promise. **_Source_**
+footer page number:168
+====================================================================================================
+
+--- CHUNK 989 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+### 7 Religious Reform and Public Debates
+====================================================================================================
+
+--- CHUNK 990 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+From the early nineteenth century, as you know, there were intense debates around religious issues. Different groups confronted the changes happening within colonial society in different ways, and offered a variety of new interpretations of the beliefs of different religions. Some criticised existing practices and campaigned for reform, while others countered the arguments of reformers. These debates were carried out in public and in print. Printed tracts and newspapers not only spread the new ideas, but they shaped the nature of the debate. A wider public could now participate in these
+====================================================================================================
+
+--- CHUNK 991 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+the debate. A wider public could now participate in these public discussions and express their views. New ideas emerged through these clashes of opinions.
+====================================================================================================
+
+--- CHUNK 992 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+This was a time of intense controversies between social and religious reformers and the Hindu orthodoxy over matters like widow immolation, monotheism, Brahmanical priesthood and idolatry. In Bengal, as the debate developed, tracts and newspapers proliferated, circulating a variety of arguments. To reach a wider audience, the ideas were printed in the everyday, spoken language of ordinary people. Rammohun Roy published the _Sambad Kaumudi_ from 1821 and the Hindu orthodoxy commissioned the _Samachar Chandrika_ to oppose his opinions. From 1822, two Persian newspapers were published,
+====================================================================================================
+
+--- CHUNK 993 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+opinions. From 1822, two Persian newspapers were published, _Jam-i-Jahan Nama_ and _Shamsul Akhbar_ . In the same year, a Gujarati newspaper, the _Bombay Samachar_ , made its appearance.
+====================================================================================================
+
+--- CHUNK 994 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+In north India, the **_ulama_** were deeply anxious about the collapse of Muslim dynasties. They feared that colonial rulers would encourage conversion, change the Muslim personal laws. To counter this, they used cheap lithographic presses, published Persian and Urdu translations of holy scriptures, and printed religious newspapers and tracts. The Deoband Seminary, founded in 1867, published thousands upon thousands of **_fatwas_** telling Muslim readers how to conduct themselves in their everyday lives, and explaining the meanings of Islamic doctrines. All through the nineteenth century, a
+====================================================================================================
+
+--- CHUNK 995 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+of Islamic doctrines. All through the nineteenth century, a number of Muslim sects and seminaries appeared, each with a different interpretation of faith, each keen on enlarging its following and countering the influence of its opponents. Urdu print helped them conduct these battles in public.
+====================================================================================================
+
+--- CHUNK 996 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates'}
+Content:
+Among Hindus, too, print encouraged the reading of religious texts, especially in the vernacular languages. The first printed edition of
+====================================================================================================
+
+--- CHUNK 997 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words'}
+Content:
+#### New words
+Ulama – Legal scholars of Islam and the sharia ( a body of Islamic law) Fatwa – A legal pronouncement on Islamic law usually given by a mufti (legal scholar) to clarify issues on which the law is uncertain
+footer page number:169
+====================================================================================================
+
+--- CHUNK 998 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words'}
+Content:
+footer page number:169
+the _Ramcharitmanas_ of Tulsidas, a sixteenth-century text, came out from Calcutta in 1810. By the mid-nineteenth century, cheap lithographic editions flooded north Indian markets. From the 1880s, the Naval Kishore Press at Lucknow and the Shri Venkateshwar Press in Bombay published numerous religious texts in vernaculars. In their printed and portable form, these could be read easily by the faithful at any place and time. They could also be read out to large groups of illiterate men and women.
+====================================================================================================
+
+--- CHUNK 999 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words'}
+Content:
+Religious texts, therefore, reached a very wide circle of people, encouraging discussions, debates and controversies within and among different religions.
+Print did not only stimulate the publication of conflicting opinions amongst communities, but it also connected communities and people in different parts of India. Newspapers conveyed news from one place to another, creating pan-Indian identities.
+====================================================================================================
+
+--- CHUNK 1000 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words', 'subheading4': 'Source D', 'subheading5': 'Why Newspapers?'}
+Content:
+##### Source D  
+###### Why Newspapers?
+‘Krishnaji Trimbuck Ranade inhabitant of Poona intends to publish a Newspaper in the Marathi Language with a view of affording useful information on every topic of local interest. It will be open for free discussion on subjects of general utility, scientific investigation and the speculations connected with the antiquities, statistics, curiosities, history and geography of the country and of the Deccan especially… the patronage and support of all interested in the diffusion of knowledge and Welfare of the People is earnestly solicited.’
+====================================================================================================
+
+--- CHUNK 1001 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words', 'subheading4': 'Source D', 'subheading5': 'Why Newspapers?'}
+Content:
+Bombay Telegraph and Courier, 6 January 1849
+‘The task of the native newspapers and political associations is identical to the role of the Opposition in the House of Commons in Parliament in England. That is of critically examining government policy to suggest improvements, by removing those parts that will not be to the benefit of the people, and also by ensuring speedy implementation.
+====================================================================================================
+
+--- CHUNK 1002 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '7 Religious Reform and Public Debates', 'subheading3': 'New words', 'subheading4': 'Source D', 'subheading5': 'Why Newspapers?'}
+Content:
+These associations ought to carefully study the particular issues, gather diverse relevant information on the nation as well as on what are the possible and desirable improvements, and this will surely earn it considerable influence.’ Native Opinion, 3 April 1870.
+**_Source_**
+footer page number:170
+====================================================================================================
+
+--- CHUNK 1003 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+### 8 New Forms of Publication
+Printing created an appetite for new kinds of writing. As more and more people could now read, they wanted to see their own lives, experiences, emotions and relationships reflected in what they read. The novel, a literary firm which had developed in Europe, ideally catered to this need. It soon acquired distinctively Indian forms and styles. For readers, it opened up new worlds of experience, and gave a vivid sense of the diversity of human lives.
+====================================================================================================
+
+--- CHUNK 1004 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+Other new literary forms also entered the world of reading – lyrics, short stories, essays about social and political matters. In different ways, they reinforced the new emphasis on human lives and intimate feelings, about the political and social rules that shaped such things.
+====================================================================================================
+
+--- CHUNK 1005 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+By the end of the nineteenth century, a new visual culture was taking shape. With the setting up of an increasing number of printing presses, visual images could be easily reproduced in multiple copies. Painters like Raja Ravi Varma produced images for mass circulation. Poor wood engravers who made woodblocks set up shop near the letterpresses, and were employed by print shops. Cheap prints and calendars, easily available in the bazaar, could be bought even by the poor to decorate the walls of their homes or places of work. These prints began shaping popular ideas about modernity and
+====================================================================================================
+
+--- CHUNK 1006 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+prints began shaping popular ideas about modernity and tradition, religion and politics, and society and culture.
+====================================================================================================
+
+--- CHUNK 1007 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+By the 1870s, caricatures and cartoons were being published in journals and newspapers, commenting on social and political issues. Some caricatures ridiculed the educated Indians’ fascination with Western tastes and clothes, while others expressed the fear of social change. There were imperial caricatures lampooning nationalists, as well as nationalist cartoons criticising imperial rule.
+====================================================================================================
+
+--- CHUNK 1008 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication'}
+Content:
+**_Fig. 17 – Raja Ritudhwaj rescuing Princess Madalsa from the captivity of demons, print by Ravi Varma._** _Raja Ravi Varma produced innumerable mythological paintings that were printed at the Ravi Varma Press._
+footer page number:171
+====================================================================================================
+
+--- CHUNK 1009 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+#### 8.1 Women and Print
+Lives and feelings of women began to be written in particularly vivid and intense ways. Women’s reading, therefore, increased enormously in middle-class homes. Liberal husbands and fathers began educating their womenfolk at home, and sent them to schools when women’s schools were set up in the cities and towns after the mid-nineteenth century. Many journals began carrying writings by women, and explained why women should be educated. They also carried a syllabus and attached suitable reading matter which could be used for home-based schooling.
+====================================================================================================
+
+--- CHUNK 1010 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+But not all families were liberal. Conservative Hindus believed that a literate girl would be widowed and Muslims feared that educated women would be corrupted by reading Urdu romances. Sometimes, rebel women defied such prohibition. We know the story of a girl in a conservative Muslim family of north India who secretly learnt to read and write in Urdu. Her family wanted her to read only the Arabic Quran which she did not understand. So she insisted on learning to read a language that was her own. In East Bengal, in the early nineteenth century, Rashsundari Debi, a young married girl in a
+====================================================================================================
+
+--- CHUNK 1011 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+century, Rashsundari Debi, a young married girl in a very orthodox household, learnt to read in the secrecy of her kitchen. Later, she wrote her autobiography _Amar Jiban_ which was published in 1876. It was the first full-length autobiography published in the Bengali language.
+====================================================================================================
+
+--- CHUNK 1012 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+Since social reforms and novels had already created a great interest in women’s lives and emotions, there was also an interest in what women would have to say about their own lives. From the 1860s, a few Bengali women like Kailashbashini Debi wrote books highlighting the experiences of women – about how women were imprisoned at home, kept in ignorance, forced to do hard domestic labour and treated unjustly by the very people they served. In the 1880s, in present-day Maharashtra, Tarabai Shinde and Pandita Ramabai wrote with passionate anger about the miserable lives of upper-caste Hindu
+====================================================================================================
+
+--- CHUNK 1013 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+anger about the miserable lives of upper-caste Hindu women, especially widows. A woman in a Tamil novel expressed what reading meant to women who were so greatly confined by social regulations: ‘For various reasons, my world is small … More than half my life’s happiness has come from books …’
+====================================================================================================
+
+--- CHUNK 1014 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+While Urdu, Tamil, Bengali and Marathi print culture had developed early, Hindi printing began seriously only from the 1870s. Soon, a large segment of it was devoted to the education of women. In
+====================================================================================================
+
+--- CHUNK 1015 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print'}
+Content:
+**_Fig. 18 – The cover page of_ Indian Charivari** **_._** _The_ Indian Charivari _was one of the many journals of caricature and satire published in the late nineteenth century. Notice that the imperial British figure is positioned right at the centre. He is authoritative and imperial; telling the natives what is to be done. The natives sit on either side of him, servile and submissive. The Indians are being shown a copy of_ Punch _, the British journal of cartoons and satire. You can almost hear the British master say – ‘This is the model, produce Indian versions of it.’_
+====================================================================================================
+
+--- CHUNK 1016 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E'}
+Content:
+##### Source E
+In 1926, Begum Rokeya Sakhawat Hossein, a noted educationist and literary figure, strongly condemned men for withholding education from women in the name of religion as she addressed the Bengal Women’s Education Conference:
+‘The opponents of female education say that women will become unruly … Fie! They call themselves Muslims and yet go against the basic tenet of Islam which gives Women an equal right to education. If men are not led astray once educated, why should women?’
+**_Source_**
+footer page number:172
+====================================================================================================
+
+--- CHUNK 1017 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E'}
+Content:
+**_Source_**
+footer page number:172
+the early twentieth century, journals, written for and sometimes edited by women, became extremely popular. They discussed issues like women’s education, widowhood, widow remarriage and the national movement. Some of them offered household and fashion lessons to women and brought entertainment through short stories and serialised novels.
+====================================================================================================
+
+--- CHUNK 1018 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E'}
+Content:
+In Punjab, too, a similar folk literature was widely printed from the early twentieth century. Ram Chaddha published the fast-selling _Istri Dharm Vichar_ to teach women how to be obedient wives. The Khalsa Tract Society published cheap booklets with a similar message. Many of these were in the form of dialogues about the qualities of a good woman.
+====================================================================================================
+
+--- CHUNK 1019 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E'}
+Content:
+In Bengal, an entire area in central Calcutta – the Battala – was devoted to the printing of popular books. Here you could buy cheap editions of religious tracts and scriptures, as well as literature that was considered obscene and scandalous. By the late nineteenth century, a lot of these books were being profusely illustrated with woodcuts and coloured lithographs. Pedlars took the Battala publications to homes, enabling women to read them in their leisure time.
+====================================================================================================
+
+--- CHUNK 1020 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E', 'subheading5': 'Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century.'}
+Content:
+###### Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century.
+_The artist’s vision of the destruction of proper family relations. Here the husband is totally dominated by his wife who is perched on his shoulder. He is cruel towards his mother, dragging her like an animal, by the noose._
+**_Fig. 20 – An Indian couple, black and white woodcut._**
+====================================================================================================
+
+--- CHUNK 1021 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E', 'subheading5': 'Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century.'}
+Content:
+**_Fig. 20 – An Indian couple, black and white woodcut._**
+_The image shows the artist’s fear that the cultural impact of the West has turned the family upside down. Notice that the man is playing the veena while the woman is smoking a hookah. The move towards women’s education in the late nineteenth century created anxiety about the breakdown of traditional family roles._
+footer page number:173
+**_Fig. 21 – A European couple sitting on chairs, nineteenth-century woodcut._**
+====================================================================================================
+
+--- CHUNK 1022 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.1 Women and Print', 'subheading4': 'Source E', 'subheading5': 'Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century.'}
+Content:
+_The picture suggests traditional family roles. The Sahib holds a liquor bottle in his hand while the Memsahib plays the violin._
+====================================================================================================
+
+--- CHUNK 1023 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.2 Print and the Poor People'}
+Content:
+#### 8.2 Print and the Poor People
+Very cheap small books were brought to markets in nineteenth-century Madras towns and sold at crossroads, allowing poor people travelling to markets to buy them. Public libraries were set up from the early twentieth century, expanding the access to books. These libraries were located mostly in cities and towns, and at times in prosperous villages. For rich local patrons, setting up a library was a way of acquiring prestige.
+====================================================================================================
+
+--- CHUNK 1024 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.2 Print and the Poor People'}
+Content:
+From the late nineteenth century, issues of caste discrimination began to be written about in many printed tracts and essays. Jyotiba Phule, the Maratha pioneer of ‘low caste’ protest movements, wrote about the injustices of the caste system in his _Gulamgiri_ (1871). In the twentieth century, B.R. Ambedkar in Maharashtra and E.V. Ramaswamy Naicker in Madras, better known as Periyar, wrote powerfully on caste and their writings were read by people all over India. Local protest movements and sects also created a lot of popular journals and tracts criticising ancient scriptures and envisioning
+====================================================================================================
+
+--- CHUNK 1025 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '8 New Forms of Publication', 'subheading3': '8.2 Print and the Poor People'}
+Content:
+and tracts criticising ancient scriptures and envisioning a new and just future.
+====================================================================================================
+
+--- CHUNK 1026 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+### Activity
+Look at Figs. 19, 20 and 21 carefully.
+- What comment are the artists making on the
+- social changes taking place in society?
+- What changes in society were taking place to
+- provoke this reaction?
+- Do you agree with the artist’s view?
+====================================================================================================
+
+--- CHUNK 1027 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+Workers in factories were too overworked and lacked the education to write much about their experiences. But Kashibaba, a Kanpur millworker, wrote and published _Chhote Aur Bade Ka Sawal_ in 1938 to show the links between caste and class exploitation. The poems of another Kanpur millworker, who wrote under the name of Sudarshan Chakr between 1935 and 1955, were brought together and published in a collection called _Sacchi Kavitayan_ . By the 1930s, Bangalore cotton millworkers set up libraries to educate themselves, following the example of Bombay workers. These were sponsored by social
+====================================================================================================
+
+--- CHUNK 1028 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+example of Bombay workers. These were sponsored by social reformers who tried to restrict excessive drinking among them, to bring literacy and, sometimes, to propagate the message of nationalism.
+====================================================================================================
+
+--- CHUNK 1029 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Activity'}
+Content:
+footer page number:174
+====================================================================================================
+
+--- CHUNK 1030 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship'}
+Content:
+### 9 Print and Censorship
+Before 1798, the colonial state under the East India Company was not too concerned with censorship. Strangely, its early measures to control printed matter were directed against Englishmen in India who were critical of Company misrule and hated the actions of particular Company officers. The Company was worried that such criticisms might be used by its critics in England to attack its trade monopoly in India.
+====================================================================================================
+
+--- CHUNK 1031 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship'}
+Content:
+By the 1820s, the Calcutta Supreme Court passed certain regulations to control press freedom and the Company began encouraging publication of newspapers that would celebrate Britsh rule. In 1835, faced with urgent petitions by editors of English and vernacular newspapers, Governor-General Bentinck agreed to revise press laws. Thomas Macaulay, a liberal colonial official, formulated new rules that restored the earlier freedoms.
+====================================================================================================
+
+--- CHUNK 1032 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship'}
+Content:
+After the revolt of 1857, the attitude to freedom of the press changed. Enraged Englishmen demanded a clamp down on the ‘native’ press. As vernacular newspapers became assertively nationalist, the colonial government began debating measures of stringent control. In 1878, the Vernacular Press Act was passed, modelled on the Irish Press Laws. It provided the government with extensive rights to censor reports and editorials in the vernacular press. From now on the government kept regular track of the vernacular newspapers published in different provinces. When a report was judged as seditious,
+====================================================================================================
+
+--- CHUNK 1033 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship'}
+Content:
+different provinces. When a report was judged as seditious, the newspaper was warned, and if the warning was ignored, the press was liable to be seized and the printing machinery confiscated.
+====================================================================================================
+
+--- CHUNK 1034 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship'}
+Content:
+Despite repressive measures, nationalist newspapers grew in numbers in all parts of India. They reported on colonial misrule and encouraged nationalist activities. Attempts to throttle nationalist criticism provoked militant protest. This in turn led to a renewed cycle of persecution and protests. When Punjab revolutionaries were deported in 1907, Balgangadhar Tilak wrote with great sympathy about them in his _Kesari_ . This led to his imprisonment in 1908, provoking in turn widespread protests all over India.
+====================================================================================================
+
+--- CHUNK 1035 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship', 'subheading3': 'Box 4'}
+Content:
+#### Box 4
+Sometimes, the government found it hard to find candidates for editorship of loyalist papers. When Sanders, editor of the Statesman that had been founded in 1877, was approached, he asked rudely how much he would be paid for suffering the loss of freedom. The Friend of India refused a government subsidy, fearing that this would force it to be obedient to government commands.
+====================================================================================================
+
+--- CHUNK 1036 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship', 'subheading3': 'Box 4', 'subheading4': 'Box 5'}
+Content:
+##### Box 5
+The power of the printed word is most often seen in the way governments seek to regulate and suppress print. The colonial government kept continuous track of all books and newspapers published in India and passed numerous laws to control the press.
+====================================================================================================
+
+--- CHUNK 1037 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship', 'subheading3': 'Box 4', 'subheading4': 'Box 5'}
+Content:
+During the First World War, under the Defence of India Rules, 22 newspapers had to furnish securities. Of these, 18 shut down rather than comply with government orders. The Sedition Committee Report under Rowlatt in 1919 further strengthened controls that led to imposition of penalties on various newspapers. At the outbreak of the Second World War, the Defence of India Act was passed, allowing censoring of reports of war-related topics. All reports about the Quit India movement came under its purview. In August 1942, about 90 newspapers were suppressed.
+====================================================================================================
+
+--- CHUNK 1038 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': '9 Print and Censorship', 'subheading3': 'Box 4', 'subheading4': 'Source F', 'subheading5': 'Gandhi said in 1922:'}
+Content:
+##### Source F  
+###### Gandhi said in 1922:
+‘Liberty of speech ... liberty of the press ... freedom of association. The Government of India is now seeking to crush the three powerful vehicles of expressing and cultivating public opinion. The fight for Swaraj, for Khilafat ... means a fight for this threatened freedom before all else ...’ **_Source_**
+footer page number:175
+====================================================================================================
+
+--- CHUNK 1039 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+1. Give reasons for the following:
+- a) Woodblock print only came to Europe after 1295.
+- b) Martin Luther was in favour of print and spoke out in praise of it.
+- c) The Roman Catholic Church began keeping an Index of Prohibited books from the mid-sixteenth century.
+- d) Gandhi said the fight for Swaraj is a fight for liberty of speech, liberty of the press, and freedom of association.
+2. Write short notes to show what you know about:
+- a) The Gutenberg Press b) Erasmus’s idea of the printed book
+- c) The Vernacular Press Act
+====================================================================================================
+
+--- CHUNK 1040 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Write in brief'}
+Content:
+- c) The Vernacular Press Act
+3. What did the spread of print culture in nineteenth century India mean to:
+- a) Women b) The poor c) Reformers
+====================================================================================================
+
+--- CHUNK 1041 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+1. Why did some people in eighteenth century Europe think that print culture would bring enlightenment and end despotism?
+2. Why did some people fear the effect of easily available printed books? Choose one example from Europe and one from India.
+3. What were the effects of the spread of print culture for poor people in nineteenth century India?
+4. Explain how print culture assisted the growth of nationalism in India.
+====================================================================================================
+
+--- CHUNK 1042 ---
+Metadata: {'Chapter Name': 'Print Culture and the Modern World', 'subheading1': '1 The First Printed Books', 'subheading2': 'Project'}
+Content:
+### Project
+Find out more about the changes in print technology in the last 100 years. Write about the changes, explaining why they have taken place, what their consequences have been.
+Project
+footer page number:176
+====================================================================================================
+
+--- CHUNK 1043 ---
+Metadata: {'Chapter Name': 'Novels, Society and History'}
+Content:
+# Novels, Society and History
+====================================================================================================
+
+--- CHUNK 1044 ---
+Metadata: {'Chapter Name': 'Novels, Society and History'}
+Content:
+In the previous chapter you read about the rise of print culture and how new forms of communication reshaped the way people thought about themselves or related to each other. You also saw how print culture created the possibility of new forms of literature. In this chapter we will study the history of one such form – the novel – a history that is closely connected to the making of modern ways of thinking. We will first look at the history of the novel in the West, and then see how this form developed in some of the regions of India. As you will see, despite their differences, there were many
+====================================================================================================
+
+--- CHUNK 1045 ---
+Metadata: {'Chapter Name': 'Novels, Society and History'}
+Content:
+As you will see, despite their differences, there were many commonalites of focus between novels written in different parts of the world.
+====================================================================================================
+
+--- CHUNK 1046 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+## 1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.
+====================================================================================================
+
+--- CHUNK 1047 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+We cannot think of the novel without the printed book. In ancient times, as you have seen (Chapter 7), manuscripts were handwritten. These circulated among very few people. In contrast, because of being printed, novels were widely read and became popular very quickly. At this time big cities like London were growing rapidly and becoming connected to small towns and rural areas through print and improved communications. Novels produced a number of common interests among their scattered and varied readers. As readers were drawn into the story and identified with the lives of fictitious
+====================================================================================================
+
+--- CHUNK 1048 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+into the story and identified with the lives of fictitious characters, they could think about issues such as the relationship between love and marriage, the proper conduct for men and women, and so on.
+====================================================================================================
+
+--- CHUNK 1049 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+The novel first took firm root in England and France. Novels began to be written from the seventeenth century, but they really flowered from the eighteenth century. New groups of lower-middle-class people such as shopkeepers and clerks, along with the traditional aristocratic and **gentlemanly classes** in England and France now formed the new readership for novels.
+====================================================================================================
+
+--- CHUNK 1050 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+As readership grew and the market for books expanded, the earnings of authors increased. This freed them from financial dependence on the patronage of aristocrats, and gave them independence to experiment with different literary styles. Henry Fielding, a novelist of the early eighteenth century, claimed he was ‘the founder of a new province of writing’ where he could make his own laws. The novel allowed flexibility in the form of writing. Walter Scott remembered and collected popular Scottish ballads which he used in his historical novels about the wars between Scottish clans. The
+====================================================================================================
+
+--- CHUNK 1051 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.'}
+Content:
+novels about the wars between Scottish clans. The **epistolary** novel, on the other hand, used the private and personal form of letters to tell its story. Samuel Richardson’s _Pamela_ , written in the eighteenth century, told much of its story through an exchange of letters between two lovers. These letters tell the reader of the hidden conflicts in the heroine’s mind.
+====================================================================================================
+
+--- CHUNK 1052 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market'}
+Content:
+### 1.1 The Publishing Market
+For a long time the publishing market excluded the poor. Initially, novels did not come cheap. Henry Fielding’s _Tom Jones_ (1749) was
+====================================================================================================
+
+--- CHUNK 1053 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+#### New words
+|Gentlemanly classes – People who claimed|
+|---|
+|noble birth and high social position. They were|
+|supposed to set the standard for proper<br>behaviour|
+|Epistolary –<br>letters|Written in the form of a series of|
+|---|---|
+```
+footer page number:178
+```
+issued in six volumes priced at three shillings each – which was more than what a labourer earned in a week.
+====================================================================================================
+
+--- CHUNK 1054 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+But soon, people had easier access to books with the introduction of circulating libraries in 1740. Technological improvements in printing brought down the price of books and innovations in marketing led to expanded sales. In France, publishers found that they could make super profits by hiring out novels by the hour. The novel was one of the first mass-produced items to be sold. There were several reasons for its popularity. The worlds created by novels were absorbing and believable, and seemingly real. While reading novels, the reader was transported to another person’s world, and began
+====================================================================================================
+
+--- CHUNK 1055 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+reader was transported to another person’s world, and began looking at life as it was experienced by the characters of the novel. Besides, novels allowed individuals the pleasure of reading in private, as well as the joy of publicly reading or discussing stories with friends or relatives. In rural areas people would collect to hear one of them reading a novel aloud, often becoming deeply involved in the lives of the characters. Apparently, a group at Slough in England were very pleased to hear that Pamela, the heroine of Richardson’s popular novel, had got married in their village. They
+====================================================================================================
+
+--- CHUNK 1056 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+popular novel, had got married in their village. They rushed out to the parish church and began to ring the church bells!
+====================================================================================================
+
+--- CHUNK 1057 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+In 1836 a notable event took place when Charles Dickens’s _Pickwick Papers_ was **serialised** in a magazine. Magazines were attractive since they were illustrated and cheap. Serialisation allowed readers to relish the suspense, discuss the characters of a novel and live for weeks with their stories – like viewers of television soaps today!
+**_Fig. 2 – Library notice._** _Libraries were well publicised._
+**_Fig. 1 – Cover page of_ Sketches by ‘Boz’.** _Charles Dickens’s first publication was a collection of journalistic essays entitled_ Sketches by ‘Boz’ _(1836)._  
+#### New words
+====================================================================================================
+
+--- CHUNK 1058 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': 'New words'}
+Content:
+#### New words
+Serialised – A format in which the story is published in instalments, each part in a new issue of a journal
+**_Fig. 3 – Cover page of_ All The Year Round.** _The most important feature of the magazine_ All the Year Round, _edited by Charles Dickens, was his serialised novels. This particular issue begins with one._
+```
+footer page number:179
+```
+**_Fig. 4 – Leo Tolstoy (1828-1910)._** _Tolstoy was a famous Russian novelist who wrote extensively on rural life and community._
+====================================================================================================
+
+--- CHUNK 1059 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': '1.2 The World of the Novel'}
+Content:
+#### 1.2 The World of the Novel
+More than other forms of writing which came before, novels are about ordinary people. They do not focus on the lives of great people or actions that change the destinies of states and empires. Instead, they are about the everyday life of common people.
+====================================================================================================
+
+--- CHUNK 1060 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': '1.2 The World of the Novel'}
+Content:
+In the nineteenth century, Europe entered the industrial age. Factories came up, business profits increased and the economy grew. But at the same time, workers faced problems. Cities expanded in an unregulated way and were filled with overworked and underpaid workers. The unemployed poor roamed the streets for jobs, and the homeless were forced to seek shelter in workhouses. The growth of industry was accompanied by an economic philosophy which celebrated the pursuit of profit and undervalued the lives of workers. Deeply critical of these developments, novelists such as Charles Dickens wrote
+====================================================================================================
+
+--- CHUNK 1061 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '1.1 The Publishing Market', 'subheading3': '1.2 The World of the Novel'}
+Content:
+these developments, novelists such as Charles Dickens wrote about the terrible effects of industrialisation on people’s lives and characters. His novel _Hard Times_ (1854) describes Coketown, a fictitious industrial town, as a grim place full of machinery, smoking chimneys, rivers polluted purple and buildings that all looked the same. Here workers are known as ‘hands’, as if they had no identity other than as operators of machines. Dickens criticised not just the greed for profits but also the ideas that reduced human beings into simple instruments of production.
+====================================================================================================
+
+--- CHUNK 1062 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+```
+Explain what is meant by the following types of
+novels:
+```
+- `Epistolary novel`
+- `Serialised novel`
+```
+For each type, name one writer who wrote in
+that style.
+```
+**_Fig. 5 – Charles Dickens (1812-1870)._**
+```
+footer page number:180
+```
+====================================================================================================
+
+--- CHUNK 1063 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+In other novels too, Dickens focused on the terrible conditions of urban life under industrial capitalism. His _Oliver Twist_ (1838) is the tale of a poor orphan who lived in a world of petty criminals and beggars. Brought up in a cruel workhouse (see Fig. 6), Oliver was finally adopted by a wealthy man and lived happily ever after. But not all novels about the lives of the poor gave readers the comfort of a happy ending. Emile Zola’s _Germinal_ (1885) on the life of a young miner in France explores in harsh detail the grim conditions of miners’ lives. It ends on a note of despair: the strike
+====================================================================================================
+
+--- CHUNK 1064 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+of miners’ lives. It ends on a note of despair: the strike the hero leads fails, his co-workers turn against him, and hopes are shattered.
+====================================================================================================
+
+--- CHUNK 1065 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+**_Fig. 6_** _–_ **_A hungry Oliver asks for more food while other children at the workhouse look on with fear, illustration in_ Oliver Twist** **_._**
+**_Fig. 7 – Emile Zola_ ,** **_painting by Edward Manet, 1868._**
+_Manet’s portrait of the French author Zola, showing the novelist at his worktable in an intimate and thoughtful relationship with books._
+====================================================================================================
+
+--- CHUNK 1066 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.3 Community and Society'}
+Content:
+#### 1.3 Community and Society
+The vast majority of readers of the novel lived in the city. The novel created in them a feeling of connection with the fate of rural communities. The nineteenth-century British novelist Thomas Hardy, for instance, wrote about traditional rural communities of England
+```
+footer page number:181
+```
+====================================================================================================
+
+--- CHUNK 1067 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.3 Community and Society'}
+Content:
+that were fast vanishing. This was actually a time when large farmers fenced off land, bought machines and employed labourers to produce for the market. The old rural culture with its independent farmers was dying out. We get a sense of this change in Hardy’s _Mayor of Casterbridge_ (1886). It is about Michael Henchard, a successful grain merchant, who becomes the mayor of the farming town of Casterbridge. He is an independent-minded man who follows his own style in conducting business. He can also be both unpredictably generous and cruel with his employees. Consequently, he is no match for
+====================================================================================================
+
+--- CHUNK 1068 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.3 Community and Society'}
+Content:
+cruel with his employees. Consequently, he is no match for his manager and rival Donald Farfrae who runs his business on efficient managerial lines and is well regarded for he is smooth and even-tempered with everyone. We can see that Hardy mourns the loss of the more personalised world that is disappearing, even as he is aware of its problems and the advantages of the new order.
+====================================================================================================
+
+--- CHUNK 1069 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.3 Community and Society'}
+Content:
+**_Fig. 8 – Thomas Hardy (1840-1928)._**
+The novel uses the **vernacular** , the language that is spoken by common people. By coming closer to the different spoken languages of the people, the novel produces the sense of a shared world between diverse people in a nation. Novels also draw from different styles of language. A novel may take a classical language and combine it with the language of the streets and make them all a part of the vernacular that it uses. Like the nation, the novel brings together many cultures.
+====================================================================================================
+
+--- CHUNK 1070 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.4 The New Woman'}
+Content:
+#### 1.4 The New Woman
+The most exciting element of the novel was the involvement of women. The eighteenth century saw the middle classes become more prosperous. Women got more leisure to read as well as write novels. And novels began exploring the world of women – their emotions and identities, their experiences and problems.
+Many novels were about domestic life – a theme about which women were allowed to speak with authority. They drew upon their experience, wrote about family life and earned public recognition.
+====================================================================================================
+
+--- CHUNK 1071 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+#### New words
+Vernacular – The normal, spoken form of a language rather than the formal, literary form
+```
+footer page number:182
+```
+**_Fig. 9 – A girl reading, a painting by Jean Renoir (1841-1919)._** _By the nineteenth century, images of women reading silently, in the privacy of the room, became common in European paintings._
+**_Fig. 10 – The home of a woman author, by George Cruikshank._** _When women began writing novels many people feared that they would now neglect their traditional role as wives and mothers and homes would be in disorder._
+```
+footer page number:183
+```
+====================================================================================================
+
+--- CHUNK 1072 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+```
+The novels of Jane Austen give us a glimpse of the world of women in genteel rural society in early-nineteenth-century Britain. They make us think about a society which encouraged women to look for ‘good’ marriages and find wealthy or propertied husbands. The first sentence of Jane Austen’s _Pride and Prejudice_ states: ‘It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.’ This observation allows us to see the behaviour of the main characters, who are preoccupied with marriage and money, as typifying Austen’s society.
+====================================================================================================
+
+--- CHUNK 1073 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+But women novelists did not simply popularise the domestic role of women. Often their novels dealt with women who broke established norms of society before adjusting to them. Such stories allowed women readers to sympathise with rebellious actions. In Charlotte Bronte’s _Jane Eyre,_ published in 1874, young Jane is shown as independent and assertive. While girls of her time were expected to be quiet and well behaved, Jane at the age of ten protests against the hypocrisy of her elders with startling bluntness. She tells her
+**_Fig. 11 – Jane Austen (1775-1817)._**
+====================================================================================================
+
+--- CHUNK 1074 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words'}
+Content:
+**_Fig. 11 – Jane Austen (1775-1817)._**
+**_Fig. 12 – The marriage contract, William Hogarth (1697-1764)._** _As you can see, the two men in the foreground are busy with the signing of the marriage contract while the woman stays in the background._
+```
+footer page number:184
+```
+Aunt who is always unkind to her: ‘People think you a good woman, but you are bad ... You are deceitful! I will never call you aunt as long as I live.’
+====================================================================================================
+
+--- CHUNK 1075 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words', 'subheading4': 'Box 1', 'subheading5': 'Women novelists'}
+Content:
+##### Box 1  
+###### Women novelists
+George Eliot (1819-1880) was the pen-name of Mary Ann Evans. A very popular novelist, she believed that novels gave women a special opportunity to express themselves freely. Every woman could see herself as capable of writing fiction:
+‘Fiction is a department of literature in which women can, after their kind, fully equal men … No educational restrictions can shut women from the materials of fiction, and there is no species of art that is so free from rigid requirements.’
+**_Fig. 13 – Charlotte Bronte (1816-1855)._**
+====================================================================================================
+
+--- CHUNK 1076 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'New words', 'subheading4': 'Box 1', 'subheading5': 'Women novelists'}
+Content:
+**_Fig. 13 – Charlotte Bronte (1816-1855)._**
+George Eliot, ‘Silly novels by lady novelists’, 1856.
+====================================================================================================
+
+--- CHUNK 1077 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.5 Novels for the Young'}
+Content:
+#### 1.5 Novels for the Young
+Novels for young boys idealised a new type of man: someone who was powerful, assertive, independent and daring. Most of these novels were full of adventure set in places remote from Europe. The colonisers appear heroic and honourable – confronting ‘native’ peoples and strange surroundings, adapting to native life as well as changing it, colonising territories and then developing nations there. Books like R.L. Stevenson’s _Treasure Island_ (1883) or Rudyard Kipling’s _Jungle Book_ (1894) became great hits.
+====================================================================================================
+
+--- CHUNK 1078 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.5 Novels for the Young'}
+Content:
+G.A. Henty’s historical adventure novels for boys were also wildly popular during the height of the British empire. They aroused the excitement and adventure of conquering strange lands. They were set in Mexico, Alexandria, Siberia and many other countries. They were always about young boys who witness grand historical events, get involved in some military action and show what they called ‘English’ courage.
+====================================================================================================
+
+--- CHUNK 1079 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.5 Novels for the Young'}
+Content:
+Love stories written for adolescent girls also first became popular in this period, especially in the US, notably _Ramona_ (1884) by Helen Hunt Jackson and a series entitled _What Katy Did_ (1872) by Sarah Chauncey Woolsey, who wrote under the pen-name Susan Coolidge.
+```
+Box 2
+```
+====================================================================================================
+
+--- CHUNK 1080 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.5 Novels for the Young', 'subheading4': 'G.A. Henty (1832-1902):'}
+Content:
+##### G.A. Henty (1832-1902):
+In Under Drake’s Flag (1883) two young Elizabethan adventurers face their apparently approaching death, but still remember to assert their Englishness:
+‘Well, Ned, we have had more good fortune than we could have expected. We might have been killed on the day when we landed, and we have spent six jolly months in wandering together as hunters on the plain. If we must die, let us behave like Englishmen and Christians.’
+```
+footer page number:185
+```
+====================================================================================================
+
+--- CHUNK 1081 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.6 Colonialism and After'}
+Content:
+#### 1.6 Colonialism and After
+====================================================================================================
+
+--- CHUNK 1082 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.6 Colonialism and After'}
+Content:
+The novel originated in Europe at a time when it was colonising the rest of the world. The early novel contributed to colonialism by making the readers feel they were part of a superior community of fellow colonialists. The hero of Daniel Defoe’s _Robinson Crusoe_ (1719) is an adventurer and slave trader. Shipwrecked on an island, Crusoe treats coloured people not as human beings equal to him, but as inferior creatures. He rescues a ‘native’ and makes him his slave. He does not ask for his name but arrogantly gives him the name Friday. But at the time, Crusoe’s behaviour was not seen as
+====================================================================================================
+
+--- CHUNK 1083 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.6 Colonialism and After'}
+Content:
+Friday. But at the time, Crusoe’s behaviour was not seen as unacceptable or odd, for most writers of the time saw colonialism as natural. Colonised people were seen as primitive and barbaric, less than human; and colonial rule was considered necessary to civilise them, to make them fully human. It was only later, in the twentieth century, that writers like Joseph Conrad (1857-1924) wrote novels that showed the darker side of colonial occupation.
+====================================================================================================
+
+--- CHUNK 1084 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': '1.6 Colonialism and After'}
+Content:
+The colonised, however, believed that the novel allowed them to explore their own identities and problems, their own national concerns. Let us see how the novel became popular in India and what significance it had for society.
+```
+footer page number:186
+```
+====================================================================================================
+
+--- CHUNK 1085 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India'}
+Content:
+### 2 The Novel Comes to India
+Stories in prose were not new to India. Banabhatta’s _Kadambari_ , written in Sanskrit in the seventh century, is an early example. The Panchatantra is another. There was also a long tradition of prose tales of adventure and heroism in Persian and Urdu, known as _dastan._
+====================================================================================================
+
+--- CHUNK 1086 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India'}
+Content:
+However, these works were not novels as we know them today. The modern novel form developed in India in the nineteenth century, as Indians became familiar with the Western novel. The development of the vernaculars, print and a reading public helped in this process. Some of the earliest Indian novels were written in Bengali and Marathi. The earliest novel in Marathi was Baba Padmanji’s _Yamuna Paryatan_ (1857), which used a simple style of storytelling to speak about the plight of widows. This was followed by Lakshman Moreshwar Halbe’s _Muktamala_ (1861). This was not a realistic novel; it
+====================================================================================================
+
+--- CHUNK 1087 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India'}
+Content:
+_Muktamala_ (1861). This was not a realistic novel; it presented an imaginary ‘romance’ narrative with a moral purpose.
+====================================================================================================
+
+--- CHUNK 1088 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India'}
+Content:
+Leading novelists of the nineteenth century wrote for a cause. Colonial rulers regarded the contemporary culture of India as inferior. On the other hand, Indian novelists wrote to develop a modern literature of the country that could produce a sense of national belonging and cultural equality with their colonial masters.
+Translations of novels into different regional languages helped to spread the popularity of the novel and stimulated the growth of the novel in new areas.
+```
+Box 3
+```
+====================================================================================================
+
+--- CHUNK 1089 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India'}
+Content:
+```
+Box 3
+```
+Not all Marathi novels were realistic. Naro Sadashiv Risbud used a highly ornamental style in his Marathi novel Manjughosha (1868). This novel was filled with amazing events. Risbud had a reason behind his choice of style. He said:
+‘Because of our attitude to marriage and for several other reasons one finds in the lives of the Hindus neither interesting views nor virtues … If we write about things that we experience daily there would be nothing enthralling about them, so that if we set out to write an entertaining book we are forced to take up with the marvellous.’
+====================================================================================================
+
+--- CHUNK 1090 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.1 The Novel in South India'}
+Content:
+#### 2.1 The Novel in South India
+====================================================================================================
+
+--- CHUNK 1091 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.1 The Novel in South India'}
+Content:
+Novels began appearing in south Indian languages during the period of colonial rule. Quite a few early novels came out of attempts to translate English novels into Indian languages. For example, O. Chandu Menon, a subjudge from Malabar, tried to translate an English novel called _Henrietta Temple_ written by Benjamin Disraeli into Malayalam. But he quickly realised that his readers in Kerala were not familiar with the way in which the characters in English novels lived: their clothes, ways of speaking, and manners were unknown to them. They would find a direct translation of an English novel
+====================================================================================================
+
+--- CHUNK 1092 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.1 The Novel in South India'}
+Content:
+They would find a direct translation of an English novel dreadfully boring. So, he gave up this idea and wrote instead a story in Malayalam in the ‘manner of English novel books’. This delightful novel called _Indulekha_ , published in 1889, was the first modern novel in Malayalam.
+====================================================================================================
+
+--- CHUNK 1093 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.1 The Novel in South India'}
+Content:
+**_Fig. 14 – Chandu Menon (1847-1899)._**
+```
+footer page number:187
+```
+The case of Andhra Pradesh was strikingly similar. Kandukuri Viresalingam (1848-1919) began translating Oliver Goldsmith’s _Vicar of Wakefield_ into Telugu. He abandoned this plan for similar reasons and instead wrote anoriginal Telugu novel called _Rajasekhara Caritamu_ in 1878.
+**_Fig. 15 – Image from_ Pickwick Abroad.** _A drawing from the book_ Pickwick Abroad _written by G.W.M. Reynolds._
+====================================================================================================
+
+--- CHUNK 1094 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.1 The Novel in South India'}
+Content:
+_Minor nineteenth-century English novelists like Reynolds, F. Marion Crawford and Marie Corelli were hugely popular in colonial India. Their novels – which were historical romances, adventure stories and sensation novels – were easily available and were translated and ‘adapted’ into several Indian languages. Reynolds’s_ Pickwick Abroad (1839) _was more popular in India than Dickens’s original_ Pickwick Papers (1837) _._
+====================================================================================================
+
+--- CHUNK 1095 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+#### 2.2 The Novel in Hindi
+In the north, Bharatendu Harishchandra, the pioneer of modern Hindi literature, encouraged many members of his circle of poets and writers to recreate and translate novels from other languages. Many novels were actually translated and adapted from English and Bengali under his influence, but the first proper modern novel was written by Srinivas Das of Delhi.
+====================================================================================================
+
+--- CHUNK 1096 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+Srinivas Das’s novel, published in 1882, was titled _Pariksha-Guru_ (The Master Examiner). It cautioned young men of well-to-do families against the dangerous influences of bad company and consequent loose morals.
+_Pariksha-Guru_ reflects the inner and outer world of the newly emerging middle classes. The characters in the novel are caught in the difficulty of adapting to colonised society and at the same time preserving
+```
+footer page number:188
+```
+====================================================================================================
+
+--- CHUNK 1097 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+```
+footer page number:188
+```
+their own cultural identity. The world of colonial modernity seems to be both frightening and irresistible to the characters. The novel tries to teach the reader the ‘right way’ to live and expects all ‘sensible men’ to be worldly-wise and practical, to remain rooted in the values of their own tradition and culture, and to live with dignity and honour.
+====================================================================================================
+
+--- CHUNK 1098 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+In the novel we see the characters attempting to bridge two different worlds through their actions: they take to new agricultural technology, modernise trading practices, change the use of Indian languages, making them capable of transmitting both Western sciences and Indian wisdom. The young are urged to cultivate the ‘healthy habit’ of reading the newspapers. But the novel emphasises that all this must be achieved without sacrificing the traditional values of the middle-class household. With all its good intentions, _ParikshaGuru_ could not win many readers, as it was perhaps too moralising
+====================================================================================================
+
+--- CHUNK 1099 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+not win many readers, as it was perhaps too moralising in its style.
+====================================================================================================
+
+--- CHUNK 1100 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+The writings of Devaki Nandan Khatri created a novel-reading public in Hindi. His best-seller, _Chandrakanta_ – a romance with dazzling elements of fantasy – is believed to have contributed immensely in popularising the Hindi language and the Nagari script among the educated classes of those times. Although it was apparently written purely for the ‘pleasure of reading’, this novel also gives some interesting insights into the fears and desires of its reading public.
+====================================================================================================
+
+--- CHUNK 1101 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+It was with the writing of Premchand that the Hindi novel achieved excellence. He began writing in Urdu and then shifted to Hindi, remaining an immensely influential writer in both languages. He drew on the traditional art of _kissa-goi_ (storytelling). Many critics think that his novel _Sewasadan_ (The Abode of Service), published in 1916, lifted the Hindi novel from the realm of fantasy, moralising and simple entertainment to a serious reflection on the lives of ordinary people and social issues. _Sewasadan_ deals mainly with the poor condition of women in society. Issues like child
+====================================================================================================
+
+--- CHUNK 1102 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.2 The Novel in Hindi'}
+Content:
+the poor condition of women in society. Issues like child marriage and dowry are woven into the story of the novel. It also tells us about the ways in which the Indian upper classes used whatever little opportunities they got from colonial authorities to govern themselves.
+====================================================================================================
+
+--- CHUNK 1103 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '2 The Novel Comes to India', 'subheading3': '2.3 Novels in Bengal'}
+Content:
+#### 2.3 Novels in Bengal
+In the nineteenth century, the early Bengali novels lived in two worlds. Many of these novels were located in the past, their characters, events
+====================================================================================================
+
+--- CHUNK 1104 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+```
+Write about two important characteristics of the
+early Hindi novel.
+```
+```
+Box 4
+```
+====================================================================================================
+
+--- CHUNK 1105 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+#### The novel in Assam
+====================================================================================================
+
+--- CHUNK 1106 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+The first novels in Assam were written by missionaries. Two of them were translations of Bengali including Phulmoni and Karuna. In 1888, Assamese students in Kolkata formed the Asamya Bhasar Unnatisadhan that brought out a journal called Jonaki. This journal opened up the opportunities for new authors to develop the novel. Rajanikanta Bardoloi wrote the first major historical novel in Assam called Manomati (1900). It is set in the Burmese invasion, stories of which the author had probably heard from old soldiers who had fought in the 1819 campaign. It is a tale of two lovers belonging to two
+====================================================================================================
+
+--- CHUNK 1107 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+1819 campaign. It is a tale of two lovers belonging to two hostile families who are separated by the war and finally reunited.
+====================================================================================================
+
+--- CHUNK 1108 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+```
+footer page number:189
+```
+and love stories based on historical events. Another group of novels depicted the inner world of domestic life in contemporary settings. Domestic novels frequently dealt with the social problems and romantic relationships between men and women.
+====================================================================================================
+
+--- CHUNK 1109 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+The old merchant elite of Calcutta patronised public forms of entertainment such as _kabirlarai_ (poetry contests), musical soirees and dance performances. In contrast, the new bhadralok found himself at home in the more private world of reading novels. Novels were read individually. They could also be read in select groups. Sometimes the household of the great Bangla novelist Bankim Chandra Chattopadhyay would host a _jatra_ in the courtyard where members of the family would be gathered. In Bankim’s room, however, a group of literary friends would collect to read, discuss and judge literary
+====================================================================================================
+
+--- CHUNK 1110 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+friends would collect to read, discuss and judge literary works. Bankim read out _Durgeshnandini_ (1865), his first novel, to such a gathering of people who were stunned to realise that the Bengali novel had achieved excellence so quickly.
+====================================================================================================
+
+--- CHUNK 1111 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam'}
+Content:
+**_Fig. 16_** _–_ **_Bankim Chandra Chattopadhyay (1838-1894)._** _Bankim’s hands on the book indicates how writing was the basis of his social position and authority._
+Besides the ingenious twists and turns of the plot and the suspense, the novel was also relished for its language. The prose style became a new object of enjoyment. Initially the Bengali novel used a colloquial style associated with urban life. It also used _meyeli,_ the language associated with women’s speech. This style was quickly replaced by Bankim’s prose which was Sanskritised but also contained a more vernacular style.
+====================================================================================================
+
+--- CHUNK 1112 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam', 'subheading4': 'Box 5', 'subheading5': 'The Oriya novel'}
+Content:
+##### Box 5  
+###### The Oriya novel
+====================================================================================================
+
+--- CHUNK 1113 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam', 'subheading4': 'Box 5', 'subheading5': 'The Oriya novel'}
+Content:
+In 1877-78, Ramashankar Ray, a dramatist, began serialising the first Oriya novel, Saudamani. But he could not complete it. Within thirty years, however, Orissa produced a major novelist in Fakir Mohon Senapati (1843-1918). The title of his novel Chaa Mana Atha Guntha (1902) translates as six acres and thirty-two decimals of land. It announces a new kind of novel that will deal with the question of land and its possession. It is the story of Ramchandra Mangaraj, a landlord’s manager who cheats his idle and drunken master and then eyes the plot of fertile land owned by Bhagia and Shariya, a
+====================================================================================================
+
+--- CHUNK 1114 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam', 'subheading4': 'Box 5', 'subheading5': 'The Oriya novel'}
+Content:
+the plot of fertile land owned by Bhagia and Shariya, a childless weaver couple. Mangaraj fools this couple and puts them into his debt so that he can take over their land. This pathbreaking work showed that the novel could make rural issues an important part of urban preoccupations. In writing this novel, Fakir Mohon anticipated a host of writers in Bengal and elsewhere.
+====================================================================================================
+
+--- CHUNK 1115 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam', 'subheading4': 'Box 5', 'subheading5': 'The Oriya novel'}
+Content:
+The novel rapidly acquired popularity in Bengal. By the twentieth century, the power of telling stories in simple language made Sarat Chandra Chattopadhyay (1876-1938) the most popular novelist in Bengal and probably in the rest of India.
+**_Fig. 17_** _–_ **_The temple and the drawing room._**
+====================================================================================================
+
+--- CHUNK 1116 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss', 'subheading3': 'The novel in Assam', 'subheading4': 'Box 5', 'subheading5': 'The Oriya novel'}
+Content:
+**_Fig. 17_** _–_ **_The temple and the drawing room._**
+_On the right is the temple where the family and others would gather and on the left is the drawing room where Bankim would entertain select friends to discuss new literary works. Note that the two spaces – the traditional and the modern – are next to each other, indicating the split lifestyle of most intellectuals in colonial India._
+```
+footer page number:190
+```
+====================================================================================================
+
+--- CHUNK 1117 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World'}
+Content:
+### 3 Novels in the Colonial World
+====================================================================================================
+
+--- CHUNK 1118 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World'}
+Content:
+If we follow the history of the novel in different parts of India we can see many regional peculiarities. But there were also recurring patterns and common concerns. What inspired the authors to write novels? Who read the novels? How did the culture of reading develop? How did the novels grapple with the problems of societal change within a colonial society? What kind of a world did novels open up for the readers? Let us explore some of these questions by focusing primarily on the writings of three authors from different regions: Chandu Menon, Bankim Chandra Chattopadhyay and Premchand.
+====================================================================================================
+
+--- CHUNK 1119 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel'}
+Content:
+#### 3.1 Uses of the Novel
+====================================================================================================
+
+--- CHUNK 1120 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel'}
+Content:
+Colonial administrators found ‘vernacular’ novels a valuable source of information on native life and customs. Such information was useful for them in governing Indian society, with its large variety of communities and castes. As outsiders, the British knew little about life inside Indian households. The new novels in Indian languages often had descriptions of domestic life. They showed how people dressed, their forms of religious worship, their beliefs and practices, and so on. Some of these books were translated into English, often by British administrators or Christian missionaries.
+====================================================================================================
+
+--- CHUNK 1121 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel'}
+Content:
+Indians used the novel as a powerful medium to criticise what they considered defects in their society and to suggest remedies. Writers like Viresalingam used the novel mainly to propagate their ideas about society among a wider readership.
+Novels also helped in establishing a relationship with the past. Many of them told thrilling stories of adventures and intrigues set in the past. Through glorified accounts of the past, these novels helped in creating a sense of national pride among their readers _._
+====================================================================================================
+
+--- CHUNK 1122 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel'}
+Content:
+At the same time, people from all walks of life could read novels so long as they shared a common language. This helped in creating a sense of collective belonging on the basis of one’s language.
+You would have noticed that people living in different regions speak the same language in different ways – sometimes they use different words for the same thing; sometimes the same word is pronounced differently. With the coming of novels, such variations entered the
+====================================================================================================
+
+--- CHUNK 1123 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel'}
+Content:
+**_Fig. 18 – Cover page of the novel_ Indirabai.** _Written at the end of the nineteenth century,_ Indirabai _continues to be popular and is regularly reprinted. This is the cover of a recent reprint._
+```
+Box 6
+```
+====================================================================================================
+
+--- CHUNK 1124 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'The message of reform'}
+Content:
+##### The message of reform
+====================================================================================================
+
+--- CHUNK 1125 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'The message of reform'}
+Content:
+Many early novels carried a clear message of social reform. For example, in Indirabai, a Kannada novel written by Gulavadi Venkata Rao in 1899, the heroine is given away in marriage at a very young age to an elderly man. Her husband dies soon after, and she is forced to lead the life of a widow. In spite of opposition from her family and society, Indirabai succeeds in continuing her education. Eventually she marries again, this time a progressive, Englisheducated man. Women’s education, the plight of widows, and problems created by the early marriage of girls – all these were important issues
+====================================================================================================
+
+--- CHUNK 1126 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'The message of reform'}
+Content:
+early marriage of girls – all these were important issues for social reformers in Karnataka at that time.
+====================================================================================================
+
+--- CHUNK 1127 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'The message of reform'}
+Content:
+```
+footer page number:191
+```
+====================================================================================================
+
+--- CHUNK 1128 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'Box 7'}
+Content:
+##### Box 7
+The most popular historical novelist in Tamil was R. Krishnamurthy who wrote under the penname ‘Kalki’. He was an active participant in the freedom movement and the editor of the widely read Tamil magazines Anandavikatan and Kalki. Written in simple language and full of heroism, adventure and suspense, Kalki’s novels captivated the Tamil-reading public of an entire generation.
+**_Fig. 19 – A page from the novel_ Ponniyin Selvan** **_, written by Kalki and serialised in the magazine_ Kalki** **_, 1951._**
+====================================================================================================
+
+--- CHUNK 1129 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.1 Uses of the Novel', 'subheading4': 'Box 7'}
+Content:
+world of print for the first time. The way characters spoke in a novel began to indicate their region, class or caste. Thus novels made their readers familiar with the ways in which people in other parts of their land spoke their language _._
+====================================================================================================
+
+--- CHUNK 1130 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.2 The Problem of Being Modern'}
+Content:
+#### 3.2 The Problem of Being Modern
+====================================================================================================
+
+--- CHUNK 1131 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.2 The Problem of Being Modern'}
+Content:
+Although they were about imaginary stories, novels often spoke to their readers about the real world. But novels did not always show things exactly as they were in reality. Sometimes, they presented a vision of how things ought to be. Social novelists often created heroes and heroines with ideal qualities, who their readers could admire and imitate. How were these ideal qualities defined? In many novels written during the colonial period, the ideal person successfully deals with one of the central dilemmas faced by colonial subjects: how to be modern without rejecting tradition, how to accept
+====================================================================================================
+
+--- CHUNK 1132 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.2 The Problem of Being Modern'}
+Content:
+how to be modern without rejecting tradition, how to accept ideas coming from the West without losing one’s identity.
+====================================================================================================
+
+--- CHUNK 1133 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.2 The Problem of Being Modern'}
+Content:
+Chandu Menon portrayed Indulekha as a woman of breathtaking beauty, high intellectual abilities, artistic talent, and with an education in English and Sanskrit. Madhavan, the hero of the novel, was also presented in ideal colours. He was a member of the newly English-educated class of Nayars from the University of Madras.
+```
+footer page number:192
+```
+He was also a ‘first-rate Sanskrit scholar’. He dressed in Western clothes. But, at the same time, he kept a long tuft of hair, according to the Nayar custom.
+====================================================================================================
+
+--- CHUNK 1134 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.2 The Problem of Being Modern'}
+Content:
+The heroes and heroines in most of the novels were people who lived in the modern world. Thus they were different from the ideal or mythological characters of the earlier poetic literature of India _._ Under colonial rule _,_ many of the English-educated class found new Western ways of living and thinking attractive. But they also feared that a wholesale adoption of Western values would destroy their traditional ways of living. Characters like Indulekha and Madhavan showed readers how Indian and foreign lifestyles could be brought together in an ideal combination.
+====================================================================================================
+
+--- CHUNK 1135 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.3 Pleasures of Reading'}
+Content:
+#### 3.3 Pleasures of Reading
+As elsewhere in the world, in India too, the novel became a popular medium of entertainment among the middle class. The circulation of printed books allowed people to amuse themselves in new ways. Picture books, translations from other languages, popular songs sometimes composed on contemporary events, stories in newspapers and magazines – all these offered new forms of entertainment. Within this new culture of print, novels soon became immensely popular.
+====================================================================================================
+
+--- CHUNK 1136 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.3 Pleasures of Reading'}
+Content:
+In Tamil, for example, there was a flood of popular novels in the early decades of the twentieth century. Detective and mystery novels often had to be printed again and again to meet the demand of readers: some of them were reprinted as many as twenty-two times!
+====================================================================================================
+
+--- CHUNK 1137 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.3 Pleasures of Reading'}
+Content:
+The novel also assisted in the spread of silent reading. We are so used to reading in silence that it is difficult for us to think that this practice was not very common in the past. As late as the nineteenth century and perhaps even in the early twentieth century, written texts were often read aloud for several people to hear. Sometimes novels were also read in this way, but in general novels encouraged reading alone and in silence. Individuals sitting at home or travelling in trains enjoyed them. Even in a crowded room, the novel offered a special world of imagination into which the reader
+====================================================================================================
+
+--- CHUNK 1138 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.3 Pleasures of Reading'}
+Content:
+a special world of imagination into which the reader could slip, and be all alone. In this, reading a novel was like daydreaming.
+====================================================================================================
+
+--- CHUNK 1139 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '3 Novels in the Colonial World', 'subheading3': '3.3 Pleasures of Reading'}
+Content:
+**_Fig. 20 – Cover page of_ Kathanjali** **_, a Kannada magazine._** Kathanjali _started publication in 1929 and published short stories regularly. The picture shows a mother reading out stories from a book to her children._
+```
+footer page number:193
+```
+====================================================================================================
+
+--- CHUNK 1140 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel'}
+Content:
+### 4 Women and the Novel
+Many people got worried about the effects of the novel on readers who were taken away from their real surroundings into an imaginary world where anything could happen. Some of them wrote in newspapers and magazines, advising people to stay away from the immoral influence of novels. Women and children were often singled out for such advice: they were seen as easily corruptible.
+====================================================================================================
+
+--- CHUNK 1141 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel'}
+Content:
+Some parents kept novels in the lofts in their houses, out of their children’s reach. Young people often read them in secret. This passion was not limited only to the youth. Older women – some of whom could not read – listened with fascinated attention to popular Tamil novels read out to them by their grandchildren – a nice reversal of the familiar grandma’s tales!
+====================================================================================================
+
+--- CHUNK 1142 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel'}
+Content:
+But women did not remain mere readers of stories written by men; soon they also began to write novels. In some languages, the early creations of women were poems, essays or autobiographical pieces. In the early decades of the twentieth century, women in south India also began writing novels and short stories. A reason for the popularity of novels among women was that it allowed for a new conception of womanhood. Stories of love – which was a staple theme of many novels – showed women who could choose or refuse their partners and relationships. It showed women who could to some extent control
+====================================================================================================
+
+--- CHUNK 1143 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel'}
+Content:
+It showed women who could to some extent control their lives. Some women authors also wrote about women who changed the world of both men and women.
+====================================================================================================
+
+--- CHUNK 1144 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel'}
+Content:
+Rokeya Hossein (1880-1932) was a reformer who, after she was widowed, started a girl’s school in Calcutta. She wrote a **satiric** fantasy in English called _Sultana’s Dream_ (1905) which shows a topsyturvy world in which women take the place of men. Her novel _Padmarag_ also showed the need for women to reform their condition by their own actions.
+====================================================================================================
+
+--- CHUNK 1145 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': 'New words'}
+Content:
+#### New words
+Satire – A form of representation through writing, drawing, painting, etc. that provides a criticism of society in a manner that is witty and clever
+**_Fig. 21 – A woman reading, woodcut by Satyendranath Bishi._** _The woodcut shows how women were discovering the pleasure of reading. By the end of the nineteenth century, images of women reading became common in popular magazines in India._
+====================================================================================================
+
+--- CHUNK 1146 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': 'New words', 'subheading4': 'Source A'}
+Content:
+##### Source A
+**Why women should not read novels**
+From a Tamil essay published in 1927:
+‘Dear children, don’t read these novels, don’t even touch them. Your life will be ruined. You will suffer disease and ailments. Why did the good Lord make you – to wither away at a tender age? To suffer in disease? To be despised by your brothers, relatives and those around you? No. No. You must become mothers; you must lead happy lives; this is the divine purpose. You who were born to fulfil this sublime goal, should you ruin your life by going crazy after despicable novels?’
+====================================================================================================
+
+--- CHUNK 1147 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': 'New words', 'subheading4': 'Source A'}
+Content:
+Essay by Thiru. Vi. Ka, Translated by A.R. Venkatachalapathy `Source`
+```
+footer page number:194
+```
+====================================================================================================
+
+--- CHUNK 1148 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': 'New words', 'subheading4': 'Source A'}
+Content:
+```
+footer page number:194
+```
+It is not surprising that many men were suspicious of women writing novels or reading them. This suspicion cut across communities. Hannah Mullens, a Christian missionary and the author of _Karuna o Phulmonir Bibaran_ (1852), reputedly the first novel in Bengali, tells her readers that she wrote in secret. In the twentieth century, Sailabala Ghosh Jaya, a popular novelist, could only write because her husband protected her. As we have seen in the case of the south, women and girls were often discouraged from reading novels.
+====================================================================================================
+
+--- CHUNK 1149 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': 'New words', 'subheading4': 'Box 8', 'subheading5': 'Women with books'}
+Content:
+##### Box 8  
+###### Women with books
+‘These days we can see women in black bordered sarees with massive books in their hands, walking inside their houses. Often seeing them with these books in hand, their brothers or husbands are seized with fear – in case they are asked for meanings.’
+Sadharani, 1880.
+====================================================================================================
+
+--- CHUNK 1150 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+#### 4.1 Caste Practices, ‘Lower-Castes’ and Minorities
+====================================================================================================
+
+--- CHUNK 1151 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+As you have seen, _Indulekha_ was a love story. But it was also about an issue that was hotly debated at the time when the novel was written. This concerned the marriage practices of upper-caste Hindus in Kerala, especially the Nambuthiri Brahmins and the Nayars. Nambuthiris were also major landlords in Kerala at that time; and a large section of the Nayars were their tenants. In late-nineteenthcentury Kerala, a younger generation of English-educated Nayar men who had acquired property and wealth on their own, began arguing strongly against Nambuthiri alliances with Nayar women. They wanted
+====================================================================================================
+
+--- CHUNK 1152 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+against Nambuthiri alliances with Nayar women. They wanted new laws regarding marriage and property.
+====================================================================================================
+
+--- CHUNK 1153 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+The story of _Indulekha_ is interesting in the light of these debates. Suri Nambuthiri, the foolish landlord who comes to marry Indulekha, is the focus of much satire in the novel. The intelligent heroine rejects him and chooses Madhavan, the educated and handsome Nayar as her husband, and the young couple move to Madras, where Madhavan joins the civil service. Suri Nambuthiri, desperate to find a partner for himself, finally marries a poorer relation from the same family and goes away pretending that he has married Indulekha! Chandu Menon clearly wanted his readers to appreciate the new
+====================================================================================================
+
+--- CHUNK 1154 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Menon clearly wanted his readers to appreciate the new values of his hero and heroine and criticise the ignorance and immorality of Suri Nambuthiri.
+====================================================================================================
+
+--- CHUNK 1155 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Novels like _Indirabai_ and _Indulekha_ were written by members of the upper castes, and were primarily about upper-caste characters. But not all novels were of this kind.
+Potheri Kunjambu, a ‘lower-caste’ writer from north Kerala, wrote a novel called _Saraswativijayam_ in 1892, mounting a strong attack on caste oppression. This novel shows a young man from an ‘untouchable’ caste, leaving his village to escape the cruelty of his Brahmin landlord. He converts to Christianity, obtains modern
+**_Fig. 22_ –** **_Malabar Beauty, painting by Ravi Varma._**
+====================================================================================================
+
+--- CHUNK 1156 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+_Chandu Menon thought that the novel was similar to new trends in Indian painting._
+_One of the foremost oil painters of this time was Raja Ravi Varma (18481906). Chandu Menon’s description of his heroines may have been guided by some of his paintings._
+```
+footer page number:195
+```
+====================================================================================================
+
+--- CHUNK 1157 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+```
+footer page number:195
+```
+education, and returns as the judge in the local court. Meanwhile, the villagers, thinking that the landlord’s men had killed him, file a case. At the conclusion of the trial, the judge reveals his true identity, and the Nambuthiri repents and reforms his ways. _Saraswativijayam_ stresses the importance of education for the upliftment of the lower castes.
+====================================================================================================
+
+--- CHUNK 1158 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+From the 1920s, in Bengal too a new kind of novel emerged that depicted the lives of peasants and ‘low’ castes. Advaita Malla Burman’s (1914-51) _Titash Ekti Nadir Naam_ (1956) is an epic about the Mallas, a community of fisherfolk who live off fishing in the river Titash. The novel is about three generations of the Mallas, about their recurring tragedies and the story of Ananta, a child born of parents who were tragically separated after their wedding night. Ananta leaves the community to get educated in the city. The novel describes the community life of the Mallas in great detail, their
+====================================================================================================
+
+--- CHUNK 1159 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+the community life of the Mallas in great detail, their Holi and Kali Puja festivals, boat races, _bhatiali_ songs, their relationships of friendship and animosity with the peasants and the oppression of the upper castes. Slowly the community breaks up and the Mallas start fighting amongst themselves as new cultural influences from the city start penetrating their lives. The life of the community and that of the river is intimately tied. Their end comes together: as the river dries up, the community dies too. While novelists before Burman had featured ‘low’ castes as their protagonists,
+====================================================================================================
+
+--- CHUNK 1160 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Burman had featured ‘low’ castes as their protagonists, _Titash_ is special because the author is himself from a ‘low-caste’, fisherfolk community.
+====================================================================================================
+
+--- CHUNK 1161 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Over time _,_ the medium of the novel made room for the experiences of communities that had not received much space in the literary scene earlier. Vaikkom Muhammad Basheer (1908-96), for example, was one of the early Muslim writers to gain wide renown as a novelist in Malayalam.
+====================================================================================================
+
+--- CHUNK 1162 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Basheer had little formal education. Most of his works were based on his own rich personal experience rather than on books from the past. When he was in class five at school, Basheer left home to take part in the Salt Satyagraha. Later he spent years wandering in different parts of India and travelling even to Arabia, working in a ship, living with Sufis and Hindu sanyasis, and training as a wrestler.
+====================================================================================================
+
+--- CHUNK 1163 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+Basheer’s short novels and stories were written in the ordinary language of conversation. With wonderful humour, Basheer’s novels spoke about details from the everyday life of Muslim households. He also brought into Malayalam writing themes which were considered very unusual at that time – poverty, insanity and life in prisons.
+====================================================================================================
+
+--- CHUNK 1164 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '4 Women and the Novel', 'subheading3': '4.1 Caste Practices, ‘Lower-Castes’ and Minorities'}
+Content:
+**_Fig. 23 – Basheer carrying books._** _In his early years as a writer, Basheer had great difficulty earning a living from his books. He often sold them himself, carrying copies personally to houses and shops. In some of his stories, Basheer wrote about his days as a vendor of his own books._
+```
+footer page number:196
+```
+====================================================================================================
+
+--- CHUNK 1165 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+### 5 The Nation and its History
+====================================================================================================
+
+--- CHUNK 1166 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+The history written by colonial historians tended to depict Indians as weak, divided, and dependent on the British. These histories could not satisfy the tastes of the new Indian administrators and intellectuals. Nor did the traditional Puranic stories of the past – peopled by gods and demons, filled with the fantastic and the supernatural – seem convincing to those educated and working under the English system. Such minds wanted a new view of the past that would show that Indians could be independent minded and had been so in history. The novel provided a solution. In it, the nation could be
+====================================================================================================
+
+--- CHUNK 1167 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+The novel provided a solution. In it, the nation could be imagined in a past that also featured historical characters, places, events and dates.
+====================================================================================================
+
+--- CHUNK 1168 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+In Bengal, many historical novels were about Marathas and Rajputs. These novels produced a sense of a pan-Indian belonging. They imagined the nation to be full of adventure, heroism, romance and sacrifice – qualities that could not be found in the offices and streets of the nineteenth-century world. The novel allowed the colonised to give shape to their desires. Bhudeb Mukhopadhyay’s (1827-94) _Anguriya Binimoy_ (1857) was the first historical novel written in Bengal. Its hero Shivaji engages in many battles against a clever and treacherous Aurangzeb. Man Singh persuades Shivaji to make peace
+====================================================================================================
+
+--- CHUNK 1169 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+Aurangzeb. Man Singh persuades Shivaji to make peace with Aurangzeb. Realising that Aurangzeb intended to confine him as a house prisoner, Shivaji escapes and returns to battle. What gives him courage and tenacity is his belief that he is a nationalist fighting for the freedom of Hindus.
+====================================================================================================
+
+--- CHUNK 1170 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History'}
+Content:
+The imagined nation of the novel was so powerful that it could inspire actual political movements. Bankim’s _Anandamath_ (1882) is a novel about a secret Hindu militia that fights Muslims to establish a Hindu kingdom. It was a novel that inspired many kinds of freedom fighters.
+Many of these novels also reveal the problems of thinking about the nation. Was India to be a nation of only a single religious community? Who had natural claims to belong to the nation?
+====================================================================================================
+
+--- CHUNK 1171 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+#### 5.1 The Novel and Nation Making
+Imagining a heroic past was one way in which the novel helped in popularising the sense of belonging to a common nation. Another
+**_Fig. 24 – Image from the film_ Chemmeen** **_._** _Many novels were made into films. The novel_ Chemmeen _(Shrimp, 1956), written by Thakazhi Sivasankara Pillai (1912-99), is set in the fishing community in Kerala, and characters speak a variety of Malayalam used by fisherfolk in the region. The film_ Chemmeen _, directed by Ramu Kariat, was made in 1965._
+====================================================================================================
+
+--- CHUNK 1172 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+**_Fig. 25 – A still from the Kannada film_ Chomana Dudi** **_(Choma’s Drum, directed by B.V. Karanth in 1975)._**
+_The film is based on a novel of the same title written in 1930 by the celebrated Kannada novelist Sivarama Karanth (1902-1997)._
+```
+footer page number:197
+```
+====================================================================================================
+
+--- CHUNK 1173 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+way was to include various classes in the novel so that they could be seen to belong to a shared world. Premchand’s novels, for instance, are filled with all kinds of powerful characters drawn from all levels of society. In his novels you meet aristocrats and landlords, middlelevel peasants and landless labourers, middle-class professionals and people from the margins of society. The women characters are strong individuals, especially those who come from the lower classes and are not modernised. Unlike many of his contemporaries, Premchand rejected the nostalgic obsession with ancient
+====================================================================================================
+
+--- CHUNK 1174 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+Premchand rejected the nostalgic obsession with ancient history. Instead, his novels look towards the future without forgetting the importance of the past.
+====================================================================================================
+
+--- CHUNK 1175 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+Drawn from various strata of society, Premchand’s characters create a community based on democratic values. The central character of his novel _Rangbhoomi_ (The Arena), Surdas, is a visually impaired beggar from a so-called ‘untouchable’ caste. The very act of choosing such a person as the ‘hero’ of a novel is significant. It makes the lives of the most oppressed section of society as worthy of literary reflection. We see Surdas struggling against the forcible takeover of his land for establishing a tobacco factory. As we read the story we wonder about industrialisation and its impact on
+====================================================================================================
+
+--- CHUNK 1176 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+story we wonder about industrialisation and its impact on society and people. Who does it serve? Must other ways of living be sacrificed for it? The story of Surdas was inspired by Gandhi’s personality and ideas.
+====================================================================================================
+
+--- CHUNK 1177 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': '5 The Nation and its History', 'subheading3': '5.1 The Novel and Nation Making'}
+Content:
+_Godan_ (The Gift of Cow), published in 1936, remains Premchand’s best-known work. It is an epic of the Indian peasantry. The novel tells the moving story of Hori and his wife Dhania, a peasant couple. Landlords, moneylenders, priests and colonial bureaucrats – all those who hold power in society – form a network of oppression, rob their land and make them into landless labourers. Yet Hori and Dhania retain their dignity to the end.
+====================================================================================================
+
+--- CHUNK 1178 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity'}
+Content:
+### Activity
+- `Read Godan. Write briefly on:`
+- `How Premchand depicts the life of peasants in the novel.`
+- `What the novel tells us about the life of peasants during the`
+- `Great Depression.`
+====================================================================================================
+
+--- CHUNK 1179 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Box 9'}
+Content:
+#### Box 9
+====================================================================================================
+
+--- CHUNK 1180 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Box 9'}
+Content:
+Rabindranath Tagore (1861-1941) developed the Bengali novel after Bankim’s death. His early novels were historical; he later shifted to writing stories about domestic relationships. He was mainly preoccupied with the condition of women and nationalism. Both concerns are featured in his Ghare Baire (1916) translated in 1919 as The Home and the World. The story is about Bimala, the wife of Nikhilesh, a liberal landlord who believes that he can save his country by patiently bettering the lives of its poor and marginal sections. But Bimala is attracted to Sandip, her husband’s friend and a
+====================================================================================================
+
+--- CHUNK 1181 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Box 9'}
+Content:
+Bimala is attracted to Sandip, her husband’s friend and a firebrand extremist. Sandip is so completely dedicated to throwing out the British that he does not mind if the poor ‘low’ castes suffer and Muslims are made to feel like outsiders. By becoming a part of Sandip’s group, Bimala gets a sense of self-worth and self-esteem. Rabindranth also shows the contradictory effects of nationalist involvement for women. Bimala may be admired by the young males of the group but she cannot influence their decisions. Indeed she is used by Sandip to acquire funds for the movement. Tagore’s novels are
+====================================================================================================
+
+--- CHUNK 1182 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Box 9'}
+Content:
+to acquire funds for the movement. Tagore’s novels are striking because they make us rethink both man-woman relationships and nationalism.
+====================================================================================================
+
+--- CHUNK 1183 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Box 9'}
+Content:
+**_Fig. 26 – Portrait of Premchand (18801936)._**
+```
+footer page number:198
+```
+====================================================================================================
+
+--- CHUNK 1184 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+#### Conclusion
+We have seen how, over the course of its history in both the West and in India, the novel became part of the lives of different sections of people. Developments in print technologies allowed the novel to break out of its small circle of readers and introduced fresh ways of reading. But through their stories, novels have also shown a capacity to include and focus on the lives of those who were not often known to literate and middle-class circles. We have seen some examples of these in Premchand, but they are equally present in the works of other novelists.
+====================================================================================================
+
+--- CHUNK 1185 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+Bringing together people from varied backgrounds produces a sense of shared community. The most notable form of this community is the nation. Equally significant is the fact that by bringing in both the powerful and the marginal peoples and cultures, the novel throws up many questions about the nature of these communities. We can say then that novels produce a sense of sharing, and promote an understanding of different people, different values and different communities. At the same time they explore how different groups begin to question or reflect upon their own identities.
+```
+====================================================================================================
+
+--- CHUNK 1186 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Activity', 'subheading3': 'Conclusion'}
+Content:
+```
+footer page number:199
+```
+====================================================================================================
+
+--- CHUNK 1187 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Write in brief'}
+Content:
+### Write in brief
+`1. Explain the following:`
+- `a) Social changes in Britain which led to an increase in women readers`
+- `b) What actions of Robinson Crusoe make us see him as a typical coloniser.`
+- `c) After 1740, the readership of novels began to include poorer people.`
+- `d) Novelists in colonial India wrote for a political cause.`
+`2. Outline the changes in technology and society which led to an increase in readers of the novel in eighteenth-century Europe.`
+`3. Write a note on:`
+- `a) The Oriya novel`
+- `b) Jane Austen’s portrayal of women`
+====================================================================================================
+
+--- CHUNK 1188 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Write in brief'}
+Content:
+- `b) Jane Austen’s portrayal of women`
+- `c) The picture of the new middle class which the novel Pariksha-Guru portrays.`
+====================================================================================================
+
+--- CHUNK 1189 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+### Discuss
+`1. Discuss some of the social changes in nineteenth-century Britain which Thomas Hardy and Charles Dickens wrote about.`
+`2. Summarise the concern in both nineteenth-century Europe and India about women reading novels. What does this suggest about how women were viewed?`
+`3. In what ways was the novel in colonial India useful for both the colonisers as well as the nationalists?`
+`4. Describe how the issue of caste was included in novels in India. By referring to any two novels, discuss the ways in which they tried to make readers think about existing social issues.`
+====================================================================================================
+
+--- CHUNK 1190 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Discuss'}
+Content:
+`5. Describe the ways in which the novel in India attempted to create a sense of pan-Indian belonging.`
+====================================================================================================
+
+--- CHUNK 1191 ---
+Metadata: {'Chapter Name': 'Novels, Society and History', 'subheading1': '1 The Rise o f the Novel The novel is a modern form of literature. It is born from print, a mechanical invention.', 'subheading2': 'Project'}
+Content:
+### Project
+```
+Imagine that you are a historian in 3035 AD. You have just located two novels which were written
+in the twentieth century. What do they tell you about society and customs of the time?
+```
+Project
+```
+footer page number:200
+```
+====================================================================================================
+

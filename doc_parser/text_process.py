@@ -1,9 +1,24 @@
 import re
 import pymupdf4llm
+# from pymupdf4llm.ocr import tesseract_api
 
-doc="docs/inp_docs/NCERT-Class-10-History.pdf"
+DOC = "docs/inp_docs/NCERT-Class-10-History.pdf"
 
-chunks=pymupdf4llm.to_markdown(doc, header=False, footer=True, page_chunks=True)
+pages = pymupdf4llm.to_markdown(
+    DOC,
+    header=False,
+    footer=True,
+    page_chunks=True,
+
+    # OCR
+    use_ocr=True,
+    ocr_language="eng",
+    ocr_dpi=300,
+    # ocr_function=tesseract_api,
+
+    show_progress=True
+)
+
 extracted_text=[]
 
 REMOVE_KEYWORDS = {
@@ -42,7 +57,7 @@ MARKDOWN_FOOTER_PATTERNS = [
     re.compile(r"^[\*_]*\d+\s*(of|/)\s*\d+[\*_]*$", re.IGNORECASE)  # **12 of 50** or _12/50_
 ]
 
-for chunk in chunks:
+for chunk in pages:
     # page_num=chunk["metadata"]["page_number"]
     # extracted_text.append(f"page number:{page_num}")
 

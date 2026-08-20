@@ -1,32 +1,31 @@
 ## **<u>Contents</u>** 
-Foreword Introduction 
-#### **Section I: Events and Processes** 
-I. The Rise of Nationalism in Europe II. The Nationalist Movement in Indo-China III. Nationalism in India 
-iii ix 3 25 49 
-#### **Section II: Livelihoods, Economies and Societies** 
-IV. The Making of a Global World 77 V. The Age of Industrialisation 97 VI. Work, Life and Leisure 117 
-#### **Section III: Everyday Life, Culture and Politics** 
-VII. Print Culture and the Modern World VIII. Novels, Society and History 
-141 159 
+Foreword iii Introduction ix **Section I: Events and Processes** I. The Rise of Nationalism in Europe 3 II. The Nationalist Movement in Indo-China 25 III. Nationalism in India 49 
+**Section II: Livelihoods, Economies and Societies** IV. The Making of a Global World 77 V. The Age of Industrialisation 97 VI. Work, Life and Leisure 117 
+**Section III: Everyday Life, Culture and Politics** VII. Print Culture and the Modern World 141 VIII. Novels, Society and History 159 
 xi 
-<!-- Start of picture text -->
-The Rise of Nationalism in Europe<br>Fig. 1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by<br>Frédéric Sorrieu, 1848.<br>In 1848, Frédéric Sorrieu, a French artist, prepared a series of four<br>New words<br>prints visualising his dream of a world made up of ‘democratic<br>and social Republics’, as he called them. The first print (Fig. 1) of the Absolutist – Literally, a government or<br>series, shows the peoples of Europe and America – men and women system of rule that has no restraints on<br>of all ages and social classes – marching in a long train, and offering the power exercised. In history, the term<br>homage to the statue of Liberty as they pass by it. As you would refers to a form of monarchical<br>recall, artists of the time of the French Revolution personified Liberty government that was centralised,<br>as a female figure – here you can recognise the torch of Enlightenment militarised and repressive<br>she bears in one hand and the Charter of the Rights of Man in the Utopian – A vision of a society that is so<br>other. On the earth in the foreground of the image lie the shattered ideal that it is unlikely to actually exist<br>remains of the symbols of  absolutist  institutions. In Sorrieu’s<br>utopian  vision, the peoples of the world are grouped as distinct Activity<br>nations, identified through their flags and national costume. Leading<br>In what way do you think this print (Fig. 1)<br>the procession, way past the statue of Liberty, are the United States<br>depicts a utopian vision?<br>and Switzerland, which by this time were already nation-states. France,<br><!-- End of picture text -->
+# `The Rise of Nationalism in Europe` 
+**_Fig. 1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by Frédéric Sorrieu, 1848._** 
+In 1848, Frédéric Sorrieu, a French artist, prepared a series of four prints visualising his dream of a world made up of ‘democratic and social Republics’, as he called them. The first print (Fig. 1) of the series, shows the peoples of Europe and America – men and women of all ages and social classes – marching in a long train, and offering homage to the statue of Liberty as they pass by it. As you would recall, artists of the time of the French Revolution personified Liberty as a female figure – here you can recognise the torch of Enlightenment she bears in one hand and the Charter of the Rights of Man in the other. On the earth in the foreground of the image lie the shattered remains of the symbols of **absolutist** institutions. In Sorrieu’s **utopian** vision, the peoples of the world are grouped as distinct nations, identified through their flags and national costume. Leading the procession, way past the statue of Liberty, are the United States and Switzerland, which by this time were already nation-states. France, 
+#### **New words** 
+Absolutist – Literally, a government or system of rule that has no restraints on the power exercised. In history, the term refers to a form of monarchical government that was centralised, militarised and repressive Utopian – A vision of a society that is so ideal that it is unlikely to actually exist 
+### **<mark>Activity</mark>** 
+In what way do you think this print (Fig. 1) depicts a utopian vision? 
 identifiable by the revolutionary tricolour, has just reached the statue. She is followed by the peoples of Germany, bearing the black, red and gold flag. Interestingly, at the time when Sorrieu created this image, the German peoples did not yet exist as a united nation – the flag they carry is an expression of liberal hopes in 1848 to unify the numerous German-speaking principalities into a nation-state under a democratic constitution. Following the German peoples are the peoples of Austria, the Kingdom of the Two Sicilies, Lombardy, Poland, England, Ireland, Hungary and Russia. From the heavens above, Christ, saints and angels gaze upon the scene. They have been used by the artist to symbolise fraternity among the nations of the world. 
 This chapter will deal with many of the issues visualised by Sorrieu in Fig. 1. During the nineteenth century, nationalism emerged as a force which brought about sweeping changes in the political and mental world of Europe. The end result of these changes was the emergence of the _nation-state_ in place of the multi-national dynastic empires of Europe. The concept and practices of a _modern_ state, in which a centralised power exercised sovereign control over a clearly defined territory, had been developing over a long period of time in Europe. But a _nation-state_ was one in which the majority of its citizens, and not only its rulers, came to develop a sense of common identity and shared history or descent. This commonness did not exist from time immemorial; it was forged through struggles, through the actions of leaders and the common people. This chapter will look at the diverse processes through which nation-states and nationalism came into being in nineteenth-century Europe. 
-###### **_Source A_** 
+##### **_Source A_** 
 ###### **Ernst Renan, ‘What is a Nation?’** 
 In a lecture delivered at the University of Sorbonne in 1882, the French philosopher Ernst Renan (1823-92) outlined his understanding of what makes a nation. The lecture  was subsequently published as a famous essay entitled ‘Qu’est-ce qu’une nation?’ (‘What is a Nation?’). In this essay Renan criticises the notion suggested by others that a nation is formed by a common language, race, religion, or territory: 
 ‘A nation is the culmination of a long past of endeavours, sacrifice and devotion. A heroic past, great men, glory, that is the social capital upon which one bases a national idea. To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of being a people. A nation is therefore a large-scale solidarity … Its existence is a daily **plebiscite** … A province is its inhabitants; if anyone has the right to be consulted, it is the inhabitant. A nation never has any real interest in annexing or holding on to a country against its will. The existence of nations is a good thing, a necessity even. Their existence is a guarantee of liberty, which would be lost if the world had only one law and only one master.’ 
 ### **_Source_** 
-##### **New words** 
+#### **New words** 
 Plebiscite – A direct vote by which all the people of a region are asked to accept or reject a proposal 
 ### **<mark>Discuss</mark>** 
 Summarise the attributes of a nation, as Renan understands them. Why, in his view, are nations important? 
 footer page number:4
-### `1  The French Revolution and the Idea of the Nation` 
 The first clear expression of nationalism came with the French Revolution in 1789. France, as you would remember, was a full-fledged territorial state in 1789 under the rule of an absolute monarch. The political and constitutional changes that came in the wake of the French Revolution led to the transfer of sovereignty from the monarchy to a body of French citizens. The revolution proclaimed that it was the people who would henceforth constitute the nation and shape its destiny. 
-From the very beginning, the French revolutionaries introduced various measures and practices that could create a sense of collective identity amongst the French people. The ideas of _la patrie_ (the fatherland) and _le citoyen_ (the citizen) emphasised the notion of a united community enjoying equal rights under a constitution. A new French flag, the tricolour,   was chosen to replace the former royal standard. The Estates General  was elected by the body of active citizens and renamed the National Assembly. New hymns were composed, oaths taken and martyrs commemorated, all in the name of the nation. A centralised administrative system was put in place and it formulated uniform laws for all citizens within its territory. Internal customs duties and dues were abolished and a uniform system of weights and measures was adopted. Regional dialects were discouraged and French, as it was spoken and written in Paris, became the common language of the nation. 
-###### **_Fig. 2 — The cover of a German almanac designed by the journalist Andreas Rebmann in 1798._** 
+From the very beginning, the French revolutionaries introduced various measures and practices that could create a sense of collective identity amongst the French people. The ideas of _la patrie_ (the fatherland) and _le citoyen_ (the citizen) emphasised 
+**_Fig. 2 — The cover of a German almanac designed by the journalist Andreas Rebmann in 1798._** 
+the notion of a united community enjoying equal rights under a constitution. A new French flag, the tricolour,   was chosen to replace the former royal standard. The Estates General  was elected by the body of active citizens and renamed the National Assembly. New hymns were composed, oaths taken and martyrs commemorated, all in the name of the nation. A centralised administrative system was put in place and it formulated uniform laws for all citizens within its territory. Internal customs duties and dues were abolished and a uniform system of weights and measures was adopted. Regional dialects were discouraged and French, as it was spoken and written in Paris, became the common language of the nation. 
 _The image of the French Bastille being stormed by the revolutionary crowd has been placed next to a similar fortress meant to represent the bastion of despotic rule in the German province of Kassel. Accompanying the illustration is the slogan: ‘The people must seize their own freedom!’ Rebmann lived in the  city of Mainz and was  a member of a German Jacobin group._ 
 The revolutionaries further declared that it was the mission and the destiny of the French nation to liberate the peoples of Europe from despotism, in other words to help other peoples of Europe to become nations. 
 When the news of the events in France reached the different cities of Europe, students and other members of educated middle classes began setting up Jacobin clubs. Their activities and campaigns prepared the way for the French armies which moved into Holland, Belgium, Switzerland and much of Italy in the 1790s. With the outbreak of the revolutionary wars, the French armies began to carry the idea of nationalism abroad. 
@@ -36,8 +35,7 @@ ICELAND<br>(DENMARK)<br>ATLANTIC  SEA<br>NORWAY<br>(SWEDEN)<br>SWEDEN<br>SCOTLAN
 **_Fig. 3 — Europe after the Congress of Vienna, 1815._** 
 Within the wide swathe of territory that came under his control, Napoleon set about introducing many of the reforms that he had already introduced in France. Through a return to monarchy Napoleon had, no doubt, destroyed democracy in France, but in the administrative field he had incorporated revolutionary principles in order to make the whole system more rational and efficient. The Civil Code of 1804 – usually known as the Napoleonic Code – did away with all privileges based on birth, established  equality before the law and secured  the right to property. This Code was exported to the regions under French control. In the Dutch Republic, in Switzerland, in Italy and Germany, Napoleon simplified administrative divisions, abolished the feudal system and freed peasants from serfdom and manorial dues. In the towns too, guild restrictions were removed. Transport and communication systems were improved. Peasants, artisans, workers and new businessmen 
 footer page number:6
-**_Fig. 4 — The Planting of Tree of Liberty in Zweibrücken, Germany._** 
-_The subject of this colour print by the German painter Karl Kaspar Fritz is the occupation of the town of Zweibrücken by the French armies. French soldiers, recognisable by their blue, white and red uniforms, have been portrayed as oppressors as they seize a peasant’s cart (left), harass some young women (centre foreground) and force a peasant down to his knees. The plaque being affixed to the Tree of Liberty carries a German inscription which in translation reads: ‘Take freedom and equality from us, the model of humanity.’ This is a sarcastic reference to the claim of the French as being liberators who opposed monarchy in the territories they entered._ 
+**_Fig. 4 — The Planting of Tree of Liberty in Zweibrücken, Germany._** _The subject of this colour print by the German painter Karl Kaspar Fritz is the occupation of the town of Zweibrücken by the French armies. French soldiers, recognisable by their blue, white and red uniforms, have been portrayed as oppressors as they seize a peasant’s cart (left), harass some young women (centre foreground) and force a peasant down to his knees. The plaque being affixed to the Tree of Liberty carries a German inscription which in translation reads: ‘Take freedom and equality from us, the model of humanity.’ This is a sarcastic reference to the claim of the French as being liberators who opposed monarchy in the territories they entered._ 
 enjoyed a new-found freedom. Businessmen and small-scale producers of goods, in particular, began to realise that uniform laws, standardised weights and measures, and a common national currency would facilitate the movement and exchange of goods and capital from one region to another. 
 However, in the areas conquered, the reactions of the local populations to French rule were mixed. Initially, in many places such as Holland and Switzerland, as well as in certain cities like Brussels, Mainz, Milan and Warsaw, the French armies were welcomed as harbingers of liberty. But the initial enthusiasm soon turned to hostility, as it became clear that the new administrative arrangements did not go hand in hand with political freedom. Increased taxation, censorship, forced conscription into the French armies required to conquer the rest of Europe, all seemed to outweigh the advantages of the administrative changes. 
 **_Fig. 5 — The courier of Rhineland loses all that he has on his way home from Leipzig._** _Napoleon here is represented as a postman on his way back to France after he lost the battle of Leipzig in 1813. Each letter dropping out of his bag bears the names of the territories he lost._ 
@@ -45,43 +43,40 @@ footer page number:7
 ### `2  The Making of Nationalism in Europe` 
 If you look at the map of mid-eighteenth-century Europe you will find that there were no ‘nation-states’ as we know them today. 
 What we know today as Germany, Italy and Switzerland were divided into kingdoms, duchies and cantons whose rulers had their autonomous territories. Eastern and Central Europe were under autocratic monarchies within the territories of which lived diverse peoples. They did not see themselves as sharing a collective identity or a common culture. Often, they even spoke different languages and belonged to different ethnic groups. The Habsburg Empire that ruled over Austria-Hungary, for example, was a patchwork of many different regions and peoples. It included the Alpine regions – the Tyrol, Austria and the Sudetenland – as well as Bohemia, where the aristocracy was predominantly German-speaking. It also included the Italian-speaking provinces of Lombardy and Venetia. In Hungary, half of the population spoke Magyar while the other half spoke a variety of dialects. In Galicia, the aristocracy spoke Polish. Besides these three dominant groups, there also lived within the boundaries of the empire, a mass of subject peasant peoples – Bohemians and Slovaks to the north, Slovenes in Carniola, Croats to the south, and Roumans to the east in Transylvania. Such differences did not easily promote a sense of political unity. The only tie binding these diverse groups together was a common allegiance to the emperor. 
-**Some important dates** 
-footer page number:1797
-Napoleon invades Italy; Napoleonic wars begin. 
-1814-1815 
-Fall of Napoleon; the Vienna Peace Settlement. 
-footer page number:1821
+**Some important dates** <u>1797</u> Napoleon invades Italy; Napoleonic wars begin. 
+<u>1814-1815</u> Fall of Napoleon; the Vienna Peace Settlement. 
+###### <u>1821</u> 
 Greek struggle for independence begins. 
-footer page number:1848
+###### <u>1848</u> 
 Revolutions in Europe; artisans, industrial workers and peasants revolt against economic hardships; middle classes demand constitutions and representative governments; Italians, Germans, Magyars, Poles, Czechs, etc. demand nation-states. 
-1859-1870 Unification of Italy. 
-1866-1871 Unification of Germany. 
-footer page number:1905
+<u>1859-1870</u> Unification of Italy. 
+<u>1866-1871</u> Unification of Germany. 
+###### <u>1905</u> 
 Slav nationalism gathers force in the Habsburg and Ottoman Empires. 
 How did nationalism and the idea of the nation-state emerge? 
-##### `2.1 The Aristocracy and the New Middle Class` 
+#### `2.1 The Aristocracy and the New Middle Class` 
 Socially and politically, a landed aristocracy was the dominant class on the continent. The members of this class were united by a common way of life that cut across regional divisions. They owned estates in the countryside and also town-houses. They spoke French for purposes of diplomacy and in high society. Their families were often connected by ties of marriage. This powerful aristocracy was, however, numerically a small group. The majority of the population was made up of the peasantry. To the west, the bulk of the land was farmed by tenants and small owners, while in Eastern and Central Europe the pattern of landholding was characterised by vast estates which were cultivated by serfs. 
 footer page number:8
 In Western and parts of Central Europe the growth of industrial production and trade meant the growth of towns and the emergence of commercial classes whose existence was based on production for the market. Industrialisation began in England in the second half of the eighteenth century, but in France and parts of the German states it occurred only during the nineteenth century. In its wake, new social groups came into being: a working-class population, and middle classes made up of industrialists, businessmen, professionals. In Central and Eastern Europe these groups were smaller in number till late nineteenth century. It was among the educated, liberal middle classes that ideas of national unity following the abolition of aristocratic privileges gained popularity. 
-##### `2.2 What did Liberal Nationalism Stand for?` 
+#### `2.2 What did Liberal Nationalism Stand for?` 
 Ideas of national unity in early-nineteenth-century Europe were closely allied to the ideology of liberalism. The term ‘liberalism’ derives from the Latin root _liber_ , meaning free. For the new middle classes liberalism stood for freedom for the individual and equality of all before the law. Politically, it emphasised the concept of government by consent. Since the French Revolution, liberalism had stood for the end of autocracy and clerical privileges, a constitution and representative government through parliament. Nineteenth-century liberals also stressed the inviolability of private property. 
 Yet, equality before the law did not necessarily stand for universal **suffrage** . You will recall that in revolutionary France, which marked the first political experiment in liberal democracy, the right to vote and to get elected was granted exclusively to property-owning men. Men without property and all women were excluded from political rights. Only for a brief period under the Jacobins did all adult males enjoy suffrage. However, the Napoleonic Code went back to limited suffrage and reduced women to the status of a minor, subject to the authority of fathers and husbands. Throughout the nineteenth and early twentieth centuries women and non-propertied men organised opposition movements demanding equal political rights. 
-##### **New words** 
+**New words** 
 Suffrage – The right to vote 
 In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital. During the nineteenth century this was a strong demand of the emerging middle classes. Let us take the example of the German-speaking regions in the first half of the nineteenth century. Napoleon’s administrative measures had created out of 
 footer page number:9
 countless small principalities a confederation of 39 states. Each of these possessed its own currency, and weights and measures. A merchant travelling in 1833 from Hamburg to Nuremberg to sell his goods would have had to pass through 11 customs barriers and pay a customs duty of about 5 per cent at each one of them. Duties were often levied according to the weight or measurement of the goods. As each region had its own system of weights and measures, this involved time-consuming calculation. The measure of cloth, for example, was the _elle_ which in each region stood for a different length. An _elle_ of textile material bought in Frankfurt would get you 54.7 cm of cloth, in Mainz 55.1 cm, in Nuremberg 65.6 cm, in Freiburg 53.5 cm. 
 Such conditions were viewed as obstacles to economic exchange and growth by the new commercial classes, who argued for the creation of a unified economic territory allowing the unhindered movement of goods, people and capital.  In 1834, a customs union or _zollverein_ was formed at the initiative of Prussia and joined by most of the German states. The union abolished tariff barriers and reduced the number of currencies from over thirty to two. The creation of a network of railways further stimulated mobility, harnessing economic interests to national unification. A wave of economic nationalism strengthened the wider nationalist sentiments growing at the time. 
-##### `2.3 A New Conservatism after 1815` 
+#### `2.3 A New Conservatism after 1815` 
 Following the defeat of Napoleon in 1815, European governments were driven by a spirit of **conservatism** . Conservatives believed that established, traditional institutions of state and society –  like the monarchy, the Church, social hierarchies, property and the family – should be preserved. Most conservatives, however, did not propose a return to the society of pre-revolutionary days. Rather, they realised, from the changes initiated by Napoleon, that modernisation could in fact strengthen traditional institutions like the monarchy. It could make  state  power more effective and strong. A modern army, an efficient bureaucracy, a dynamic economy, the abolition of feudalism and serfdom could strengthen the autocratic monarchies of Europe. 
-###### **_Source B_** 
+##### **_Source B_** 
 Economists began to think in terms of the national economy. They talked of how the nation could develop and what economic measures could help forge this nation together. 
 Friedrich List, Professor of Economics at the University of Tübingen in Germany, wrote in 1834: 
 ‘The aim of the zollverein is to bind the Germans economically into a nation. It will strengthen the nation materially as much by protecting its interests externally as by stimulating its internal productivity. It ought to awaken and raise national sentiment through a fusion of individual and provincial interests. The German people have realised that a free economic system is the only means to engender national feeling.’ 
-**_Source_** 
+### **_Source_** 
 ### **<mark>Discuss</mark>** 
 Describe the political ends that List hopes to achieve through economic measures. 
-##### **New words** 
+#### **New words** 
 Conservatism – A political philosophy that stressed the importance of tradition, established institutions and customs, and preferred gradual development to quick change 
 In 1815, representatives of the European powers – Britain, Russia, Prussia and Austria – who had collectively defeated Napoleon, met at Vienna to draw up a settlement for Europe. The Congress was hosted by the Austrian Chancellor Duke Metternich. The delegates 
 footer page number:10
@@ -91,14 +86,12 @@ Conservative regimes set up in 1815 were autocratic. They did not tolerate criti
 Plot on a map of Europe the changes drawn up by the Vienna Congress. 
 ### **<mark>Discuss</mark>** 
 What is the caricaturist trying to depict? 
-**_Fig. 6 — The Club of Thinkers, anonymous caricature dating to_ c.** **_1820._** 
-_The plaque on the left bears the inscription: ‘The most important question of today’s meeting: How long will thinking be allowed to us?’_ 
-_The board on the right lists the rules of the Club which include the following:_ 
-- _‘1. Silence is the first commandment of this learned society._ 
+**_Fig. 6 — The Club of Thinkers, anonymous caricature dating to_ c.** **_1820._** _The plaque on the left bears the inscription: ‘The most important question of today’s meeting: How long will thinking be allowed to us?’_ 
+_The board on the right lists the rules of the Club which include the following: ‘1. Silence is the first commandment of this learned society._ 
 _2. To avoid the eventuality whereby a member of this club may succumb to the temptation of speech, muzzles will be distributed to members upon entering.’_ 
 footer page number:11
 associated with the French Revolution. The memory of the French Revolution nonetheless continued to inspire liberals. One of the major issues taken up by the liberal-nationalists, who criticised the new conservative order, was freedom of the press. 
-##### `2.4 The Revolutionaries` 
+#### `2.4 The Revolutionaries` 
 During the years following 1815, the fear of repression drove many liberal-nationalists underground. Secret societies sprang up in many European states to train revolutionaries and spread their ideas. To be revolutionary at this time meant a commitment to oppose monarchical forms that had been established after the Vienna Congress, and to fight for liberty and freedom. Most of these revolutionaries also saw the creation of nation-states as a necessary part of this struggle for freedom. 
 One such individual was the Italian revolutionary Giuseppe Mazzini. Born in Genoa in 1807, he became a member of the secret society of the Carbonari. As a young man of 24, he was sent into exile in 1831 for attempting a revolution in Liguria. He subsequently founded two more underground societies, first, Young Italy in Marseilles, and then, Young Europe in Berne, whose members were like-minded young men from Poland, France, Italy and the German states. Mazzini believed that God had intended nations to be the natural units of mankind. So Italy could not continue to be a patchwork of small states and kingdoms. It had to be forged into a single unified republic within a wider alliance of nations. This unification alone could be the basis of Italian liberty. Following his model, secret societies were set up in Germany, France, Switzerland and Poland. Mazzini’s relentless opposition to monarchy and his vision of democratic republics frightened the conservatives.  Metternich described him as ‘the most dangerous enemy of our social order’. 
 **_Fig. 7 — Giuseppe Mazzini and the founding of Young Europe in Berne 1833._** _Print by Giacomo Mantegazza._ 
@@ -107,7 +100,7 @@ footer page number:12
 As conservative regimes tried to consolidate their power, liberalism and nationalism came to be increasingly associated with revolution in many regions of Europe such as the Italian and German states, the provinces of the Ottoman Empire, Ireland and Poland. These revolutions were led by the liberal-nationalists belonging to the educated middle-class elite, among whom were professors, schoolteachers, clerks and members of the commercial middle classes. 
 The first upheaval took place in France in July 1830.  The Bourbon kings who had been restored to power during the conservative reaction after 1815, were now overthrown by liberal revolutionaries who installed a constitutional monarchy with Louis Philippe at its head. ‘When France sneezes,’ Metternich once remarked, ‘the rest of Europe catches cold.’  The July Revolution sparked an uprising in Brussels which led to Belgium breaking away from the United Kingdom of the Netherlands. 
 An event that mobilised nationalist feelings among the educated elite across Europe was the Greek war of independence. Greece had been part of the Ottoman Empire since the fifteenth century. The growth of revolutionary nationalism in Europe sparked off a struggle for independence amongst the Greeks which began in 1821. Nationalists in Greece got support from other Greeks living in exile and also from many West Europeans who had sympathies for ancient Greek culture. Poets and artists lauded Greece as the cradle of European civilisation and mobilised public opinion to support its struggle against a Muslim empire. The English poet Lord Byron organised funds and later went to fight in the war, where he died of fever in 1824. Finally, the Treaty of Constantinople of 1832 recognised Greece as an independent nation. 
-##### `3.1 The Romantic Imagination and National Feeling` 
+#### `3.1 The Romantic Imagination and National Feeling` 
 The development of nationalism did not come about only through wars and territorial expansion. Culture played an important role in creating the idea of the nation: art and poetry, stories and music helped express and shape nationalist feelings. 
 Let us look at Romanticism, a cultural movement which sought to develop a particular form of nationalist sentiment. Romantic artists and poets generally criticised the glorification of reason and science 
 footer page number:13
@@ -117,11 +110,11 @@ Other Romantics such as the German philosopher Johann Gottfried Herder (1744-180
 footer page number:14
 The emphasis on vernacular language and the collection of local folklore was not just to recover an ancient national spirit, but also to carry the modern nationalist message to large audiences who were mostly illiterate. This was especially so in the case of Poland, which had been partitioned at the end of the eighteenth century by the Great Powers – Russia, Prussia and Austria. Even though Poland no longer existed as an independent territory, national feelings were kept alive through music and language. Karol Kurpinski, for example, celebrated the national struggle through his operas and music, turning folk dances like the polonaise and mazurka into nationalist symbols. 
 Language too played an important role in developing nationalist sentiments. After Russian occupation, the Polish language was forced out of schools and the Russian language was imposed everywhere. In 1831, an armed rebellion against Russian rule took place which was ultimately crushed. Following this, many members of the clergy in Poland began to use language as a weapon of national resistance. Polish was used for Church gatherings and all religious instruction. As a result, a large number of priests and bishops were put in jail or sent to Siberia by the Russian authorities as punishment for their refusal to preach in Russian. The use of Polish came to be seen as a symbol of the struggle against Russian dominance. 
-###### **_Box 1_** 
+##### **_Box 1_** 
 ###### **The Grimm Brothers: Folktales and Nation-building** 
 Grimms’ Fairy Tales is a familiar name. The brothers Jacob and Wilhelm Grimm were born in the German city of Hanau in 1785 and 1786 respectively. While both of them studied law, they soon developed an interest in collecting old folktales. They spent six years travelling from village to village, talking to people and writing down fairy tales, which were handed down through the generations. These were popular both among children and adults. In 1812, they published their first collection of tales. Subsequently, both the brothers became active in liberal politics, especially the movement for freedom of the press. In the meantime they also published a 33-volume dictionary of the German language. 
 The Grimm brothers also saw French domination as a threat to German culture, and believed that the folktales they had collected were expressions of a pure and authentic German spirit. They considered their projects of collecting folktales and developing the German language as part of the wider effort to oppose French domination and create a German national identity. 
-##### `3.2 Hunger, Hardship and Popular Revolt` 
+#### `3.2 Hunger, Hardship and Popular Revolt` 
 The 1830s were years of great economic hardship in Europe. The first half of the nineteenth century saw an enormous increase in population all over Europe. In most countries there were more seekers of jobs than employment. Population from rural areas migrated to the cities to live in overcrowded slums. Small producers in towns were often faced with stiff competition from imports of cheap machine-made goods from England, where industrialisation was more advanced than on the continent. This was especially so in textile production, which was carried out mainly in homes or small workshops and was only partly mechanised. In those regions of Europe where the aristocracy still enjoyed power, peasants struggled under the burden of feudal dues and obligations. The rise of food prices or a year of bad harvest led to widespread pauperism in town and country. 
 ### **<mark>Discuss</mark>** 
 Discuss the importance of language and popular traditions in the creation of national identity. 
@@ -137,13 +130,13 @@ Describe the cause of the Silesian weavers’ uprising. Comment on the viewpoint
 ### **<mark>Activity</mark>** 
 Imagine you are a weaver who saw the events as they unfolded. Write a report on what you saw. 
 footer page number:16
-##### `3.3 1848: The Revolution of the Liberals` 
+#### `3.3 1848: The Revolution of the Liberals` 
 Parallel to the revolts of the poor, unemployed and starving peasants and workers in many European countries in the year 1848, a revolution led by the educated middle classes was under way. Events of February 1848 in France had brought about the abdication of the monarch and a republic based on universal male suffrage had been proclaimed. In other parts of Europe where independent nation-states did not yet exist – such as Germany, Italy, Poland, the Austro-Hungarian Empire – men and women of the liberal middle classes combined their demands for constitutionalism with national unification. They took advantage of the growing popular unrest to push their demands for the creation of a nation-state on parliamentary principles – a constitution, freedom of the press and freedom of association. 
 In the German regions a large number of political associations whose members were middle-class professionals, businessmen and prosperous artisans came together in the city of Frankfurt and decided to vote for an all-German National Assembly. On 18May 1848, 831 elected representatives marched in a festive procession to take their places in the Frankfurt parliament convened in the Church of St Paul. They drafted a constitution for a German nation to be headed by a monarchy subject to a parliament. When the deputies offered the crown on these terms to Friedrich Wilhelm IV, King of Prussia, he rejected it and joined other monarchs to oppose the elected assembly. While the opposition of the aristocracy and military became stronger, the social basis of parliament eroded. The parliament was dominated by the middle classes who resisted the demands of workers and artisans and consequently lost their support. In the end troops were called in and the assembly was forced to disband. 
 The issue of extending political rights to women was a controversial one within the liberal movement, in which large numbers of women had participated actively over the years. Women had formed their own political associations, founded newspapers and taken part in political meetings and demonstrations. Despite this they were denied 
-##### **New words** 
+#### **New words** 
 Feminist – Awareness of women’s rights and interests based on the belief of the social, economic and political equality of the genders 
-###### **_Source C_** 
+##### **_Source C_** 
 ###### **How were liberty and equality for women to be defined?** 
 The liberal politician Carl Welcker, an elected member of the Frankfurt Parliament, expressed the following views: 
 ‘Nature has created men and women to carry out different functions … Man, the stronger, the bolder and freer of the two, has been designated as protector of the family, its provider, meant for public tasks in the domain of law, production, defence. Woman, the weaker, dependent and timid, requires the protection of man. Her sphere is the home, the care of the children, the nurturing of the family … Do we require any further proof that given such differences, equality between the sexes would only endanger harmony and destroy the dignity of the family?’ 
@@ -157,11 +150,13 @@ suffrage rights during the election of the Assembly. When the Frankfurt parliame
 Though conservative forces were able to suppress liberal movements in 1848, they could not restore the old order. Monarchs were beginning to realise that the cycles of revolution and repression could only be ended by granting concessions to the liberal-nationalist revolutionaries. Hence, in the years after 1848, the autocratic monarchies of Central and Eastern Europe began to introduce the changes that had already taken place in Western Europe before 1815. Thus serfdom and bonded labour were abolished both in the Habsburg dominions and in Russia. The Habsburg rulers granted more autonomy to the Hungarians in 1867. 
 ### **<mark>Discuss</mark>** 
 Compare the positions on the question of women’s rights voiced by the three writers cited above. What do they reveal about liberal **ideology** ? 
-##### **New words** 
+#### **New words** 
 Ideology – System of ideas reflecting a particular social and political vision 
 footer page number:18
 ### `4  The Making of Germany and Italy` 
-##### `4.1 Germany – Can the Army be the Architect of a Nation?` 
+```
+4.1 Germany – Can the Army be the Architect of a Nation?
+```
 After 1848, nationalism in Europe moved away from its association with democracy and revolution. Nationalist sentiments were often mobilised by conservatives for promoting state power and achieving political domination over Europe. 
 This can be observed in the process by which Germany and Italy came to be unified as nation-states. As you have seen, nationalist feelings were widespread among middle-class Germans, who in 1848 tried to unite the different regions of the German confederation into a nation-state governed by an elected parliament. This liberal initiative to nation-building was, however, repressed by the combined forces of the monarchy and the military, supported by the large landowners (called Junkers) of Prussia. From then on, Prussia took on the leadership of the movement for national unification. Its chief minister, Otto von Bismarck, was the architect of this process carried out with the help of the Prussian army and bureaucracy. Three wars over seven years – with Austria, Denmark and France – ended in Prussian victory and completed the process of unification. In January 1871, the Prussian king, William I, was proclaimed German Emperor in a ceremony held at Versailles. 
 On the bitterly cold morning of 18 January 1871, an assembly comprising the princes of the German states, representatives of the army, important Prussian ministers including the chief minister Otto von Bismarck gathered in the unheated Hall of Mirrors in the Palace of Versailles to proclaim the new German Empire headed by Kaiser William I of Prussia. 
@@ -171,7 +166,7 @@ footer page number:19
 <!-- Start of picture text -->
 BALTIC SEA<br>NORTH SEA<br>SCHLESWIG-<br>HOLSTE N EAST PRUSSIA<br>MECKLENBURG- POMERANIA<br>SCHWER N WEST PRUSSIA<br>HANOVER<br>BRANDENBURG<br>BRUNSWICK<br>POSEN<br>WESTPHALIA<br>RUSSIAN<br>EMP RE<br>RHINELAND<br>THUR NGIAN S LESIA<br>STATES<br>Prussia before 1866<br>AUSTRIAN Conquered by Prussia in Austro-Prussia<br>EMPIRE War, 1866<br>Austrian territories excluded from German<br>Confederation 1867<br>Joined with Prussia to form German<br>BAVARIA Confederation, 1867<br>South German states joining with Prussia to<br>form German Empire, 1871<br>Won by Prussia in Franco-Prussia War, 1871<br>P R U S S I A<br>HESSEN  NASSA<br>WURTTEMBERG<br>BADEN<br><!-- End of picture text -->
 **_Fig. 12 — Unification of Germany (1866-71)._** 
-##### `4.2 Italy Unified` 
+#### `4.2 Italy Unified` 
 Like Germany, Italy too had a long history of political fragmentation. Italians were scattered over several dynastic states as well as the multi-national Habsburg Empire. During the middle of the nineteenth century, Italy was divided into seven states, of which only one, Sardinia-Piedmont, was ruled by an Italian princely house. The north was under Austrian Habsburgs, the centre was ruled by the Pope and the southern regions were under the domination of the Bourbon kings of Spain. Even the Italian language had not acquired one common form and still had many regional and local variations. 
 **_Fig. 13 — Caricature of Otto von Bismarck in the German reichstag (parliament), from_ Figaro** **_, Vienna, 5 March 1870._** 
 During the 1830s, Giuseppe Mazzini had sought to put together a coherent programme for a unitary Italian Republic. He had also formed a secret society called Young Italy for the dissemination of his goals. The failure of revolutionary uprisings both in 1831 and 1848 meant that the mantle now fell on Sardinia-Piedmont under its ruler King Victor Emmanuel II to unify the Italian states through war. In the eyes of the ruling elites of this region, a unified Italy offered them the possibility of economic development and political dominance. 
@@ -183,23 +178,22 @@ Chief Minister Cavour who led the movement to unify the regions of Italy was nei
 SWITZERLAND<br>LOMBARDY VENETIA<br>SAVOY<br>SARD NIA PARMA<br>MODENA<br>SAN MARINO<br>MONACO<br>TUSCANY<br>PAPAL<br>STATE<br>KINGDOM<br>OF BOTH<br>SICIL ES<br>TUNIS<br><!-- End of picture text -->
 **_Fig. 14(a) — Italian states before unification, 1858._** 
 ### **<mark>Activity</mark>** 
-Look at Fig. 14(a). Do you think that the people living in any of these regions thought of themselves as Italians? 
-Examine Fig. 14(b). Which was the first region to become a part of unified Italy? Which was the last region to join? In which year did the largest number of states join? 
+Look at Fig. 14(a). Do you think that the people living in any of these regions thought of themselves as Italians? Examine Fig. 14(b). Which was the first region to become a part of unified Italy? Which was the last region to join? In which year did the largest number of states join? 
 <!-- Start of picture text -->
 SWITZERLAND<br>1866<br>AUSTRIA<br>1858<br>1858-60<br>1870<br>1860<br>1858<br>TUNIS<br><!-- End of picture text -->
 **_Fig. 14(b) — Italy after unification._** _The map shows the year in which different regions (seen in Fig 14(a) become part of a unified Italy._ 
-##### `4.3  The Strange Case of Britain` 
+#### `4.3  The Strange Case of Britain` 
 The model of the nation or the nation-state, some scholars have argued, is Great Britain. In Britain the formation of the nation-state 
 footer page number:21
 was not the result of a sudden upheaval or revolution. It was the result of a long-drawn-out process. There was no British nation prior to the eighteenth century. The primary identities of the people who inhabited the British Isles were **ethnic** ones – such as English, Welsh, Scot or Irish. All of these ethnic groups had their own cultural and political traditions. But as the English nation steadily grew in wealth, importance and power, it was able to extend its influence over the other nations of the islands. The English parliament, which had seized power from the monarchy in 1688 at the end of a protracted conflict, was the instrument through which a nation-state, with England at its centre, came to be forged. The Act of Union (1707) between England and Scotland that resulted in the formation of the ‘United Kingdom of Great Britain’ meant, in effect, that England was able to impose its influence on Scotland. The British parliament was henceforth dominated by its English members. The growth of a British identity meant that Scotland’s distinctive culture and political institutions were systematically suppressed. The Catholic clans that inhabited the Scottish Highlands suffered terrible repression whenever they attempted to assert their independence. The Scottish Highlanders were forbidden to speak their Gaelic language or wear their national dress, and large numbers were forcibly driven out of their homeland. 
 Ireland suffered a similar fate. It was a country deeply divided between Catholics and Protestants. The English helped the Protestants of Ireland to establish their dominance over a largely Catholic country. Catholic revolts against British dominance were suppressed. After a failed revolt led by Wolfe Tone and his United Irishmen (1798), Ireland was forcibly incorporated into the United Kingdom in 1801. A new ‘British nation’ was forged through the propagation of a dominant English culture. The symbols of the new Britain – the British flag (Union Jack), the national anthem (God Save Our Noble King), the English language – were actively promoted and the older nations survived only as subordinate partners in this union. 
 ### **<mark>Activity</mark>** 
 The artist has portrayed Garibaldi as holding on to the base of the boot, so that the King of Sardinia-Piedmont can enter it from the top. Look at the map of Italy once more. What statement is this caricature making? 
-###### **_Box 2_** 
+##### **_Box 2_** 
 **Giuseppe Garibaldi** (1807-82) is perhaps the most celebrated of Italian freedom fighters. He came from a family engaged in coastal trade and was a sailor in the merchant navy. In 1833 he met Mazzini, joined the Young Italy movement and participated in a republican uprising in Piedmont in 1834. The uprising was suppressed and Garibaldi had to flee to South America, where he lived in exile till 1848. In 1854, he supported Victor Emmanuel II in his efforts to unify the Italian states. In 1860, Garibaldi led the famous Expedition of the Thousand to South Italy. Fresh volunteers kept joining through the course of the campaign, till their numbers grew to about 30,000. They were popularly known as Red Shirts. 
 In 1867, Garibaldi led an army of volunteers to Rome to fight the last obstacle to the unification of Italy, the Papal States where a French garrison was stationed. The Red Shirts proved to be no match for the combined French and Papal troops. It was only in 1870 when, during the war with Prussia, France withdrew its troops from Rome that the Papal States were finally joined to Italy. 
 **_Fig. 15 – Garibaldi helping King Victor Emmanuel II of Sardinia-Piedmont to pull on the boot named ‘Italy’. English caricature of 1859._** 
-##### **New words** 
+#### **New words** 
 Ethnic – Relates to a common racial, tribal, or cultural origin or background that a community identifies with or claims 
 footer page number:22
 ### `5  Visualising the Nation` 
@@ -207,12 +201,13 @@ While it is easy enough to represent a ruler through a portrait or a statue, how
 You will recall that during the French Revolution artists used the female allegory to portray ideas such as Liberty, Justice and the Republic. These ideals were represented through specific objects or symbols.  As you would remember, the attributes of Liberty are the red cap, or the broken chain, while Justice is generally a blindfolded woman carrying a pair of weighing scales. 
 Similar female allegories were invented by artists in the nineteenth century to represent the nation. In France she was christened Marianne, a popular Christian name, which underlined the idea of a people’s nation. Her characteristics were drawn from those of Liberty and the Republic – the red cap, the tricolour, the cockade. Statues of Marianne were erected in public squares to remind the public of the national symbol of unity and to persuade them to identify with it. Marianne images were marked on coins and stamps. 
 Similarly, Germania became the allegory of the German nation. In visual representations, Germania wears a crown of oak leaves, as the German oak stands for heroism. 
-##### **New words** 
+#### **New words** 
 Allegory – When an abstract idea (for instance, greed, envy, freedom, liberty) is expressed through a person or a thing. An allegorical story has two meanings, one literal and one symbolic 
 **_Fig. 16 — Postage stamps of 1850 with the figure of Marianne representing the Republic of France._** 
 **_Fig. 17 — Germania, Philip Veit, 1848._** _The artist prepared this painting of Germania on a cotton banner, as it was meant to hang from the ceiling of the Church of St Paul where the Frankfurt parliament was convened in March 1848._ 
 footer page number:23
-###### **Meanings of the symbols** 
+##### **_Box 3_** 
+##### **Meanings of the symbols** 
 |**Attribute**|**Significance**|
 |---|---|
 |Broken chains|Being freed|
@@ -228,19 +223,15 @@ With the help of the chart in Box 3, identify the attributes of Veit’s Germani
 ### **<mark>Activity</mark>** 
 Describe what you see in Fig. 17. What historical events could Hübner be referring to in this allegorical vision of the nation? 
 footer page number:24
-###### **_Fig. 19 — Germania guarding the Rhine._** 
-_In 1860, the artist Lorenz Clasen was commissioned to paint this image. The inscription on Germania’s sword reads: ‘The German sword protects the German Rhine.’_ 
+**_Fig. 19 — Germania guarding the Rhine._** _In 1860, the artist Lorenz Clasen was commissioned to paint this image. The inscription on Germania’s sword reads: ‘The German sword protects the German Rhine.’_ 
 ### **<mark>Activity</mark>** 
 Look once more at Fig. 10. Imagine you were a citizen of Frankfurt in March 1848 and were present during the proceedings of the parliament. How would you (a) as a man seated in the hall of deputies, and (b) as a woman observing from the galleries, relate to the banner of Germania hanging from the ceiling? 
 footer page number:25
-### `6  Nationalism and Imperialism` 
 By the last quarter of the nineteenth century nationalism no longer retained its idealistic liberal-democratic sentiment of the first half of the century, but became a narrow creed with limited ends. During this period nationalist groups became increasingly intolerant of each other and ever ready to go to war. The major European powers, in turn, manipulated the nationalist aspirations of the subject peoples in Europe to further their own imperialist aims. 
 The most serious source of nationalist tension in Europe after 1871 was the area called the Balkans. The Balkans was a region of geographical and ethnic variation comprising modern-day Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia and Montenegro whose inhabitants were broadly known as the Slavs. A large part of the Balkans was under the control of the Ottoman Empire. The spread of the ideas of romantic nationalism in the Balkans together with the disintegration of the Ottoman Empire made this region very explosive. All through the nineteenth century the Ottoman Empire had sought to strengthen itself through modernisation and internal reforms but with very little success. One by one, its European subject nationalities broke away from its control and declared independence. The Balkan peoples based their claims for independence or political rights on nationality and used history to prove that they had once been independent but had subsequently been subjugated by foreign powers. Hence the rebellious nationalities in the Balkans thought of their struggles as attempts to win back their long-lost independence. 
 As the different Slavic nationalities struggled to define their identity and independence, the Balkan area became an area of intense conflict. The Balkan states were fiercely jealous of each other and each hoped to gain more territory at the expense of the others. Matters were further complicated because the Balkans also became the scene of big power rivalry. During this period, there was intense rivalry among the European powers over trade and colonies as well as naval and military might. These rivalries were very evident in the way the Balkan problem unfolded. Each power – Russia, Germany, England, Austro-Hungary – was keen on countering the hold of other powers over the Balkans, and extending its own control over the area. This led to a series of wars in the region and finally the First World War. 
 footer page number:26
-<!-- Start of picture text -->
-Fig. 20 — A map celebrating the British Empire.<br><!-- End of picture text -->
-_At the top, angels are shown carrying the banner of freedom. In the foreground, Britannia_ **_—_** _the_ **_—_** _symbol of the British nation is triumphantly sitting over the globe. The colonies are represented through images of tigers, elephants, forests and primitive people. The domination of the world is shown as the basis of Britain’s national pride._ 
+**_Fig. 20 — A map celebrating the British Empire._** _At the top, angels are shown carrying the banner of freedom. In the foreground, Britannia_ **_—_** _the symbol of the British nation_ **_—_** _is triumphantly sitting over the globe. The colonies are represented through images of tigers, elephants, forests and primitive people. The domination of the world is shown as the basis of Britain’s national pride._ 
 Nationalism, aligned with imperialism, led Europe to disaster in 1914. But meanwhile, many countries in the world which had been colonised by the European powers in the nineteenth century began to oppose imperial domination. The anti-imperial movements that developed everywhere were nationalist, in the sense that they all struggled to form independent nation-states, and were inspired by a sense of collective national unity, forged in confrontation with imperialism. European ideas of nationalism were nowhere replicated, for people everywhere developed their own specific variety of nationalism. But the idea that societies should be organised into ‘nation-states’ came to be accepted as natural and universal. 
 footer page number:27
 ### **<mark>Write in brief</mark>** 
@@ -261,7 +252,7 @@ footer page number:27
 4. How was the history of nationalism in Britain unlike the rest of Europe? 
 5. Why did nationalist tensions emerge in the Balkans? 
 ### **<mark>Project</mark>** 
-### Project 
+Project 
 Find out more about nationalist symbols in countries outside Europe. For one or two countries, collect examples of pictures, posters or music that are symbols of nationalism. How are these different from European examples? 
 footer page number:28
 # **The Nationalist Movement in Indo-China** 
@@ -271,27 +262,22 @@ If you see the historical experience of Indo-China in relation to that of India,
 ### **1  Emerging from the Shadow of China** 
 Indo-China comprises the modern countries of Vietnam, Laos and Cambodia (see Fig. 1). Its early history shows many different groups of people living in this area under the shadow of the powerful empire of China. Even when an independent country was established in what is now northern and central Vietnam, its rulers continued to maintain the Chinese system of government as well as Chinese culture. 
 Vietnam was also linked to what has been called the maritime silk route that brought in goods, people and ideas. Other networks of trade connected it to the hinterlands where non-Vietnamese people such as the Khmer Cambodians lived. 
-**_Fig. 2 – The port of Faifo._** 
-_This port was founded by Portuguese merchants. It was one of the ports used by European trading companies much before the nineteenth century._ 
-##### **1.1 Colonial Domination and Resistance** 
+**_Fig. 2 – The port of Faifo._** _This port was founded by Portuguese merchants. It was one of the ports used by European trading companies much before the nineteenth century._ 
+#### **1.1 Colonial Domination and Resistance** 
 The colonisation of Vietnam by the French brought the people of the country into conflict with the colonisers in all areas of life. The most visible form of French control was military and economic domination but the French also built a system that tried to reshape the culture of the Vietnamese. Nationalism in Vietnam emerged through the efforts of different sections of society to fight against the French and all they represented. 
 footer page number:30
-###### **_Fig. 3 – Francis Garnier, a French officer who led an attack against the ruling Nguyen dynasty, being killed by soldiers of the court._** 
-_Garnier was part of the French team that explored the Mekong river. In 1873 he was commissioned by the French to try and establish a French colony in Tonkin in the north. Garnier carried out an attack on Hanoi, the capital of Tonkin, but was killed in the fight._ 
+**_Fig. 3 – Francis Garnier, a French officer who led an attack against the ruling Nguyen dynasty, being killed by soldiers of the court._** _Garnier was part of the French team that explored the Mekong river. In 1873 he was commissioned by the French to try and establish a French colony in Tonkin in the north. Garnier carried out an attack on Hanoi, the capital of Tonkin, but was killed in the fight._ 
 French troops landed in Vietnam in 1858 and by the mid-1880s they had established a firm grip over the northern region. After the Franco-Chinese war the French  assumed control of Tonkin and Anaam and, in 1887, French Indo-China was formed. In the following decades the French sought to consolidate their position, and people in Vietnam began reflecting on the nature of the loss that Vietnam was suffering. Nationalist resistance developed out of this reflection. 
 **_Fig. 4 – The Mekong river, engraving by the French Exploratory Force, in which Garnier participated._** _Exploring and mapping rivers was part of the colonial enterprise everywhere in the world. Colonisers wanted to know the route of the rivers, their origin, and the terrain they passed through. The rivers could then be properly used for trade and transport. During these explorations innumerable pictures and maps were produced._ 
 footer page number:31
 The famous blind poet Ngyuyen Dinh Chieu (1822-88) bemoaned what was happening to his country: 
-I would rather face eternal darkness Than see the faces of traitors. 
-I would rather see no man Than encounter one man’s suffering. 
-I would rather see nothing 
-Than witness the dismembering of the country in decline. 
-##### **1.2 Why the French thought Colonies Necessary** 
+I would rather face eternal darkness Than see the faces of traitors. I would rather see no man Than encounter one man’s suffering. I would rather see nothing Than witness the dismembering of the country in decline. 
+#### **1.2 Why the French thought Colonies Necessary** 
 Colonies were considered essential to supply natural resources and other essential goods. Like other Western nations, France also thought it was the mission of the ‘advanced’ European countries to bring the benefits of civilisation to backward peoples. 
 The French began by building canals and draining lands in the Mekong delta to increase cultivation. The vast system of irrigation works – canals and earthworks – built mainly with forced labour, increased rice production and allowed the export of rice to the international market. The area under rice cultivation went up from 274,000 hectares in 1873 to 1.1 million hectares in 1900 and 2.2 million in 1930. Vietnam exported two-thirds of its rice production and by 1931 had become the third largest exporter of rice in the world. 
 This was followed by infrastructure projects to help transport goods for trade, move military garrisons and control the entire region. Construction of a trans-Indo-China rail network that would link the northern and southern parts of Vietnam and China was begun. This final link with Yunan in China was completed by 1910. The second line was also built, linking Vietnam to Siam (as Thailand was then called), via the Cambodian capital of Phnom Penh. 
 By the 1920s, to ensure higher levels of profit for their businesses, French business interests were pressurising the government in Vietnam to develop the infrastructure further. 
-##### **1.3 Should Colonies be Developed?** 
+#### **1.3 Should Colonies be Developed?** 
 Everyone agreed that colonies had to serve the interests of the mother country. But the question was – how? Some like Paul Bernard, an influential writer and policy-maker, strongly believed that the 
 ### **<mark>Activity</mark>** 
 Imagine a conversation between a French coloniser and a Vietnamese labourer in the canal project. The Frenchman believes he is bringing civilization to backward people and the Vietnamese labourer argues against it. In pairs act out the conversation they may have had, using evidence from the text. 
@@ -299,7 +285,7 @@ footer page number:32
 economy of the colonies needed to be developed. He argued that the purpose of acquiring colonies was to make profits. If the economy was developed and the standard of living of the people improved, they would buy more goods. The market would consequently expand, leading to better profits for French business. 
 Bernard suggested that there were several barriers to economic growth in Vietnam: high population levels, low agricultural productivity and extensive indebtedness amongst the peasants. To reduce rural poverty and increase agricultural productivity it was necessary to carry out land reforms as the Japanese had done in the 1890s. However, this could not ensure sufficient employment. As the experience of Japan showed, industrialisation would be essential to create more jobs. 
 The colonial economy in Vietnam was, however, primarily based on rice cultivation and rubber plantations owned by the French and a small Vietnamese elite. Rail and port facilities were set up to service this sector. **Indentured** Vietnamese labour was widely used in the rubber plantations. The French, contrary to what Bernard would have liked, did little to industrialise the economy. In the rural areas landlordism spread and the standard of living declined. 
-##### **New words** 
+#### **New words** 
 Indentured labour – A form of labour widely used in the plantations from the mid-nineteenth century. Labourers worked on the basis of contracts that did not specify any rights of labourers but gave immense power to employers. Employers could bring criminal charges against labourers and punish and jail them for non-fulfilment of contracts. 
 **_Fig. 5 – A French weapons merchant, Jean Dupuis, in Vietnam in the late nineteenth century._** 
 _Many like him explored the regions in the hope of making profits from trade. He was one of those who persuaded the French to try and establish a base in Vietnam._ 
@@ -307,43 +293,37 @@ footer page number:33
 ### **2  The Dilemma of Colonial Education** 
 French colonisation was not based only on economic exploitation. It was also driven by the idea of a ‘civilising mission’. Like the British in India, the French claimed that they were bringing modern civilisation to the Vietnamese. They took for granted that Europe had developed the most advanced civilisation. So it became the duty of the Europeans to introduce these modern ideas to the colony even if this meant destroying local cultures, religions and traditions, because these were seen as outdated and prevented modern development. 
 Education was seen as one way to civilise the ‘native’. But in order to educate them, the French had to resolve a dilemma. How far were the Vietnamese to be educated? The French needed an educated local labour force but they feared that education might create problems. Once educated, the Vietnamese may begin to question colonial domination. Moreover, French citizens living in Vietnam (called colons) began fearing that they might lose their jobs – as teachers, shopkeepers, policemen – to the educated Vietnamese. So they opposed policies that would give the Vietnamese full access to French education. 
-##### **2.1 Talking Modern** 
+#### **2.1 Talking Modern** 
 The French were faced with yet another problem in the sphere of education: the elites in Vietnam were powerfully influenced by Chinese culture. To consolidate their power, the French had to counter this Chinese influence. So they systematically dismantled the traditional educational system and established French schools for the Vietnamese. But this was not easy. Chinese, the language used by the elites so far, had to be replaced. But what was to take its place? Was the language to be Vietnamese or French? 
 There were two broad opinions on this question. Some policymakers emphasised the need to use the French language as the medium of instruction. By learning the language, they felt, the Vietnamese would be introduced to the culture and civilisation of France. This would help create an ‘Asiatic France solidly tied to European France’. The educated people in Vietnam would respect French sentiments and ideals, see the superiority of French culture, and work for the French. Others were opposed to French being the only medium of instruction. They suggested that Vietnamese be taught in lower classes and French in the higher classes. The few 
 footer page number:34
 who learnt French and acquired French culture were to be rewarded with French citizenship. 
 However, only the Vietnamese elite – comprising a small fraction of the population – could enroll in the schools, and only a few among those admitted ultimately passed the school-leaving examination. This was largely because of a deliberate policy of failing students, particularly in the final year, so that they could not qualify for the better-paid jobs. Usually, as many as two-thirds of the students failed. In 1925, in a population of 17 million, there were less than 400 who passed the examination. 
 School textbooks glorified the French and justified colonial rule. The Vietnamese were represented as primitive and backward, capable of manual labour but not of intellectual reflection; they could work in the fields but not rule themselves; they were ‘skilled copyists’ but not creative. School children were told that only French rule could ensure peace in Vietnam: ‘Since the establishment of French rule the Vietnamese peasant no longer lives in constant terror of pirates … Calm is complete, and the peasant can work with a good heart.’ 
-##### **2.2 Looking Modern** 
+#### **2.2 Looking Modern** 
 The Tonkin Free School was started in 1907 to provide a Westernstyle education. This education included classes in science, hygiene and French (these classes were held in the evening and had to be paid for separately). The school’s approach to what it means to be ‘modern’ is a good example of the thinking prevalent at that time. It was not enough to learn science and Western ideas: to be modern the Vietnamese had to also look modern. The school encouraged the adoption of Western styles such as having a short haircut. For the Vietnamese this meant a major break with their own identity since they traditionally kept long hair. To underline the importance of a total change there was even a ‘haircutting chant’: 
 Comb in the left hand Scissors in the right, Snip, snip, clip, clip! Watch out, be careful, Drop stupid practices, Dump childish things Speak openly and frankly Study Western customs 
 ### **<mark>Activity</mark>** 
-Imagine you are a student in the Tonkin Free School in 1910. How would you react to: 
-- what the textbooks say about the Vietnamese? 
+- Imagine you are a student in the Tonkin Free School in 1910. How would you react to: � what the textbooks say about the Vietnamese? 
 - what the school tells you about hairstyles? 
-<!-- Start of picture text -->
-Fig. 6 – A local caricature ridiculing the<br>Vietnamese who has been westernised.<br>Abandoning his own culture, he has begun<br>wearing Western clothes and playing tennis.<br><!-- End of picture text -->
+**_Fig. 6 – A local caricature ridiculing the Vietnamese who has been westernised._** _Abandoning his own culture, he has begun wearing Western clothes and playing tennis._ 
 footer page number:35
-##### **2.3 Resistance in Schools** 
+#### **2.3 Resistance in Schools** 
 Teachers and students did not blindly follow the curriculum. Sometimes there was open opposition, at other times there was silent resistance. As the numbers of Vietnamese teachers increased in the lower classes, it became difficult to control what was actually taught. While teaching, Vietnamese teachers quietly modified the text and criticised what was stated. 
 In 1926 a major protest erupted in the Saigon Native Girls School. A Vietnamese girl sitting in one of the front seats was asked to move to the back of the class and allow a local French student to occupy the front bench. She refused. The principal, also a colon (French people in the colonies), expelled her. When angry students protested, they too were expelled, leading to a further spread of open protests. Seeing the situation getting out of control, the government forced the school to take the students back. The principal reluctantly agreed but warned the students, ‘I will crush all Vietnamese under my feet. Ah! You wish my deportation. Know well that I will leave only after I am assured Vietnamese no longer inhabit Cochinchina.’ 
 Elsewhere, students fought against the colonial government’s efforts to prevent the Vietnamese from qualifying for white-collar jobs. They were inspired by patriotic feelings and the conviction that it was the duty of the educated to fight  for the benefit of society. This brought them into conflict with the French as well as the traditional elite, since both saw their positions threatened. By the 1920s, students were forming various political parties, such as the Party of Young Annan, and publishing nationalist journals such as the _Annanese Student_ . 
-**Some important dates** 1802 
-Nguyen Anh becomes emperor symbolising the unification of the country under the Nguyen dynasty. 1867 Cochinchina (the South) becomes a French colony. 1887 Creation of the Indo-china Union, including Cochinchina, Annam, Tonkin, Cambodia and later, Laos. 1930 Ho Chi Minh forms the Vietnamese Communist Party. 1945 
-Vietminh start a general popular insurrection. Bao Dai abdicates. Ho Chi Minh declares independence in Hanoi (September 23). 1954 
-The French army is defeated at Dien Bien Phu. 1961 
-Kennedy decides to increase US military aid to South Vietnam. 1974 Paris Peace Treaty. 1975 (April 30) NLF troops enter Saigon. 1976 The Socialist Republic of Vietnam is proclaimed. 
+**Some important dates** <u>1802</u> Nguyen Anh becomes emperor symbolising the unification of the country under the Nguyen dynasty. 1867 Cochinchina (the South) becomes a French colony. 1887 Creation of the Indo-china Union, including Cochinchina, Annam, Tonkin, Cambodia and later, Laos. 1930 Ho Chi Minh forms the Vietnamese Communist Party. 1945 Vietminh start a general popular insurrection. Bao Dai abdicates. Ho Chi Minh declares independence in Hanoi (September 23). 1954 The French army is defeated at Dien Bien Phu. 1961 Kennedy decides to increase US military aid to South Vietnam. 1974 Paris Peace Treaty. 1975 (April 30) NLF troops enter Saigon. 1976 The Socialist Republic of Vietnam is proclaimed. 
 Schools thus became an important place for political and cultural battles. The French sought to strengthen their rule in Vietnam through the control of education. They tried to change the values, norms and perceptions of the people, to make them believe in the superiority of French civilisation and the inferiority of the Vietnamese. Vietnamese intellectuals, on the other hand, feared that Vietnam was losing not just control over its territory but its very identity: its own culture and customs were being devalued and the people were developing a master-slave mentality. The battle against French colonial education became part of the larger battle against colonialism and for independence. 
 footer page number:36
 ### **3  Hygiene, Disease and Everyday Resistance** 
 Education was not the only sphere of everyday life in which such political battles against colonialism were fought. In many other institutions we can see the variety of small ways in which the colonised expressed their anger against the colonisers. 
-##### **3.1 Plague Strikes Hanoi** 
+#### **3.1 Plague Strikes Hanoi** 
 Take the case of health and hygiene. When the French set about creating a modern Vietnam, they decided to rebuild Hanoi. The latest ideas about architecture and modern engineering skills were employed to build a new and ‘modern’ city. In 1903, the modern part of Hanoi was struck by bubonic plague. In many colonial countries, measures to control the spread of disease created serious social conflicts. But in Hanoi events took a peculiarly interesting turn. 
 The French part of Hanoi was built as a beautiful and clean city with wide avenues and a well-laid-out sewer system, while the ‘native 
 **_Fig. 7 – Modern Hanoi._** _Colonial buildings like this one came up in the French part of Hanoi._ 
 footer page number:37
 quarter’ was not provided with any modern facilities. The refuse from the old city drained straight out into the river or, during heavy rains or floods, overflowed into the streets. Thus what was installed to create a hygienic environment in the French city became the cause of the plague. The large sewers in the modern part of the city, a symbol of modernity, were an ideal and protected breeding ground for rats. The sewers also served as a great transport system, allowing the rats to move around the city without any problem. And rats began to enter the well-cared-for homes of the French through the sewage pipes. What was to be done? 
-##### **3.2 The Rat Hunt** 
+#### **3.2 The Rat Hunt** 
 To stem this invasion, a rat hunt was started in 1902.  The French hired Vietnamese workers and paid them for each rat they caught. Rats began to be caught in thousands: on 30 May, for instance, 20,000 were caught but still there seemed to be no end. For the Vietnamese the rat hunt seemed to provide an early lesson in the success of collective bargaining. Those who did the dirty work of entering sewers found that if they came together they could negotiate a higher bounty. They also discovered innovative ways to profit from this situation. The bounty was paid when a tail was given as proof that a rat had been killed. So the rat-catchers took to just clipping the tails and releasing the rats, so that the process could be repeated, over and over again. Some people, in fact, began  raising  rats to earn a bounty. 
 Defeated by the resistance of the weak, the French were forced to scrap the bounty programme. None of this prevented the bubonic plague, which swept through the area in 1903 and in subsequent years. In a way, the rat menace marks the limits of French power and the contradictions in their ‘civilising mission’. And the actions of the rat-catchers tell us of the numerous small ways in which colonialism was fought in everyday life. 
 ### **<mark>Discuss</mark>** 
@@ -353,15 +333,13 @@ footer page number:38
 Colonial domination was exercised by control over all areas of private and public life. The French occupied Vietnam militarily but they also sought to reshape social and cultural life. While religion played an important role in strengthening colonial control, it also provided ways of resistance. Let us consider how this happened. 
 Vietnam’s religious beliefs were a mixture of Buddhism, Confucianism and local  practices. Christianity, introduced by French missionaries, was intolerant of this easygoing attitude and viewed the Vietnamese tendency to revere the supernatural as something to be corrected. 
 From the eighteenth century, many  religious movements were hostile to the Western presence. An early movement against French control and the spread of Christianity was the Scholars Revolt in 1868. This revolt was led by officials at the imperial court angered by the spread of Catholicism and French power. They led a general uprising in 
-###### **_Box 1_** 
+##### **_Box 1_** 
 Confucius (551-479 BCE), a Chinese thinker, developed a philosophical system based on good conduct, practical wisdom and proper social relationships. People were taught to respect their parents and submit to elders. They were told that the relationship between the ruler and the people was the same as that between children and parents. 
 **_Fig. 8 – The execution of Father Borie, a Catholic missionary._** _Images like this by French artists were publicised in France to stir up religious fury._ 
 footer page number:39
 Ngu An and Ha Tien provinces where over a thousand Catholics were killed. Catholic missionaries had been active in winning converts since the early seventeenth century, and by the middle of the eighteenth century had converted some 300,000.  The French crushed the movement but this uprising served to inspire other patriots to rise up against them. 
 The elites in Vietnam were educated in Chinese and Confucianism. But religious beliefs among the peasantry were shaped by a variety of **syncretic** traditions that combined Buddhism and local beliefs. There were many popular religions in Vietnam that were spread by people who claimed to have seen a vision of God. Some of these religious movements supported the French, but others inspired movements against colonial rule. 
-##### **New words** 
-Syncretic – Characterised by syncretism; aims to bring together different beliefs and practices, seeing their essential unity rather than their difference 
-Concentration camp – A prison where people are  detained without due process of law. The word evokes an image of a place of torture and brutal treatment 
+**New words** Syncretic – Characterised by syncretism; aims to bring together different beliefs and practices, seeing their essential unity rather than their difference Concentration camp – A prison where people are  detained without due process of law. The word evokes an image of a place of torture and brutal treatment 
 One such movement was the Hoa Hao. It began in 1939 and gained great popularity in the fertile Mekong delta area. It drew on religious ideas popular in anti-French uprisings of the nineteenth century. 
 The founder of Hoa Hao was a man called Huynh Phu So. He performed miracles and helped the poor. His criticism against useless expenditure had a wide appeal. He also opposed the sale of child brides, gambling and the use of alcohol and opium. 
 The French tried to suppress the movement inspired by Huynh Phu So. They declared him mad, called him the Mad Bonze, and put him in a mental asylum. Interestingly, the doctor who had to prove him insane became his follower, and finally in 1941, even the French doctors declared that he was sane. The French authorities exiled him to Laos and sent many of his followers to **concentration camps** . 
@@ -374,16 +352,16 @@ Different answers were offered to such questions. Some intellectuals felt that V
 In the late nineteenth century, resistance to French domination was very often led by Confucian scholar-activists, who saw their world crumbling. Educated in the Confucian tradition, Phan Boi Chau (1867-1940) was one such nationalist. He became a major figure in the anti-colonial resistance from the time he formed the Revolutionary Society (Duy Tan Hoi) in 1903, with Prince Cuong  De as the head. 
 Phan Boi Chau met the Chinese reformer Liang Qichao (1873-1929) in Yokohama in 1905. Phan’s most influential book, _The History of the Loss of Vietnam_ was written under the strong influence and advice of Qichao. It became a widely read bestseller in Vietnam and China and was even made into a play. The book focuses on two connected themes: the loss of sovereignty and the severing of ties with China – ties that bound the elites of the two countries within a shared culture. It is this double loss that Phan laments, a lament that was typical of reformers from within the traditional elite. 
 Other nationalists strongly differed with Phan Boi Chau. One such was Phan Chu Trinh (1871-1926). He was intensely hostile to the monarchy and opposed to the idea of resisting the French with the help of the court.  His desire was to establish a democratic **republic** . Profoundly influenced by the democratic ideals of the West, he did not want a wholesale rejection of Western civilisation. He accepted the French revolutionary ideal of liberty but charged the French for not abiding by the ideal. He demanded that the French set up legal and educational institutions, and develop agriculture and industries. 
-###### **_Source A_** 
+##### **_Source A_** 
 In Japan, Phan Boi Chau and Phan Chu Trinh spent time together, discussing their visions of Vietnamese independence, and debating their differences. This is what Phan Boi Chau later wrote about their discussions: 
 ‘Thereafter over more than ten days, he and I debated time and again, and our opinions were diametrically opposed. That is to say, he wished to overthrow the monarchy in order to create a basis for the promotion of popular rights; I, on the contrary, maintained that first the foreign enemy should be driven out, and after our nation’s independence was restored we could talk about other things. My plan was to make use of the monarchy, which he opposed absolutely. His plan was to raise up the people to abolish the monarchy, with which I absolutely disagreed. In other words, he and I were pursuing one and the same goal, but our means were considerably different.’ 
-**_Source_** 
+### **_Source_** 
 ### **<mark>Discuss</mark>** 
 What ideas did Phan Boi Chau and Phan Chu Trinh share in common? What did they differ on? 
-##### **New words** 
+#### **New words** 
 Republic – A form of government based on popular consent and popular representation. It is based on the power of the people as opposed to monarchy 
 footer page number:41
-##### **5.1 Other Ways of Becoming Modern: Japan and China** 
+#### **5.1 Other Ways of Becoming Modern: Japan and China** 
 Early Vietnamese nationalists had a close relationship with Japan and China. They provided models for those looking to change, a refuge for those who were escaping French police, and a location where a wider Asian network of revolutionaries could be established. 
 In the first decade of the twentieth century a ‘go east movement’ became popular.  In 1907-08 some 300 Vietnamese students went to Japan to acquire modern education. For many of them the primary objective was to drive out the French from Vietnam, overthrow the puppet emperor and re-establish the Nguyen dynasty that had been deposed by the French. These nationalists looked for foreign arms and help. They appealed to the Japanese as fellow Asians. Japan had modernised itself and had resisted colonisation by the West. Besides, its victory over Russia in 1907 proved its military capabilities. Vietnamese students established a branch of the Restoration Society in Tokyo but after 1908, the Japanese Ministry of Interior clamped down on them. Many, including Phan Boi Chau, were deported and forced to seek exile in China and Thailand. 
 Developments in China also inspired Vietnamese nationalists. In 1911, the long established monarchy in China was overthrown by a popular movement under Sun Yat-sen, and a Republic was set up. Inspired by these developments, Vietnamese students organised the Association for the Restoration of Vietnam (Viet-Nam Quan Phuc Hoi). Now the nature of the anti-French independence movement changed. The objective was no longer to set up a constitutional monarchy but a democratic republic. 
@@ -394,9 +372,9 @@ footer page number:42
 The Great Depression of the 1930s had a profound impact on Vietnam. The prices of rubber and rice fell, leading to rising rural debts, unemployment and rural uprisings, such as in the provinces of Nghe An and Ha Tinh. These provinces were among the poorest, had an old radical tradition, and have been called the ‘electrical fuses’ of Vietnam – when the system was under pressure they were the first to blow. The French put these uprisings down with great severity, even using planes to bomb demonstrators. 
 In February 1930, Ho Chi Minh brought together competing nationalist groups to establish the Vietnamese Communist (Vietnam Cong San Dang) Party, later renamed the Indo-Chinese Communist Party. He was inspired by the militant demonstrations of the European communist parties. 
 In 1940 Japan occupied Vietnam, as part of its imperial drive to control Southeast Asia. So nationalists now had to fight against the Japanese as well as the French. The League for the Independence of Vietnam (Viet Nam Doc Lap Dong Minh), which came to be known as the Vietminh, fought the Japanese occupation and recaptured Hanoi in September 1945.  The Democratic Republic of Vietnam was formed and Ho Chi Minh became Chairman. 
-##### **6.1 The New Republic of Vietnam** 
+#### **6.1 The New Republic of Vietnam** 
 The new republic faced a number of challenges. The French tried to regain control by using the emperor, Bao Dai, as their puppet. Faced with the French offensive, the Vietminh were forced to retreat to the hills. After eight years of fighting, the French were defeated in 1954 at  Dien Bien Phu. 
-###### **_Source B_** 
+##### **_Source B_** 
 ###### **Declaration of independence** 
 The declaration of the new republic began by reaffirming the principles of the declaration of independence of the United States in 1771 and of the French Revolution in 1791 but added that the French imperialists do not follow these principles for they 
 ‘have violated our fatherland and oppressed our fellow citizens. They have acted contrary to the ideals of humanity and justice. 
@@ -412,35 +390,35 @@ footer page number:43
 power in the north while Bao Dai’s regime was put in power in the south. 
 This division set in motion a series of events that turned Vietnam into a battlefield bringing death and destruction to its people as well as the environment. The Bao Dai regime was soon overthrown by a coup led by Ngo Dinh Diem. Diem built a repressive and authoritarian government. Anyone who opposed him was called a communist and was jailed and killed. Diem retained Ordinance 10, a French law that permitted Christianity but outlawed Buddhism. His dictatorial rule came to be opposed by a broad opposition united under the banner of the National Liberation Front (NLF). 
 With the help of the Ho Chi Minh government in the north, the NLF fought for the unification of the country. The US 
-**_Fig. 10 – The French Commander in Indo-China, General Henri Navarre (right)._** 
-_Navarre wanted to attack the Vietminh even in their remote bases. As a consequence the French opened many fronts of attack and scattered their forces. Navarre’s plans backfired in the North Eastern Valley of Dien Bien Phu._ 
-###### **_Box 2_** 
+**_Fig. 10 – The French Commander in Indo-China, General Henri Navarre (right)._** _Navarre wanted to attack the Vietminh even in their remote bases. As a consequence the French opened many fronts of attack and scattered their forces. Navarre’s plans backfired in the North Eastern Valley of Dien Bien Phu._ 
+##### **_Box 2_** 
 At Dien Bien Phu the French were outwitted by the Vietminh forces led by General Vo Nguyen Giap. The French Commander, Navarre, had not thought of all the problems he would face in the battle. The valley where French garrisons were located was flooded in the monsoon and the area was covered with bushes, making it difficult to move troops and tanks, or trace the Vietminh anti-aircraft guns hidden in the jungle. 
 From their base in the hills, the Vietminh surrounded the French garrisons in the valley below, digging trenches and tunnels to move without being detected. Supplies and reinforcements could not reach the besieged French garrison, the wounded French soldiers could not be moved, and the French airstrip became unusable because of continuous artillery fire. 
 Dien Bien Phu became a very important symbol of struggle. It strengthened Vietminh conviction in their capacity to fight powerful imperial forces through determination and proper strategy. Stories of the battle were retold in villages and cities to inspire people. 
 **_Fig. 11 – Supplies being taken to Dien Bien Phu._** _Vietminh forces used bicycles and porters to transport supplies. They went through jungles and hidden tracks to escape enemy attacks._ 
 footer page number:44
+##### **_Box 3_** 
 ###### **Ho Chi Minh (1890-1969)** 
 Little is known about his early life mostly because Minh chose to downplay his personal background and identify himself with the cause of Vietnam. Probably born as Nguyen Van Thanh in Central Vietnam, he studied at French schools that produced leaders such as Ngo Dinh Diem, Vo Nguyen Giap and Pham Van Dong. He briefly taught in 1910, and in 1911, learnt baking and took a job on a French liner on the Saigon-Marseilles run. Minh became an active member of the Commintern, meeting Lenin and other leaders. In May 1941, after 30 years abroad in Europe, Thailand and China, Minh finally returned to Vietnam. In 1943 he took the name Ho Chi Minh (He Who Enlightens). He became president of the Vietnam Democratic Republic. Ho Chi Minh died on 3 September 1969. He led the party successfully for over 40 years, struggling to preserve Vietnamese autonomy. 
 watched this alliance with fear. Worried about communists gaining power, it decided to intervene decisively, sending in troops and arms. 
-##### **6.2 The Entry of the US into the War** 
+#### **6.2 The Entry of the US into the War** 
 US entry into the war marked a new phase that proved costly to the Vietnamese as well as to the Americans. From 1965 to 1972, over 3,403,100 US services personnel served in Vietnam (7,484 were women). Even though the US had advanced technology and good 
 **_Fig. 12 – American soldiers searching rice fields for Vietcongs._** 
 footer page number:45
-###### **_Box 4_** 
 medical supplies, casualties were high. About 47,244 died in battle and 303,704 were wounded. (Of those wounded, 23,014 were listed by the Veterans Administration to be 100 per cent disabled.) 
-###### **Agent Orange: The Deadly Poison** 
-Agent Orange is a defoliant, a plant killer, so called because it was stored in drums marked with an orange band. Between 1961 and 1971, some 11 million gallons of this chemical was sprayed from cargo planes by US forces. Their plan was to destroy forests and fields, so that it would be easier to kill if there was no jungle cover for people to hide in. Over 14 per cent of the country’s farmland was affected by this poison. Its effect has been staggering, continuing to affect people till today. Dioxin, an element of Agent Orange, is known to cause cancer and brain damage in children, and, according to a study, is also the cause of the high incidence of deformities found in the sprayed areas. 
 This phase of struggle with the US was brutal. Thousands of US troops arrived equipped with heavy weapons and tanks and backed by the most powerful bombers of the time – B52s. The wide spread attacks and use of chemical weapons – **Napalm,** Agent Orange, and phosphorous bombs – destroyed many villages  and decimated jungles. Civilians died in large numbers. 
 The effect of the war was felt within the US as well. Many were critical of the government for getting involved in a war that they saw as indefensible. When the youth were drafted for the war, the anger spread. Compulsory service in the armed forces, however, could be waived for university graduates. This meant that many of those sent to fight did not belong to the privileged elite but were minorities and children of working-class families. 
-The tonnage of bombs, including chemical arms, used during the US intervention (mostly against civilian targets) in Vietnam exceeds that used throughout the Second World War. 
 The US media and films played a major role in both supporting as well as criticising the war. Hollywood made films in support of the war, such as John Wayne’s _Green Berets_ (1968). This has been cited by many as an example of an unthinking propaganda film that was responsible for motivating many young men to die in the war. Other films were more critical as they tried to understand the reasons for this war. John Ford Coppola’s _Apocalypse Now_ (1979) reflected the moral confusion that the war had caused in the US. 
+##### **_Box 4_** 
+###### **Agent Orange: The Deadly Poison** 
+Agent Orange is a defoliant, a plant killer, so called because it was stored in drums marked with an orange band. Between 1961 and 1971, some 11 million gallons of this chemical was sprayed from cargo planes by US forces. Their plan was to destroy forests and fields, so that it would be easier to kill if there was no jungle cover for people to hide in. Over 14 per cent of the country’s farmland was affected by this poison. Its effect has been staggering, continuing to affect people till today. Dioxin, an element of Agent Orange, is known to cause cancer and brain damage in children, and, according to a study, is also the cause of the high incidence of deformities found in the sprayed areas. 
+The tonnage of bombs, including chemical arms, used during the US intervention (mostly against civilian targets) in Vietnam exceeds that used throughout the Second World War. 
 The war grew out of a fear among US policy-planners that the victory of the  Ho Chi Minh government would start a domino effect – communist governments would be established in other countries in the area. They **_<mark>Fig. 13</mark>_** underestimated the power of nationalism to move people to action, inspire them to sacrifice their home and family, live under horrific conditions, and fight for independence. They underestimated the power of a small country to fight the most technologically advanced country in the world. 
 **_<mark>Fig. 13 – In December 1972 Hanoi was bombed.</mark>_** 
-##### **New words** 
+#### **New words** 
 Napalm – An organic compound used to thicken gasoline for firebombs. The mixture burns slowly and when it comes in contact with surfaces like the human body, it sticks and continues to burn. Developed in the US, it was used in the Second World War. Despite an international outcry, it was used in Vietnam. 
 footer page number:46
-##### **6.3 The Ho Chi Minh Trail** 
+#### **6.3 The Ho Chi Minh Trail** 
 The story of the Ho Chi Minh trail is one way of understanding the nature of the war that the Vietnamese fought against the US. It symbolises how the Vietnamese used their limited resources to great advantage. The trail, an immense network of footpaths and roads, was used to transport men and materials from the north to the south. The trail was improved from the late 1950s, and from 1967 about 20,000 North Vietnamese troops came south each month on this trail. 
 The trail had support bases and hospitals along the way. In some parts supplies were transported in trucks, but mostly they were carried by porters, who were mainly women. These porters carried about 25 kilos on their backs, or about 70 kilos on their bicycles. 
 Most of the trail was outside Vietnam in neighbouring Laos and Cambodia with branch lines extending into South Vietnam. The US regularly bombed this trail trying to disrupt supplies, but efforts to destroy this important supply line by intensive bombing failed because they were rebuilt very quickly. 
@@ -450,7 +428,7 @@ NORTH<br>VIETNAM<br>Khesanh<br>Hue<br>LAOS<br>Danang<br>THAILAND<br>Mekong Quang
 **_Fig. 15 – Rebuilding damaged roads._** _Roads damaged by bombs were quickly rebuilt._ 
 footer page number:47
 **_Fig.16 – On the Ho Chi Minh trail._** 
-###### **_Source C_** 
+##### **_Source C_** 
 ###### **Letters of Mr Do Sam** 
 Do Sam was a colonel in the North Vietnamese artillery regiment. He was part of the Tet Offensive started in 1968, to unify North and South Vietnam and win the battle against US. These are extracts from his letters written to his wife from the scene of battle. They show how, in the nationalist imagination, personal love mingles with love for the country and the desire for freedom. Sacrifice appears necessary for happiness. 
 ###### Letter dated 6/1968 
@@ -464,21 +442,20 @@ Do Sam was a colonel in the North Vietnamese artillery regiment. He was part of 
 footer page number:48
 ### **7  The Nation and Its Heroes** 
 Another way of looking at social movements is to see how they affect different groups in society. Let us see how the roles of women were specified in the anti-imperialist movement in Vietnam, and what that tells us about nationalist ideology. 
-##### **7.1 Women as Rebels** 
+#### **7.1 Women as Rebels** 
 Women in Vietnam traditionally enjoyed greater equality than in China, particularly among the lower classes, but they had only limited freedom to determine their future and played no role in public life. 
 As the nationalist movement grew, the status of women came to be questioned and a new image of womanhood emerged. Writers and political thinkers began idealising women who rebelled against social norms. In the 1930s, a famous novel by Nhat Linh caused a scandal because it showed a woman leaving a forced marriage and marrying someone of her choice, someone who was involved in nationalist politics. This rebellion against social conventions marked the arrival of the new woman in Vietnamese society. 
-##### **7.2 Heroes of Past Times** 
+#### **7.2 Heroes of Past Times** 
 Rebel women of the past were similarly celebrated. In 1913, the nationalist Phan Boi Chau wrote a play based on the lives of the Trung sisters who had fought against Chinese domination in 39-43 **CE** . In this play he depicted these sisters as patriots fighting to save the Vietnamese nation from the Chinese. The actual reasons for the revolt are a matter of debate among scholars, but after Phan’s play the Trung sisters came to be idealised and glorified. They were depicted in paintings, plays and novels as representing the indomitable will and the intense patriotism of the Vietnamese. We are told that they gathered a force of over 30,000, resisted the Chinese for two years, and when ultimately defeated, they committed suicide, instead of surrendering to the enemy. 
 Other women rebels of the past were  part of the popular nationalist lore. One of the most venerated was Trieu Au who lived in the third century CE. Orphaned in childhood, she lived with her brother. On growing up she left home, went into the jungles, organised a large army and resisted Chinese rule. Finally, when her army was 
-**_Fig. 17 – Image of Trieu Au worshipped as a sacred figure._** 
-_Rebels who resisted Chinese rule continue to be celebrated._ 
+**_Fig. 17 – Image of Trieu Au worshipped as a sacred figure._** _Rebels who resisted Chinese rule continue to be celebrated._ 
 footer page number:49
 crushed, she drowned herself. She became a sacred figure, not just a martyr who fought for the honour of the country. Nationalists popularised her image to inspire people to action. 
-##### **7.3 Women as Warriors** 
+#### **7.3 Women as Warriors** 
 In the 1960s, photographs in magazines and journals showed women as brave fighters. There were pictures of women militia shooting down planes. They were portrayed as young, brave and dedicated. Stories were written to show how happy they felt when they joined the army and could carry a rifle. Some stories spoke of their incredible bravery in single-handedly killing the enemy – Nguyen Thi Xuan, for instance, was reputed to have shot down a jet with just twenty bullets. 
 Women were represented not only as warriors but also as workers: they were shown with a rifle in one hand and a hammer in the other. Whether young or old, women began to be depicted as selflessly working and fighting to save the country. As casualties in the war increased in the 1960s, women were urged to join the struggle in larger numbers. 
 Many women responded and joined the resistance movement. They helped in nursing the wounded, constructing underground rooms and tunnels and fighting the enemy. Along the Ho Chi Minh trail young volunteers kept open 2,195 km of strategic roads and guarded 2,500 key points. They built six airstrips, neutralised tens of thousands of bombs, transported tens of thousands of kilograms of cargo, weapons and food and shot down fifteen planes. Between 1965 and 1975, of the 17,000 youth who worked on the trail, 70 to 80 per cent were women. One military historian argues that there were 1.5 million women in the regular army, the militia, the local forces and professional teams. 
-##### **7.4 Women in Times of Peace** 
+#### **7.4 Women in Times of Peace** 
 By the 1970s, as peace talks began to get under way and the end of the war seemed near, women were no longer represented as warriors. Now the image of women as workers begins to predominate. They are shown working in agricultural cooperatives, factories and production units,  rather than as fighters. 
 **_Fig. 18 – With a gun in one hand._** _Stories about women showed them eager to join the army. A common description was: ‘A rosy-cheeked woman, here I am fighting side by side with you men. The prison is my school, the sword is my child, the gun is my husband.’_ 
 **_Fig. 19 – Vietnamese women doctors nursing the wounded._** 
@@ -503,7 +480,6 @@ footer page number:51
 1. With reference to what you have read in this chapter, discuss the influence of China on Vietnam’s culture and life. 
 2. What was the role of religious groups in the development of anti-colonial feeling in Vietnam? 
 3. Explain the causes of the US involvement in the war in Vietnam. What effect did this involvement have on life within the US itself? 
-4. Write an evaluation of the Vietnamese war against the US from the point of a) a porter on the Ho Chi Minh trail. 
 4. Write an evaluation of the Vietnamese war against the US from the point of a) a porter on the Ho Chi Minh trail. b) a woman soldier. 
 5. What was the role of women in the anti-imperial struggle in Vietnam? Compare this with the role of women in the nationalist struggle in India. 
 ### **<mark>Project</mark>** 
@@ -517,23 +493,23 @@ In an earlier textbook you have read about the growth of nationalism in India up
 ### **1  The First World War, Khilafat and Non-Cooperation** 
 In the years after 1919, we see the national movement spreading to new areas, incorporating new social groups, and developing new modes of struggle. How do we understand these developments? What implications did they have? 
 First of all, the war created a new economic and political situation. It led to a huge increase in defence expenditure which was financed by war loans and increasing taxes: customs duties were raised and income tax introduced. Through the war years prices increased – doubling between 1913 and 1918 –  leading to extreme hardship for the common people. Villages were called upon to supply soldiers, and the **forced recruitment** in rural areas caused widespread anger. Then in 1918-19 and 1920-21, crops failed in many parts of India, resulting in acute shortages of food. This was accompanied by an influenza epidemic. According to the census of 1921, 12 to 13 million people perished as a result of famines and  the epidemic. 
-##### **New words** 
+**New words** 
 Forced recruitment – A process by which the colonial state forced people to join the army 
 People hoped that their hardships would end after the war was over. But that did not happen. 
 At this stage a new leader appeared and suggested a new mode of struggle. 
-##### **1.1 The Idea of Satyagraha** 
+#### **1.1 The Idea of Satyagraha** 
 Mahatma Gandhi returned to India in January 1915. As you know, he had come from South Africa where he had successfully fought 
 **_Fig. 2 – Indian workers in South Africa march through Volksrust, 6 November 1913._** _Mahatma Gandhi was leading the workers from Newcastle to Transvaal. When the marchers were stopped and Gandhiji arrested, thousands of more workers joined the_ satyagraha _against racist laws that denied rights  to non-whites._ 
 footer page number:54
 the racist regime with a novel method of mass agitation, which he called satyagraha. The idea of satyagraha emphasised the power of truth and the need to search for truth. It suggested that if the cause was true, if the struggle was against injustice, then physical force was not necessary to fight the oppressor. Without seeking vengeance or being aggressive, a satyagrahi could win the battle through nonviolence. This could be done by  appealing to the conscience of the oppressor. People – including the oppressors – had to be persuaded to see the truth, instead of being forced to accept truth through the use of violence. By this struggle, truth was bound to ultimately triumph. Mahatma Gandhi believed that this _dharma_ of non-violence could unite all Indians. 
 After arriving in India, Mahatma Gandhi successfully organised satyagraha movements in various places. In 1916 he travelled to Champaran in  Bihar to inspire the peasants to struggle against the oppressive plantation system.Then in 1917,  he organised a satyagraha to support the peasants of the Kheda district of Gujarat. Affected by crop failure and a plague epidemic, the peasants of Kheda could not pay the revenue, and were demanding that revenue collection be relaxed. In 1918, Mahatma Gandhi went to Ahmedabad to organise a satyagraha movement amongst cotton mill workers. 
-###### **_Source A_** 
+##### **_Source A_** 
 ###### **Mahatma Gandhi on Satyagraha** 
 ‘It is said of “passive resistance” that it is the weapon of the weak, but the power which is the subject of this article can be used only by the strong. This power is not passive resistance; indeed it calls for intense activity. The movement in South Africa was not passive but active  … 
 ‘ Satyagraha is not physical force. A satyagrahi does not inflict pain on the adversary; he does not seek his destruction … In the use of satyagraha, there is no ill-will whatever. 
 ‘ Satyagraha is pure soul-force. Truth is the very substance of the soul. That is why this force is called satyagraha. The soul is informed with knowledge. In it burns the flame of love. … Nonviolence is the supreme dharma … 
 ‘It is certain that India cannot rival Britain or Europe in force of arms. The British worship the war-god and they can all of them become, as they are becoming, bearers of arms. The hundreds of millions in India can never carry arms. They have made the religion of non-violence their own ...’ **_Source_** 
-##### **1.2 The Rowlatt Act** 
+#### **1.2 The Rowlatt Act** 
 Emboldened with this success, Gandhiji in 1919 decided to launch a nationwide satyagraha against the proposed Rowlatt Act (1919). This Act had been hurriedly passed through the Imperial Legislative Council despite the united opposition of the Indian members. It gave the government enormous powers to repress political activities, and allowed detention of political prisoners without trial for two years. Mahatma Gandhi wanted non-violent civil disobedience against such unjust laws, which would start with a _hartal_ on 6 April. 
 ### **<mark>Activity</mark>** 
 Read the text carefully. What did Mahatma Gandhi mean when he said _satyagraha_ is active resistance? 
@@ -543,12 +519,12 @@ On 13 April the infamous Jallianwalla Bagh incident took place. On that day a cr
 As the news of Jallianwalla Bagh spread, crowds took to the streets in many north Indian towns. There were strikes, clashes with the police and attacks on government buildings. The government responded with brutal repression, seeking to humiliate and terrorise people: satyagrahis were forced to rub their noses on the ground, crawl on the streets, and do _salaam_ (salute) to all sahibs; people were flogged and villages (around Gujranwala in Punjab, now in Pakistan) were bombed. Seeing violence spread, Mahatma Gandhi called off the movement. 
 While the Rowlatt satyagraha had been a widespread movement, it was still limited mostly to cities and towns. Mahatma Gandhi now felt the need to launch a more broad-based movement in India. But he was certain that no such movement could be organised without bringing the Hindus and Muslims closer together. One way of doing this, he felt, was to take up the Khilafat issue. The First World War had ended with the defeat of Ottoman Turkey. And there were rumours that a harsh peace treaty was going to be imposed on the Ottoman emperor –  the spiritual head of the Islamic world (the Khalifa). To defend the Khalifa’s temporal powers, a Khilafat Committee was formed in Bombay in March 1919. A young generation of Muslim leaders like the brothers Muhammad Ali and Shaukat Ali, began discussing with Mahatma Gandhi about the possibility of a united mass action on the issue. Gandhiji saw this as an opportunity to bring Muslims under the umbrella of a unified national movement. At the Calcutta session of the Congress in September 1920, he convinced other leaders of the need to start a non-cooperation movement in support of Khilafat as well as for swaraj. 
 **_Fig. 3 – General Dyer’s ‘crawling orders’ being administered by British soldiers, Amritsar, Punjab, 1919_** _._ 
-##### **1.3  Why Non-cooperation?** 
+#### **1.3  Why Non-cooperation?** 
 In his famous book _Hind Swaraj_ (1909) Mahatma Gandhi declared that British rule was established in India with the cooperation of 
 footer page number:56
 Indians, and had survived only because of this cooperation. If Indians refused to cooperate, British rule in India would collapse within a year, and swaraj would come. 
 How could non-cooperation become a movement? Gandhiji proposed that the movement should unfold in stages. It should begin with the surrender of titles that the government awarded, and a **boycott** of civil services, army, police, courts and legislative councils, schools, and foreign goods. Then, in case the government used repression, a full civil disobedience campaign would be launched. Through the summer of 1920 Mahatma Gandhi and Shaukat Ali toured extensively, mobilising popular support for the movement. 
-##### **New words** 
+#### **New words** 
 Boycott – The refusal to deal and associate with people, or participate in activities, or buy and use things; usually a form of protest 
 Many within the Congress were, however, concerned about the proposals. They were reluctant to boycott the council elections scheduled for November 1920, and they feared that the movement might lead to popular violence.  In the months between September and December there was an intense tussle within the Congress. For a while there seemed no meeting point between the supporters and the opponents of the movement. Finally, at the Congress session at Nagpur in December 1920, a compromise was worked out and the Non-Cooperation programme was adopted. 
 How did the movement unfold? Who participated in it? How did different social groups conceive of the idea of Non-Cooperation? 
@@ -556,31 +532,30 @@ How did the movement unfold? Who participated in it? How did different social gr
 footer page number:57
 ### **2  Differing Strands within the Movement** 
 The Non-Cooperation-Khilafat Movement began in January 1921. Various social groups participated in this movement, each with its own specific aspiration. All of them responded to the call of Swaraj, but the term meant different things to different people. 
-##### **2.1 The Movement in the Towns** 
+#### **2.1 The Movement in the Towns** 
 The movement started with middle-class participation in the cities. Thousands of students left government-controlled schools and colleges, headmasters and teachers resigned, and lawyers gave up their legal practices. The council elections were boycotted in most provinces except Madras, where the Justice Party, the party of the non-Brahmans, felt that entering the council was one way of gaining some power – something that usually only Brahmans had access to. 
 The effects of non-cooperation on the economic front were more dramatic. Foreign goods were boycotted, liquor shops **picketed** , and foreign cloth burnt in huge bonfires. The import of foreign cloth halved between 1921 and 1922, its value dropping from Rs 102 crore to Rs 57 crore. In many places merchants and traders refused to trade in foreign goods or finance foreign trade. As the boycott movement spread, and people began discarding imported clothes and wearing only Indian ones, production of Indian textile mills and handlooms went up. 
 But this movement in the cities gradually slowed down for a variety of reasons. _Khadi_ cloth was often more expensive than massproduced mill cloth and poor people could not afford to buy it. How then could they boycott mill cloth for too long? Similarly the boycott of British institutions posed a problem. For the movement to be successful, alternative Indian institutions had to be set up so that they could be used in place of the British ones. These were slow to come up. So students and teachers began trickling back to government schools and lawyers joined back work in government courts. 
-##### **New words** 
-Picket – A form of demonstration or protest by which people block the entrance to a shop, factory or office 
+**New words** Picket – A form of demonstration or protest by which people block the entrance to a shop, factory or office 
 ### **<mark>Activity</mark>** 
 The year is 1921. You are a student in a government-controlled school. Design a poster urging school students to answer Gandhiji’s call to join the Non-Cooperation Movement. 
-##### **2.2 Rebellion in the Countryside** 
+#### **2.2 Rebellion in the Countryside** 
 From the cities, the Non-Cooperation Movement spread to the countryside. It drew into its fold the struggles of peasants and tribals 
 footer page number:58
 which were developing in different parts of India in the years after the war. 
 In Awadh, peasants were led by Baba Ramchandra – a _sanyasi_ who had earlier been to Fiji as an indentured labourer. The movement here was against _talukdars_ and landlords who demanded from peasants exorbitantly high rents and a variety of other cesses. Peasants had to do **_begar_** and work at landlords’ farms without any payment. As tenants they had no security of tenure, being regularly evicted so that they could acquire no right over the leased land. The peasant movement demanded reduction of revenue, abolition of _begar_ , and social boycott of oppressive landlords. In many places _nai_ – _dhobi bandhs_ were organised by panchayats to deprive landlords of the services of even barbers and washermen. In June 1920, Jawaharlal Nehru began going around the villages in Awadh, talking to the villagers, and trying to understand their grievances. By October, the Oudh Kisan Sabha was set up headed by Jawaharlal Nehru, Baba Ramchandra and a few others. Within a month, over 300 branches had been set up in the villages around the region. So when the NonCooperation Movement began the following year, the effort of the Congress was to integrate the Awadh peasant struggle into the wider struggle. The peasant movement, however, developed in forms that the Congress leadership was unhappy with. As the movement spread in 1921, the houses of _talukdars_ and merchants were attacked, bazaars were looted, and grain hoards were taken over. In many places local leaders told peasants that Gandhiji had declared that no taxes were to be paid and land was to be redistributed among the poor. The name of the Mahatma was being invoked to sanction all action and aspirations. 
-##### **New words** 
+#### **New words** 
 _Begar_ – Labour that villagers were forced to contribute without any payment 
 ### **<mark>Activity</mark>** 
 If you were a peasant in Uttar Pradesh in 1920, how would you have responded to Gandhiji’s call for Swaraj? Give reasons for your response. 
-###### **_Source B_** 
+##### **_Source B_** 
 On 6 January 1921, the police in United Provinces fired at peasants near Rae Bareli. Jawaharlal Nehru wanted to go to the place of firing, but was stopped by the police. Agitated and angry, Nehru addressed the peasants who gathered around him. This is how he later described the meeting: 
 ‘They behaved as brave men, calm and unruffled in the face of danger. I do not know how they felt but I know what my feelings were. For a moment my blood was up, non-violence was almost forgotten – but for a moment only. The thought of the great leader, who by God’s goodness has been sent to lead us to victory, came to me, and I saw the kisans seated and standing near me, less excited, more peaceful than I was – and the moment of weakness passed, I spoke to them in all humility on non-violence – I needed the lesson more than they – and they heeded me and peacefully dispersed.’ 
 Quoted in Sarvapalli Gopal, Jawaharlal Nehru: A Biography, Vol. I. 
 **_Source_** 
 footer page number:59
 Tribal peasants interpreted the message of Mahatma Gandhi and the idea of _swaraj_ in yet another way. In the Gudem Hills of Andhra Pradesh, for instance, a militant guerrilla movement spread in the early 1920s –  not a form of struggle that the Congress could approve. Here, as in other forest regions, the colonial government had closed large forest areas, preventing people from entering the forests to graze their cattle, or to collect fuelwood and fruits. This enraged the hill people. Not only were their livelihoods affected but they felt that their traditional rights were being denied. When the government began forcing them to contribute _begar_ for road building, the hill people revolted. The person who came to lead them was an interesting figure. Alluri Sitaram Raju claimed that he had a variety of special powers: he could make correct astrological predictions and heal people, and he could survive even bullet shots. Captivated by Raju, the rebels proclaimed that he was an incarnation of God. Raju talked of the greatness of Mahatma Gandhi, said he was inspired by the Non-Cooperation Movement, and persuaded people to wear _khadi_ and give up drinking. But at the same time he asserted that India could be liberated only by the use of force, not non-violence. The Gudem rebels attacked police stations, attempted to kill British officials and carried on guerrilla warfare for achieving swaraj.  Raju was captured and executed in 1924, and over time became a folk hero. 
-##### **2.3 Swaraj in the Plantations** 
+#### **2.3 Swaraj in the Plantations** 
 Workers too had their own understanding of Mahatma Gandhi and the notion of swaraj.  For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed, and it meant retaining a link with the village from which they had come. Under the Inland Emigration Act of 1859, plantation workers were not permitted to leave the tea gardens without permission, and in fact they were rarely given such permission. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home. They believed that Gandhi Raj was coming and everyone would be given land in their own villages. They, however, never reached their destination. Stranded on the way by a railway and steamer strike, they were caught by the police and brutally beaten up. 
 ### **<mark>Activity</mark>** 
 Find out about other participants in the National Movement who were captured and put to death by the British. Can you think of a similar example from the national movement in Indo-China (Chapter 2)? 
@@ -596,9 +571,9 @@ When the Simon Commission arrived in India in 1928, it was greeted with the slog
 **_Fig. 6 – Meeting of Congress leaders  at Allahabad, 1931._** _Apart from Mahatma Gandhi, you can see Sardar Vallabhbhai Patel (extreme left), Jawaharlal Nehru (extreme right) and Subhas Chandra Bose (fifth from right)._ 
 footer page number:62
 Jawaharlal Nehru and Subhas Chandra Bose, became more assertive. The liberals and moderates, who were proposing a constitutional system within the framework of British dominion, gradually lost their influence. In December 1929, under the presidency of Jawaharlal Nehru, the Lahore Congress formalised the demand of ‘Purna Swaraj’ or full independence for India. It was declared that 26 January 1930, would be celebrated as the Independence Day when people were to take a pledge to struggle for complete independence. But the celebrations attracted very little attention. So Mahatma Gandhi had to find a way to relate this abstract idea of freedom to more concrete issues of everyday life. 
-##### **3.1 The Salt March and the Civil Disobedience Movement** 
+#### **3.1 The Salt March and the Civil Disobedience Movement** 
 Mahatma Gandhi found in salt a powerful symbol that could unite the nation. On 31 January 1930, he sent a letter to Viceroy Irwin stating eleven demands. Some of these were of general interest; others were specific demands of different classes, from industrialists to peasants. The idea was to make the demands wide-ranging, so that all classes within Indian society could identify with them and everyone could be brought together in a united campaign. The most stirring of all was the demand to abolish the salt tax. Salt was something consumed by the rich and the poor alike, and it was one of the most essential items of food. The tax on salt and the government monopoly over its production, Mahatma Gandhi declared, revealed the most oppressive face of British rule. 
-###### **_Source C_** 
+##### **_Source C_** 
 ###### **The Independence Day Pledge, 26 January 1930** 
 ‘We believe that it is the inalienable right of the Indian people, as of any other people, to have freedom and to enjoy the fruits of their toil and have the necessities of life, so that they may have full opportunities of growth. We believe also that if any government deprives a people of these rights and oppresses them, the people have a further right to alter it or to abolish it. The British Government in India has not only deprived the Indian people of their freedom but has based itself on the exploitation of the masses, and has ruined India economically, politically, culturally, and spiritually. We believe, therefore, that India must sever the British connection and attain Purna Swaraj or Complete Independence.’ 
 ### **_Source_** 
@@ -612,10 +587,10 @@ In such a situation, Mahatma Gandhi once again decided to call off the movement 
 **_Fig. 8 – Police cracked down on satyagrahis, 1930._** 
 footer page number:64
 Round Table Conference) in London and the government agreed to release the political prisoners. In December 1931, Gandhiji went to London for the conference, but the negotiations broke down and he returned disappointed. Back in India, he discovered that the government had begun a new cycle of repression. Ghaffar Khan and Jawaharlal Nehru were both in jail, the Congress had been declared illegal, and a series of measures had been imposed to prevent meetings, demonstrations and boycotts. With great apprehension, Mahatma Gandhi relaunched the Civil Disobedience Movement. For over a year, the movement continued, but by 1934 it lost its momentum. 
-##### **3.2 How Participants saw the Movement** 
+#### **3.2 How Participants saw the Movement** 
 Let us now look at the different social groups that participated in the Civil Disobedience Movement. Why did they join the movement? What were their ideals? What did swaraj mean to them? 
 In the countryside, rich peasant communities – like the Patidars of Gujarat and the Jats of Uttar Pradesh – were active in the movement. Being producers of commercial crops, they were very hard hit by the trade depression and falling prices. As their cash income disappeared, they found it impossible to pay the government’s revenue demand. And the refusal of the government to reduce the revenue demand led to widespread resentment. These rich peasants became enthusiastic supporters of the Civil Disobedience Movement, organising their communities, and at times forcing reluctant members, to participate in the boycott programmes. For them the fight for swaraj was a struggle against high revenues. But they were deeply disappointed when the movement was called off in 1931 without the revenue rates being revised. So when the movement was restarted in 1932, many of them refused to participate. 
-###### **_Box 1_** 
+##### **_Box 1_** 
 ###### **‘To the altar of this revolution we have brought our youth as incense’** 
 Many nationalists thought that the struggle against the British could not be won through non-violence. In 1928, the Hindustan Socialist Republican Army (HSRA) was founded at a meeting in Ferozeshah Kotla ground in Delhi. Amongst its leaders were Bhagat Singh, Jatin Das and Ajoy Ghosh. In a series of dramatic actions in different parts of India, the HSRA targeted some of the symbols of British power. In April 1929, Bhagat Singh and Batukeswar Dutta threw a bomb in the Legislative Assembly. In the same year there was an attempt to blow up the train that Lord Irwin was travelling in. Bhagat Singh was 23 when he was tried and executed by the colonial government. During his trial, Bhagat Singh stated that he did not wish to glorify ‘the cult of the bomb and pistol’ but wanted a revolution in society: 
 ‘Revolution is the inalienable right of mankind. Freedom is the imprescriptible birthright of all. The labourer is the real sustainer of society … To the altar of this revolution we have brought our youth as incense, for no sacrifice is too great for so magnificent a cause. We are content. We await the advent of revolution. Inquilab Zindabad!’ 
@@ -623,36 +598,16 @@ The poorer peasantry were not just interested in the lowering of the revenue dem
 footer page number:65
 What about the business classes? How did they relate to the Civil Disobedience Movement? During the First World War, Indian merchants and industrialists had made huge profits and become powerful (see Chapter 5). Keen on expanding their business, they now reacted against colonial policies that restricted business activities. They wanted protection against imports of foreign goods, and a rupee-sterling foreign exchange ratio that would discourage imports. To organise business interests, they formed the Indian Industrial and Commercial Congress in 1920 and the Federation of the Indian Chamber of Commerce and Industries (FICCI) in 1927. Led by prominent industrialists like Purshottamdas Thakurdas and G. D. Birla, the industrialists attacked colonial control over the Indian economy, and supported the Civil Disobedience Movement when it was first launched.  They gave financial assistance and refused to buy or sell imported goods. Most businessmen came to see swaraj as a time when colonial restrictions on business would no longer exist and trade and industry would flourish without constraints. But after the failure of the Round Table Conference, business groups were no longer uniformly enthusiastic. They were apprehensive of the spread of militant activities, and worried about prolonged disruption of business, as well as of the growing influence of socialism amongst the younger members of the Congress. 
 The industrial working classes did not participate in the Civil Disobedience Movement in large numbers, except in the Nagpur region. As the industrialists came closer to the Congress, workers stayed aloof. But in spite of that, some workers did participate in the Civil Disobedience Movement, selectively adopting some of the ideas of the Gandhian programme, like boycott of foreign goods, as part of their own movements against low wages and poor working conditions. There were strikes by railway workers in 1930 and dockworkers in 1932. In 1930 thousands of workers in Chotanagpur tin mines wore Gandhi caps and participated in protest rallies and boycott campaigns. But the Congress was reluctant to include workers’ demands as part of its programme of struggle. It felt that this would alienate industrialists and divide the antiimperial forces. 
-Some important dates 
-1918-19 
-Distressed UP peasants organised by Baba Ramchandra. 
-April 1919 
-Gandhian _hartal_ against Rowlatt Act; Jallianwala Bagh massacre. 
-January 1921 
-Non-Cooperation and Khilafat movement launched. 
-February 1922 
-Chauri Chaura; Gandhiji withdraws NonCooperation movement. 
-May 1924 
-Alluri Sitarama Raju arrested ending a two-year armed tribal struggle. 
-December 1929 
-Lahore Congress; Congress adopts the demand for ‘Purna Swaraj’. 
-footer page number:1930
-Ambedkar establishes Depressed Classes Association. 
-March 1930 
-Gandhiji begins Civil Disobedience Movement by breaking salt law at Dandi. 
-March 1931 
-Gandhiji ends Civil Disobedience Movement. 
-December 1931 
-Second Round Table Conference. 
-footer page number:1932
-Civil Disobedience re-launched. 
+Some important dates <u>1918-19</u> Distressed UP peasants organised by Baba Ramchandra. April 1919 Gandhian _hartal_ against Rowlatt Act; Jallianwala Bagh massacre. January 1921 Non-Cooperation and Khilafat movement launched. February 1922 Chauri Chaura; Gandhiji withdraws NonCooperation movement. May 1924 Alluri Sitarama Raju arrested ending a two-year armed tribal struggle. December 1929 Lahore Congress; Congress adopts the demand for ‘Purna Swaraj’. 1930 
+Ambedkar establishes Depressed Classes Association. March 1930 
+Gandhiji begins Civil Disobedience Movement by breaking salt law at Dandi. March 1931 Gandhiji ends Civil Disobedience Movement. December 1931 Second Round Table Conference. 1932 Civil Disobedience re-launched. 
 Another important feature of the Civil Disobedience Movement was the large-scale participation of women. During Gandhiji’s salt march, thousands of women came out of their homes to listen to him. They participated in protest marches, manufactured salt, and 
 footer page number:66
 **_Fig. 9 – Women join nationalist processions._** _During the national movement, many women, for the first time in their lives, moved out of their homes on to a public arena. Amongst the marchers you can see many old women, and mothers with children in their arms._ 
 picketed foreign cloth and liquor shops. Many went to jail. In urban areas these women were from high-caste families; in rural areas they came from rich peasant households. Moved by Gandhiji’s call, they began to see service to the nation as a sacred duty of women. Yet, this increased public role did not necessarily mean any radical change in the way the position of women was visualised. Gandhiji was convinced that it was the duty of women to look after home and hearth, be good mothers and good wives. And for a long time the Congress was reluctant to allow women to hold any position of authority within the organisation. It was keen only on their symbolic presence. 
 ### **<mark>Discuss</mark>** 
 Why did various classes and groups of Indians participate in the Civil Disobedience Movement? 
-##### **3.3 The Limits of Civil Disobedience** 
+#### **3.3 The Limits of Civil Disobedience** 
 Not all social groups were moved by the abstract concept of swaraj. One such group was the nation’s ‘untouchables’, who from around the 1930s had begun to call themselves dalit or oppressed. For long the Congress had ignored the dalits, for fear of offending the _sanatanis,_ the conservative high-caste Hindus. But Mahatma Gandhi declared that swaraj would not come for a hundred years if untouchability was not eliminated. He called the ‘untouchables’ harijan, 
 footer page number:67
 or the children of God, organised satyagraha to secure them entry into temples, and access to public wells, tanks, roads and schools. He himself cleaned toilets to dignify the work of the bhangi (the sweepers), and persuaded upper castes to change their heart and give up ‘the sin of untouchability’. But many dalit leaders were keen on a different political solution to the problems of the community. They began organising themselves, demanding reserved seats in educational institutions, and a separate electorate that would choose dalit members for legislative councils. Political empowerment, they believed, would resolve the problems of their social disabilities. Dalit participation in the Civil Disobedience Movement was therefore limited, particularly in the Maharashtra and Nagpur region where their organisation was quite strong. 
@@ -663,7 +618,7 @@ The Congress and the Muslim League made efforts to renegotiate an alliance, and 
 footer page number:68
 Jinnah, one of the leaders of the Muslim League, was willing to give up the demand for separate electorates, if Muslims were assured reserved seats in the Central Assembly and representation in proportion to population in the Muslim-dominated provinces (Bengal and Punjab). Negotiations over the question of representation continued but all hope of resolving the issue at the All Parties Conference in 1928 disappeared when M.R. Jayakar of the Hindu Mahasabha strongly opposed efforts at compromise. 
 When the Civil Disobedience Movement started there was thus an atmosphere of suspicion and distrust between communities. Alienated from the Congress, large sections of Muslims could not respond to the call for a united struggle. Many Muslim leaders and intellectuals expressed their concern about the status of Muslims as a minority within India. They feared that the culture and identity of minorities would be submerged under the domination of a Hindu majority. 
-###### **_Source D_** 
+##### **_Source D_** 
 In 1930, Sir Muhammad Iqbal, as president of the Muslim League, reiterated the importance of separate electorates for the Muslims as an important safeguard for their minority political interests. His statement is supposed to have provided the intellectual justification for the Pakistan demand that came up in subsequent years. This is what he said: 
 ‘I have no hesitation in declaring that if the principle that the Indian Muslim is entitled to full and free development on the lines of his own culture and tradition in his own Indian home-lands is recognised as the basis of a permanent communal settlement, he will be ready to stake his all for the freedom of India. The principle that each group is entitled to free development on its own lines is not inspired by any feeling of narrow communalism … A community which is inspired by feelings of ill-will towards other communities is low and ignoble. I entertain the highest respect for the customs, laws, religions and social institutions of other communities. Nay, it is my duty according to the teachings of the Quran, even to defend their places of worship, if need be. Yet I love the communal group which is the source of life and behaviour and which has formed me what I am by giving me its religion, its literature, its thought, its culture and thereby its whole past as a living operative factor in my present consciousness … 
 ‘Communalism in its higher aspect, then, is indispensable to the formation of a harmonious whole in a country like India. The units of Indian society are not territorial as in European countries … The principle of European democracy cannot be applied to India without recognising the fact of communal groups. The Muslim demand for the creation of a Muslim India within India is, therefore, perfectly justified… 
@@ -679,89 +634,81 @@ This sense of collective belonging came partly through the experience of united 
 footer page number:70
 The identity of the nation, as you know (see Chapter 1), is most often symbolised in a figure or image. This helps create an image with which people can identify the nation. It was in the twentieth century, with the growth of nationalism, that the identity of India came to be visually associated with the image of Bharat Mata. The image was first created by Bankim Chandra Chattopadhyay. In the 1870s he wrote ‘Vande Mataram’ as a hymn to the motherland. Later it was included in his novel _Anandamath_ and widely sung during the Swadeshi movement in Bengal. Moved by the Swadeshi movement, Abanindranath Tagore painted his famous image of Bharat Mata (see Fig. 12). In this painting Bharat Mata is portrayed as an ascetic figure; she is calm, composed, divine and spiritual. In subsequent years, the image of Bharat Mata acquired many different forms, as it circulated in popular prints, and was painted by different artists (see Fig. 14). Devotion to this mother figure came to be seen as evidence of one’s nationalism. 
 Ideas of nationalism also developed through a movement to revive Indian folklore.  In late-nineteenth-century India, nationalists began recording folk tales sung by bards and they toured villages to gather folk songs and legends. These tales, they believed, gave a true picture of traditional culture that had been corrupted and damaged by outside forces. It was essential to preserve this folk tradition  in order to discover one’s national identity and restore a sense of pride in one’s past. In Bengal, Rabindranath Tagore himself began collecting ballads, nursery rhymes and myths, and led the movement for folk 
-**_Fig. 12 – Bharat Mata, Abanindranath Tagore, 1905._** 
-_Notice that the mother figure here is shown as dispensing learning, food and clothing. The_ mala _in one hand emphasises her ascetic quality. Abanindranath Tagore, like Ravi Varma before him, tried to develop a style of painting that could be seen as truly Indian._ 
-**_Fig. 13 – Jawaharlal Nehru, a popular print._** 
-_Nehru is here shown holding the image of Bharat Mata and the map of India close to his heart. In a lot of popular prints, nationalist leaders are shown offering their heads to Bharat Mata. The idea of sacrifice for the mother was powerful within popular imagination._ 
+**_Fig. 12 – Bharat Mata, Abanindranath Tagore, 1905._** _Notice that the mother figure here is shown as dispensing learning, food and clothing. The_ mala _in one hand emphasises her ascetic quality. Abanindranath Tagore, like Ravi Varma before him, tried to develop a style of painting that could be seen as truly Indian._ 
+**_Fig. 13 – Jawaharlal Nehru, a popular print._** _Nehru is here shown holding the image of Bharat Mata and the map of India close to his heart. In a lot of popular prints, nationalist leaders are shown offering their heads to Bharat Mata. The idea of sacrifice for the mother was powerful within popular imagination._ 
 footer page number:71
 revival. In Madras, Natesa Sastri published a massive four-volume collection of Tamil folk tales, _The Folklore of Southern India_ . He believed that folklore was national literature; it was ‘the most trustworthy manifestation of people’s real thoughts and characteristics’. 
 As the national movement developed, nationalist leaders became more and more aware of such icons and symbols in unifying people and inspiring in them a feeling of nationalism. During the Swadeshi movement in Bengal, a tricolour flag (red, green and yellow) was designed. It had eight lotuses representing eight provinces of British India, and a crescent moon, representing Hindus and Muslims. By 1921, Gandhiji had designed the Swaraj flag. It was again a tricolour (red, green and white) and had a spinning wheel in the centre, representing the Gandhian ideal of self-help. Carrying the flag, holding it aloft, during marches became a symbol of defiance. 
 Another means of creating a feeling of nationalism was through reinterpretation of history. By the end of the nineteenth century many Indians began feeling that to instill a sense of pride in the nation, Indian history had to be thought about differently. The British saw Indians as backward and primitive, incapable of governing themselves. In response, Indians began looking into the past to discover India’s great achievements. They wrote about the glorious developments in ancient times when art and architecture, science and mathematics, religion and culture, law and philosophy, crafts and trade had flourished. This glorious time, in their view, was followed by a history of decline, when India was colonised. These nationalist histories urged the readers to take pride in India’s great achievements in the past and struggle to change the miserable conditions of life under British rule. 
-**_Fig. 14 – Bharat Mata._** 
-_This figure of Bharat Mata is a contrast to the one painted by Abanindranath Tagore. Here she is shown with a_ trishul _, standing  beside a lion and an elephant – both symbols of power and authority._ 
+**_Fig. 14 – Bharat Mata._** _This figure of Bharat Mata is a contrast to the one painted by Abanindranath Tagore. Here she is shown with a_ trishul _, standing  beside a lion and an elephant – both symbols of power and authority._ 
 ### **<mark>Activity</mark>** 
 Look at Figs. 12 and 14. Do you think these images will appeal to all castes and communities? Explain your views briefly. 
 These efforts to unify people were not without problems. When the past being glorified was Hindu, when the images celebrated were drawn from Hindu iconography, then people of other communities felt left out. 
-###### **_Source E_** 
+##### **_Source E_** 
 ‘In earlier times, foreign travellers in India marvelled at the courage, truthfulness and modesty of the people of the Arya vamsa; now they remark mainly on the absence of those qualities. In those days Hindus would set out on conquest and hoist their flags in Tartar, China and other countries; now a few soldiers from a tiny island far away are lording it over the land of India.’ 
 Tarinicharan Chattopadhyay, Bharatbarsher Itihas (The History of Bharatbarsh),  vol. 1, 1858. 
 **_Source_** 
 footer page number:72
-##### **Conclusion** 
+#### **Conclusion** 
 A growing anger against the colonial government was thus bringing together various groups and classes of Indians into a common struggle for freedom in the first half of the twentieth century. The Congress under the leadership of Mahatma Gandhi tried to channel people’s grievances into organised movements for independence. Through such movements the nationalists tried to forge a national unity. But as we have seen, diverse groups and classes participated in these movements with varied aspirations and expectations. As their grievances were wide-ranging, freedom from colonial rule also meant different things to different people. The Congress continuously attempted to resolve differences, and ensure that the demands of one group did not alienate another. This is precisely why the unity within the movement often broke down. The high points of Congress activity and nationalist unity were followed by phases of disunity and inner conflict between groups. 
 In other words, what was emerging was a nation with many voices wanting freedom from colonial rule. 
 footer page number:73
 ### **<mark>Write in brief</mark>** 
-1. Explain: a) Why growth of nationalism in the colonies is linked to an anti-colonial movement. b) How the First World War helped in the growth of the National Movement in India. c) Why Indians were outraged by the Rowlatt Act. 
+1. Explain: 
+   - a) Why growth of nationalism in the colonies is linked to an anti-colonial movement. b) How the First World War helped in the growth of the National Movement in India. c) Why Indians were outraged by the Rowlatt Act. 
    - d) Why Gandhiji decided to withdraw the Non-Cooperation Movement. 
 2. What is meant by the idea of satyagraha? 
-3. Write a newspaper report on: a) The Jallianwala Bagh massacre 
-   - b) The Simon Commission 
+3. Write a newspaper report on: a) The Jallianwala Bagh massacre b) The Simon Commission 
 4. Compare the images of Bharat Mata in this chapter with the image of Germania in Chapter 1. 
 ### **<mark>Discuss</mark>** 
 1. List all the different social groups which joined the Non-Cooperation Movement of 1921. Then choose any three and write about their hopes and struggles to show why they joined the movement. 
 2. Discuss the Salt March to make clear why it was an effective symbol of resistance against colonialism. 
-3. Imagine you are a woman participating in the Civil Disobedience Movement. Explain 
 3. Imagine you are a woman participating in the Civil Disobedience Movement. Explain what the experience meant to your life. 
 4. Why did political leaders differ sharply over the question of separate electorates? 
 ### **<mark>Project</mark>** 
-Find out about the anti-colonial movement in Kenya. Compare and contrast India’s national movement with the ways in which Kenya became independent. 
-Project 
+Find out about the anti-colonial movement in Kenya. Compare and contrast India’s national movement with the ways in which Kenya became independent. Project 
 footer page number:74
 # **The Making of a Global World** 
 ### **<mark>1</mark> The Pre-modern World** 
 When we talk of ‘globalisation’ we often refer to an economic system that has emerged since the last 50 years or so. But as you will see in this chapter, the making of the global world has a long history – of trade, of migration, of people in search of work, the movement of capital, and much else. As we think about the dramatic and visible signs of global interconnectedness in our lives today, we need to understand the phases through which this world in which we live has emerged. 
 All through history, human societies have become steadily more interlinked. From ancient times, travellers, traders, priests and pilgrims travelled vast distances for knowledge, opportunity and spiritual fulfilment, or to escape persecution. They carried goods, money, values, skills, ideas, inventions, and even germs and diseases. As early as 3000 BCE an active coastal trade linked the Indus valley civilisations with present-day West Asia. For more than a millennia, _cowries_ (the Hindi c _owdi_ or seashells, used as a form of currency) from the Maldives found their way to China and East Africa. The long-distance spread of disease-carrying germs may be traced as far back as the seventh century. By the thirteenth century it had become an unmistakable link. 
 **_Fig. 1 – Image of a ship on a memorial stone, Goa Museum, tenth century CE._** _From the ninth century, images of ships appear regularly in memorial stones found in the western coast, indicating the significance of oceanic trade._ 
-##### **1.1 Silk Routes Link the World** 
+#### **1.1 Silk Routes Link the World** 
 The silk routes are a good example of vibrant pre-modern trade and cultural links between distant parts of the world. The name ‘silk routes’ points to the importance of West-bound Chinese silk cargoes along this route. Historians have identified several silk routes, over land and by sea, knitting together vast regions of Asia, and linking Asia with Europe and northern Africa. They are known to have existed since before the Christian Era and thrived almost till the fifteenth century. But Chinese pottery also travelled the same route, as did textiles and spices from India and Southeast Asia. In return, precious metals – gold and silver – flowed from Europe to Asia. 
 Trade and cultural exchange always went hand in hand. Early Christian missionaries almost certainly travelled this route to Asia, as did early Muslim preachers a few centuries later. Much before all this, Buddhism emerged from eastern India and spread in several directions through intersecting points on the silk routes. 
 **_Fig. 2 – Silk route trade as depicted in a Chinese cave painting, eighth century, Cave 217, Mogao Grottoes, Gansu, China._** 
-##### **1.2 Food Travels: Spaghetti and Potato** 
-Food offers many examples of long-distance cultural exchange. Traders and travellers introduced new crops to the lands they travelled. Even ‘ready’ foodstuff  in distant parts of the world might share common origins. Take spaghetti and noodles. It is believed that noodles travelled west from China to 
-become spaghetti. Or, perhaps Arab traders took pasta to fifth-century Sicily, an island now in Italy. Similar foods were also known in India and Japan, so the truth about their origins may never be known. Yet such guesswork suggests the possibilities of long-distance cultural contact even in the pre-modern world. 
+#### **1.2 Food Travels: Spaghetti and Potato** 
+Food offers many examples of long-distance cultural exchange. Traders and travellers introduced new crops to the lands they travelled. Even ‘ready’ foodstuff  in distant parts of the world might share common origins. Take spaghetti and noodles. It is believed that noodles travelled west from China to become spaghetti. Or, perhaps Arab traders took pasta to fifth-century Sicily, an island now in Italy. Similar foods were also known in India and Japan, so the truth about their origins may never be known. Yet such guesswork suggests the possibilities of long-distance cultural contact even in the pre-modern world. 
 Many of our common foods such as potatoes, soya, groundnuts, maize, tomatoes, chillies, sweet potatoes, and so on were not known to our ancestors until about five centuries ago. These foods were only introduced in Europe and Asia after Christopher Columbus accidentally discovered the vast continent that would later become known as the Americas. 
 **_Fig. 3 – Merchants from Venice and the Orient exchanging goods, from Marco Polo,_ Book of Marvels** **_, fifteenth century._** 
 footer page number:78
 (Here we will use ‘America’ to describe North America, South America and the Caribbean.) In fact, many of our common foods came from America’s original inhabitants – the American Indians. 
 Sometimes the new crops could make the difference between life and death. Europe’s poor began to eat better and live longer with the introduction of the humble potato. Ireland’s poorest peasants became so dependent on potatoes that when disease destroyed the potato crop in the mid-1840s, hundreds of thousands died of starvation. 
-##### **1.3 Conquest, Disease and Trade** 
+#### **1.3 Conquest, Disease and Trade** 
 The pre-modern world shrank greatly in the sixteenth century after European sailors found a sea route to Asia and also successfully crossed the western ocean to America. For centuries before, the Indian Ocean had known a bustling trade, with goods, people, knowledge, customs, etc. criss-crossing its waters. The Indian subcontinent was central to these flows and a crucial point in their networks.  The entry of the Europeans helped expand or redirect some of these flows towards Europe. 
 Before its ‘discovery’, America had been cut off from regular contact with the rest of the world for millions of years. But from the sixteenth century, its vast lands and abundant crops and minerals began to transform trade and lives everywhere. 
 Precious metals, particularly silver, from mines located in presentday Peru and Mexico also enhanced Europe’s wealth and financed its trade with Asia. Legends spread in seventeenth-century Europe about South America’s fabled wealth. Many expeditions set off in search of El Dorado, the fabled city of gold. 
 The Portuguese and Spanish conquest and colonisation of America was decisively under way by the mid-sixteenth century.  European conquest was not just a result of superior firepower. In fact, the most powerful weapon of the Spanish conquerors was not a conventional military weapon at all. It was the germs such as those of smallpox that they carried on their person. Because of their long isolation, America’s original inhabitants had no immunity against these diseases that came from Europe. Smallpox in particular proved a deadly killer. Once introduced, it spread deep into the continent, ahead even of any Europeans reaching there. It killed and decimated whole communities, paving the way for conquest. 
 **_Fig. 4 –  The Irish Potato Famine,_ Illustrated London News** **_, 1849._** 
 _Hungry children digging for potatoes in a field that has already been harvested, hoping to discover some leftovers. During the Great Irish Potato Famine (1845 to 1849), around 1,000,000 people died of starvation in Ireland, and double the number emigrated in search of work._ 
-###### **_Box 1_** 
+##### **_Box 1_** 
 ###### **‘Biological’ warfare?** 
 John Winthorp, the first governor of  the Massachusetts Bay colony in New England, wrote in May 1634 that smallpox signalled God’s blessing for the colonists: ‘… the natives … were neere (near) all dead of small Poxe (pox), so as the Lord hathe (had) cleared our title to what we possess’. 
 Alfred Crosby, Ecological Imperialism. 
 footer page number:79
 Guns could be bought or captured and turned against the invaders. But not diseases such as smallpox to which the conquerors were mostly immune. 
-##### **New words** 
-Dissenter – One who refuses to accept established beliefs and practices 
+**New words** Dissenter – One who refuses to accept established beliefs and practices 
 Until the nineteenth century, poverty and hunger were common in Europe. Cities were crowded and deadly diseases were widespread. Religious conflicts were common, and religious **dissenters** were persecuted. Thousands therefore fled Europe for America. Here, by the eighteenth century, plantations worked by slaves captured in Africa were growing cotton and sugar for European markets. 
 Until well into the eighteenth century, China and India were among the world’s richest countries. They were also pre-eminent in Asian trade. However, from the fifteenth century, China is said to have restricted overseas contacts and retreated into isolation.  China’s reduced role and the rising importance of the Americas gradually moved the centre of world trade westwards. Europe now emerged as the centre of  world trade. 
 ### **<mark>Discuss</mark>** 
 Explain what we mean when we say that the world ‘shrank’ in the 1500s. 
-<!-- Start of picture text -->
-Fig. 5 – Slaves for sale, New Orleans,  Illustrated London News , 1851.<br>A prospective buyer carefully inspecting slaves lined up before the auction. You can see two<br>children along with four women and seven men in top hats and suit waiting to be sold. To attract<br>buyers, slaves were often dressed in their best clothes.<br><!-- End of picture text -->
+**_Fig. 5 – Slaves for sale, New Orleans,_ Illustrated London News** **_, 1851._** _A prospective buyer carefully inspecting slaves lined up before the auction. You can see two children along with four women and seven men in top hats and suit waiting to be sold. To attract buyers, slaves were often dressed in their best clothes._ 
 footer page number:80
 ### **2  The Nineteenth Century (1815-1914)** 
 The world changed profoundly in the nineteenth century. Economic, political, social, cultural and technological factors interacted in complex ways to transform societies and reshape external relations. 
 Economists identify three types of movement or ‘flows’ within international economic exchanges. The first is the flow of trade which in the nineteenth century referred largely to trade in goods (e.g., cloth or wheat). The second is the flow of labour – the migration of people in search of employment. The third is the movement of capital for short-term or long-term investments over long distances. 
 All three flows were closely interwoven and affected peoples’ lives more deeply now than ever before. The interconnections could sometimes be broken – for example, labour migration was often more restricted than goods or capital flows. Yet it helps us understand the nineteenth-century world economy better if we look at the three flows together. 
-##### **2.1 A World Economy Takes Shape** 
+#### **2.1 A World Economy Takes Shape** 
 A good place to start is the changing pattern of food production and consumption in industrial Europe. Traditionally, countries liked to be self-sufficient in food. But in nineteenth-century Britain, self-sufficiency in food meant lower living standards and social conflict. Why was this so? 
 Population growth from the late eighteenth century had increased the demand for food grains in Britain. As urban centres expanded and industry grew, the demand for agricultural products went up, pushing up food grain prices. Under pressure from landed groups, the government also restricted the import of corn. The laws allowing the government to do this were commonly known as the ‘Corn Laws’. Unhappy with high food prices, industrialists and urban dwellers forced the abolition of the Corn Laws. 
 After the Corn Laws were scrapped, food could be imported into Britain more cheaply than it could be produced within the country. British agriculture was unable to compete with imports.  Vast areas of land were now left uncultivated, and thousands of men and women were thrown out of work. They flocked to the cities or migrated overseas. 
@@ -779,15 +726,14 @@ Prepare a flow chart to show how Britain’s decision to import food led to incr
 Imagine that you are an agricultural worker who has arrived in America from Ireland. Write a paragraph on why you chose to come and how you are earning your living. 
 Some of this dramatic change, though on a smaller scale, occurred closer home in west Punjab. Here the British Indian government built a network of irrigation canals to transform semi-desert wastes into fertile agricultural lands that could grow wheat and cotton for export. The Canal Colonies, as the areas irrigated by the new canals were called, were settled by peasants from other parts of Punjab. 
 Of course, food is merely an example. A similar story can be told for cotton, the cultivation of which expanded worldwide to feed British textile mills. Or rubber. Indeed, so rapidly did regional specialisation in the production of commodities develop, that between 1820 and 1914 world trade is estimated to have multiplied 25 to 40 times. Nearly 60 per cent of this trade comprised ‘primary products’ – that is, agricultural products such as wheat and cotton, and minerals such as coal. 
-##### **2.2 Role of Technology** 
+#### **2.2 Role of Technology** 
 What was the role of technology in all this? The railways, steamships, the telegraph, for example, were important inventions without which we cannot imagine the transformed nineteenth-century world. But technological advances were often the result of larger social, political and economic factors. For example, colonisation stimulated new investments and improvements in transport: faster railways, lighter wagons and larger ships helped move food more cheaply and quickly from faraway farms to final markets. 
 footer page number:83
-**_Fig. 8 — The Smithfield Club Cattle Show,_ Illustrated London News,** **_1851_ .** 
-_Cattle were traded at fairs, brought by farmers for sale. One of the oldest livestock markets in London was at Smithfield. In the midnineteenth century a huge poultry and meat market was established near the railway line connecting Smithfield to all the meat-supplying centres of the country._ 
+**_Fig. 8 — The Smithfield Club Cattle Show,_ Illustrated London News,** **_1851_ .** _Cattle were traded at fairs, brought by farmers for sale. One of the oldest livestock markets in London was at Smithfield. In the midnineteenth century a huge poultry and meat market was established near the railway line connecting Smithfield to all the meat-supplying centres of the country._ 
 The trade in meat offers a good example of this connected process. Till the 1870s, animals were shipped live from America to Europe and then slaughtered when they arrived there. But live animals took up a lot of ship space. Many also died in voyage, fell ill, lost weight, or became unfit to eat. Meat was hence an expensive luxury beyond the reach of the European poor. High prices in turn kept demand and production down until the development of a new technology, namely, refrigerated ships, which enabled the transport of perishable foods over long distances. 
 Now animals were slaughtered for food at the starting point – in America, Australia or New Zealand – and then transported to Europe as frozen meat. This reduced shipping costs and lowered meat prices in Europe. The poor in Europe could now consume a more varied diet. To the earlier monotony of bread and potatoes many, though not all, could now add meat (and butter and eggs) to their diet. Better living conditions promoted social peace within the country and support for imperialism abroad. 
 **_Fig. 9 – Meat being loaded on to the ship,_ Alexandra, Illustrated London News** **_, 1878._** _Export of meat was possible only after ships were refrigerated._ 
-##### **2.3 Late nineteenth-century Colonialism** 
+#### **2.3 Late nineteenth-century Colonialism** 
 Trade flourished and markets expanded in the late nineteenth century. But this was not only a period of expanding trade and increased prosperity. It is important to realise that there was a darker side to this process.  In many parts of the world, the expansion of trade and a closer relationship with the world economy also meant a loss of freedoms and livelihoods. Latenineteenth-century European conquests produced many painful economic, social and ecological changes through which the colonised societies were brought into the world economy. 
 footer page number:84
 Look at a map of Africa (Fig. 10). You will see some countries’ borders run straight, as if they were drawn using a ruler. Well, in fact this was almost how rival European powers in Africa drew up the borders demarcating their respective territories. In 1885 the big European powers met in Berlin to complete the carving up of Africa between them. 
@@ -796,54 +742,52 @@ Let us look at one example of the destructive impact of colonialism on the econo
 <!-- Start of picture text -->
 SPANISH<br>MOROCCO<br>TUNISIA MEDITERRANEAN SEA<br>MOROCCO<br>SPANISH ALGERIA LIBYA<br>SAHARA (TRIPOLI)<br>EGYPT<br>RIO<br>DE ORO<br>FRENCH<br>FRENCH WEST AFRICA EQUATORIAL ERITREA FRENCH<br>AFRICA ANGLO- SOMALILAND<br>FRENCH SUDAN<br>EGYPTIAN<br>SUDAN<br>PORT NIGERIA BRITISH<br>GUINEA SOMALILAND<br>ETHIOPIA<br>SIERRA CAMEROONS ITALIAN<br>LEONE TOGO SOMALILAND<br>GOLD BRITISH<br>IVORY COAST MIDDLE CONGO EAST AFRICA<br>COAST FREE STATE<br>CONGO<br>(BELGIAN<br>CONGO) GERMAN<br>ATLANTIC EAST AFRICA<br>OCEAN<br>ANGOLA<br>NORTHERN PORTUGUESE<br>RHODESIA EAST AFRICA<br>SOUTHERN<br>GERMAN<br>BELGIANBRITISH SOUTH WEST RHODESIA MADAGASCAR<br>FRENCHGERMAN AFRICA<br>ITALIAN<br>PORTUGUESE<br>SPANISH<br>BRITISH DOMINION UNION OF<br>INDEPENDENT STATE SOUTH AFRICA<br>RED SEA<br><!-- End of picture text -->
 **_Fig. 10 – Map of colonial Africa at the end of the nineteenth century._** 
-###### **_Box 2_** 
+##### **_Box 2_** 
 ###### **Sir Henry Morton Stanley in Central Africa** 
 Stanley was a journalist and explorer sent by the New York Herald to find Livingston, a missionary and explorer who had been in Africa for several years. Like other European and American explorers of the time, Stanley went with arms, mobilised local hunters, warriors and labourers to help him, fought with local tribes, investigated African terrains, and mapped different regions. These explorations helped the conquest of Africa. Geographical explorations were not driven by an innocent search for scientific information. They were directly linked to imperial projects. 
 **_Fig. 11_ –** **_Sir Henry Morton Stanley and his retinue in Central Africa_** _,_ **Illustrated London News,** **_1871._** 
 footer page number:85
-##### **2.4 Rinderpest, or the Cattle Plague** 
+#### **2.4 Rinderpest, or the Cattle Plague** 
 In Africa, in the 1890s, a fast-spreading disease of cattle plague or rinderpest had a terrifying impact on people’s livelihoods and the local economy. This is a good example of the widespread European imperial impact on colonised societies. It shows how in this era of conquest even a disease affecting cattle reshaped the lives and fortunes of thousands of people and their relations with the rest of the world. 
 Historically, Africa had abundant land and a relatively small population. For centuries, land and livestock sustained African livelihoods and people rarely worked for a wage. In latenineteenth-century Africa there were few consumer goods that wages could buy. If you had been an African possessing land and livestock – and there was plenty of both – you too would have seen little reason to work for a wage. 
-**_Fig. 12 – Transport to the Transvaal gold mines,_ The Graphic** **_, 1887._** 
-_Crossing the Wilge river was the quickest method of transport to the gold fields of Transvaal. After the discovery of gold in Witwatersrand, Europeans rushed to the region despite their fear of disease and death, and the difficulties of the journey. By the 1890s, South Africa contributed over 20 per cent of the world gold production._ 
+**_Fig. 12 – Transport to the Transvaal gold mines,_ The Graphic** **_, 1887._** _Crossing the Wilge river was the quickest method of transport to the gold fields of Transvaal. After the discovery of gold in Witwatersrand, Europeans rushed to the region despite their fear of disease and death, and the difficulties of the journey. By the 1890s, South Africa contributed over 20 per cent of the world gold production._ 
 In the late nineteenth century, Europeans were attracted to Africa due to its vast resources of land and minerals. Europeans came to Africa hoping to establish plantations and mines to produce crops and minerals for export to Europe. But there was an unexpected problem – a shortage of labour willing to work for wages. 
-Employers used many methods to recruit and retain labour. Heavy taxes were imposed which could be paid only by working for wages on plantations and mines. Inheritance laws were changed so that 
+Employers used many methods to recruit and retain labour. Heavy 
+taxes were imposed which could be paid only by working for wages on plantations and mines. Inheritance laws were changed so that 
 **_Fig. 13_ —** **_Diggers at work in the Transvaal gold fields in South Africa,_ The Graphic,** **_1875._** 
 footer page number:86
 peasants were displaced from land:  only one member of a family was allowed to inherit land, as a result of which the others were pushed into the labour market. Mineworkers were also confined in compounds and not allowed to move about freely. 
 Then came rinderpest, a devastating cattle disease. 
 Rinderpest arrived in Africa in the late 1880s.  It was carried by infected cattle imported from British Asia to feed the Italian soldiers invading Eritrea in East Africa. Entering Africa in the east, rinderpest moved west ‘like forest fire’, reaching Africa’s Atlantic coast in 1892. It reached the Cape (Africa’s southernmost tip) five years later. Along the way rinderpest killed 90 per cent of the cattle. 
-The loss of cattle destroyed African livelihoods. Planters, mine owners and colonial governments now successfully monopolised what scarce cattle resources remained, to strengthen their power and to force Africans into the labour market. Control over the scarce resource of cattle enabled European colonisers to conquer and subdue Africa. 
-Similar stories can be told about the impact of Western conquest on other parts of the nineteenth-century world. 
-##### **2.4 Indentured Labour Migration from India** 
+The loss of cattle destroyed African livelihoods. Planters, mine owners and colonial governments now successfully monopolised what scarce cattle resources remained, to strengthen their power and to force Africans into the labour market. Control over the scarce resource of cattle enabled European colonisers to conquer and subdue Africa. Similar stories can be told about the impact of Western conquest on other parts of the nineteenth-century world. 
+#### **2.4 Indentured Labour Migration from India** 
 The example of **indentured labour** migration from India also illustrates the two-sided nature of the nineteenth-century world. It was a world of faster economic growth as well as great misery, higher incomes for some and poverty for others, technological advances in some areas and new forms of coercion in others. 
 In the nineteenth century, hundreds of thousands of Indian and Chinese labourers went to work on plantations, in mines, and in road and railway construction projects around the world. In India, indentured labourers were hired under contracts which promised return travel to India after they had worked five years on their employer’s plantation. 
-##### **New words** 
+#### **New words** 
 Indentured labour – A  bonded labourer under contract to work for an employer for a specific amount of time, to pay off his passage to a new country or home 
 Most Indian indentured workers came from the present-day regions of eastern Uttar Pradesh, Bihar, central India and the dry districts of Tamil Nadu. In the mid-nineteenth century these regions experienced many changes – cottage industries declined, land rents rose, lands were cleared for mines and plantations. All this affected the lives of the poor: they failed to pay their rents, became deeply indebted and were forced to migrate in search of work. 
 footer page number:87
 The main destinations of Indian indentured migrants were the Caribbean islands (mainly Trinidad, Guyana and Surinam), Mauritius and Fiji. Closer home, Tamil migrants went to Ceylon and Malaya. Indentured workers were also recruited for tea plantations in Assam. 
-Recruitment was done by agents engaged by employers and paid a small commission. Many migrants agreed to take up work hoping to escape poverty or oppression in their home villages. Agents also tempted the prospective migrants by providing false information about final destinations, modes of travel, the nature of the **—** **_Fig. 14_** work, and living and working conditions. Often migrants were not even told that they were to embark on a long sea voyage. Sometimes agents even forcibly abducted less willing migrants. 
-**—** **_Fig. 14 Indian indentured labourers in a cocoa plantation in Trinidad, early nineteenth century._** 
+Recruitment was done by agents engaged by employers and paid a small commission. Many migrants agreed to take up work hoping to escape poverty or oppression in their home villages. Agents also tempted the prospective migrants by providing false information about final destinations, modes of travel, the nature of the **_Fig. 14_ —** work, and living and working conditions. Often migrants were not even told that they were to embark on a long sea voyage. Sometimes agents even forcibly abducted less willing migrants. 
+**_Fig. 14_ —** **_Indian indentured labourers in a cocoa plantation in Trinidad, early nineteenth century._** 
 Nineteenth-century indenture has been described as a ‘new system of slavery’. On arrival at the plantations, labourers found conditions to be different from what they had imagined. Living and working conditions were harsh, and there were few legal rights. 
 ### **<mark>Discuss</mark>** 
 Discuss the importance of language and popular traditions in the creation of national identity. 
 But workers discovered their own ways of surviving. Many of them escaped into the wilds, though if caught they faced severe punishment. Others developed new forms of individual and collective selfexpression, blending different cultural forms, old and new. In Trinidad the annual Muharram procession was transformed into a riotous carnival called ‘Hosay’ (for Imam Hussain) in which workers of all races and religions joined. Similarly, the protest religion of Rastafarianism (made famous by the Jamaican reggae star Bob Marley) is also said to reflect social and cultural links with Indian migrants to the Caribbean. ‘Chutney music’, popular in Trinidad and Guyana, is another creative contemporary expression of the post-indenture experience. These forms of cultural fusion are part of the making of the global world, where things from different places get mixed, lose their original characteristics and become something entirely new. 
 Most indentured workers stayed on after their contracts ended, or returned to their new homes after a short spell in India. Consequently, there are large communities of people of Indian descent in these countries. Have you heard of the Nobel Prize-winning writer 
-**—** **_Fig. 15 Indentured laboureres photographed for identification._** _For the employers, the numbers and not the names mattered._ 
+**_Fig. 15_ —** **_Indentured laboureres photographed for identification._** _For the employers, the numbers and not the names mattered._ 
 footer page number:88
 V.S. Naipaul? Some of you may have followed the exploits of West Indies cricketers Shivnarine Chanderpaul and Ramnaresh Sarwan. If you have wondered why their names sound vaguely Indian, the answer is that they are descended from indentured labour migrants from India. 
 From the 1900s India’s nationalist leaders began opposing the system of indentured labour migration as abusive and cruel. It was abolished in 1921. Yet for a number of decades afterwards, descendants of Indian indentured workers, often thought of as ‘coolies’, remained an uneasy minority in the Caribbean islands. Some of Naipaul’s early novels capture their sense of loss and alienation. 
-##### **2.5 Indian Entrepreneurs Abroad** 
+#### **2.5 Indian Entrepreneurs Abroad** 
 Growing food and other crops for the world market required capital. Large plantations could borrow it from banks and markets. But what about the humble peasant? 
 Enter the Indian banker. Do you know of the Shikaripuri shroffs and Nattukottai  Chettiars? They were amongst the many groups of bankers and traders who financed export agriculture in Central and Southeast Asia, using either their own funds or those borrowed from European banks. They had a sophisticated system to transfer money over large distances, and even developed indigenous forms of corporate organisation. 
 Indian traders and moneylenders also followed European colonisers into Africa. Hyderabadi Sindhi traders, however, ventured beyond European colonies. From the 1860s they established flourishing emporia at busy ports worldwide, selling local and imported curios to tourists whose numbers were beginning to swell, thanks to the development of safe and comfortable passenger vessels. 
 **_Fig. 16_ —** **_A contract form of an indentured labourer._** 
-###### **_Source A_** 
-###### **The testimony of  an indentured labourer** 
-Extract from the testimony of Ram Narain Tewary, an indentured labourer who spent ten years on Demerara in the early twentieth century. ‘… in spite of my best efforts, I could not properly do the works that were allotted to me ... In a few days I got my hands bruised all over and I could not go to work for a week for which I was prosecuted and sent to jail for 14 days. ... new emigrants find the tasks allotted to them extremely heavy and cannot complete them in a day. ... Deductions are also made from wages if the work is considered to have been done unsatisfactorily. Many people cannot therefore earn their full wages and are punished in various ways. In fact, the labourers have to spend their period of indenture in great trouble …’ 
+##### **_Source A_** 
+**The testimony of  an indentured labourer** Extract from the testimony of Ram Narain Tewary, an indentured labourer who spent ten years on Demerara in the early twentieth century. ‘… in spite of my best efforts, I could not properly do the works that were allotted to me ... In a few days I got my hands bruised all over and I could not go to work for a week for which I was prosecuted and sent to jail for 14 days. ... new emigrants find the tasks allotted to them extremely heavy and cannot complete them in a day. ... Deductions are also made from wages if the work is considered to have been done unsatisfactorily. Many people cannot therefore earn their full wages and are punished in various ways. In fact, the labourers have to spend their period of indenture in great trouble …’ 
 Source: Department of Commerce and Industry, Emigration Branch. 1916 **_Source_** 
-##### **2.6 Indian Trade, Colonialism and the Global System** 
+#### **2.6 Indian Trade, Colonialism and the Global System** 
 Historically, fine cottons produced in India were exported  to Europe. With industrialisation, British cotton manufacture began to expand, and industrialists pressurised the government to restrict cotton imports and protect local industries. Tariffs were imposed on cloth imports into Britain. Consequently, the inflow of fine Indian cotton began to decline. 
 From the early nineteenth century, British manufacturers also began to seek overseas markets for their cloth. Excluded from the British 
 footer page number:89
@@ -861,7 +805,7 @@ Aleppo Bukhara<br>Yarkand<br>Alexandria<br>Basra Lahore<br>Bandar Abbas Hoogly C
 footer page number:91
 ### **3  The Inter-war Economy** 
 The First World War (1914-18) was mainly fought in Europe. But its impact was felt around the world. Notably for our concerns in this chapter, it plunged the first half of the twentieth century into a crisis that took over three decades to overcome. During this period the world experienced widespread economic and political instability, and another catastrophic war. 
-##### **3.1 Wartime Transformations** 
+#### **3.1 Wartime Transformations** 
 The First World War, as you know, was fought between two power blocs. On the one side were the Allies – Britain, France and Russia (later joined by the US); and on the opposite side were the Central Powers – Germany, Austria-Hungary and Ottoman Turkey.  When the war began in August 1914, many governments thought it would be over by Christmas. It lasted more than four years. 
 The First World War was a war like no other before. The fighting involved the world’s leading industrial nations which now harnessed the vast powers of modern industry to inflict the greatest possible destruction on their enemies. 
 This war was thus the first modern industrial war. It saw the use of machine guns, tanks, aircraft, chemical weapons, etc. on a massive scale. These were all increasingly products of modern largescale industry. To fight the war, millions of soldiers had to be recruited from around the world and moved to the frontlines on large ships and trains. The scale of death and destruction – 9 million dead and 20 million injured – was unthinkable before the industrial age, without the use of industrial arms. 
@@ -870,15 +814,15 @@ During the war, industries were restructured to produce war-related goods. Entir
 **_Fig. 20 – Workers in a munition factory during the First World War._** _Production  of armaments increased rapidly to meet war demands._ 
 footer page number:92
 The war led to the snapping of economic links between some of the world’s largest economic powers which were now fighting each other to pay for them. So Britain borrowed large sums of money from US banks as well as the US public. Thus the war transformed the US from being an international debtor to an international creditor. In other words, at the war’s end, the US and its citizens owned more overseas assets than foreign governments and citizens owned in the US. 
-##### **3.2 Post-war Recovery** 
+#### **3.2 Post-war Recovery** 
 Post-war economic recovery proved difficult. Britain, which was the world’s leading economy in the pre-war period, in particular faced a prolonged crisis. While Britain was preoccupied with war, industries had developed in India and Japan. After the war Britain found it difficult to recapture its earlier position of dominance in the Indian market, and to compete with Japan internationally. Moreover, to finance war expenditures Britain had borrowed liberally from the US. This meant that at the end of the war Britain was burdened with huge external debts. 
 The war had led to an economic boom, that is, to a large increase in demand, production and employment. When the war boom ended, production contracted and unemployment increased. At the same time the government reduced bloated war expenditures to bring them into line with peacetime revenues. These developments led to huge job losses – in 1921 one in every five British workers was out of work. Indeed, anxiety and uncertainty about work became an enduring part of the post-war scenario. 
 Many agricultural economies were also in crisis. Consider the case of wheat producers. Before the war, eastern Europe was a major supplier of wheat in the world market. When this supply was disrupted during the war, wheat production in Canada, America and Australia expanded dramatically. But once the war was over, production in eastern Europe revived and created a glut in wheat output. Grain prices fell, rural incomes declined, and farmers fell deeper into debt. 
-##### **3.3 Rise of Mass Production and Consumption** 
+#### **3.3 Rise of Mass Production and Consumption** 
 In the US, recovery was quicker. We have already seen how the war helped boost the US economy. After a short period of economic 
 footer page number:93
 trouble in the years after the war, the US  economy resumed its strong growth in the early 1920s. 
-One important feature of the US economy of the 1920s was mass production. The move towards mass production had begun in the late nineteenth century, but in the 1920s it became a characteristic feature of industrial production in the US. A well-known pioneer of mass production was the car manufacturer Henry Ford. He adapted the assembly line of a Chicago slaughterhouse (in which slaughtered animals were picked apart by butchers as they came down a conveyor belt) to his new car plant in Detroit. He realised that the ‘assembly line’ method would allow a faster and cheaper way of producing vehicles. The assembly line forced workers to repeat a single task mechanically and continuously – such as fitting a particular part to the car – at a pace dictated by the conveyor belt. This was a way of increasing the output per worker by speeding up the pace of work. Standing in front of a conveyor belt no worker could afford to delay the motions, take a break, or even have a friendly word with a workmate. As a result, Henry Ford’s cars came off the assembly line at three-minute intervals, a speed much faster than that achieved by previous methods. The T- Model Ford was the world’s first mass-produced car. 
+One important feature of the US economy of the 1920s was mass production. The move towards mass production had begun in the late nineteenth century, but in the 1920s it became a characteristic feature of industrial production in the US. A well-known pioneer of mass production was the car manufacturer Henry Ford. He adapted the assembly line of a Chicago slaughterhouse (in which slaughtered animals were picked apart by butchers as they came down a conveyor belt) to his new car plant in Detroit. He realised that the ‘assembly line’ method would allow a faster and cheaper way of producing vehicles. The assembly line forced workers to **_Fig._** repeat a single task mechanically and continuously – such as fitting a particular part to the car – at a pace dictated by the conveyor belt. This was a way of increasing the output per worker by speeding up the pace of work. Standing in front of a conveyor belt no worker could afford to delay the motions, take a break, or even have a friendly word with a workmate. As a result, Henry Ford’s cars came off the assembly line at three-minute intervals, a speed much faster than that achieved by previous methods. The T- Model Ford was the world’s first mass-produced car. 
 **_Fig. 21 – T-Model automobiles lined up outside the factory._** 
 At first workers at the Ford  factory were unable to cope with the stress of working on assembly lines in which they could not control the pace of work. So they quit in large numbers. In desperation Ford doubled the daily wage to $5 in January 1914. At the same time he banned trade unions from operating in his plants. 
 Henry Ford recovered the high wage by repeatedly speeding up the production line and forcing workers to work ever harder. So much so, he would soon describe his decision to double the daily wage as the ‘best cost-cutting decision’ he had ever made. 
@@ -888,11 +832,11 @@ credit repaid in weekly or monthly instalments). The demand for refrigerators, w
 The housing and consumer boom of the 1920s created the basis of prosperity in the US. Large investments in housing and household goods seemed to create a cycle of higher employment and incomes, rising consumption demand, more investment, and yet more employment and incomes. 
 In 1923, the US resumed exporting capital to the rest of the world and became the largest overseas lender. US imports and capital exports also boosted European recovery and world trade and income growth over the next six years. 
 All this, however, proved  too good to last. By 1929 the world would be plunged into a depression such as it had never experienced before. 
-##### **3.4 The Great Depression** 
+#### **3.4 The Great Depression** 
 The Great Depression began around 1929 and lasted till the mid1930s. During this period most parts of the world experienced catastrophic declines in production, employment, incomes and trade. The exact timing and impact of the depression varied across countries. But in general, agricultural regions and communities were the worst affected. This was because the fall in agricultural prices was greater and more prolonged than that in the prices of industrial goods. 
 The depression was caused by a combination of several factors. We have already seen how fragile the post-war world economy was. First: agricultural overproduction remained a problem. This was made worse by falling agricultural prices. As prices slumped and agricultural incomes declined, farmers tried to expand production and bring a larger volume of produce to the market to maintain their overall income. This worsened the glut in the market, pushing down prices even further. Farm produce rotted for a lack of buyers. 
 Second: in the mid-1920s, many countries financed their investments through loans from the US. While it was often extremely easy to raise loans in the US when the going was good, US overseas lenders panicked at the first sign of trouble. In the first half of 1928, US 
-###### **_Box 3_** 
+##### **_Box 3_** 
 **_Fig. 22 – Migrant agricultural worker’s family, homeless and hungry, during the Great Depression, 1936._** _Courtesy: Library of Congress, Prints and Photographs Division._ 
 Many years later, Dorothea Lange, the photographer who shot this picture, recollected the moment of her encounter with the hungry mother: 
 ‘I saw and approached the hungry and desperate mother, as if drawn by a magnet … I did not ask her name or her history. She told me her age, that she was thirty-two. She said that they (i.e., she and her seven children) had been living on frozen vegetables from the surrounding fields, and birds that the children killed … There she sat … with her children huddled around her, and seemed to know that my pictures might help her, and so she helped me …’ 
@@ -903,7 +847,7 @@ The withdrawal of US loans affected much of the rest of the world, though in dif
 The US was also the industrial country most severely affected by the depression. With the fall in prices and the prospect of a depression, US banks had also slashed domestic lending and called back loans. Farms could not sell their harvests, households were ruined, and businesses collapsed. Faced with falling incomes, many households in the US could not repay what they had borrowed, and were forced to give up their homes, cars and other consumer durables. The consumerist prosperity of the 1920s now disappeared in a puff of dust. As unemployment soared, people trudged long distances looking for any work they could find. Ultimately, the US banking system itself collapsed. Unable to recover investments, collect loans and repay depositors, thousands of banks went bankrupt and were forced to close. The numbers are phenomenal: by 1933 over 4,000 banks had closed and between 1929 and 1932 about 110, 000 companies had collapsed. 
 **_Fig. 23 – People lining up for unemployment benefits, US, photograph by Dorothea Lange, 1938._** _Courtesy: Library of Congress, Prints and Photographs Division. When an unemployment census showed 10 million people out of work, the local government in many US states began making small allowances to the unemployed. These long queues came to symbolise the poverty and unemployment of the depression years_ **_._** 
 By 1935, a modest economic recovery was under way in most industrial countries. But the Great Depression’s wider effects on society, politics and international relations, and on peoples’ minds, proved more enduring. 
-##### **3.5 India and the Great Depression** 
+#### **3.5 India and the Great Depression** 
 If we look at the impact of the depression on India we realise how integrated the global economy had become by the early twentieth century. The tremors of a crisis in one part of the world were quickly relayed to other parts, affecting lives, economies and societies worldwide. 
 In the nineteenth century, as you have seen, colonial India had become an exporter of agricultural goods and importer of manufactures. The depression immediately affected Indian trade. India’s exports 
 footer page number:96
@@ -923,7 +867,7 @@ Unlike in earlier wars, most of these deaths took place outside the battlefields
 **_Fig. 24 – German forces attack Russia, July 1941._** _Hitler’s attempt to invade Russia was a turning point in the war._ 
 Two crucial influences shaped post-war reconstruction. The first was the US’s emergence as the dominant economic, political and military power in the Western world. The second was the dominance of the Soviet Union. It had made huge sacrifices to defeat Nazi Germany, and transformed itself from a backward agricultural country into a world power during the very years when the capitalist world was trapped in the Great Depression. 
 **_Fig. 25 – Stalingrad in Soviet Russia devastated by the war._** 
-##### **4.1 Post-war Settlement and the Bretton Woods Institutions** 
+#### **4.1 Post-war Settlement and the Bretton Woods Institutions** 
 Economists and politicians drew two key lessons from inter-war economic experiences. First, an industrial society based on mass production cannot be sustained without mass consumption. But to ensure mass consumption, there was a need for high and stable incomes. Incomes could not be stable if employment was unstable. Thus stable incomes also required steady, full employment. 
 But markets alone could not guarantee full employment. Therefore governments would have to step in to minimise 
 footer page number:98
@@ -936,54 +880,56 @@ The IMF and the World Bank commenced financial operations in 1947. Decision-maki
 The international monetary system is the system linking national currencies and monetary system. The Bretton Woods system was based on fixed exchange rates. In this system, national currencies, for example the Indian rupee, were pegged to the dollar at a fixed exchange rate. The dollar itself was anchored to gold at a fixed price of $35 per ounce of gold. 
 ### **<mark>Discuss</mark>** 
 Briefly summarise the two lessons learnt by economists and politicians from the inter-war economic experience? 
-##### **4.2 The Early Post-war Years** 
+#### **4.2 The Early Post-war Years** 
 The Bretton Woods system inaugurated an era of unprecedented growth of trade and incomes for the Western industrial nations and Japan. World trade grew annually at over 8 per cent between 1950 and 1970 and incomes at nearly 5 per cent. The growth was also mostly stable, without large fluctuations. For much of this period the unemployment rate, for example, averaged less than 5 per cent in most industrial countries. 
 footer page number:99
 These decades also saw the worldwide spread of technology and enterprise. Developing countries were in a hurry to catch up with the advanced industrial countries. Therefore, they invested vast amounts of capital, importing industrial plant and equipment featuring modern technology. 
-##### **4.3 Decolonisation and Independence** 
+#### **4.3 Decolonisation and Independence** 
 When the Second World War ended, large parts of the world were still under European colonial rule. Over the next two decades most colonies in Asia and Africa emerged as free, independent nations. They were, however, overburdened by poverty and a lack of resources, and their economies and societies were handicapped by long periods of colonial rule. 
 The IMF and the World Bank were designed to meet the financial needs of the industrial countries. They were not equipped to cope with the challenge of poverty and lack of development in the former colonies. But as Europe and Japan rapidly rebuilt their economies, they grew less dependent on the IMF and the World Bank. Thus from the late 1950s the Bretton Woods institutions began to shift their attention more towards developing countries. 
-###### **_Box 4_** 
+##### **_Box 4_** 
 ###### **What are MNCs?** 
 Multinational corporations (MNCs) are large companies that operate in several countries at the same time. The first MNCs were established in the 1920s. Many more came up in the 1950s and 1960s as US businesses expanded worldwide and Western Europe and Japan also recovered to become powerful industrial economies. The worldwide spread of MNCs was a notable feature of the 1950s and 1960s. This was partly because high import **tariffs** imposed by different governments forced MNCs to locate their manufacturing operations and become ‘domestic producers’ in as many countries as possible. 
-##### **New words** 
+#### **New words** 
 Tariff – Tax imposed on a country’s imports from the rest of the world. Tariffs are levied at the point of entry, i.e., at the border or the airport. 
 As colonies, many of the less developed regions of the world had been part of Western empires. Now, ironically, as newly independent countries facing urgent pressures to lift their populations out of poverty, they came under the guidance of international agencies dominated by the former colonial powers. Even after many years of decolonisation, the former colonial powers still controlled vital resources such as minerals and land in many of their former colonies. 
 Large corporations of other powerful countries, for example the US, also often managed to secure rights to exploit developing countries’ natural resources very cheaply. 
 At the same time, most developing countries did not benefit from the fast growth the Western economies experienced in the 1950s and 1960s. Therefore they organised themselves as a group – the Group of 77 (or G-77) – to demand a new international economic order (NIEO). By the NIEO they meant a system that would give them real control over their natural resources, more development assistance, fairer prices for raw materials, and better access for their manufactured goods in developed countries’ markets. 
 footer page number:100
-##### **4.4 End of Bretton Woods and the Beginning of ‘Globalisation’** 
+#### **4.4 End of Bretton Woods and the Beginning of ‘Globalisation’** 
 Despite years of stable and rapid growth, not all was well in this post-war world. From the 1960s the rising costs of its overseas involvements weakened the US’s finances and competitive strength. The US dollar now no longer commanded confidence as the world’s principal currency. It could not maintain its value in relation to gold. This eventually led to the collapse of the system of **fixed exchange rates** and the introduction of a system of **floating exchange rates** . 
 From the mid-1970s the international financial system also changed in important ways. Earlier, developing countries could turn to international institutions for loans and development assistance. But now they were forced to borrow from Western commercial banks and private lending institutions. This led to periodic debt crises in the developing world, and lower incomes and increased poverty, especially in Africa and Latin America. 
 The industrial world was also hit by unemployment that began rising from the mid-1970s and remained high until the early 1990s. From the late 1970s MNCs also began to shift production operations to low-wage Asian countries. 
 China had been cut off from the post-war world economy since its revolution in 1949. But new economic policies in China and the collapse of the Soviet Union and Soviet-style communism in Eastern Europe brought many countries back into the fold of the world economy. 
 Wages were relatively low in countries like China. Thus they became attractive destinations for investment by foreign MNCs competing to capture world markets. Have you noticed that most of the TVs, mobile phones, and toys we see in the shops seem to be made in China? This is because of the low-cost structure of the Chinese economy, most importantly its low wages. 
 The relocation of industry to low-wage countries stimulated world trade and capital flows. In the last two decades the world’s economic geography has been transformed as countries such as India, China and Brazil have undergone rapid economic transformation. 
-##### **New words** 
-Exchange rates **–** They link national currencies for purposes of international trade. There are broadly two kinds of exchange rates: fixed exchange rate and floating exchange rate Fixed exchange rates **–** When exchange rates are fixed and governments intervene to prevent movements in them 
-Flexible or floating exchange rates **–** These rates fluctuate depending on demand and supply of currencies in foreign exchange markets, in principle without interference by governments 
+#### **New words** 
+Exchange rates **–** They link national currencies for purposes of international trade. There are broadly two kinds of exchange rates: fixed exchange rate and floating exchange rate Fixed exchange rates **–** When exchange rates are fixed and governments intervene to prevent movements in them Flexible or floating exchange rates **–** These rates fluctuate depending on demand and supply of currencies in foreign exchange markets, in principle without interference by governments 
 footer page number:101
 ### **<mark>Write in brief</mark>** 
 1. Give two examples of different types of global exchanges which took place before the seventeenth century, choosing one example from Asia and one from the Americas. 
 2. Explain how the global transfer of disease in the pre-modern world helped in the colonisation of the Americas. 
-3. Write a note to explain the effects of the following: a) The British government’s decision to abolish the Corn Laws. b) The coming of rinderpest to Africa. 
-   - c) The death of men of working-age in Europe because of the World War. d) The Great Depression on the Indian economy. 
+3. Write a note to explain the effects of the following: a) The British government’s decision to abolish the Corn Laws. 
+   - b) The coming of rinderpest to Africa. 
+   - c) The death of men of working-age in Europe because of the World War. 
+   - d) The Great Depression on the Indian economy. 
    - e) The decision of MNCs to relocate production to Asian countries. 
 4. Give two examples from history to show the impact of technology on food availability. 
 5. What is meant by the Bretton Woods Agreement? 
 ### **<mark>Discuss</mark>** 
 6. Imagine that you are an indentured Indian labourer in the Caribbean. Drawing from the details in this chapter, write a letter to your family describing your life and feelings. 
 7. Explain the three types of movements or flows within international economic exchange. Find one example of each type of flow which involved India and Indians, and write a short account of it. 
-- and write a short account of it. 
-- 8. Explain the causes of the Great Depression. 9. Explain what is referred to as the G-77 countries. In what ways can G-77 be seen as a reaction to the activities of the Bretton Woods twins? 
+8. Explain the causes of the Great Depression. 
+9. Explain what is referred to as the G-77 countries. In what ways can G-77 be seen as a reaction to the activities of the Bretton Woods twins? 
 ### **<mark>Project</mark>** 
-Find out more about gold and diamond mining in South Africa in the nineteenth century. Who controlled the gold and diamond companies? Who were the miners and what were their lives like? Project 
+Find out more about gold and diamond mining in South Africa in the nineteenth century. Who controlled the gold and diamond companies? Who were the miners and what were their lives like? 
+Project 
 footer page number:102
 # **The Age of Industrialisation** 
 **_Fig. 1 –  Dawn of the Century, published by E.T. Paull Music Co., New York, England, 1900._** 
 In 1900, a popular music publisher E.T. Paull produced a music book that had a picture on the cover page announcing the ‘Dawn of the Century’ (Fig. 1). As you can see from the illustration, at the centre of the picture is a goddess-like figure, the angel of progress, bearing the flag of the new century. She is gently perched on a wheel with wings, symbolising time. Her flight is taking her into the future. Floating about, behind her, are the signs of progress: railway, camera, machines, printing press and factory. 
 This glorification of machines and technology is even more marked in a picture which appeared on the pages of a trade magazine over a hundred years ago (Fig. 2). It shows two magicians. The one at the top is Aladdin from the **Orient** who built a beautiful palace with his 
-##### **New words** 
+#### **New words** 
 Orient – The countries to the east of the Mediterranean, usually referring to Asia. The term arises out of a western viewpoint that sees this region as premodern, traditional and mysterious 
 magic lamp. The one at the bottom is the modern mechanic, who with his modern tools weaves a new magic: builds bridges, ships, towers and high-rise buildings. Aladdin is shown as representing the East and the past, the mechanic stands for the West and modernity. 
 These images offer us a triumphant account of the modern world. Within this account the modern world is associated with rapid technological change and innovations, machines and factories, railways and steamships. The history of industrialisation thus becomes simply a story of development, and the modern age appears as a wonderful time of technological progress. 
@@ -997,8 +943,7 @@ footer page number:104
 ### **1  Before the Industrial Revolution** 
 All too often we associate industrialisation with the growth of factory industry. When we talk of industrial production we refer to factory production. When we talk of industrial workers we mean factory workers. Histories of industrialisation very often begin with the setting up of the first factories. 
 There is a problem with such ideas. Even before factories began to dot the landscape in England and Europe, there was large-scale industrial production for an international market. This was not based on factories. Many historians now refer to this phase of industrialisation as **proto** -industrialisation. 
-##### **New words** 
-Proto – Indicating the first or early form of something 
+**New words** Proto – Indicating the first or early form of something 
 In the seventeenth and eighteenth centuries, merchants from the towns in Europe began moving to the countryside, supplying money to peasants and artisans, persuading them to produce for an international market. With the expansion of world trade and the acquisition of colonies in different parts of the world, the demand for goods began growing. But merchants could not expand production within towns. This was because here urban crafts and trade guilds were powerful. These were associations of producers that trained craftspeople, maintained control over production, regulated competition and prices, and restricted the entry of new people into the trade. Rulers granted different guilds the monopoly right to produce and trade in specific products. It was therefore difficult for new merchants to set up business in towns. So they turned to the countryside. 
 In the countryside poor peasants and artisans began working for merchants. As you have seen in the textbook last year, this was a time when open fields were disappearing and commons were being enclosed. Cottagers and poor peasants who had earlier depended on common lands for their survival, gathering their firewood, berries, vegetables, hay and straw, had to now look for alternative sources of income. Many had tiny plots of land which could not provide work for all members of the household. So when merchants came around and offered advances to produce goods for them, peasant households eagerly agreed. By working for the merchants, they 
 **_Fig. 3 – Spinning in the eighteenth century._** _You can see each member of the family involved in the production of yarn. Notice that one wheel is moving only one spindle._ 
@@ -1006,11 +951,11 @@ footer page number:105
 could remain in the countryside and continue to cultivate their small plots. Income from proto-industrial production supplemented their shrinking income from cultivation. It also allowed them a fuller use of their family labour resources. 
 Within this system a close relationship developed between the town and the countryside. Merchants were based in towns but the work was done mostly in the countryside. A merchant clothier in England purchased wool from a wool **stapler** , and carried it to the spinners; the yarn (thread) that was spun was taken in subsequent stages of production to weavers, **fullers** , and then to dyers. The finishing was done in London before the export merchant sold the cloth in the international market. London in fact came to be known as a finishing centre. 
 This proto-industrial system was thus part of a network of commercial exchanges. It was controlled by merchants and the goods were produced by a vast number of producers working within their family farms, not in factories. At each stage of production 20 to 25 workers were employed by each merchant. This meant that each clothier was controlling hundreds of workers. 
-##### **1.1 The Coming Up of the Factory** 
+#### **1.1 The Coming Up of the Factory** 
 The earliest factories in England came up by the 1730s. But it was only in the late eighteenth century that the number of factories multiplied. 
 The first symbol of the new era was cotton. Its production boomed in the late nineteenth century. In 1760 Britain was importing 2.5 million pounds of raw cotton to feed its cotton industry. By 1787 this import soared to 22 million pounds. This increase was linked to a number of changes within the process of production. Let us look briefly at some of these. 
 A series of inventions in the eighteenth century increased the efficacy of each step of the production process ( **carding** , twisting and spinning, and rolling). They enhanced the output per worker, enabling each worker to produce more, and they made possible the production of stronger threads and yarn. Then Richard Arkwright created the cotton mill. Till this time, as you have seen, cloth production was spread all over the countryside and carried out within village households. But now, the costly new machines could be purchased, set up and maintained in the mill. Within the mill all the 
-##### **New words** 
+#### **New words** 
 Stapler – A person who ‘staples’ or sorts wool according to its fibre Fuller – A person who ‘fulls’ – that is, gathers – cloth by pleating Carding – The process in which fibres, such as cotton or wool, are prepared prior to spinning 
 **_Fig. 4 – A Lancashire cotton mill, painted by C.E. Turner,_ The Illustrated London News** **_, 1925._** 
 _The artist said: ‘Seen through the humid atmosphere that makes Lancashire the best cotton-spinning locality in the world, a huge cotton-mill aglow with electricity in the twilight, is a most impressive sight.’_ 
@@ -1019,9 +964,8 @@ processes were brought together under one roof and management. This allowed a mo
 In the early nineteenth century, factories increasingly became an intimate part of the English landscape. So visible were the imposing new mills, so magical seemed to be the power of new technology, that contemporaries were dazzled. They concentrated their attention on the mills, almost forgetting the bylanes and the workshops where production still continued. 
 ### **<mark>Activity</mark>** 
 The way in which historians focus on industrialisation rather than on small workshops is a good example of how what we believe today about the past is influenced by what historians choose to notice and what they ignore. Note down one event or aspect of your own life which adults such as your parents or teachers may think is unimportant, but which you believe to be important. 
-<!-- Start of picture text -->
-Fig. 5 – Industrial Manchester by M. Jackson,  The Illustrated London News,  1857.<br>Chimneys billowing smoke came to characterise the industrial landscape.<br><!-- End of picture text -->
-##### **1.2 The Pace of Industrial Change** 
+**_Fig. 5 – Industrial Manchester by M. Jackson,_ The Illustrated London News,** **_1857._** _Chimneys billowing smoke came to characterise the industrial landscape._ 
+#### **1.2 The Pace of Industrial Change** 
 How rapid was the process of industrialisation? Does industrialisation mean only the growth of factory industries? 
 First: The most dynamic industries in Britain were clearly cotton and metals. Growing at a rapid pace, cotton was the leading sector in the first phase of industrialisation up to the 1840s. After that the iron and steel industry led the way. With the expansion of railways, in England from the 1840s and in the colonies from the 1860s, the demand for iron and steel increased rapidly. By 1873 Britain was exporting iron and steel worth about £ 77 million, double the value of its cotton export. 
 ### **<mark>Activity</mark>** 
@@ -1031,8 +975,7 @@ Second: the new industries could not easily displace traditional industries. Eve
 Third: the pace of change in the ‘traditional’ industries was not set by steam-powered cotton or metal industries, but they did not remain entirely stagnant either. Seemingly ordinary and small innovations were the basis of growth in many non-mechanised sectors such as food processing, building, pottery, glass work, tanning, furniture making, and production of implements. 
 **_Fig. 6 – A fitting shop at a railway works in England,_ The Illustrated London News** **_, 1849._** _In the fitting shop new locomotive engines were completed and old ones repaired._ 
 Fourth: technological changes occurred slowly. They did not spread dramatically across the industrial landscape. New technology was expensive and merchants and industrialists were cautious about using it. The machines often broke down and repair was costly. They were not as effective as their inventors and manufacturers claimed. 
-Consider the case of the steam engine. James Watt improved the steam engine produced by Newcomen and patented the new engine in 1781. His industrialist friend Mathew Boulton manufactured the new model. But for years he could find no buyers. At the beginning of the nineteenth century, there were no more than 321 steam engines all over England. Of these, 80 were 
-in cotton industries, nine in wool industries, and the rest in mining, canal works and iron works. Steam engines were not used in any of the other industries till much later in the century. So even the most powerful new technology that enhanced the productivity of labour manifold was slow to be accepted by industrialists. 
+Consider the case of the steam engine. James Watt improved the steam engine produced by Newcomen and patented the new engine in 1781. His industrialist friend Mathew Boulton manufactured the new model. But for years he could find no buyers. At the beginning of the nineteenth century, there were no more than 321 steam engines all over England. Of these, 80 were in cotton industries, nine in wool industries, and the rest in mining, canal works and iron works. Steam engines were not used in any of the other industries till much later in the century. So even the most powerful new technology that enhanced the productivity of labour manifold was slow to be accepted by industrialists. 
 Historians now have come to increasingly recognise that the typical worker in the mid-nineteenth century was not a machine operator but the traditional craftsperson and labourer. 
 **_Fig. 7 – A spinning factory in 1830._** _You can see how giant wheels moved by steam power could set in motion hundreds of spindles to manufacture thread._ 
 footer page number:108
@@ -1041,7 +984,7 @@ In Victorian Britain there was no shortage of human labour. Poor peasants and va
 In many industries the demand for labour was seasonal. Gas works and breweries were especially busy through the cold months. So they needed more workers to meet their peak demand.  Bookbinders and printers, catering to Christmas demand, too needed extra hands before December. At the waterfront, winter was the time that ships were repaired and spruced up. In all such industries where production fluctuated with the season, industrialists usually preferred hand labour, employing workers for the season. 
 **_Fig. 8 – People on the move in search of work,_ The Illustrated London News** **_, 1879._** _Some people were always on the move selling small goods and looking for temporary work._ 
 A range of products could be produced only with hand labour. Machines were oriented to producing uniforms, standardised goods for a mass market. But the demand in the market was often for goods with intricate designs and specific shapes. In mid-nineteenth-century Britain, for instance, 500 varieties of 
-###### **_Source A_** 
+##### **_Source A_** 
 Will Thorne is one of those who went in search of seasonal work, loading bricks and doing odd jobs. He describes how job-seekers walked to London in search of work: 
 ‘I had always wanted to go to London, and my desire … was stimulated by letters from an old workmate … who was now working at the Old Kent Road Gas Works … I finally decided to go … in November, 1881. With two friends I started out to walk the journey, filled with the hope that we would be able to obtain employment, when we get there, with the kind assistance of my friend … we had little money when we started, not enough to pay for our food and lodgings each night until we arrived in London. Some days we walked as much as twenty miles, and other days less. Our money was gone at the end of the third day … For two nights we slept out – once under a haystack, and once in an old farm shed … On arrival in London we tried to find … my friend … but … were unsuccessful. Our money was gone, so there was nothing for us to do but to walk around until late at night, and then try to find some place to sleep. We found an old building and slept in it that night. The next day, Sunday, late in the afternoon, we got to the Old Kent Gas Works, and applied for work. To my great surprise, the man we had been looking for was working at the time. He spoke to the foreman and I was given a job.’ 
 Quoted in Raphael Samuel, ‘Comers and Goers’, in H.J. Dyos and Michael Wolff, eds, The Victorian City: Images and Realities, 1973. 
@@ -1052,28 +995,29 @@ footer page number:109
 hammers were produced and 45 kinds of axes. These required human skill, not mechanical technology. 
 In Victorian Britain, the upper classes – the aristocrats and the bourgeoisie – preferred things produced by hand. Handmade products came to symbolise refinement and class. They were better finished, individually produced, and carefully designed. Machinemade goods were for export to the colonies. 
 In countries with labour shortage, industrialists were keen on using mechanical power so that the need for human labour can be minimised. This was the case in nineteenth-century America. Britain, however, had no problem hiring human hands. 
-##### **2.1 Life of the Workers** 
+#### **2.1 Life of the Workers** 
 The abundance of labour in the market affected the lives of workers. As news of possible jobs travelled to the countryside, hundreds tramped to the cities. The actual possibility of getting a job depended on existing networks of friendship and kin relations. If you had a relative or a friend in a factory, you were more likely to get a job quickly. But not everyone had social connections. Many jobseekers had to wait weeks, spending nights under bridges or in night 
 **_Fig. 9 – Workers in an iron works, north-east England, painting by William Bell Scott, 1861._** _Many artists from the late nineteenth century began idealising workers: they were shown suffering hardship and pain for the cause of the nation._ 
-###### **_Fig. 10 – Houseless and Hungry, painting by Samuel Luke Fildes, 1874._** 
-_This painting shows the homeless in London applying for tickets to stay overnight in a workhouse. These shelters were maintained under the supervision of the Poor Law Commissioners for the ‘destitute, wayfarers, wanderers and foundling’. Staying in these workhouses was a humiliating experience: everyone was subjected to a medical examination to see whether they were carrying disease, their bodies were cleansed, and their clothes purified. They had to also do hard labour._ 
+**_Fig. 10 – Houseless and Hungry, painting by Samuel Luke Fildes, 1874._** _This painting shows the homeless in London applying for tickets to stay overnight in a workhouse. These shelters were maintained under the supervision of the Poor Law Commissioners for the ‘destitute, wayfarers, wanderers and foundling’. Staying in these workhouses was a humiliating experience: everyone was subjected to a medical examination to see whether they were carrying disease, their bodies were cleansed, and their clothes purified. They had to also do hard labour._ 
 footer page number:110
 shelters. Some stayed in Night Refuges that were set up by private individuals; others went to the Casual Wards maintained by the Poor Law authorities. 
 Seasonality of work in many industries meant prolonged periods without work. After the busy season was over, the poor were on the streets again. Some returned to the countryside after the winter, when the demand for labour in the rural areas opened up in places. But most looked for odd jobs, which till the mid-nineteenth century were difficult to find. 
 Wages increased somewhat in the early nineteenth century. But they tell us little about the welfare of the workers. The average figures hide the variations between trades and the fluctuations from year to year. For instance, when prices rose sharply during the prolonged Napoleonic War, the real value of what the workers earned fell significantly, since the same wages could now buy fewer things. Moreover, the income of workers depended not on the wage rate alone. What was also critical was the period of employment: the number of days of work determined the average daily income of the workers. At the best of times till the mid-nineteenth century, about 10 per cent of the urban population were extremely poor. In periods of economic slump, like the 1830s, the proportion of unemployed went up to anything between 35 and 75 per cent in different regions. 
 The fear of unemployment made workers hostile to the introduction of new technology. When the **Spinning Jenny** was introduced in 
 <!-- Start of picture text -->
-spindles<br>spindles<br><!-- End of picture text -->
+spindles<br><!-- End of picture text -->
+<!-- Start of picture text -->
+spindles<br><!-- End of picture text -->
 **_Fig. 11 – A Spinning Jenny, a drawing by T.E. Nicholson, 1835._** _Notice the number of spindles that could be operated with one wheel._ 
-##### **New words** 
+#### **New words** 
 Spinning Jenny –  Devised by James Hargreaves in 1764, this machine speeded up the spinning process and reduced labour demand. By turning one single wheel a worker could set in motion a number of spindles and spin several threads at the same time. 
-###### **_Source B_** 
+##### **_Source B_** 
 ### **<mark>Discuss</mark>** 
 A magistrate reported in 1790 about an incident when he was called in to protect a manufacturer’s property from being attacked by workers: 
 ‘From the depredations of a lawless Banditti of colliers and their wives, for the wives had lost their work to spinning engines … they advanced at first with much insolence, avowing their intention of cutting to pieces the machine lately introduced in the woollen manufacture; which they suppose, if generally adopted, will lessen the demand for manual labour. The women became clamorous. The men were more open to conviction and after some expostulation were induced to desist from their purpose and return peaceably home.’ 
 Look at Figs. 3, 7 and 11, then reread source B. Explain why many workers were opposed to the use of the Spinning Jenny. 
 J.L. Hammond and B. Hammond, The Skilled Labourer 1760-1832, quoted in Maxine Berg, The Age of Manufactures. 
-### **_Source_** 
+**_Source_** 
 footer page number:111
 **_Fig. 12 – A shallow underground railway being constructed in central London,_ Illustrated Times** **_, 1868_** _. From the 1850s railway stations began coming up all over London. This meant a demand for large numbers of workers to dig tunnels, erect timber scaffolding, do the brick and iron works. Job-seekers moved from one construction site to another._ 
 the woollen industry, women who survived on hand spinning began attacking the new machines. This conflict over the introduction of the jenny continued for a long time. 
@@ -1081,7 +1025,7 @@ After the 1840s, building activity intensified in the cities, opening up greater
 footer page number:112
 ### **3  Industrialisation in the Colonies** 
 Let us now move to India to see how a colony industrialises. Once again we will look not only at factory industries but also at the non-mechanised sector. We will limit our discussion primarily to textile industries. 
-##### **3.1 The Age of Indian Textiles** 
+#### **3.1 The Age of Indian Textiles** 
 Before the age of machine industries, silk and cotton goods from India dominated the international market in textiles. Coarser cottons were produced in many countries, but the finer varieties often came from India. Armenian and Persian merchants took the goods from Punjab to Afghanistan, eastern Persia and Central Asia.  Bales of fine textiles were carried on camel back via the north-west frontier, through mountain passes and across deserts. A vibrant sea trade operated through the main pre-colonial ports. Surat on the Gujarat coast connected India to the Gulf and Red Sea Ports; Masulipatam on the Coromandel coast  and Hoogly in Bengal had trade links with Southeast Asian ports. 
 ### **<mark>Activity</mark>** 
 On a map of Asia, find and draw the sea and land links of the textile trade from India to Central Asia, West Asia and Southeast Asia. 
@@ -1092,7 +1036,7 @@ footer page number:113
 **_Fig. 13 – The English factory at Surat, a seventeenth-century drawing._** 
 While Surat and Hoogly decayed, Bombay and Calcutta grew. This shift from the old ports to the new ones was an indicator of the growth of colonial power. Trade through the new ports came to be controlled by European companies, and was carried in European ships. While many of the old trading houses collapsed, those that wanted to survive had to now operate within a network shaped by European trading companies. 
 How did these changes affect the life of weavers and other artisans? 
-##### **3.2 What Happened to Weavers?** 
+#### **3.2 What Happened to Weavers?** 
 The consolidation of East India Company power after the 1760s did not initially lead to a decline in textile exports from India. British cotton industries had not yet expanded and Indian fine textiles were in great demand in Europe. So the company was keen on expanding textile exports from India. 
 Before establishing political power in Bengal and Carnatic in the 1760s and 1770s, the East India Company had found it difficult to ensure a regular supply of goods for export. The French, Dutch, 
 **_<mark>Fig. 14 – A weaver at work, Gujarat.</mark>_** 
@@ -1103,23 +1047,23 @@ First: the Company tried to eliminate the existing traders and brokers connected
 Second: it prevented Company weavers from dealing with other buyers. One way of doing this was through the system of advances. Once an order was placed, the weavers were given loans to purchase the raw material for their production. Those who took loans had to hand over the cloth they produced to the _gomastha_ . They could not take it to any other trader. 
 As loans flowed in and the demand for fine textiles expanded, weavers eagerly took the advances, hoping to earn more. Many weavers had small plots of land which they had earlier cultivated along with weaving, and the produce from this took care of their family needs. Now they had to lease out the land and devote all their time to weaving. Weaving, in fact, required the labour of the entire family, with children and women all engaged in different stages of the process. 
 Soon, however, in many weaving villages there were reports of clashes between weavers and _gomasthas_ . Earlier supply merchants had very often lived within the weaving  villages, and had a close relationship with the weavers, looking after their needs and helping them in times of crisis. The new _gomasthas_ were outsiders, with no long-term social link with the village. They acted arrogantly, marched into villages with **sepoys** and peons, and punished weavers for delays in supply – often beating and flogging them. The weavers lost the space to bargain for prices and sell to different buyers: the price they received from the Company was miserably low and the loans they had accepted tied them to the Company. 
-##### **New words** 
+#### **New words** 
 Sepoy – This is how the British pronounced the word _sipahi,_ meaning an Indian soldier in the service of the British 
 footer page number:115
 In many places in Carnatic and Bengal, weavers deserted villages and migrated, setting up looms in other villages where they had some family relation. Elsewhere, weavers along with the village traders revolted, opposing the Company and its officials. Over time many weavers began refusing loans, closing down their workshops and taking to agricultural labour. 
 By the turn of the nineteenth century, cotton weavers faced a new set of problems. 
-##### **3.3 Manchester Comes to India** 
+#### **3.3 Manchester Comes to India** 
 In 1772, Henry Patullo, a Company official, had ventured to say that the demand for Indian textiles could never reduce, since no other nation produced goods of the same quality. Yet by the beginning of the nineteenth century we see the beginning of a long decline of textile exports from India. In 1811-12 piece-goods accounted for 33 per cent of India’s exports; by 1850-51 it was no more than 3 per cent. 
 Why did this happen? What were its implications? 
 As cotton industries developed in England, industrial groups began worrying about imports from other countries. They pressurised the government to impose import duties on cotton textiles so that Manchester goods could sell in Britain without facing any competition from outside. At the same time industrialists persuaded the East India Company  to sell British manufactures in Indian markets as well. Exports of British cotton goods increased dramatically in the early nineteenth century.  At the end of the eighteenth century there had been virtually no import of cotton piece-goods into India.  But by 1850 cotton piece-goods constituted over 31 per cent of the value of Indian imports; and by the 1870s this figure  was over 50 per cent. 
 Cotton weavers in India thus faced two problems at the same time: their export market collapsed, and the local market shrank, being glutted with Manchester imports. Produced by machines at lower costs, the imported cotton goods were so cheap that weavers could not easily compete with them. By the 1850s, reports from most weaving regions of India narrated stories of decline and desolation. 
 By the 1860s, weavers faced a new problem. They could not get sufficient supply of raw cotton of good quality. When the American 
-###### **_Source C_** 
+##### **_Source C_** 
 ###### The Commissioner of Patna wrote: 
 ‘It appears that twenty yeas ago, a brisk trade was carried on in the manufacture of cloth at Jahanabad, and Behar, which has in the former place entirely ceased, while in the latter the amount of manufacture is very limited, in consequence of the cheap and durable goods from Manchester with which the Native manufactures are unable to compete.’ 
 Quoted in J. Krishnamurty, ‘Deindustrialisation in Gangetic Bihar during the nineteenth century’, The Indian Economic and Social History Review, 1985. 
 **_Source_** 
-###### **_Source D_** 
+##### **_Source D_** 
 Reporting on the Koshtis, a community of weavers, the Census Report of  Central Provinces stated: 
 ‘The Koshtis, like the weavers of the finer kinds of cloth in other parts of India, have fallen upon evil times. They are unable to compete with the showy goods which Manchester sends in such profusion, and they have of late years emigrated in great numbers, chiefly to Berar, where as day labourers they are able to obtain wages …’ 
 Census Report of Central Provinces, 1872, quoted in Sumit Guha, ‘The handloom industry in Central India, 1825-1950’, The Indian Economic and Social History Review. 
@@ -1132,18 +1076,17 @@ footer page number:117
 ### **4  Factories Come Up** 
 The first cotton mill in Bombay came up in 1854 and it went into production two years later. By 1862 four mills were at work with 94,000 spindles and 2,150 looms. Around the same time jute mills came up in Bengal, the first being set up in 1855 and another one seven years later, in 1862. In north India, the Elgin Mill was started in Kanpur in the 1860s, and a year later the first cotton mill of Ahmedabad was set up. By 1874, the first spinning and weaving mill of Madras began production. 
 Who set up the industries? Where did the capital come from? Who came to work in the mills? 
-##### **4.1 The Early Entrepreneurs** 
+#### **4.1 The Early Entrepreneurs** 
 Industries were set up in different regions by varying sorts of people. Let us see who they were. 
 The history of many business groups goes back to trade with China. From the late eighteenth century, as you have read in your book last year, the British in India began exporting opium to China and took tea from China to England. Many Indians became junior players in this trade, providing finance, procuring supplies, and shipping consignments. Having earned through trade, some of these businessmen had visions of developing industrial enterprises in India. In Bengal, Dwarkanath Tagore made his fortune in the China trade before he turned to industrial investment, setting up six joint-stock companies in the 1830s and 1840s.  Tagore’s enterprises sank along with those of others in the wider business crises of the 1840s, but later in the nineteenth century many of the China traders became successful industrialists. In Bombay, Parsis like Dinshaw Petit and Jamsetjee Nusserwanjee Tata who built huge industrial empires in India, accumulated their initial wealth partly from exports to China, and partly from raw cotton shipments to England. Seth Hukumchand, a Marwari businessman who set up the first Indian jute mill in Calcutta in 1917, also traded with China. So did the father as well as grandfather of the famous industrialist G.D. Birla. 
 Capital was accumulated through other trade networks. Some merchants from Madras traded with Burma while others had links with the Middle East and East Africa. There were yet other 
-**_Fig. 16 – Jamsetjee Jeejeebhoy._** 
-_Jeejeebhoy was the son of a Parsi weaver. Like many others of his time, he was involved in the China trade and shipping. He owned a large fleet of ships, but competition from English and American shippers forced him to sell his ships by the 1850s._ 
+**_Fig. 16 – Jamsetjee Jeejeebhoy._** _Jeejeebhoy was the son of a Parsi weaver. Like many others of his time, he was involved in the China trade and shipping. He owned a large fleet of ships, but competition from English and American shippers forced him to sell his ships by the 1850s._ 
 **_Fig. 17 – Dwarkanath Tagore._** _Dwarkanath Tagore believed that India would develop through westernisation and industrialisation. He invested in shipping, shipbuilding, mining, banking, plantations and insurance._ 
 footer page number:118
 commercial groups, but they were not directly involved in external trade. They operated within India, carrying goods from one place to another, banking money, transferring funds between cities, and financing traders. When opportunities of investment in industries opened up, many of them set up factories. 
 As colonial control over Indian trade tightened,  the space within which Indian merchants could function became increasingly limited. They were barred from trading with Europe in manufactured goods, and had to export mostly raw materials and food grains – raw cotton, opium, wheat and indigo – required by the British. They were also gradually edged out of the shipping business. 
 Till the First World War, European Managing Agencies in fact controlled a large sector of Indian industries. Three of the biggest ones were Bird Heiglers & Co., Andrew Yule, and Jardine Skinner & Co. These Agencies mobilised capital, set up joint-stock companies and managed them. In most instances Indian financiers provided the capital while the European Agencies made all investment and business decisions. The European merchant-industrialists had their own chambers of commerce which Indian businessmen were not allowed to join. 
-##### **4.2 Where Did the Workers Come From?** 
+#### **4.2 Where Did the Workers Come From?** 
 Factories needed workers. With the expansion of factories, this demand increased. In 1901, there were 584,000 workers in Indian factories. By 1946 the number was over 2,436, 000. Where did the workers come from? 
 In most industrial regions workers came from the districts around. Peasants and artisans who found no work in the village went to the industrial centres in search of work. Over 50 per cent workers in the Bombay cotton industries in 1911 came from the neighbouring district of Ratnagiri, while the mills of Kanpur got most of their textile hands from the villages within the district of Kanpur. Most often millworkers moved between the village and the city, returning to their village homes during harvests and festivals. 
 Over time, as news of employment spread, workers travelled great distances in the hope of work in the mills. From the United Provinces, for instance, they went to work in the textile mills of Bombay and in the jute mills of Calcutta. 
@@ -1152,13 +1095,13 @@ Over time, as news of employment spread, workers travelled great distances in th
 footer page number:119
 Getting jobs was always difficult, even when mills multiplied and the demand for workers increased. The numbers seeking work were always more than the jobs available.  Entry into the mills was also restricted. Industrialists usually employed a jobber to get new recruits. Very often the jobber was an old and trusted worker. He got people from his village, ensured them jobs, helped them settle in the city and provided them money in times of crisis. The jobber therefore became a person with some authority and power. He began demanding money and gifts for his favour and controlling the lives of workers. 
 The number of factory workers increased over time. However, as you will see, they were a small proportion of the total industrial workforce. 
-###### **_Source E_** 
+##### **_Source E_** 
 Vasant Parkar, who was once a millworker in Bombay, said: 
 ‘The workers would pay the jobbers money to get their sons work in the mill … The mill worker was closely associated with his village, physically and emotionally. He would go home to cut the harvest and for sowing. The Konkani would go home to cut the paddy and the Ghati, the sugarcane. It was an accepted practice for which the mills granted leave.’ 
 Meena Menon and Neera Adarkar, One Hundred Years: One Hundred Voices, 2004. 
 **_Source_** 
 **_Fig. 20 – A head jobber._** _Notice how the posture and clothes emphasise the jobber’s position of authority._ 
-###### **_Source F_** 
+##### **_Source F_** 
 Bhai Bhosle, a trade unionist of Bombay, recollected his childhood in the 1930s and 1940s: 
 ‘In those days, the shift was 10 hours – from 5 pm to 3 am – terrible working hours. My father worked for 35 years; he got the asthma like disease and could not work any more…Then my father went back to village.’ 
 Meena Menon and Neera Adarkar, One Hundred Years: One Hundred Voices. 
@@ -1174,13 +1117,13 @@ Yet, till the First World War, industrial growth was slow. The war created a dra
 footer page number:121
 ones ran multiple shifts. Many new workers were employed and everyone was made to work longer hours. Over the war years industrial production boomed. 
 After the war, Manchester could never recapture its old position in the Indian market. Unable to modernise and compete with the  US, Germany and Japan, the economy of Britain crumbled after the war. Cotton production collapsed and exports of cotton cloth from Britain fell dramatically. Within the colonies, local industrialists gradually consolidated their position, substituting foreign manufactures and capturing the home market. 
-##### **5.1 Small-scale Industries Predominate** 
+#### **5.1 Small-scale Industries Predominate** 
 While factory industries grew steadily after the war, large industries formed only a small segment of the economy.  Most of them – about 67 per cent in 1911 – were located in Bengal and Bombay. Over the rest of the country, small-scale production continued to predominate. Only a small proportion of the total industrial labour force worked in registered factories: 5 per cent in 1911 and 10 per cent in 1931. The rest worked in small workshops and household units, often located in alleys and bylanes, invisible to the passer-by. 
 In fact, in some instances, handicrafts production actually expanded in the twentieth century. This is true even in the case of the handloom sector that we have discussed. While cheap machine-made thread wiped out the spinning industry in the nineteenth century, the weavers survived, despite problems. In the twentieth century, handloom cloth production expanded steadily: almost trebling between 1900 and 1940. 
 **_Fig. 23 – A Hand-woven Cloth._** _The intricate designs of hand-woven cloth could not be easily copied by the mills._ 
-##### How did this happen? 
+#### How did this happen? 
 This was partly because of technological changes. Handicrafts people adopt new technology if that helps them improve production without excessively pushing up costs. So, by the second decade of the twentieth century we find weavers using looms with a **fly shuttle.** This increased productivity per worker, speeded up production and reduced labour demand. By 1941, over 35 per cent of handlooms in India were fitted with fly shuttles: in regions like Travancore, Madras, Mysore, Cochin, Bengal the proportion was 70 to 80 per cent. There were several other small innovations that helped weavers improve their productivity and compete with the mill sector. 
-##### **New words** 
+#### **New words** 
 Fly shuttle – It is a mechanical device used for weaving, moved by means of ropes and pullies. It places the horizontal threads ( called the weft) into the verticle threads (called the warp). The invention of the fly shuttle made it possible for weavers to operate large looms and weave wide pieces of cloth. 
 footer page number:122
 Certain groups of weavers were in a better position than others to survive the competition with mill industries. Amongst weavers some produced coarse cloth while others wove finer varieties. The coarser cloth was bought by the poor and its demand fluctuated violently. In times of bad harvests and famines, when the rural poor had little to eat, and their cash income disappeared, they could not possibly buy cloth. The demand for the finer varieties bought by the well-to-do was more stable. The rich could buy these even when the poor starved. Famines did not affect the sale of Banarasi or Baluchari saris. Moreover, as you have seen, mills could not imitate specialised weaves. Saris with woven borders, or the famous lungis and handkerchiefs of Madras, could not be easily displaced by mill production. 
@@ -1193,8 +1136,8 @@ footer page number:123
 We have seen how British manufacturers attempted to take over the Indian market, and how Indian weavers and craftsmen, traders and industrialists resisted colonial controls, demanded tariff protection, created their own spaces, and tried to extend the market for their produce. 
 But when new products are produced people have to be persuaded to buy them. They have to feel like using the product. How was this done? 
 One way in which new consumers are created is through advertisements. As you know, advertisements make products appear desirable and necessary. They try to shape the minds of people and create new needs. Today we live in a world where advertisements surround us. They appear in newspapers, magazines, hoardings, street walls, television screens. But if we look back into history we find that from the very beginning of the industrial age, advertisements have played a part in expanding the markets for products, and in shaping a new consumer culture. 
-**_Fig. 25 – Gripe Water calendar of 1928 by M.V. Dhurandhar._** _The image of baby Krishna was most commonly used to popularise baby products._ 
 When Manchester industrialists began selling cloth in India, they put labels on the cloth bundles. The label was needed to make the place of manufacture and the name of the company familiar to the buyer. The label was also to be a mark of quality. When buyers saw ‘MADE IN MANCHESTER’ written in bold on the label, they were expected to feel confident about buying the cloth. 
+**_Fig. 25 – Gripe Water calendar of 1928 by M.V. Dhurandhar._** _The image of baby Krishna was most commonly used to popularise baby products._ 
 **_Fig. 26(a) – Manchester labels, early twentieth century._** _Images of numerous Indian gods and goddesses – Kartika, Lakshmi, Saraswati – are shown in imported cloth labels approving the quality of the product being marketed._ 
 **_Fig. 26(b) – Maharaja Ranjit Singh on a Manchester label._** _Historic figures are used to create respect for the product._ 
 _Fig. 26(a)                                          Fig. 26(b)_ 
@@ -1204,9 +1147,8 @@ Images of Indian gods and goddesses regularly appeared on these labels. It was a
 By the late nineteenth century, manufacturers were printing calendars to popularise their products. Unlike newspapers and magazines, calendars were used even by people who could not read. They were hung in tea shops and in poor people’s homes just as much as in offices and middle-class apartments. And those who hung the calendars had to see the advertisements, day after day, through the year. In these calendars, once again, we see the figures of gods being used to sell new products. 
 Like the images of gods, figures of important personages, of emperors and nawabs, adorned advertisement and calendars. The message very often seemed to say: if you respect the royal figure, then respect this product; when the product was being used by kings, or produced under royal command, its quality could not be questioned. 
 When Indian manufacturers advertised the nationalist message was clear and loud. If you care for the nation then buy products that Indians produce. Advertisements became a vehicle of the nationalist message of swadeshi. 
-##### **Conclusion** 
-Clearly, the age of industries has meant major technological changes, growth of factories, and the making of a new industrial labour force. However, as you have seen, hand technology and small-scale production remained an important part of the industrial landscape. 
-Look again at Figs. 1 and 2. What would you now say of the images they project? 
+#### **Conclusion** 
+Clearly, the age of industries has meant major technological changes, growth of factories, and the making of a new industrial labour force. However, as you have seen, hand technology and small-scale production remained an important part of the industrial landscape. Look again at Figs. 1 and 2. What would you now say of the images they project? 
 **_Fig. 27 – Sunlight soap calendar of 1934._** _Here God Vishnu is shown bringing sunlight from across the skies._ 
 **_Fig. 28 – An Indian mill cloth label._** _The goddess is shown offering cloth produced in an Ahmedabad mill, and asking people to use things made in India._ 
 footer page number:125
@@ -1227,8 +1169,10 @@ footer page number:125
 2. How did the East India Company procure regular supplies of cotton and silk textiles from Indian weavers? 
 3. Imagine that you have been asked to write an article for an encyclopaedia on Britain and the history of cotton. Write your piece using information from the entire chapter. 
 4. Why did industrial production in India increase during the First World War? 
+###### 
 ### **<mark>Project work</mark>** 
-Project Select any one industry in your region and find out its history. How has the technology changed? Where do the workers come from? How are the products advertised and marketed? Try and talk to the employers and some workers to get their views about the industry’s history. 
+### Project 
+Select any one industry in your region and find out its history. How has the technology changed? Where do the workers come from? How are the products advertised and marketed? Try and talk to the employers and some workers to get their views about the industry’s history. 
 footer page number:126
 # **Work, Life and Leisure Cities in the Contemporary World** 
 In 1880, Durgacharan Ray wrote a novel, _Debganer Martye Aagaman_ ( _The Gods Visit Earth_ ), in which Brahma, the Creator in Hindu mythology, took a train to Calcutta with some other gods. As Varuna, the Rain God, conducted them around the capital of British India, the gods were wonderstruck by the big, modern city – the train itself, the large ships on the river Ganges, factories belching smoke, bridges and monuments and a dazzling array of shops selling a wide range of commodities. The gods were so impressed by the marvels of the teeming metropolis that they decided to build a Museum and a High Court in Heaven! 
@@ -1241,63 +1185,57 @@ Cities themselves can vary greatly in size and complexity. They can be densely s
 This chapter will discuss the history of **urbanisation** in the modern world. We will look in some detail at two modern cities, as examples of metropolitan development. The first is  London,  the largest city in the world, and an imperial centre in the nineteenth century, and the second is Bombay, one of the most important modern cities in the Indian subcontinent. 
 ### **<mark>Activity</mark>** 
 Can you think of appropriate examples from Indian history for each of these categories: a religious centre, a market town, a regional capital, a metropolis? Find out about the history of any one of them. 
-##### **New words** 
-Metropolis – A large, densely populated city of a country or state, often the capital of the region Urbanisation – Development of a city or town 
-##### **1.1 Industrialisation and the Rise of the Modern City in England** 
+**New words** Metropolis – A large, densely populated city of a country or state, often the capital of the region Urbanisation – Development of a city or town 
+#### **1.1 Industrialisation and the Rise of the Modern City in England** 
 Industrialisation changed the form of urbanisation in the modern period. However, even as late as the 1850s, many decades after the beginning of the industrial revolution, most Western countries were largely rural. The early industrial cities of Britain such as Leeds and Manchester attracted large numbers of migrants to the textile mills set up in the late eighteenth century. In 1851, more than three-quarters of the adults living in Manchester were migrants from rural areas. 
 Now let us look at London.  By 1750, one out of every nine people of England and Wales lived in London. It was a colossal city with a population of about 675,000. Over the nineteenth century, London continued to expand. Its population multiplied fourfold in the 70 years between 1810 and 1880, increasing from 1 million to about 4 million. 
 footer page number:128
 The city of London was a powerful magnet for migrant populations, even though it did not have large factories. ‘Nineteenth century London,’ says the historian Gareth Stedman Jones, ‘was a city of clerks and shopkeepers, of small masters and skilled artisans, of a growing number of semi skilled and sweated outworkers, of soldiers and servants, of casual labourers, street sellers, and beggars.’ Apart from the London dockyards, five major types of industries employed large numbers: clothing and footwear, wood and furniture, metals and engineering, printing and stationery, and precision products such as surgical instruments, watches, and objects of precious metal. During the First World War (1914-18) London began manufacturing motor cars and electrical goods, and the number of large factories increased until they accounted for nearly one-third of all jobs in the city. 
-##### **1.2 Marginal Groups** 
+#### **1.2 Marginal Groups** 
 As London grew, crime flourished. We are told that 20,000 criminals were living in London in the 1870s. We know a great deal about criminal activities in this period, for crime became an object of widespread concern. The police were worried about law and order, **philanthropists** were anxious about public morality, and industrialists wanted a hard-working and orderly labour force. So the population of criminals was counted, their activities were watched, and their ways of life were investigated. 
 In the mid-nineteenth century, Henry Mayhew wrote several volumes on the London labour, and compiled long lists of those who made a living from crime.  Many of whom he listed as  ‘criminals’ were in fact poor people who lived by stealing lead from roofs, food from shops, lumps of coal, and clothes drying on hedges. There were others who were more skilled at their trade, expert at their jobs. They were the cheats and tricksters, pickpockets and petty thieves crowding the streets of London. In an attempt to discipline the population, the authorities imposed high penalties for crime and offered work to those who were considered the ‘deserving poor’. 
 Factories employed large numbers of women in the lateeighteenth and early nineteenth centuries. With technological developments, women gradually lost their industrial jobs, and were forced to work within households. The 1861 census recorded a quarter of a million domestic servants in London, of whom the vast majority were 
 <!-- Start of picture text -->
-River Thames<br>1784<br>1862<br>1914<br>1980 Population<br><!-- End of picture text -->
-**_Fig. 1 – The growth of London, a map showing its population in four different eras._** 
-##### **New words** 
-Philanthropist  –  Someone who works for social upliftment and charity, donating time and money for the purpose 
+River Thames<br>1784<br>1862<br>1914<br><!-- End of picture text -->
+1980 Population **_Fig. 1 – The growth of London, a map showing its population in four different eras._** 
+**New words** Philanthropist  –  Someone who works for social upliftment and charity, donating time and money for the purpose 
 footer page number:129
 women, many of them recent migrants. A large number of women used their homes to increase family income by taking in lodgers or through such activities as tailoring, washing or matchbox making. However, there was a change once again in the twentieth century. As women got employment in wartime industries and offices, they withdrew from domestic service. 
 ### **<mark>Activity</mark>** 
 Imagine that you are a newspaper reporter writing a piece on the changes you see in London in 1811. What problems are you likely to write about? Who would have gained from the changes? 
 Large number of children were pushed into low-paid work, often by their parents.  Andrew Mearns, a clergyman who wrote _The Bitter Cry of Outcast London_ in the 1880s, showed why crime was more profitable than labouring in small underpaid factories: ‘A child seven years old is easily known to make 10 shillings 6 pence a week from thieving … Before he can gain as much as the young thief [a boy] must make 56 gross of matchboxes a week, or 1,296 a day.’ It was only after the passage of the Compulsory Elementary Education Act in 1870, and the factory acts beginning from 1902, that children were kept out of industrial work. 
-##### **1.3 Housing** 
+#### **1.3 Housing** 
 Older cities like London changed dramatically when people began pouring in after the Industrial Revolution. Factory or workshop 
 **_Fig. 2 – A Stranger’s Home,_ The Illustrated London News** **_,1870._** _Night Refuges and Strangers’ Homes were opened in winter by charitable societies and local authorities in many towns. The poor flocked to these places in the hope of food, warmth and shelter._ 
 footer page number:130
 owners did not house the migrant workers.  Instead, individual landowners put up cheap, and usually unsafe, **tenements** for the new arrivals. 
 Although poverty was not unknown in the countryside, it was more concentrated and starkly visible in the city.  In 1887, Charles Booth, a Liverpool shipowner, conducted the first social survey of lowskilled London workers in the East End of London. He found that as many as 1 million Londoners (about one-fifth of the population of London at the time) were very poor and were expected to live only up to an average age of 29 (compared to the average life expectancy of 55 among  the gentry and the middle class). These people were more than likely to die in a ‘workhouse, hospital or lunatic asylum’.  London, he concluded ‘needed the rebuilding of at least 400,000 rooms to house its poorest citizens’. 
 For a while the better-off city dwellers continued to demand that slums simply be cleared away. But gradually a larger and larger number of people began to recognise the need for housing for the poor. What were the reasons for this increasing concern? First, the vast mass of one-room houses occupied by the poor were seen as a serious threat to public health: they were overcrowded, badly ventilated, and lacked sanitation. Second, there were worries about fire hazards created by poor housing. Third, there was a widespread fear of social disorder, especially after the Russian Revolution in 1917.  Workers’ mass housing schemes were planned to prevent the London poor from turning rebellious. 
-**_Fig. 3 – Rat-trap seller, cartoon by Rowlandson, 1799._** 
-_Rowlandson recorded the types of trades in London that were beginning to disappear with the development of industrial capitalism._ 
-##### **New words** 
+**_Fig. 3 – Rat-trap seller, cartoon by Rowlandson, 1799._** _Rowlandson recorded the types of trades in London that were beginning to disappear with the development of industrial capitalism._ 
+#### **New words** 
 Tenement – Run-down and often overcrowded apartment house, especially in a poor section of a large city 
 ### **<mark>Activity</mark>** 
 In many cities of India today, there are moves to clear away the slums where poor people live. Discuss whether or not it is the responsibility of the government to make arrangements for houses for these people. 
-###### **_Fig. 4 – A London slum in 1889._** 
-_What are the different uses of street space that are visible in this picture? What would have changed in the conditions of working class housing in the twentieth century?_ 
+**_Fig. 4 – A London slum in 1889._** _What are the different uses of street space that are visible in this picture? What would have changed in the conditions of working class housing in the twentieth century?_ 
 footer page number:131
-**_Fig. 5 – For the poor, the street often was the only place for rest, leisure and fun._ The Illustrated London News** **_, 1856._** 
-_Over the nineteenth century, the elites became increasingly worried about drunkenness and squalor on the streets. Gradually, a_ **_temperance movement_** _developed to fight against the evils of drinking._ 
-###### **_Source A_** 
-##### **1.4 Cleaning London** 
+**_Fig. 5 – For the poor, the street often was the only place for rest, leisure and fun._ The Illustrated London News** **_, 1856._** _Over the nineteenth century, the elites became increasingly worried about drunkenness and squalor on the streets. Gradually, a_ **_temperance movement_** _developed to fight against the evils of drinking._ 
+##### **_Source A_** 
+#### **1.4 Cleaning London** 
 A variety of steps were taken to clean up London. Attempts were made to decongest localities, green the open spaces, reduce pollution and landscape the city. Large blocks of apartments were built, akin to those in Berlin and New York – cities which had similar housing problems. Rent control was introduced in Britain during the First World War to ease the impact of a severe housing shortage. 
 The congestion in the nineteenth-century industrial city also led to a yearning for clean country air.  Many wealthy residents of London were able to afford a holiday home in the countryside.  Demands were made for new ‘lungs’ for the city, and some attempts 
 ### **<mark>Activity</mark>** 
 Imagine you are investigating the conditions in which the London poor lived. Write a note discussing all the dangers to public health which were created by these conditions. 
 ‘The children too must not be forgotten in the open spaces. The kinderbank, or low seat to suit their short legs, should always be provided and where possible spaces of turf be supplied with swings or seesaws, with ponds for sailing boats, and with sand pits where these can be kept sufficiently clean.’ 
-### **_Source_** 
-##### **New words** 
+**_Source_** 
+#### **New words** 
 Temperance movement – A largely middleclass-led social reform movement which emerged in Britain and America from the nineteenth century onwards. It identified alcoholism as the cause of the ruin of families and society, and aimed at reducing the consumption of alcoholic drinks particularly amongst the working classes. 
 footer page number:132
 were made to bridge the difference between city and countryside through such ideas as the Green Belt around London. 
 Architect and planner Ebenezer Howard developed the principle of the Garden City, a pleasant space full of plants and trees, where people would both live and work. He believed this would also produce better-quality citizens. Following Howard’s ideas Raymond Unwin and Barry Parker designed the garden city of New Earswick. There were common garden spaces, beautiful views, and great attention to detail. In the end, only well-off workers could afford these houses. 
 Between the two World Wars (1919-39) the responsibility for housing the working classes was accepted by the British state, and a million houses, most of them single-family cottages, were built by local authorities. Meanwhile, the city had extended beyond the range where people could walk to work, and the development of suburbs made new forms of mass transport absolutely necessary. 
-##### **1.5 Transport in the City** 
-**_Fig. 6 –  New Earswick, a garden suburb._** 
+#### **1.5 Transport in the City** 
+**_Fig. 6 –  New Earswick, a garden suburb._** _Notice the enclosed green space to produce a new community life._ 
 How could people be persuaded to leave the city and live in garden suburbs unless there were some means of travelling to the city for work? The London underground railway partially solved the housing crisis by carrying large masses of people to and from the city. 
-_Notice the enclosed green space to produce a new community life._ 
 The very first section of the Underground in the world opened on 10 January 1863 between Paddington and Farrington Street in London. On that day 10,000 passengers were carried, with trains running every ten minutes. By 1880 the expanded train service was carrying 40 million passengers a year _._ At first people were afraid to travel underground. This is what one newspaper reader warned: 
 The compartment in which I sat was filled with passengers who were smoking pipes. The atmosphere was a mixture of sulphur, coal dust and foul fumes from the gas lamps above, so that by the time we reached Moorgate, I was near dead of **asphyxiation** and heat. I should think these underground railways must soon be discontinued for they are a menace to health. 
 **_Fig. 7 – Railway lines being laid in London,_ Illustrated Times** **_, 1868._** 
@@ -1307,7 +1245,7 @@ Houses were knocked down; streets broken through and stopped; deep pits and tren
 To make approximately two miles of railway, 900 houses had to be destroyed. Thus the London tube railway led to a massive displacement of the London poor, especially between the two World Wars. 
 Yet the Underground eventually became a huge success. By the twentieth century, most large metropolises such as New York, Tokyo and Chicago could not do without their well-functioning transit systems. As a result, the population in the city became more dispersed. Better-planned suburbs and a good railway network enabled large numbers to live outside central London and travel to work. 
 These new conveniences wore down social distinctions and also created new ones. How did these changes affect domestic and public life? Did they have the same significance for all social groups? 
-##### **New words** 
+#### **New words** 
 Asphyxiation – Suffocation due to lack of oxygen supply 
 **_Fig. 8 – London Underground advertisement for Golders Green, around 1900._** _You can see the Underground advertisement persuading people to move to green, uncrowded and picturesque suburbs._ 
 **_Fig. 9 – Cows on the streets of London,_ The Graphic** **_, 1877._** _Clearing streets was part of the project of building a modern city. In the nineteenth century, cows regularly blocked traffic on London roads._ 
@@ -1316,15 +1254,15 @@ footer page number:134
 In the eighteenth century, the family had been a unit of production and consumption as well as of political decision-making. The function and the shape of the family were completely transformed by life in the industrial city. 
 Ties between members of households loosened, and among the working class the institution of marriage tended to break down. Women of the upper and middle classes in Britain, on the other hand, faced increasingly higher levels of isolation, although their lives were made easier by domestic maids who cooked, cleaned and cared for young children on low wages. 
 Women who worked for wages had some control over their lives, particularly among the lower social classes.  However, many social reformers felt that the family as an institution had broken down, and needed to be saved or reconstructed by pushing these women back into the home. 
-##### **2.1 Men, Women and Family in the City** 
+#### **2.1 Men, Women and Family in the City** 
 The city no doubt encouraged a new spirit of **individualism** among both men and women, and a freedom from the collective values that were a feature of the smaller rural communities. But men and women did not have equal access to this new urban space. As women lost their industrial jobs and conservative people railed against their presence in public spaces, women were forced to withdraw into their homes. The public space became increasingly a male preserve, and the domestic sphere was seen as the proper place for women. Most political movements of the nineteenth century, such as Chartism (a movement demanding the vote for all adult males) and the 10-hour movement (limiting hours of work in factories), mobilised large numbers of men. Only gradually did women come to participate in political movements for suffrage that demanded the 
-##### **New words** 
+#### **New words** 
 Individualism – A theory which promotes the liberty, rights or independent action of the individual, rather than of the community 
 footer page number:135
 right to vote for women, or for married women’s rights to property (from the 1870s). 
 By the twentieth century, the urban family had been transformed yet again, partly by the experience of the valuable wartime work done by women, who were employed in large numbers to meet war demands. The family now consisted of much smaller units. 
 Above all, the family became the heart of a new market – of goods and services, and of ideas. If the new industrial city provided opportunities for mass work, it also raised the problem of mass leisure on Sundays and other common holidays. How did people organise their new-found leisure time? 
-##### **2.2 Leisure and Consumption** 
+#### **2.2 Leisure and Consumption** 
 For wealthy Britishers, there had long been an annual ‘London Season’. Several cultural events, such as the opera, the theatre and classical music performances were organised for an elite group of 300-400 families in the late eighteenth century. Meanwhile, working classes met in pubs to have a drink, exchange news and sometimes also to organise for political action. 
 Many new types of large-scale entertainment for the common people came into being, some made possible with money from the state. Libraries, art galleries and museums were established in the nineteenth century to provide people with a sense of history and pride in the achievements of the British. At first, visitors to the British Museum in London numbered just about 15,000 every year, but when entry was made free in 1810, visitors swamped the museum: their number jumped to 127,643 in 1824-25, shooting up to 825, 901 by 1846. Music halls were popular among the lower classes, and, by the early twentieth century, cinema became the great mass entertainment for mixed audiences. 
 British industrial workers were increasingly encouraged to spend their holidays by the sea, so as to derive the benefits of the sun and bracing winds. Over 1 million British people went to the seaside at Blackpool in 1883; by 1939 their numbers had gone up to 7 million. 
@@ -1332,7 +1270,7 @@ British industrial workers were increasingly encouraged to spend their holidays 
 _Pleasure gardens came in the nineteenth century to provide facilities for sports, entertainment and refreshments for the well-to-do._ 
 footer page number:136
 **_Fig. 11 – Sailor’s Home in East London,_ The Illustrated London News,** **_1873._** _The working poor created spaces of entertainment wherever they lived._ 
-###### **_Fig. 12 –  A tavern with coaches parked in front, early nineteenth century._** 
+**_Fig. 12 –  A tavern with coaches parked in front, early nineteenth century._** 
 _The image makes clear the connection taverns had with horse-drawn coaches in the early nineteenth century. Before the railway age, taverns were places where horse-drawn coaches halted, and tired travellers had food and drink and rested the night. Taverns were located on coach routes and had facilities for overnight stays. After the coming of the railway and bus transport, taverns went into decline along with horse-drawn coach transport. Pubs came up near railway stations and bus depots. Here people could stop for a quick drink and chat._ 
 footer page number:137
 ### **3  Politics in the City** 
@@ -1341,6 +1279,7 @@ Two years later, thousands of London’s dockworkers went on strike and marched 
 From these examples you can see that large masses of people could be drawn into political causes in the city. A large city population was thus both a threat and an opportunity.  State authorities went to great lengths to reduce the possibility of rebellion and enhance urban aesthetics, as the example of Paris shows. 
 **_Fig. 13 – A scene during the dockworkers’ strike, 1889._** 
 footer page number:138
+##### **_Box 1_** 
 ###### **Haussmanisation of Paris** 
 In 1852, Louis Napoleon III (a nephew of Napoleon Bonaparte) crowned himself emperor. After taking over, he undertook the rebuilding of Paris with vigour. The chief architect of the new Paris was Baron Haussmann, the Prefect of the Seine. His name has come to stand for the forcible reconstruction of cities to enhance their beauty and impose order. The poor were evicted from the centre of Paris to reduce the possibility of political rebellion and to beautify the city. 
 For 17 years after 1852, Haussmann rebuilt Paris. Straight, broad avenues or boulevards  and open spaces were designed, and full-grown trees transplanted. By 1870, one-fifth of the streets of Paris were Haussmann’s creation. In addition, policemen were employed, night patrols were begun, and bus shelters and tap water introduced. 
@@ -1355,32 +1294,28 @@ footer page number:139
 ### **4  The City in Colonial India** 
 In sharp contrast to Western Europe in the same period, Indian cities did not mushroom in the nineteenth century. The pace of urbanisation in India was slow under colonial rule. In the early twentieth century, no more than 11 per cent of Indians were living in cities. A large proportion of these urban dwellers were residents of the three **Presidency cities** . These were multi-functional cities: they had major ports, warehouses, homes and offices, army camps, as well as educational institutions, museums and libraries. Bombay was the premier city of India. It expanded rapidly from the late nineteenth century, its population  going up from 644,405 in 1872 to nearly 1,500,000 in 1941. 
 Let us look at how Bombay developed. 
-##### **New words** 
+#### **New words** 
 Presidency cities – The capitals of the Bombay, Bengal and Madras Presidencies in British India 
 ### **<mark>Discuss</mark>** 
 Read Source B carefully. What are the common features of city life that the authors note? What are the contradictory experiences they point to? 
-**_Fig. 16 – A bustling street in Null Bazaar, Bombay, photograph by Raja Deen Dayal, late nineteenth century._** 
-###### **_Source B_** 
+##### **_Source B_** 
 ###### **Contradictory experiences of cities** 
 Kali Prasanna Singh wrote a satire in Bengali describing an evening scene in the Indian part of Calcutta around 1862: 
 ‘Gradually the darkness thickens. At this time, thanks to English shoes, striped Santipur scarfs [sic] and Simla dhuties, you can’t tell high from low. Groups of fast young men, with peals of laughter and plenty of English talk are knocking at this door and that. They left home when they saw the lamps lighted in the evening and will return when the flour mills begin to work ... Some cover their faces with scarfs [sic] and think that no one recognises them. It is the evening of … a Saturday and the city is unusually crowded.’ 
 Hutam Pyancher Naksha, a collection of short sketches on urban life in Calcutta, 1862. Translated by Bankim Chandra Chattopadhyay. 
-In 1899, G.G. Agarkar wrote about Bombay: 
-‘The enormous expanse of Bombay city; its great and palatial private and governmental mansions; broad streets which accommodate up to six carriages abreast … the struggle to enter the merchants lanes; the frequent troublesome noise of passenger and goods trains whistles and wheels; the wearisome bargaining in every market, by customers who wander from place to place making enquiries with silver and notes in their pockets to buy a variety of commodities; the throngs of thousands of boats visible in the harbour … the more or less rushed pace of official and private employees going to work, checking their watches … The clouds of black smoke emitted by factory chimneys and the noise of large machines in the innards of buildings … Men and women with and without families belonging to every caste and rank travelling in carriages or horseback or on foot, to take the air and enjoy a drive along the sea shore in the slanting rays of the sun as it descends on the horizon … ’ 
-G.G. Agarkar, ‘The Obverse Side of British Rule or our Dire Poverty’. 
+In 1899, G.G. Agarkar wrote about Bombay: ‘The enormous expanse of Bombay city; its great and palatial private and governmental mansions; broad streets which accommodate up to six carriages abreast … the struggle to enter the merchants lanes; the frequent troublesome noise of passenger and goods trains whistles and wheels; the wearisome bargaining in every market, by customers who wander from place to place making enquiries with silver and notes in their pockets to buy a variety of commodities; the throngs of thousands of boats visible in the harbour … the more or less rushed pace of official and private employees going to work, checking their watches … The clouds of black smoke emitted by factory chimneys and the noise of large machines in the innards of buildings … Men and women with and without families belonging to every caste and rank travelling in carriages or horseback or on foot, to take the air and enjoy a drive along the sea shore in the slanting rays of the sun as it descends on the horizon … ’ G.G. Agarkar, ‘The Obverse Side of British Rule or our Dire Poverty’. 
+**_Fig. 16 – A bustling street in Null Bazaar, Bombay, photograph by Raja Deen Dayal, late nineteenth century._** 
 **_Source_** 
 footer page number:140
-##### **4.1 Bombay: The Prime City of India?** 
+#### **4.1 Bombay: The Prime City of India?** 
 In the seventeenth century, Bombay was a group of seven islands under Portuguese control. In 1661, control of the islands passed into British hands after the marriage of Britain’s King Charles II to the Portuguese princess. The East India Company quickly shifted its base from Surat, its principal western port, to Bombay. 
-**_Fig. 17 – A view of Bombay, 1852._** 
-_You can see the Colaba lighthouse on the right and St Thomas’s Church in the distant background. It was still possible in the mid-nineteenth century for artists to search for picturesque spots. The major development projects had not yet started._ 
+**_Fig. 17 – A view of Bombay, 1852._** _You can see the Colaba lighthouse on the right and St Thomas’s Church in the distant background. It was still possible in the mid-nineteenth century for artists to search for picturesque spots. The major development projects had not yet started._ 
 At first, Bombay was the major outlet for cotton textiles from Gujarat. Later, in the nineteenth century, the city functioned as a port through which large quantities of raw materials such as cotton and opium would pass. Gradually, it also became an important administrative centre in western India, and then, by the end of the nineteenth century, a major industrial centre. 
-##### **4.2 Work in the City** 
+#### **4.2 Work in the City** 
 Bombay became the capital of the Bombay Presidency in 1819, after the Maratha defeat in the Anglo-Maratha war. The city quickly expanded. With the growth of trade in cotton and opium, large communities of traders and bankers as well as artisans and shopkeepers came to settle in Bombay.  The establishment of textile mills led to a fresh surge in migration. 
 The first cotton textile mill in Bombay was established in 1854. By 1921, there were 85 cotton mills with about 146,000 workers. Only 
 <!-- Start of picture text -->
-Land<br><!-- End of picture text -->
-Old islands Land reclamation 
+Old islands<br>Land<br>reclamation<br><!-- End of picture text -->
 **_Fig. 18 – A map of Bombay in the 1930s showing the seven islands and the reclamations._** 
 footer page number:141
 about one-fourth of Bombay’s inhabitants between 1881 and 1931 were born in Bombay: the rest came from outside. Large numbers flowed in from the nearby district of Ratnagiri to work in the Bombay mills. 
@@ -1388,7 +1323,7 @@ Women formed as much as 23 per cent of the mill workforce in the period between 
 ### **<mark>Activity</mark>** 
 Have a debate in class with speakers for and against the motion, on the following topic: ‘City development cannot take place without destroying communities and lifestyles. This is a necessary part of development.’ 
 Bombay dominated the maritime trade of India till well into the twentieth century. It was also at the junction head of two major railways. The railways encouraged an even higher scale of migration into the city.  For instance, famine in the dry regions of Kutch drove large numbers of people into Bombay in 1888-89. The flood of migrants in some years created panic and alarm in official circles. Worried by the influx of population during the plague epidemic of 1898, district authorities sent about 30,000 people back to their places of origin by 1901. 
-##### **4.3 Housing and Neighbourhoods** 
+#### **4.3 Housing and Neighbourhoods** 
 Bombay was a crowded city. While every Londoner in the 1840s enjoyed an average space of 155 square yards, Bombay had a mere 9.5 square yards. By 1872, when London had an average of 8 persons per house, the density in Bombay was as high as 20.  From its earliest days, Bombay did not grow according to any plan, and houses, especially in the Fort area, were interspersed with gardens. The Bombay Fort area which formed the heart of the city in the early 1800s was divided between a ‘native’ town, where most of the Indians lived, and a European or ‘white’ section. A European suburb and an industrial zone began to develop to the north of the Fort settlement area, with a similar suburb and cantonment in the south. This racial pattern was true of all three Presidency cities. 
 With the rapid and unplanned expansion of the city, the crisis of housing and water supply became acute by the mid-1850s.  The arrival of the textile mills only increased the pressure on Bombay’s housing. 
 Like the European elite, the richer Parsi, Muslim and uppercaste traders and industrialists of Bombay lived in sprawling, 
@@ -1401,7 +1336,7 @@ Many families could reside at a time in a tenement.  The Census of 1901 reported
 The homes being small, streets and neighbourhoods were used for a variety of activities such as cooking, washing and sleeping. Liquor 
 ### **<mark>Activity</mark>** 
 Look at Fig. 20 What kinds of people do you think used this mode of transport? Compare it with the pictures of the horse-drawn tram (Fig. 22) and the electric tram. Notice the inversion of the numbers involved: the horsedrawn tram or electric tram needed only one operator while a single traveller required several people. 
-###### **_Source C_** 
+##### **_Source C_** 
 ###### **Why spaces cannot be cleared** 
 Bombay’s first Municipal Commissioner, Arthur Crawford, was appointed in 1865. He tried to keep several ‘dangerous trades’ out of south Bombay. He described how builders and entrepreneurs bribed inspectors to continue with their haphazard use of space, even when their activities increased pollution: 
 ‘… Kessowjee Naik brought his dyers back to their old quarters. I prosecuted them, but was defeated. Kessowjee Naik spent money like water, eminent physicians swore solemnly that dye pits were beneficial to health! … This infamous success emboldened a powerful German firm to open a large steam Dyeing Factory close to Parbadevi Temple whose refuse waters polluted the fair sands of Mahim Bay … Last but not least Bhoys and Dasses, Shenvis Brahmins and all the Jees, set up cotton and spinning mills anywhere their sweet will prompted them: for example close to the Byculla Club itself, around the Race Course and Kamathippora Foras Road, in Khetwady, on Girgaum Raod and at Chowpatty.’ 
@@ -1413,23 +1348,20 @@ Caste and family groups in the mill neighbourhoods were headed by someone who wa
 People who belonged to the **‘depressed classes’** found it even more difficult to find housing. Lower castes were kept out of many _chawls_ and often had to live in shelters made of corrugated sheets, leaves, or bamboo poles. 
 If town planning in London emerged from fears of social revolution, planning in Bombay came about as a result of fears about the plague epidemic. The City of Bombay Improvement Trust was established in 1898; it focused on clearing poorer homes out of the city centre.  By 1918, Trust schemes had deprived 64,000 people of their homes, but only 14,000 were rehoused. In 1918, a Rent Act was passed to keep rents reasonable, but it had the opposite effect of producing a severe housing crisis, since landlords withdrew houses from the market. 
 Expansion of the city has always posed a problem in Bombay because of a scarcity of land. One of the ways the city of Bombay has developed is through massive **reclamation** projects. 
-##### **4.4 Land Reclamation in Bombay** 
+#### **4.4 Land Reclamation in Bombay** 
 Did you know that the seven islands of Bombay were joined into one landmass only over a period of time? The earliest project began in 1784. The Bombay governor William Hornby approved the building of the great sea wall which prevented the flooding of the low-lying areas of Bombay. 
-**_Fig. 21 –_ Chawl** **_on Kalbadevi Road built in the early twentieth century._** 
-_What do you notice about the organisation of space in this building?_ 
+**_Fig. 21 –_ Chawl** **_on Kalbadevi Road built in the early twentieth century._** _What do you notice about the organisation of space in this building?_ 
 ### **<mark>Activity</mark>** 
 Imagine that you are a young person living in a _chawl_ . Describe one day in your life. 
-##### **New words** 
-_Akharas_ – Traditional wrestling schools, generally located in every neighbourhood, where young people were trained to ensure both physical and moral fitness 
-Depressed classes – A term often used to denote those who were seen within the caste order as ‘lower castes’ and ‘untouchables’ Reclamation – The reclaiming of marshy or submerged areas or other wasteland for settlements, cultivation or other use 
+#### **New words** 
+_Akharas_ – Traditional wrestling schools, generally located in every neighbourhood, where young people were trained to ensure both physical and moral fitness Depressed classes – A term often used to denote those who were seen within the caste order as ‘lower castes’ and ‘untouchables’ Reclamation – The reclaiming of marshy or submerged areas or other wasteland for settlements, cultivation or other use 
 footer page number:144
 Since then, there have been several reclamation projects. The need for additional commercial space in the mid-nineteenth century led to the formulation of several plans, both by government and private companies, for the reclamation of more land from the sea.  Private companies became more interested in taking financial risks. In 1864, the Back Bay Reclamation Company won the right to reclaim the western foreshore from the tip of Malabar Hill to the end of Colaba. Reclamation often meant the levelling of the hills around Bombay. By the 1870s, although most of the private companies closed down due to the mounting cost, the city had expanded to about 22 square miles. As the population continued to increase rapidly in the early twentieth century, every bit of the available area was built over and new areas were reclaimed from the sea. 
 **_Fig. 22 – Colaba Causeway, late nineteenth century._** _Notice that the trams are being drawn by horses.You can see stables for horses on the left and the Tram Company’s offices in the background._ 
 A successful reclamation project was undertaken  by the Bombay Port Trust, which built a dry dock between 1914 and 1918 and used the excavated earth to create the 22-acre Ballard Estate. Subsequently, the famous Marine Drive of Bombay was developed. 
-##### **4.5 Bombay as the City of Dreams: The World of Cinema and Culture** 
-**_Fig. 23 – Marine Drive._** 
+#### **4.5 Bombay as the City of Dreams: The World of Cinema and Culture** 
+**_Fig. 23 – Marine Drive._** _A familiar landmark of Bombay, it was built on land reclaimed from the sea in the twentieth century._ 
 Who does not associate Bombay with its film industry? Despite its massive overcrowding and difficult living conditions, Bombay appears to many as a _‘mayapuri’_ – a city of dreams. 
-_A familiar landmark of Bombay, it was built on land reclaimed from the sea in the twentieth century._ 
 Many Bombay films deal with the arrival in the city of new migrants, and their encounters with the real pressures of daily life. Some popular songs from the Bombay film industry speak of the contradictory aspects of the city. In the film _CID_ (1956) the hero’s buddy sings, ‘ _Ai dil hai mushkil jeena yahan; zara hatke zara bachke, ye hai Bambai meri jaan_ ’ (My heart, it is difficult to live here! move over a little, take care of yourself! this is Bombay! my love). A slightly more disillusioned voice sings in _Guest House_ (1959): ‘ _Jiska juta usika sar, dil hai chhote bada shahar, are vah re vah teri Bambai_ ’ (Bombay, you city what a place! Here one gets beaten with one’s own shoes! The city is big but people’s hearts are small!). 
 When did the Bombay film industry make its first appearance? Harishchandra Sakharam Bhatwadekar shot a scene of a wrestling 
 footer page number:145
@@ -1438,22 +1370,23 @@ Most of the people in the film industry were themselves migrants who came from c
 Bombay films have contributed in a big way to produce an image of the city as a blend of dream and reality, of slums and star bungalows. 
 ### **<mark>Discuss</mark>** 
 Read Source D. What does the poem communicate about the opportunities and experience for each new generation? 
-###### **_Source D_** 
+##### **_Source D_** 
 ###### **The Many Sides of Bombay** 
-### **_Source_** 
+**_Source_** 
 My father came down the Sahyadris A quilt over his shoulder He stood at your doorstep With nothing but his labour 
-… I carried a tiffin box To the mill since childhood I was cast the way A smith forges a hammer I learned my ropes Working on a loom Learnt on occasion To go on strike 
+I carried a tiffin box To the mill since childhood I was cast the way A smith forges a hammer I learned my ropes Working on a loom Learnt on occasion To go on strike 
 My father withered away toiling So will I, and will my little ones Perhaps they too face such sad nights Wrapped in coils of darkness 
 The verses of this poem are a stark contrast to the glittering world of films, pointing to the endless toil which new migrants encounter in the city. 
 Excerpted from the poem Maze Vidyapeeth (1975) by Narayan Surve. 
 footer page number:146
+##### **_Box 2_** 
 Not all cities in Asian countries developed in an unplanned manner. There were many cities that were carefully planned and organised. Consider the case of modern Singapore. 
 ###### **Lee Kuan Yew’s Singapore** 
 Today, most of us know Singapore as a successful, rich, and wellplanned city, a model for city planning worldwide. Yet the city’s rise to this status is quite recent. Until 1965, Singapore, though an important port, shared all the problems of other Asian cities. Planning was known in Singapore since 1822, but benefited only the small community of white people who ruled Singapore. For the majority of its inhabitants, there was overcrowding, lack of sanitation, poor housing, and poverty. 
 **_Fig. 24 – Singapore Marina, which is built on land reclaimed from the sea._** 
 All this changed after the city became an independent nation in 1965 under the leadership of Lee Kuan Yew, President of the People’s Action Party. A massive housing and development programme was undertaken and it completely altered the face of the island nation. Through a programme of total planning which left nothing to chance, every inch of the island’s territory was controlled in its use. The government itself won popular support by providing nearly 85 per cent of the population with ownership housing of good quality.  The tall housing blocks, which were well ventilated and serviced, were examples of good physical planning. But the buildings also redesigned social life: crime was reduced through external corridors, the aged were housed alongside their families, ’void decks’ or empty floors were provided in all buildings for community activities. 
 Migration into the city was strictly controlled. Social relations between the three major groups of people (the Chinese, the Malays and the Indians) were also monitored to prevent racial conflict. Newspapers and journals and all forms of communication and association were also strictly controlled. 
-In 1986, in the National Day Rally speech, Lee Kuan Yew’s recalled his early experiments with planning: ‘… we would not have made economic progress, if we had not intervened on very personal matters: who your neighbour is, how you live, the noise you make, how you spit or what language you use. We decide what is right. **–** Never mind what the people think that is another problem.’ Reported in The Straits Times. 
+In 1986, in the National Day Rally speech, Lee Kuan Yew’s recalled his early experiments with planning: ‘… we would not have made economic progress, if we had not intervened on very personal matters: who your neighbour is, how you live, the noise you make, how you spit or what language you use. We decide what is right. Never mind what the people think **–** that is another problem.’ Reported in The Straits Times. 
 Although the citizens of Singapore enjoy a very high degree of material comfort and wealth, there are many who point out that the city lacks a lively and challenging political culture. 
 ### **<mark>Activity</mark>** 
 Compare the examples of the work done by Baron Haussmann in Paris and Lee Kuan Yew, almost a hundred years later, in Singapore. Discuss if physical comfort and beauty in the city can be introduced only by controlling social and private life. In your opinion, is this a good enough reason for the government to make rules about the way in which people should live their personal lives? 
@@ -1470,28 +1403,28 @@ Colonial authorities were at first intent on clearing the place of miasmas, or h
 In 1920, the rice mills of Tollygunge began to burn rice husk instead of coal, leading residents to complain that ‘the air is filled up with black soot which falls like drizzling rain from morning till night, and it has become impossible to live’. The inspectors of the Bengal Smoke Nuisance Commission finally managed to control industrial smoke. Controlling domestic smoke, however, was far more difficult. 
 ### **<mark>Activity</mark>** 
 Write out a notice from the Bengal Smoke Nuisance Commission to the owner of a factory pointing out the dangers and harmful effects of industrial smoke. 
-##### **Conclusion** 
+#### **Conclusion** 
 Despite its problems, the city has always been attractive to those seeking freedom and opportunity. Even the gods in Durgacharan’s novel, referred to at the beginning of this chapter, found heaven imperfect, compared with all that they had witnessed and experienced on their visit to Calcutta.  Yet all the aspects of city life that upset them  were signs of the new routes to social and economic mobility that the city offered to the millions who had made it their home. 
 footer page number:149
 ### **<mark>Write in brief</mark>** 
 1. Give two reasons why the population of London expanded from the middle of the eighteenth century. 
 2. What were the changes in the kind of work available to women in London between the nineteenth and the twentieth century? Explain the factors which led to this change. 
 3. How does the existence of a large urban population affect each of the following? Illustrate with historical examples. 
-- a) A private landlord 
-- b) A Police Superintendent in charge of law and order 
-   - c) A leader of a political party 
-4.   Give explanations for the following: 
+a) A private landlord b) A Police Superintendent in charge of law and order c) A leader of a political party 
+4.   Give explanations for the following: a) Why well-off Londoners supported the need to build housing for the poor in the nineteenth century. 
    - a) Why well-off Londoners supported the need to build housing for the poor in the nineteenth century. 
-- b) Why a number of Bombay films were about the lives of migrants. 
-- c) What led to the major expansion of Bombay’s population in the mid-nineteenth century. 
+   - b) Why a number of Bombay films were about the lives of migrants. 
+   - c) What led to the major expansion of Bombay’s population in the mid-nineteenth century. 
 ### **<mark>Discuss</mark>** 
 1. What forms of entertainment came up in nineteenth century England to provide leisure activities for the people. 
 2. Explain the social changes in London which led to the need for the Underground railway. Why was the development of the Underground criticised? 
 3. Explain what is meant by the Haussmanisation of Paris. To what extent would you support or oppose this form of development? Write a letter to the editor of a newspaper, to either support or oppose this, giving reasons for your view. 
-4. To what extent does government regulation and new laws solve problems of pollution? Discuss one example each of the success and failure of legislation to change the quality of a) public life Discuss 
-b) private life 
+4. To what extent does government regulation and new laws solve problems of pollution? Discuss one example each of the success and failure of legislation to change the quality of 
+   - a) public life Discuss 
+   - b) private life 
 ### **<mark>Project</mark>** 
 Make sure you watch any one of the Mumbai films discussed in this chapter. Compare and contrast the portrayal of the city in one film discussed in this chapter, with a film set in Mumbai, which you have recently seen. Project 
+Project 
 footer page number:150
 # **Print Culture and the Modern World** 
 It is difficult for us to imagine a world without printed matter. We find evidence of print everywhere around us – in books, journals, newspapers,  prints of famous paintings, and also in everyday things like theatre programmes, official circulars, calendars, diaries, advertisements, cinema posters at street corners. We read printed literature, see printed images, follow the news through newspapers, and track public debates that appear in print. We take for granted this world of print and often forget that there was a time before print. We may not realise that print itself has a history which has, in fact, shaped our contemporary world. What is this history? When did printed literature begin to circulate? How has it helped create the modern world? 
@@ -1500,18 +1433,18 @@ In this chapter we will look at the development of print, from its beginnings in
 _This is a royal workshop in the sixteenth century, much before printing began in India. You can see the text being dictated, written and illustrated. The art of writing and illustrating by hand was important in the age before print. Think about what happened to these forms of art with the coming of printing machines._ 
 ### **1  The First Printed Books** 
 The earliest kind of print technology was developed in China, Japan and Korea. This was a system of hand printing. From AD 594 onwards, books in China were printed by rubbing paper – also invented there – against the inked surface of woodblocks. As both sides of the thin, porous sheet could not be printed, the traditional Chinese ‘accordion book’ was folded and stitched at the side. Superbly skilled craftsmen could duplicate, with remarkable accuracy, the beauty of **calligraphy.** 
-##### **New words** 
+**New words** 
 Calligraphy – The art of beautiful and stylised writing 
 The imperial state in China was, for a very long time, the major producer of printed material. China possessed a huge bureaucratic system which recruited its personnel through civil service examinations. Textbooks for this examination were printed in vast numbers under the sponsorship of the imperial state.  From the sixteenth century, the number of examination candidates went up and that increased the volume of print. 
 By the seventeenth century, as urban culture bloomed in China, the uses of print diversified. Print was no longer used just by scholarofficials. Merchants used print in their everyday life, as they collected trade information. Reading increasingly became a leisure activity. The new readership preferred fictional narratives, poetry, autobiographies, anthologies of literary masterpieces, and romantic plays. Rich women began to read, and many women began publishing their poetry and plays. Wives of scholar-officials published their works and courtesans wrote about their lives. 
 This new reading culture was accompanied by a new technology. Western printing techniques and mechanical presses were imported in the late nineteenth century as Western powers established their outposts in China. Shanghai became the hub of the new print culture, catering to the Western-style schools. From hand printing there was now a gradual shift to mechanical printing. 
-##### **1.1 Print in Japan** 
+#### **1.1 Print in Japan** 
 Buddhist missionaries from China introduced hand-printing technology into Japan around AD 768-770. The oldest Japanese book, printed in AD 868, is the Buddhist _Diamond Sutra_ , containing six sheets of text and woodcut illustrations. Pictures were printed on textiles, 
 **_Fig. 2 – A page from the_ Diamond Sutra.** 
 footer page number:154
 playing cards and paper money. In medieval Japan, poets and prose writers were regularly published, and books were cheap and abundant. 
 Printing of visual material led to interesting publishing practices. In the late eighteenth century, in the flourishing urban circles at Edo (later to be known as Tokyo), illustrated collections of paintings depicted an elegant urban culture, involving artists, courtesans, and teahouse gatherings. Libraries and bookstores were packed with hand-printed material of various types – books on women, musical instruments, calculations, tea ceremony, flower arrangements, proper etiquette, cooking and famous places. 
-###### **_Box 1_** 
+##### **_Box 1_** 
 **Kitagawa Utamaro** , born in Edo in 1753, was widely known for his contributions to an art form called ukiyo (‘pictures of the floating world’) or depiction of ordinary human experiences, especially urban ones. These prints travelled to contemporary US and Europe and influenced artists like Manet, Monet and Van Gogh. Publishers like Tsutaya Juzaburo identified subjects and commissioned artists who drew the theme in outline. Then a skilled woodblock carver pasted the drawing on a woodblock and carved a printing block to reproduce the painter’s lines. In the process, the original drawing would be destroyed and only prints would survive. 
 **_Fig. 3 – An_ ukiyo** **_print by Kitagawa Utamaro._** 
 **_Fig. 4_ –** **_A morning scene,_ ukiyo** **_print by Shunman Kubo, late eighteenth century._** 
@@ -1519,74 +1452,66 @@ _A man looks out of the window at the snowfall while women prepare tea and perfo
 footer page number:155
 ### **2  Print Comes to Europe** 
 For centuries, silk and spices from China flowed into Europe through the silk route. In the eleventh century, Chinese paper reached Europe via the same route. Paper made possible the production of manuscripts, carefully written by scribes. Then, in 1295, Marco Polo, a great explorer, returned to Italy after many years of exploration in China. As you read above, China already had the technology of woodblock printing. Marco Polo brought this knowledge back with him. Now Italians began producing books with woodblocks, and soon the technology spread to other parts of Europe. Luxury editions were still handwritten on very expensive **vellum** , meant for aristocratic circles and rich monastic libraries which scoffed at printed books as cheap vulgarities. Merchants and students in the university towns bought the cheaper printed copies. 
-##### **New words** 
-Vellum – A parchment  made from the skin of animals 
+**New words** Vellum – A parchment  made from the skin of animals 
 As the demand for books increased, booksellers all over Europe began exporting books to many different countries. Book fairs were held at different places. Production of handwritten manuscripts was also organised in new ways to meet the expanded demand. Scribes or skilled handwriters were no longer solely employed by wealthy or influential patrons but increasingly by booksellers as well. More than 50 scribes often worked for one bookseller. 
 But the production of handwritten manuscripts could not satisfy the ever-increasing demand for books. Copying was an expensive, laborious and time-consuming business. Manuscripts were fragile, awkward to handle, and could not be carried around or read easily. Their circulation therefore remained limited.  With the growing demand for books, woodblock printing gradually became more and more popular. By the early fifteenth century, woodblocks were being widely used in Europe to print textiles, playing cards, and religious pictures with simple, brief texts. 
 There was clearly a great need for even quicker and cheaper reproduction of texts. This could only be with the invention of a new print technology. The breakthrough occurred at Strasbourg, Germany, where Johann Gutenberg developed the first-known printing press in the 1430s. 
 ### **<mark>Activity</mark>** 
 Imagine that you are Marco Polo. Write a letter from China to describe the world of print which you have seen there. 
 footer page number:156
-##### **2.1 Gutenberg and the Printing Press** 
+#### **2.1 Gutenberg and the Printing Press** 
 Gutenberg was the son of a merchant and grew up on a large agricultural estate. From his childhood he had seen wine and olive presses. Subsequently, he learnt the art of polishing stones, became a master goldsmith, and also acquired the expertise to create lead moulds used for making trinkets. Drawing on this knowledge, Gutenberg adapted existing technology to design his innovation. The olive press provided the model for the printing press, and moulds were used for casting the metal types for the letters of the alphabet. By 1448, Gutenberg perfected the system. The first book he printed was the Bible. About 180 copies were printed and it took three years to produce them. By the standards of the time this was fast production. 
 The new technology did not entirely displace the existing art of producing books by hand. 
 In fact, printed books at first closely resembled the written manuscripts in appearance and layout. The metal letters imitated the ornamental handwritten styles. Borders were illuminated by hand with foliage and other patterns, and illustrations were painted. In the books printed for the rich, space for decoration was kept blank on the printed page. Each purchaser could choose the design and decide on the painting school that would do the illustrations. 
 In the hundred years between 1450 and 1550, printing presses were set up in most countries of Europe.  Printers from Germany travelled to other countries, seeking work and helping start new presses. As the number of printing presses grew, book production boomed. The second half of the fifteenth century saw 20 million copies of printed books flooding the markets in Europe. The number went up in the sixteenth century to about 200 million copies. 
 This shift from hand printing to mechanical printing led to the print revolution. 
-##### **New words** 
+#### **New words** 
 Platen – In letterpress printing, platen is a board which is pressed onto the back of the paper to get the impression from the type. At one time it used to be a wooden board; later it was made of  steel 
 **_Fig. 5 – A Portrait  of Johann Gutenberg, 1584._** 
 <!-- Start of picture text -->
 Frame<br>Screw<br>Handle<br>Platen<br>Printing block<br>placed over<br>paper<br><!-- End of picture text -->
-**_Fig. 6  – Gutenberg Printing Press._** 
-_Notice the long handle attached to the screw. This handle was used to turn the screw and press down the_ **_platen_** _over the printing block that was placed on top of a sheet of damp paper. Gutenberg developed metal types for each of the 26 characters of the Roman alphabet and devised a way of moving them around so as to compose different words of the text. This came to be known as the moveable type printing machine, and it remained the basic print technology over the next 300 years. Books could now be produced much faster than was possible when each print block was prepared by carving a piece of wood by hand. The Gutenberg  press could print 250 sheets on one side per hour._ 
+**_Fig. 6  – Gutenberg Printing Press._** _Notice the long handle attached to the screw. This handle was used to turn the screw and press down the_ **_platen_** _over the printing block that was placed on top of a sheet of damp paper. Gutenberg developed metal types for each of the 26 characters of the Roman alphabet and devised a way of moving them around so as to compose different words of the text. This came to be known as the moveable type printing machine, and it remained the basic print technology over the next 300 years. Books could now be produced much faster than was possible when each print block was prepared by carving a piece of wood by hand. The Gutenberg  press could print 250 sheets on one side per hour._ 
 footer page number:157
-###### **_Fig. 7 – Pages of Gutenberg’s Bible, the first printed book in Europe._** 
-_Gutenberg printed about 180 copies, of which no more than 50 have survived._ 
+**_Fig. 7 – Pages of Gutenberg’s Bible, the first printed book in Europe._** _Gutenberg printed about 180 copies, of which no more than 50 have survived._ 
 _Look at these pages of Gutenberg’s Bible carefully. They were not just products of new technology. The text was printed in the new Gutenberg press with metal type, but the borders were carefully designed, painted and illuminated by hand by artists. No two copies were the same. Every page of each copy was different. Even when two copies look similar, a careful comparison will reveal differences. Elites everywhere preferred this lack of uniformity: what they possessed then could be claimed as unique, for no one else owned a copy that was exactly the same._ 
 _In the text you will notice the use of colour within the letters in various places. This had two functions: it added colour to the page, and highlighted all the holy words to emphasise their significance. But the colour on every page of the text was added by hand. Gutenberg printed the text in black, leaving spaces where the colour could be filled in later._ 
-###### **_Fig. 8 –  A printer’s workshop, sixteenth century_** _._ 
-_This picture depicts what a printer’s shop looked like in the sixteenth century. All the activities are going on under one roof. In the foreground on the right,_ **_compositors_** _are at work, while on the left_ **_galleys_** _are being prepared and ink is being applied on the metal types; in the background, the printers are turning the screws of the press, and near them proofreaders are at work. Right in front is the final product – the double-page printed sheets, stacked in neat piles, waiting to be bound._ 
-##### **New words** 
+**_Fig. 8 –  A printer’s workshop, sixteenth century_** _. This picture depicts what a printer’s shop looked like in the sixteenth century. All the activities are going on under one roof. In the foreground on the right,_ **_compositors_** _are at work, while on the left_ **_galleys_** _are being prepared and ink is being applied on the metal types; in the background, the printers are turning the screws of the press, and near them proofreaders are at work. Right in front is the final product – the double-page printed sheets, stacked in neat piles, waiting to be bound._ 
+#### **New words** 
 Compositor – The person who composes the text for printing Galley – Metal frame in which types are laid and the text composed 
 footer page number:158
 ### **3  The Print Revolution and Its Impact** 
 What was the print revolution? It was not just a development, a new way of producing books; it  transformed the lives of people, changing their relationship to information and knowledge, and with institutions and authorities. It influenced popular perceptions and opened up new ways of looking at things. 
 Let us explore some of these changes. 
-##### **3.1 A New Reading Public** 
+#### **3.1 A New Reading Public** 
 With the printing press, a new reading public emerged. Printing reduced the cost of books. The time and labour required to produce each book came down, and multiple copies could be produced with greater ease. Books flooded the market, reaching out to an ever-growing readership. 
 ### **<mark>Activity</mark>** 
 You are a bookseller advertising the availability of new cheap printed books. Design a poster for your shop window. 
 Access to books created a new culture of reading. Earlier, reading was restricted to the elites. Common people lived in a world of oral culture. They heard sacred texts read out, **ballads** recited, and folk tales narrated. Knowledge was transferred orally. People collectively heard a story, or saw a performance. As you will see in Chapter 8, they did not read a book individually and silently. Before the age of print, books were not only expensive but they could not be produced in sufficient numbers. Now books could reach out to wider sections of people. If earlier there was a hearing public, now a reading public came into being. 
 But the transition was not so simple. Books could be read only by the literate, and the rates of literacy in most European countries were very low till the twentieth century. How, then, could publishers persuade the common people to welcome the printed book? To do this, they had to keep in mind the wider reach of the printed work: even those who did not read could certainly enjoy listening to books being read out. So printers began publishing popular ballads and folk tales, and such books would be profusely illustrated with pictures. These were then sung and recited at gatherings in villages and in **taverns** in towns. 
 Oral culture thus entered print and printed material was orally transmitted. The line that separated the oral and reading cultures became blurred. And the hearing public and reading public became intermingled. 
-##### **New words** 
-Ballad – A historical account or folk tale in verse, usually sung or recited 
-Taverns – Places where people gathered to drink alcohol, to be served food, and to meet friends and exchange news 
+**New words** Ballad – A historical account or folk tale in verse, usually sung or recited Taverns – Places where people gathered to drink alcohol, to be served food, and to meet friends and exchange news 
 footer page number:159
-##### **3.2 Religious Debates and the Fear of Print** 
+#### **3.2 Religious Debates and the Fear of Print** 
 Print created the possibility of wide circulation of ideas, and introduced a new world of debate and discussion. Even those who disagreed with established authorities could now print and circulate their ideas. Through the printed message, they could persuade people to think differently, and move them to action. This had significance in different spheres of life. 
 Not everyone welcomed the printed book, and those who did also had fears about it. Many were apprehensive of the effects that the easier access to the printed word and the wider circulation of books, could have on people’s minds. It was feared that if there was no control over what was printed and read then rebellious and irreligious thoughts might spread. If that happened the authority of ‘valuable’ literature would be destroyed. Expressed by religious authorities and monarchs, as well as many writers and artists, this anxiety was the basis of widespread criticism of the new printed literature that had began to circulate. 
-**_Fig. 9 – J.V. Schley, L’Imprimerie, 1739._** 
-_This is one of the many images produced in early modern Europe, celebrating the coming of print. You can see the printing press descending from heaven, carried by a goddess. On two sides of the goddess, blessing the machine, are Minerva (the goddess of wisdom) and Mercury (the messenger god, also symbolising reason). The women in the foreground are holding plaques with the portraits of six pioneer printers of different countries. In the middle ground on the left (figure encircled) is the portrait of Gutenberg._ 
+**_Fig. 9 – J.V. Schley, L’Imprimerie, 1739._** _This is one of the many images produced in early modern Europe, celebrating the coming of print. You can see the printing press descending from heaven, carried by a goddess. On two sides of the goddess, blessing the machine, are Minerva (the goddess of wisdom) and Mercury (the messenger god, also symbolising reason). The women in the foreground are holding plaques with the portraits of six pioneer printers of different countries. In the middle ground on the left (figure encircled) is the portrait of Gutenberg._ 
 Let us consider the implication of this in one sphere of life in early modern Europe – namely,  religion. 
-In 1517, the religious reformer Martin Luther wrote Ninety Five Theses criticising many of the practices and rituals of the Roman Catholic Church.  A printed copy of this was posted on a church door in Wittenberg. It challenged the Church to debate his ideas.  Luther’s writings were immediately reproduced in vast numbers and read widely. This lead to a division within the Church and to the beginning of the **Protestant Reformation** . Luther’s translation of the New Testament sold 5,000 copies within a few weeks and a second edition appeared within three months. Deeply grateful to print, Luther said, ‘Printing is the ultimate gift of God and the greatest one.’ Several scholars, in fact, think that print brought about a new intellectual atmosphere and helped spread the new ideas that led to the Reformation. 
-##### **New words** 
+In 1517, the religious reformer Martin Luther wrote Ninety Five Theses criticising many of the practices and rituals of the Roman Catholic Church.  A printed 
+copy of this was posted on a church door in Wittenberg. It challenged the Church to debate his ideas.  Luther’s writings were immediately reproduced in vast numbers and read widely. This lead to a division within the Church and to the beginning of the **Protestant Reformation** . Luther’s translation of the New Testament sold 5,000 copies within a few weeks and a second edition appeared within three months. Deeply grateful to print, Luther said, ‘Printing is the ultimate gift of God and the greatest one.’ Several scholars, in fact, think that print brought about a new intellectual atmosphere and helped spread the new ideas that led to the Reformation. 
+#### **New words** 
 Protestant Reformation – A sixteenth-century movement to reform the Catholic Church dominated by Rome. Martin Luther was one of the main Protestant reformers. Several traditions of anti-Catholic Christianity developed out of the movement 
 footer page number:160
-##### **3.3 Print and Dissent** 
+#### **3.3 Print and Dissent** 
 Print and popular religious literature stimulated many distinctive individual interpretations of faith even among little-educated working people. In the sixteenth century, Manocchio, a miller in Italy, began to read books that were available in his locality. He reinterpreted the message of the Bible and formulated a view of God and Creation that enraged the Roman Catholic Church. When the Roman Church began its **inquisition** to repress **heretical** ideas, Manocchio was hauled up twice and ultimately executed. The Roman Church, troubled by such effects of popular readings and questionings of faith, imposed severe controls over publishers and booksellers and began to maintain an Index of Prohibited Books from 1558 **.** 
 **_Fig. 10 – The macabre dance._** 
 _This sixteenth-century print shows how the fear of printing was dramatised in visual representations of the time. In this highly interesting woodcut the coming of print is associated with the end of the world. The interior of the printer’s workshop here is the site of a dance of death. Skeletal figures control the printer and his workers, define and dictate what is to be done and what is to be produced._ 
-##### **New words** 
-Inquisition – A former Roman Catholic court for identifying and punishing heretics 
-Heretical – Beliefs which do not follow the accepted teachings of the Church. In medieval times, heresy was seen as a threat to the right of the Church to decide on what should be believed and what should not. Heretical beliefs were severely punished 
-Satiety – The state of being fulfilled much beyond the point of satisfaction Seditious – Action, speech or writing that is seen as opposing  the government 
-###### **_Source A_** 
+#### **New words** 
+Inquisition – A former Roman Catholic court for identifying and punishing heretics Heretical – Beliefs which do not follow the accepted teachings of the Church. In medieval times, heresy was seen as a threat to the right of the Church to decide on what should be believed and what should not. Heretical beliefs were severely punished Satiety – The state of being fulfilled much beyond the point of satisfaction Seditious – Action, speech or writing that is seen as opposing  the government 
+##### **_Source A_** 
 ###### **Fear of the book** 
 Erasmus, a Latin scholar and a Catholic reformer, who criticised the excesses of Catholicism but kept his distance from Luther, expressed a deep anxiety about printing. He wrote in Adages (1508): 
 ‘To what corner of the world do they not fly, these swarms of new books? It may be that one here and there contributes something worth knowing, but the very multitude of them is hurtful to scholarship, because it creates a glut, and even in good things **satiety** is most harmful ... [printers] fill the world with books, not just trifling things (such as I write, perhaps), but stupid, ignorant, slanderous, scandalous, raving, irreligious and **seditious** books, and the number of them is such that even the valuable publications lose their value.’ 
-**_Source_** 
+### **_Source_** 
 ### **<mark>Discuss</mark>** 
 Write briefly why some people feared that the development of print could lead to the growth of dissenting ideas. 
 footer page number:161
@@ -1595,24 +1520,23 @@ Through the seventeenth and eighteenth centuries literacy rates went up in most 
 New forms of popular literature appeared in print, targeting new audiences. Booksellers employed pedlars who roamed around villages, carrying little books for sale. There were **almanacs** or ritual calendars, along with ballads and folktales. But other forms of reading matter, largely for entertainment, began to reach ordinary readers as well. In England, penny **chapbooks** were carried by petty pedlars known as chapmen, and sold for a penny, so that even the poor could buy them. In France, were the ‘Biliotheque Bleue’, which were low-priced small books printed on poor quality paper, and bound in cheap blue covers. Then there were the romances, printed on four to six pages, and the more substantial ‘histories’ which were stories about the past. Books were of various sizes, serving many different purposes and interests. 
 The periodical press developed from the early eighteenth century, combining information about current affairs with entertainment. Newspapers and journals carried information about wars and trade, as well as news of developments in other places. 
 Similarly, the ideas of scientists and philosophers now became more accessible to the common people. Ancient and medieval scientific texts were compiled and published, and maps and scientific diagrams were widely printed. When scientists like Isaac Newton began to publish their discoveries, they could influence a much wider circle of scientifically minded readers. The writings of thinkers such as Thomas Paine, Voltaire and Jean Jacques Rousseau were also widely printed and read. Thus their ideas about science, reason and rationality found their way into popular literature. 
-##### **New words** 
+#### **New words** 
 Denominations – Sub groups within a religion Almanac – An annual publication giving astronomical data, information about the movements of the sun and moon, timing of full tides and eclipses, and much else that was of importance in the everyday life of people Chapbook – A term used to describe pocketsize books that are sold by travelling pedlars called chapmen. These became popular from the time of the sixteenth-century print revolution 
-###### **_Box 2_** 
+##### **_Box 2_** 
 In 1791, a London publisher, James Lackington, wrote in his diary: 
 The sale of books in general has increased prodigiously within the last twenty years. The poorer sort of farmers and even the poor country people in general who before that period spent their winter evenings in relating stories of witches, ghosts, hobgoblins … now shorten the winter night by hearing their sons and daughters read them tales, romances, etc. If John goes to town with a load of hay, he is charged to be sure not to forget to bring home Peregrine Pickle’s Adventure … and when Dolly is sent to sell her eggs, she is commissioned to purchase The History of Joseph Andrews.’ 
 footer page number:162
-##### **4.1 ‘Tremble, therefore, tyrants of the world!’** 
+#### **4.1 ‘Tremble, therefore, tyrants of the world!’** 
 By the mid-eighteenth century, there was a common conviction that books were a means of spreading progress and enlightenment. Many believed that books could change the world,  liberate society from **despotism** and tyranny, and herald a time when reason and intellect would rule. Louise-Sebastien Mercier, a novelist in eighteenth-century France, declared: ‘The printing press is the most powerful engine of progress and public opinion is the force that will sweep despotism away.’ In many of Mercier’s novels, the heroes are transformed by acts of reading. They devour books, are lost in the world books create, and become enlightened in the process.  Convinced of the power of print in bringing enlightenment and destroying the basis of despotism, Mercier proclaimed: ‘Tremble, therefore, tyrants of the world! Tremble before the virtual writer!’ 
-##### **4.2 Print Culture and the French Revolution** 
+#### **4.2 Print Culture and the French Revolution** 
 Many historians have argued that print culture created the conditions within which French Revolution occurred. Can we make such a connection? 
-###### **_Source B_** 
+##### **_Source B_** 
 This is how Mercier describes the impact of the printed word, and the power of reading in one of his books: 
 ‘Anyone who had seen me reading would have compared me to a man dying of thirst who was gulping down some fresh, pure water … Lighting my lamp with extraordinary caution, I threw myself hungrily into the reading. An easy eloquence, effortless and animated, carried me from one page to the next without my noticing it. A clock struck off the hours in the silence of the shadows, and I heard nothing. My lamp began to run out of oil and produced only a pale light, but still I read on. I could not even take out time to raise the wick for fear of interrupting my pleasure. How those new ideas rushed into my brain! How my intelligence adopted them!’ 
-Quoted by Robert Darnton, The Forbidden BestSellers of Pre-Revolutionary France, 1995. 
-### **_Source_** 
+Quoted by Robert Darnton, The Forbidden BestSellers of Pre-Revolutionary France, 1995. **_Source_** 
 Three types of arguments have been usually put forward. 
 First: print popularised the ideas of the Enlightenment thinkers. Collectively, their writings provided a critical commentary on tradition, superstition and despotism. They argued for the rule of reason rather than custom, and demanded that everything be judged through the application of reason and rationality. They attacked the sacred authority of the Church and the despotic power of the state, thus eroding the legitimacy of a social order based on tradition. The writings of Voltaire and Rousseau were read widely; and those who read these books saw the world through new eyes, eyes that were questioning, critical and rational. 
-##### **New words** 
+#### **New words** 
 Despotism – A system of governance in which absolute power is exercised by an individual, unregulated by legal and constitutional checks 
 Second: print created a new culture of dialogue and debate. All values, norms and institutions were re-evaluated and discussed by a public that had become aware of the power of reason, and recognised the need to question existing ideas and beliefs. Within this public culture, new ideas of social revolution came into being. 
 Third: by the 1780s there was an outpouring of literature that mocked the royalty and criticised their morality. In the process, it raised 
@@ -1621,22 +1545,22 @@ questions about the existing social order. Cartoons and caricatures typically su
 How do we look at these arguments?  There can be no doubt that print helps the spread of ideas. But we must remember that people did not read just one kind of literature. If they read the ideas of Voltaire and Rousseau, they were also exposed to monarchical and Church propaganda. They were not influenced directly by everything they read or saw. They accepted some ideas and rejected others. They interpreted things their own way. Print did not directly shape their minds, but it did open up the possibility of thinking differently. 
 ### **<mark>Activity</mark>** 
 Imagine that you are a cartoonist in France before the revolution. Design a cartoon as it would have appeared in a pamphlet. 
-###### **_Fig. 11 – The nobility and the common people before the French Revolution_** _,_ **_a cartoon of the late eighteenth century._** 
+**_Fig. 11 – The nobility and the common people before the French Revolution_** _,_ **_a cartoon of the late eighteenth century._** 
 _The cartoon shows how the ordinary people – peasants, artisans and workers – had a hard time while the nobility enjoyed life and oppressed them. Circulation of cartoons like this one had an impact on the thinking of people before the revolution._ 
 ### **<mark>Discuss</mark>** 
 Why do some historians think that print culture created the basis for the French Revolution? 
 footer page number:164
 ### **5  The Nineteenth Century** 
 The nineteenth century saw vast leaps in mass literacy in Europe, bringing in large numbers of new readers among children, women and workers. 
-##### **5.1 Children, Women and Workers** 
+#### **5.1 Children, Women and Workers** 
 As primary education became compulsory from the late nineteenth century, children became an important category of readers. Production of school textbooks became critical for the publishing industry. A children’s press, devoted to literature for children alone, was set up in France in 1857. This press published new works as well as old fairy tales and folk tales. The Grimm Brothers in Germany spent years compiling traditional folk tales gathered from peasants. What they collected was edited before the stories were published in a collection in 1812.  Anything  that was considered unsuitable for children or would appear vulgar to the elites, was not included in the  published version.  Rural folk tales thus acquired a new form. In this way, print recorded old tales but also changed them. 
 Women became important as readers as well as writers. Penny magazines (see Fig. 12) were especially meant for women, as were manuals teaching proper behaviour and housekeeping. When novels began to be written in the nineteenth century, women were seen as important readers. Some of the bestknown novelists were women: Jane Austen, the Bronte sisters, George Eliot. Their writings became important in defining a new type of woman:  a person with will, strength of personality, determination and the power to think. 
 **_Fig. 12 – Frontispiece of_ Penny Magazine.** Penny Magazine _was published between 1832 and 1835 in England by the Society for the Diffusion of Useful Knowledge. It was aimed primarily at the working class._ 
-###### **_Box 3_** 
+##### **_Box 3_** 
 Lending libraries had been in existence from the seventeenth century onwards. In the nineteenth century, lending libraries in England became instruments for educating white-collar workers, artisans and lower-middle-class people. Sometimes, self-educated working class people wrote for themselves. After the working day was gradually shortened from the mid-nineteenth century, workers had some time for self-improvement and self-expression. They wrote political tracts and autobiographies in large numbers. 
 Thomas Wood, a Yorkshire mechanic, narrated how he would rent old newspapers and read them by firelight in the evenings as he could not afford candles. Autobiographies of poor people narrated their struggles to read against grim obstacles: the twentieth-century Russian revolutionary author Maxim Gorky’s My Childhood and My University provide glimpses of such struggles. 
 footer page number:165
-##### **5.2 Further Innovations** 
+#### **5.2 Further Innovations** 
 By the late eighteenth century, the press came to be made out of metal. Through the nineteenth century, there were a series of further innovations in printing technology. By the mid-nineteenth century, Richard M. Hoe of New York had perfected the power-driven cylindrical press. This was capable of printing 8,000 sheets per hour. This press was particularly useful for printing newspapers.  In the late nineteenth century, the offset press was developed which could print up to six colours at a time. From the turn of the twentieth century, electrically operated presses accelerated printing operations. A series of other developments followed. Methods of feeding paper improved, the quality of plates became better, automatic paper reels and photoelectric controls of the colour register were introduced. The accumulation of several individual mechanical improvements transformed the appearance of printed texts. 
 Printers and publishers continuously developed new strategies to sell their product. Nineteenth-century periodicals serialised important novels, which gave birth to a particular way of writing novels.  In the 1920s in England, popular works were sold in cheap series, called the Shilling Series. The dust cover or the book jacket is also a twentieth-century innovation. With the onset of the Great Depression in the 1930s, publishers feared a decline in book purchases. To sustain buying, they brought out cheap paperback editions. 
 ### **<mark>Activity</mark>** 
@@ -1645,42 +1569,39 @@ Look at Fig. 13. What impact do such advertisements have on the public mind? Do 
 footer page number:166
 ### **6  India and the World of Print** 
 Let us see when printing began in India and how ideas and information were written before the age of print. 
-##### **6.1 Manuscripts Before the Age of Print** 
+#### **6.1 Manuscripts Before the Age of Print** 
 India had a very rich and old tradition of handwritten manuscripts – in Sanskrit, Arabic, Persian, as well as in various vernacular languages. Manuscripts were copied on palm leaves or on handmade paper. Pages were sometimes beautifully illustrated. They would be either pressed between wooden covers or sewn together to ensure preservation. Manuscripts continued to be produced till well after the introduction of print, down to the late nineteenth century. 
 Manuscripts, however, were highly expensive and fragile. They had to be handled carefully, and they  could not be read easily as the 
 **_Fig. 14 – Pages from the_ Gita Govinda** **_of Jayadeva, eighteenth century._** _This is a palm-leaf handwritten manuscript in accordion format._ 
-**_Fig. 15 – Pages from the_ Diwan** **_of Hafiz, 1824._** 
-_Hafiz was a fourteenth-century poet whose collected works are known as_ Diwan _. Notice the beautiful calligraphy and the elaborate illustration and design. Manuscripts like this continued to be produced for the rich even after the coming of the letterpress._ 
+**_Fig. 15 – Pages from the_ Diwan** **_of Hafiz, 1824._** _Hafiz was a fourteenth-century poet whose collected works are known as_ Diwan _. Notice the beautiful calligraphy and the elaborate illustration and design. Manuscripts like this continued to be produced for the rich even after the coming of the letterpress._ 
 footer page number:167
 script was written in different styles. So manuscripts were not widely used in everyday life. Even though pre-colonial Bengal had developed an extensive network of village primary schools, students very often did not read texts. They only learnt to write. Teachers dictated portions of texts from memory and students wrote them down. Many thus became literate without ever actually reading any kinds of texts. 
-###### **_Fig. 16 – Pages from the Rigveda._** 
+**_Fig. 16 – Pages from the Rigveda._** 
 _Handwritten manuscripts continued to be produced in India till much after the coming of print. This manuscript was produced in the eighteenth century in the Malayalam script._ 
-##### **6.2 Print Comes to India** 
+#### **6.2 Print Comes to India** 
 The printing press first came to Goa with Portuguese missionaries in the mid-sixteenth century. Jesuit priests learnt Konkani and printed several tracts. By 1674, about 50 books had been printed in the Konkani and in Kanara languages. Catholic priests printed the first Tamil book in 1579 at Cochin, and in 1713 the first Malayalam book was printed by them. By 1710, Dutch Protestant missionaries had printed 32 Tamil texts, many of them translations of older works. 
 The English language press did not grow in India till quite late even though the English East India Company began to import presses from the late seventeenth century. 
 From 1780, James Augustus Hickey began to edit the _Bengal Gazette_ , a weekly magazine that described itself as ‘a commercial paper open to all, but influenced by none’. So it was private English enterprise, proud of its independence from colonial influence, that began English printing in India. Hickey published a lot of advertisements, including those that related to the import and sale of slaves. But he also published a lot of gossip about the Company’s senior officials in India. Enraged by this, Governor-General Warren Hastings persecuted Hickey, and encouraged the publication of officially sanctioned newspapers that could counter the flow of information that damaged the image of the colonial government. By the close of the eighteenth century, a number of newspapers and journals appeared in print. There were Indians, too, who began to publish Indian newspapers. The first to appear was the weekly _Bengal Gazette_ , brought out by Gangadhar Bhattacharya, who was close to Rammohun Roy. 
-###### **_Source C_** 
+##### **_Source C_** 
 As late as 1768, a William Bolts affixed a notice on a public building in Calcutta: 
 ‘To the Public: Mr. Bolts takes this method of informing the public that the want of a printing press in this city being of a great disadvantage in business ... he is going to give the best encouragement to any ... persons who are versed in the business of printing.’ 
-Bolts, however, left for England soon after and nothing came of the promise. 
-**_Source_** 
+Bolts, however, left for England soon after and nothing came of the promise. **_Source_** 
 footer page number:168
 ### **7  Religious Reform and Public Debates** 
 From the early nineteenth century, as you know, there were intense debates around religious issues. Different groups confronted the changes happening within colonial society in different ways, and offered a variety of new interpretations of the beliefs of different religions. Some criticised existing practices and campaigned for reform, while others countered the arguments of reformers. These debates were carried out in public and in print. Printed tracts and newspapers not only spread the new ideas, but they shaped the nature of the debate. A wider public could now participate in these public discussions and express their views. New ideas emerged through these clashes of opinions. 
 This was a time of intense controversies between social and religious reformers and the Hindu orthodoxy over matters like widow immolation, monotheism, Brahmanical priesthood and idolatry. In Bengal, as the debate developed, tracts and newspapers proliferated, circulating a variety of arguments. To reach a wider audience, the ideas were printed in the everyday, spoken language of ordinary people. Rammohun Roy published the _Sambad Kaumudi_ from 1821 and the Hindu orthodoxy commissioned the _Samachar Chandrika_ to oppose his opinions. From 1822, two Persian newspapers were published, _Jam-i-Jahan Nama_ and _Shamsul Akhbar_ . In the same year, a Gujarati newspaper, the _Bombay Samachar_ , made its appearance. 
 In north India, the **_ulama_** were deeply anxious about the collapse of Muslim dynasties. They feared that colonial rulers would encourage conversion, change the Muslim personal laws. To counter this, they used cheap lithographic presses, published Persian and Urdu translations of holy scriptures, and printed religious newspapers and tracts. The Deoband Seminary, founded in 1867, published thousands upon thousands of **_fatwas_** telling Muslim readers how to conduct themselves in their everyday lives, and explaining the meanings of Islamic doctrines. All through the nineteenth century, a number of Muslim sects and seminaries appeared, each with a different interpretation of faith, each keen on enlarging its following and countering the influence of its opponents. Urdu print helped them conduct these battles in public. 
 Among Hindus, too, print encouraged the reading of religious texts, especially in the vernacular languages. The first printed edition of 
-##### **New words** 
-Ulama – Legal scholars of Islam and the sharia ( a body of Islamic law) 
-Fatwa – A legal pronouncement on Islamic law usually given by a mufti (legal scholar) to clarify issues on which the law is uncertain 
+#### **New words** 
+Ulama – Legal scholars of Islam and the sharia ( a body of Islamic law) Fatwa – A legal pronouncement on Islamic law usually given by a mufti (legal scholar) to clarify issues on which the law is uncertain 
 footer page number:169
 the _Ramcharitmanas_ of Tulsidas, a sixteenth-century text, came out from Calcutta in 1810. By the mid-nineteenth century, cheap lithographic editions flooded north Indian markets. From the 1880s, the Naval Kishore Press at Lucknow and the Shri Venkateshwar Press in Bombay published numerous religious texts in vernaculars. In their printed and portable form, these could be read easily by the faithful at any place and time. They could also be read out to large groups of illiterate men and women. 
 Religious texts, therefore, reached a very wide circle of people, encouraging discussions, debates and controversies within and among different religions. 
 Print did not only stimulate the publication of conflicting opinions amongst communities, but it also connected communities and people in different parts of India. Newspapers conveyed news from one place to another, creating pan-Indian identities. 
-###### **_Source D_** 
+##### **_Source D_** 
 ###### **Why Newspapers?** 
 ‘Krishnaji Trimbuck Ranade inhabitant of Poona intends to publish a Newspaper in the Marathi Language with a view of affording useful information on every topic of local interest. It will be open for free discussion on subjects of general utility, scientific investigation and the speculations connected with the antiquities, statistics, curiosities, history and geography of the country and of the Deccan especially… the patronage and support of all interested in the diffusion of knowledge and Welfare of the People is earnestly solicited.’ 
-###### Bombay Telegraph and Courier, 6 January 1849 
+Bombay Telegraph and Courier, 6 January 1849 
 ‘The task of the native newspapers and political associations is identical to the role of the Opposition in the House of Commons in Parliament in England. That is of critically examining government policy to suggest improvements, by removing those parts that will not be to the benefit of the people, and also by ensuring speedy implementation. 
 These associations ought to carefully study the particular issues, gather diverse relevant information on the nation as well as on what are the possible and desirable improvements, and this will surely earn it considerable influence.’ Native Opinion, 3 April 1870. 
 **_Source_** 
@@ -1692,14 +1613,13 @@ By the end of the nineteenth century, a new visual culture was taking shape. Wit
 By the 1870s, caricatures and cartoons were being published in journals and newspapers, commenting on social and political issues. Some caricatures ridiculed the educated Indians’ fascination with Western tastes and clothes, while others expressed the fear of social change. There were imperial caricatures lampooning nationalists, as well as nationalist cartoons criticising imperial rule. 
 **_Fig. 17 – Raja Ritudhwaj rescuing Princess Madalsa from the captivity of demons, print by Ravi Varma._** _Raja Ravi Varma produced innumerable mythological paintings that were printed at the Ravi Varma Press._ 
 footer page number:171
-##### **8.1 Women and Print** 
+#### **8.1 Women and Print** 
 Lives and feelings of women began to be written in particularly vivid and intense ways. Women’s reading, therefore, increased enormously in middle-class homes.  Liberal husbands and fathers began educating their womenfolk at home, and sent them to schools when women’s schools were set up in the cities and towns after the mid-nineteenth century. Many journals began carrying writings by women, and explained why women should be educated. They also carried a syllabus and attached suitable reading matter which could be used for home-based schooling. 
 But not all families were liberal. Conservative Hindus believed that a literate girl would be widowed and Muslims feared that educated women would be corrupted by reading Urdu romances. Sometimes, rebel women defied such prohibition. We know the story of a girl in a conservative Muslim family of north India who secretly learnt to read and write in Urdu. Her family wanted her to read only the Arabic Quran which she did not understand. So she insisted on learning to read a language that was her own. In East Bengal, in the early nineteenth century, Rashsundari Debi, a young married girl in a very orthodox household, learnt to read in the secrecy of her kitchen. Later, she wrote her autobiography _Amar Jiban_ which was published in 1876. It was the first full-length autobiography published in the Bengali language. 
 Since social reforms and novels had already created a great interest in women’s lives and emotions, there was also an interest in what women would have to say about their own lives. From the 1860s, a few Bengali women like Kailashbashini Debi wrote books highlighting the experiences of women – about how women were imprisoned at home, kept in ignorance, forced to do hard domestic labour and treated unjustly by the very people they served. In the 1880s, in present-day Maharashtra, Tarabai Shinde and Pandita Ramabai wrote with passionate anger about the miserable lives of upper-caste Hindu women, especially widows. A woman in a Tamil novel expressed what reading meant to women who were so greatly confined by social regulations:  ‘For various reasons, my world is small … More than half my life’s happiness has come from books …’ 
 While Urdu, Tamil, Bengali and Marathi print culture had developed early, Hindi printing began seriously only from the 1870s. Soon, a large segment of it was devoted to the education of women. In 
-**_Fig. 18 – The cover page of_ Indian Charivari** **_._** _The_ Indian Charivari _was one of the many journals of caricature and satire published in the late nineteenth century._ 
-_Notice that the imperial British figure is positioned right at the centre. He is authoritative and imperial; telling the natives what is to be done. The natives sit on either side of him, servile and submissive. The Indians are being shown a copy of_ Punch _, the British journal of cartoons and satire. You can almost hear the British master say – ‘This is the model, produce Indian versions of it.’_ 
-###### **_Source E_** 
+**_Fig. 18 – The cover page of_ Indian Charivari** **_._** _The_ Indian Charivari _was one of the many journals of caricature and satire published in the late nineteenth century. Notice that the imperial British figure is positioned right at the centre. He is authoritative and imperial; telling the natives what is to be done. The natives sit on either side of him, servile and submissive. The Indians are being shown a copy of_ Punch _, the British journal of cartoons and satire. You can almost hear the British master say – ‘This is the model, produce Indian versions of it.’_ 
+##### **_Source E_** 
 In 1926, Begum Rokeya Sakhawat Hossein, a noted educationist and literary figure, strongly condemned men for withholding education from women in the name of religion as she addressed the Bengal Women’s Education Conference: 
 ‘The opponents of female education say that women will become unruly … Fie! They call themselves Muslims and yet go against the basic tenet of Islam which gives Women an equal right to education. If men are not led astray once educated, why should women?’ 
 **_Source_** 
@@ -1707,13 +1627,14 @@ footer page number:172
 the early twentieth century, journals, written for and sometimes edited by women, became extremely popular. They discussed issues like women’s education, widowhood, widow remarriage and the national movement. Some of them offered household and fashion lessons to women and brought entertainment through short stories and serialised novels. 
 In Punjab, too, a similar folk literature was widely printed from the early twentieth century. Ram Chaddha published the fast-selling _Istri Dharm Vichar_ to teach women how to be obedient wives. The Khalsa Tract Society published cheap booklets with a similar message. Many of these were in the form of dialogues about the qualities of a good woman. 
 In Bengal, an entire area in central Calcutta – the Battala – was devoted to the printing of popular books. Here you could buy cheap editions of religious tracts and scriptures, as well as literature that was considered obscene and scandalous. By the late nineteenth century, a lot of these books were being profusely illustrated with woodcuts and coloured lithographs. Pedlars took the Battala publications to homes, enabling women to read them in their leisure time. 
-**_Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century._** 
+###### **_Fig. 19 – Ghor Kali (The End of the World), coloured woodcut, late nineteenth century._** 
 _The artist’s vision of the destruction of proper family relations. Here the husband is totally dominated by his wife who is perched on his shoulder. He is cruel towards his mother, dragging her like an animal, by the noose._ 
 **_Fig. 20 – An Indian couple, black and white woodcut._** 
 _The image shows the artist’s fear that the cultural impact of the West has turned the family upside down. Notice that the man is playing the veena while the woman is smoking a hookah. The move towards women’s education in the late nineteenth century created anxiety about the breakdown of traditional family roles._ 
 footer page number:173
-**_Fig. 21 – A European couple sitting on chairs, nineteenth-century woodcut._** _The picture suggests traditional family roles. The Sahib holds a liquor bottle in his hand while the Memsahib plays the violin._ 
-##### **8.2 Print and the Poor People** 
+**_Fig. 21 – A European couple sitting on chairs, nineteenth-century woodcut._** 
+_The picture suggests traditional family roles. The Sahib holds a liquor bottle in his hand while the Memsahib plays the violin._ 
+#### **8.2 Print and the Poor People** 
 Very cheap small books were brought to markets in nineteenth-century Madras towns and sold at crossroads, allowing poor people travelling to markets to buy them. Public libraries were set up from the early twentieth century, expanding the access to books. These libraries were located mostly in cities and towns, and at times in prosperous villages. For rich local patrons, setting up a library was a way of acquiring prestige. 
 From the late nineteenth century, issues of caste discrimination began to be written about in many printed tracts and essays. Jyotiba Phule, the Maratha pioneer of ‘low caste’ protest movements, wrote about the injustices of the caste system in his _Gulamgiri_ (1871). In the twentieth century, B.R. Ambedkar in Maharashtra and E.V. Ramaswamy Naicker in Madras, better known as Periyar, wrote powerfully on caste and their writings were read by people all over India. Local protest movements and sects also created a lot of popular journals and tracts criticising ancient scriptures and envisioning a new and just future. 
 ### **<mark>Activity</mark>** 
@@ -1730,15 +1651,14 @@ Before 1798, the colonial state under the East India Company was not too concern
 By the 1820s, the Calcutta Supreme Court passed certain regulations to control press freedom and the Company began encouraging publication of newspapers that would celebrate Britsh rule. In 1835, faced with urgent petitions by editors of English and vernacular newspapers, Governor-General Bentinck agreed to revise press laws. Thomas Macaulay, a liberal colonial official, formulated new rules that restored the earlier freedoms. 
 After the revolt of 1857, the attitude to freedom of the press changed. Enraged Englishmen demanded a clamp down on the ‘native’ press. As vernacular newspapers became assertively nationalist, the colonial government began debating measures of stringent control.  In 1878, the Vernacular Press Act was passed, modelled on the Irish Press Laws. It provided the government with extensive rights to censor reports and editorials in the vernacular press. From now on the government kept regular track of the vernacular newspapers published in different provinces. When a report was judged as seditious, the newspaper was warned, and if the warning was ignored, the press was liable to be seized and the printing machinery confiscated. 
 Despite repressive measures, nationalist newspapers grew in numbers in all parts of India. They reported on colonial misrule and encouraged nationalist activities. Attempts to throttle nationalist criticism provoked militant protest. This in turn led to a renewed cycle of persecution and protests. When Punjab revolutionaries were deported in 1907, Balgangadhar Tilak wrote with great sympathy about them in his _Kesari_ . This led to his imprisonment in 1908, provoking in turn widespread protests all over India. 
-###### **_Box 4_** 
+##### **_Box 4_** 
 Sometimes, the government found it hard to find candidates for editorship of loyalist papers. When Sanders, editor of the Statesman that had been founded in 1877, was approached, he asked rudely how much he would be paid for suffering the loss of freedom. The Friend of India refused a government subsidy, fearing that this would force it to be obedient to government commands. 
-###### **_Box 5_** 
+##### **_Box 5_** 
 The power of the printed word is most often seen in the way governments seek to regulate and suppress print. The colonial government kept continuous track of all books and newspapers published in India and passed numerous laws to control the press. 
 During the First World War, under the Defence of India Rules, 22 newspapers had to furnish securities. Of these, 18 shut down rather than comply with government orders. The Sedition Committee Report under Rowlatt in 1919 further strengthened controls that led to imposition of penalties on various newspapers. At the outbreak of the Second World War, the Defence of India Act was passed, allowing censoring of reports of war-related topics. All reports about the Quit India movement came under its purview. In August 1942, about 90 newspapers were suppressed. 
-###### **_Source F_** 
+##### **_Source F_** 
 ###### **Gandhi said in 1922:** 
-‘Liberty of speech ... liberty of the press ... freedom of association. The Government of India is now seeking to crush the three powerful vehicles of expressing and cultivating public opinion. The fight for Swaraj, for Khilafat ... means a fight for this threatened freedom before all else ...’ 
-**_Source_** 
+‘Liberty of speech ... liberty of the press ... freedom of association. The Government of India is now seeking to crush the three powerful vehicles of expressing and cultivating public opinion. The fight for Swaraj, for Khilafat ... means a fight for this threatened freedom before all else ...’ **_Source_** 
 footer page number:175
 ### **<mark>Write in brief</mark>** 
 1. Give reasons for the following: 
@@ -1747,10 +1667,10 @@ footer page number:175
    - c) The Roman Catholic Church began keeping an Index of Prohibited books from the mid-sixteenth century. 
    - d) Gandhi said the fight for Swaraj is a fight for liberty of speech, liberty of the press, and freedom of association. 
 2. Write short notes to show what you know about: 
-   - a) The Gutenberg Press 
-   - b) Erasmus’s idea of the printed book 
+   - a) The Gutenberg Press b) Erasmus’s idea of the printed book 
    - c) The Vernacular Press Act 
-3. What did the spread of print culture in nineteenth century India mean to: a) Women b) The poor c) Reformers 
+3. What did the spread of print culture in nineteenth century India mean to: 
+   - a) Women b) The poor c) Reformers 
 ### **<mark>Discuss</mark>** 
 1. Why did some people in eighteenth century Europe think that print culture would bring enlightenment and end despotism? 
 2. Why did some people fear the effect of easily available printed books? Choose one example from Europe and one from India. 
@@ -1762,16 +1682,19 @@ Project
 footer page number:176
 # **Novels, Society and History** 
 In the previous chapter you read about the rise of print culture and how new forms of communication reshaped the way people thought about themselves or related to each other. You also saw how print culture created the possibility of new forms of literature. In this chapter we will study the history of one such form – the novel – a history that is closely connected to the making of modern ways of thinking. We will first look at the history of the novel in the West, and then see how this form developed in some of the regions of India. As you will see, despite their differences, there were many commonalites of focus between novels written in different parts of the world. 
-### **1 The Rise o f the Novel** 
-The novel is a modern form of literature. It is born from print, a mechanical invention. 
+### **1 The Rise o f the Novel** The novel is a modern form of literature. It is born from print, a mechanical invention. 
 We cannot think of the novel without the printed book. In ancient times, as you have seen (Chapter 7), manuscripts were handwritten. These circulated among very few people. In contrast, because of being printed, novels were widely read and became popular very quickly. At this time big cities like London were growing rapidly and becoming connected to small towns and rural areas through print and improved communications. Novels produced a number of common interests among their scattered and varied readers. As readers were drawn into the story and identified with the lives of fictitious characters, they could think about issues such as the relationship between love and marriage, the proper conduct for men and women, and so on. 
 The novel first took firm root in England and France. Novels began to be written from the seventeenth century, but they really flowered from the eighteenth century. New groups of lower-middle-class people such as shopkeepers and clerks, along with the traditional aristocratic and **gentlemanly classes** in England and France now formed the new readership for novels. 
 As readership grew and the market for books expanded, the earnings of authors increased. This freed them from financial dependence on the patronage of aristocrats, and gave them independence to experiment with different literary styles.  Henry Fielding, a novelist of the early eighteenth century, claimed he was ‘the founder of a new province of writing’ where he could make his own laws. The novel allowed  flexibility in the form of writing. Walter Scott remembered and collected popular Scottish ballads which he used in his historical novels about the wars between Scottish clans. The **epistolary** novel, on the other hand, used the private and personal form of letters to tell its story. Samuel Richardson’s _Pamela_ ,  written in the eighteenth century, told much of its story through an exchange of letters between two lovers. These letters tell the reader of the hidden conflicts in the heroine’s mind. 
-##### **1.1 The Publishing Market** 
+#### **1.1 The Publishing Market** 
 For a long time the publishing market excluded the poor. Initially, novels did not come cheap. Henry Fielding’s _Tom Jones_ (1749) was 
-##### **New words** 
-Gentlemanly classes – People who claimed noble birth and high social position. They were supposed to set the standard for proper behaviour 
-Epistolary – Written in the form of a series of letters 
+#### **New words** 
+|Gentlemanly classes – People who claimed|
+|---|
+|noble birth and high social position. They were|
+|supposed to set the standard for proper<br>behaviour|
+|Epistolary –<br>letters|Written in the form of a series of|
+|---|---|
 ```
 footer page number:178
 ```
@@ -1780,15 +1703,14 @@ But soon, people had easier access to books with the introduction of circulating
 In 1836 a notable event took place when Charles Dickens’s _Pickwick Papers_ was **serialised** in a magazine. Magazines were attractive since they were illustrated and cheap. Serialisation allowed readers to relish the suspense, discuss the characters of a novel and live for weeks with their stories – like viewers of television soaps today! 
 **_Fig. 2 – Library notice._** _Libraries were well publicised._ 
 **_Fig. 1 – Cover page of_ Sketches by ‘Boz’.** _Charles Dickens’s first publication was a collection of journalistic essays entitled_ Sketches by ‘Boz’ _(1836)._ 
-##### **New words** 
+#### **New words** 
 Serialised – A format in which the story is published in instalments, each part in a new issue of a journal 
 **_Fig. 3 – Cover page of_ All The Year Round.** _The most important feature of the magazine_ All the Year Round, _edited by Charles Dickens, was his serialised novels. This particular issue begins with one._ 
 ```
 footer page number:179
 ```
-**_Fig. 4 – Leo Tolstoy (1828-1910)._** 
-_Tolstoy was a famous Russian novelist who wrote extensively on rural life and community._ 
-##### **1.2 The World of the Novel** 
+**_Fig. 4 – Leo Tolstoy (1828-1910)._** _Tolstoy was a famous Russian novelist who wrote extensively on rural life and community._ 
+#### **1.2 The World of the Novel** 
 More than other forms of writing which came before, novels are about ordinary people. They do not focus on the lives of great people or actions that change the destinies of states and empires. Instead, they are about the everyday life of common people. 
 In the nineteenth century, Europe entered the industrial age. Factories came up, business profits increased and the economy grew. But at the same time, workers faced problems. Cities expanded in an unregulated way and were filled with overworked and underpaid workers. The unemployed poor roamed the streets for jobs, and the homeless were forced to seek shelter in workhouses. The growth of industry was accompanied by an economic philosophy which celebrated the pursuit of profit and undervalued the lives of workers. Deeply critical of these developments, novelists such as Charles Dickens wrote about the terrible effects of industrialisation on people’s lives and characters. His novel _Hard Times_ (1854) describes Coketown, a fictitious industrial town, as a grim place full of machinery, smoking chimneys, rivers polluted purple and buildings that all looked the same. Here workers are known as ‘hands’, as if they had no identity other than as operators of machines. Dickens criticised not just the greed for profits but also the ideas that reduced human beings into simple instruments of production. 
 ### **<mark>Discuss</mark>** 
@@ -1810,7 +1732,7 @@ In other novels too, Dickens focused on the terrible conditions of urban life un
 **_Fig. 6_** _–_ **_A hungry Oliver asks for more food while other children at the workhouse look on with fear, illustration in_ Oliver Twist** **_._** 
 **_Fig. 7 – Emile Zola_ ,** **_painting by Edward Manet, 1868._** 
 _Manet’s portrait of the French author Zola, showing the novelist at his worktable in an intimate and thoughtful relationship with books._ 
-##### **1.3 Community and Society** 
+#### **1.3 Community and Society** 
 The vast majority of readers of the novel lived in the city. The novel created in them a feeling of connection with the fate of rural communities. The nineteenth-century British novelist Thomas Hardy, for instance, wrote about traditional rural communities of England 
 ```
 footer page number:181
@@ -1818,10 +1740,10 @@ footer page number:181
 that were fast vanishing. This was actually a time when large farmers fenced off land, bought machines and employed labourers to produce for the market. The old rural culture with its independent farmers was dying out. We get a sense of this change in Hardy’s _Mayor of Casterbridge_ (1886). It is about Michael Henchard, a successful grain merchant, who becomes the mayor of the farming town of Casterbridge. He is an independent-minded man who follows his own style in conducting business. He can also be both unpredictably generous and cruel with his employees. Consequently, he is no match for his manager and rival Donald Farfrae who runs his business on efficient managerial lines and is well regarded for he is smooth and even-tempered with everyone. We can see that Hardy mourns the loss of the more personalised world that is disappearing, even as he is aware of its problems and the advantages of the new order. 
 **_<mark>Fig. 8 – Thomas Hardy (1840-1928).</mark>_** 
 The novel uses the **vernacular** , the language that is spoken by common people. By coming closer to the different spoken languages of the people, the novel produces the sense of a shared world between diverse people in a nation. Novels also draw from different styles of  language. A novel may take a classical language and combine it with the language of the streets and make them all a part of the vernacular that it uses. Like the nation, the novel brings together many cultures. 
-##### **1.4 The New Woman** 
+#### **1.4 The New Woman** 
 The most exciting element of the novel was the involvement of women. The eighteenth century saw the middle classes become more prosperous. Women got more leisure to read as well as write novels. And novels began exploring the world of women – their emotions and identities, their experiences and problems. 
 Many novels were about domestic life – a theme about which women were allowed to speak with authority. They drew upon their experience, wrote about family life and earned public recognition. 
-##### **New words** 
+#### **New words** 
 Vernacular – The normal, spoken form of a language rather than the formal, literary form 
 ```
 footer page number:182
@@ -1834,19 +1756,18 @@ footer page number:183
 The novels of Jane Austen give us a glimpse of the world of women in genteel rural society in early-nineteenth-century Britain. They make us think about a society which encouraged women to look for ‘good’ marriages and find wealthy or propertied husbands. The first sentence of Jane Austen’s _Pride and Prejudice_ states: ‘It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.’ This observation allows us to see the behaviour of the main characters, who are preoccupied with marriage and money, as typifying Austen’s society. 
 But women novelists did not simply popularise the domestic role of women. Often their novels dealt with women who broke established norms of society before adjusting to them. Such stories allowed women readers to sympathise with rebellious actions. In Charlotte Bronte’s _Jane Eyre,_ published in 1874, young Jane is shown as independent and assertive. While girls of her time were expected to be quiet and well behaved, Jane at the age of ten protests against the hypocrisy of her elders with startling bluntness. She tells her 
 **_Fig. 11 – Jane Austen (1775-1817)._** 
-**_Fig. 12 – The marriage contract, William Hogarth (1697-1764)._** 
-_As you can see, the two men in the foreground are busy with the signing of the marriage contract while the woman stays in the background._ 
+**_Fig. 12 – The marriage contract, William Hogarth (1697-1764)._** _As you can see, the two men in the foreground are busy with the signing of the marriage contract while the woman stays in the background._ 
 ```
 footer page number:184
 ```
 Aunt who is always unkind to her: ‘People think you a good woman, but you are bad ... You are deceitful! I will never call you aunt as long as I live.’ 
-###### `Box 1` 
+##### `Box 1` 
 ###### **Women novelists** 
 George Eliot (1819-1880) was the pen-name of Mary Ann Evans. A very popular novelist, she believed that novels gave women a special opportunity to express themselves freely. Every woman could see herself as capable of writing fiction: 
 ‘Fiction is a department of literature in which women can, after their kind, fully equal men … No educational restrictions can shut women from the materials of fiction, and there is no species of art that is so free from rigid requirements.’ 
 **_<mark>Fig. 13 – Charlotte Bronte (1816-1855).</mark>_** 
 George Eliot, ‘Silly novels by lady novelists’, 1856. 
-##### **1.5 Novels for the Young** 
+#### **1.5 Novels for the Young** 
 Novels for young boys idealised a new type of man:  someone who was powerful, assertive, independent and daring. Most of these novels were full of adventure set in places remote from Europe. The colonisers appear heroic and honourable – confronting ‘native’ peoples and strange surroundings, adapting to native life as well as changing it, colonising territories and then developing nations there. Books like R.L. Stevenson’s _Treasure Island_ (1883) or Rudyard Kipling’s _Jungle Book_ (1894) became great hits. 
 G.A. Henty’s historical adventure novels for boys were also wildly popular during the height of the British empire. They aroused the excitement and adventure of conquering strange lands. They were set in Mexico, Alexandria, Siberia and many other countries. They were always about young boys who witness grand historical events, get involved in some military action and show what they called ‘English’ courage. 
 Love stories written for adolescent girls also first became popular in this period, especially in the US, notably _Ramona_ (1884) by Helen Hunt Jackson and a series entitled _What Katy Did_ (1872) by Sarah Chauncey Woolsey, who wrote under the pen-name Susan Coolidge. 
@@ -1859,7 +1780,7 @@ In Under Drake’s Flag (1883) two young Elizabethan adventurers face their appa
 ```
 footer page number:185
 ```
-##### **1.6 Colonialism and After** 
+#### **1.6 Colonialism and After** 
 The novel originated in Europe at a time when it was colonising the rest of the world. The early novel contributed to colonialism by making the readers feel they were part of a superior community of fellow colonialists. The hero of Daniel Defoe’s _Robinson Crusoe_ (1719) is an adventurer and slave trader. Shipwrecked on an island, Crusoe treats coloured people not as human beings equal to him, but as inferior creatures. He rescues a ‘native’ and makes him his slave. He does not ask for his name but arrogantly gives him the name Friday. But at the time, Crusoe’s behaviour was not seen as unacceptable or odd, for most writers of the time saw colonialism as natural. Colonised people were seen as primitive and barbaric, less than human; and colonial rule was considered necessary to civilise them, to make them fully human. It was only later, in the twentieth century, that writers like Joseph Conrad (1857-1924) wrote novels that showed the darker side of colonial occupation. 
 The colonised, however, believed that the novel allowed them to explore their own identities and problems, their own national concerns. Let us see how the novel became popular in India and what significance it had for society. 
 ```
@@ -1875,7 +1796,7 @@ Box 3
 ```
 Not all Marathi novels were realistic. Naro Sadashiv Risbud used a highly ornamental style in his Marathi novel Manjughosha (1868). This novel was filled with amazing events. Risbud had a reason behind his choice of style. He said: 
 ‘Because of our attitude to marriage and for several other reasons one finds in the lives of the Hindus neither interesting views nor virtues … If we write about things that we experience daily there would be nothing enthralling about them, so that if we set out to write an entertaining book we are forced to take up with the marvellous.’ 
-##### **2.1 The Novel in South India** 
+#### **2.1 The Novel in South India** 
 Novels began appearing in south Indian languages during the period of colonial rule. Quite a few early novels came out of attempts to translate English novels into Indian languages. For example, O. Chandu Menon, a subjudge from Malabar, tried to translate an English novel called _Henrietta Temple_ written by Benjamin Disraeli into Malayalam. But he quickly realised that his readers in Kerala were not familiar with the way in which the characters in English novels lived:  their clothes, ways of speaking, and manners were unknown to them. They would find a direct translation of an English novel dreadfully boring. So, he gave up this idea and wrote instead a story in Malayalam in the ‘manner of English novel books’. This delightful novel called _Indulekha_ , published in 1889, was the first modern novel in Malayalam. 
 **_Fig. 14 – Chandu Menon (1847-1899)._** 
 ```
@@ -1884,7 +1805,7 @@ footer page number:187
 The case of Andhra Pradesh was strikingly similar. Kandukuri Viresalingam (1848-1919) began translating Oliver Goldsmith’s _Vicar of Wakefield_ into Telugu. He abandoned this plan for similar reasons and instead wrote anoriginal Telugu novel called _Rajasekhara Caritamu_ in 1878. 
 **_Fig. 15 – Image from_ Pickwick Abroad.** _A drawing from the book_ Pickwick Abroad _written by G.W.M. Reynolds._ 
 _Minor nineteenth-century English novelists like Reynolds, F. Marion Crawford and Marie Corelli were hugely popular in colonial India. Their novels – which were historical romances, adventure stories and sensation novels – were easily available and were translated and ‘adapted’ into several Indian languages. Reynolds’s_ Pickwick Abroad (1839) _was more popular in India than Dickens’s original_ Pickwick Papers (1837) _._ 
-##### **2.2 The Novel in Hindi** 
+#### **2.2 The Novel in Hindi** 
 In the north, Bharatendu Harishchandra, the pioneer of modern Hindi literature, encouraged many members of his circle of poets and writers to recreate and translate novels from other languages. Many novels were actually translated and adapted from English and Bengali under his influence, but the first proper modern novel was written by Srinivas Das of Delhi. 
 Srinivas Das’s novel, published in 1882, was titled _Pariksha-Guru_ (The Master Examiner). It cautioned young men of well-to-do families against the dangerous influences of bad company and consequent loose morals. 
 _Pariksha-Guru_ reflects the inner and outer world of the newly emerging middle classes. The characters in the novel are caught in the difficulty of adapting to colonised society and at the same time preserving 
@@ -1895,7 +1816,7 @@ their own cultural identity. The world of colonial modernity seems to be both fr
 In the novel we see the characters attempting to bridge two different worlds through their actions: they take to new agricultural technology, modernise trading practices, change the use of Indian languages, making them capable of transmitting both Western sciences and Indian wisdom. The young are urged to cultivate the ‘healthy habit’ of reading the newspapers. But the novel emphasises that all this must be achieved without sacrificing the traditional values of the middle-class household. With all its good intentions, _ParikshaGuru_ could not win many readers, as it was perhaps too moralising in its style. 
 The writings of Devaki Nandan Khatri created a novel-reading public in Hindi. His best-seller, _Chandrakanta_ – a romance with dazzling elements of fantasy – is believed to have contributed immensely in popularising the Hindi language and the Nagari script among the educated classes of those times. Although it was apparently written purely for the ‘pleasure of reading’, this novel also gives some interesting insights into the fears and desires of its reading public. 
 It was with the writing of Premchand that the Hindi novel achieved excellence. He began writing in Urdu and then shifted to Hindi, remaining an immensely influential writer in both languages. He drew on the traditional art of _kissa-goi_ (storytelling).  Many critics think that his novel _Sewasadan_ (The Abode of Service), published in 1916, lifted the Hindi novel from the realm of fantasy, moralising and simple entertainment to a serious reflection on the lives of ordinary people and social issues. _Sewasadan_ deals mainly with the poor condition of women in society. Issues like child marriage and dowry are woven into the story of the novel.  It also tells us about the ways in which the Indian upper classes used whatever little opportunities they got from colonial authorities to govern themselves. 
-##### **2.3 Novels in Bengal** 
+#### **2.3 Novels in Bengal** 
 In the nineteenth century, the early Bengali novels lived in two worlds. Many of these novels were located in the past, their characters, events 
 ### **<mark>Discuss</mark>** 
 ```
@@ -1912,29 +1833,26 @@ footer page number:189
 ```
 and love stories based on historical events. Another group of novels depicted the inner world of domestic life in contemporary settings. Domestic novels frequently dealt with the social problems and romantic relationships between men and women. 
 The old merchant elite of Calcutta patronised public forms of entertainment such as _kabirlarai_ (poetry contests), musical soirees and dance performances. In contrast, the new bhadralok found himself at home in the more private world of reading novels. Novels were read individually. They could also be read in select groups. Sometimes the household of the great Bangla novelist Bankim Chandra Chattopadhyay would host a _jatra_ in the courtyard where members of the family would be gathered. In Bankim’s room, however, a group of literary friends would collect to read, discuss and judge literary works. Bankim read out _Durgeshnandini_ (1865), his first novel, to such a gathering of people who were stunned to realise that the Bengali novel had achieved excellence so quickly. 
-_–_ **_Fig. 16 Bankim Chandra  Chattopadhyay (1838-1894)._** _Bankim’s hands on the book indicates how writing was the basis of his social position and authority._ 
+**_Fig. 16_** _–_ **_Bankim Chandra  Chattopadhyay (1838-1894)._** _Bankim’s hands on the book indicates how writing was the basis of his social position and authority._ 
 Besides the ingenious twists and turns of the plot and the suspense, the novel was also relished for its language. The prose style became a new object of enjoyment. Initially the Bengali novel used a colloquial style associated with urban life. It also used _meyeli,_ the language associated with women’s speech. This style was quickly replaced by Bankim’s prose which was Sanskritised but also contained a more vernacular style. 
-```
-Box 5
-```
+##### `Box 5` 
 ###### **The Oriya novel** 
 In 1877-78, Ramashankar Ray, a dramatist, began serialising the first Oriya novel, Saudamani. But he could not complete it. Within thirty years, however, Orissa produced a major novelist in Fakir Mohon Senapati (1843-1918). The title of his novel Chaa Mana Atha Guntha (1902) translates as six acres and thirty-two decimals of land. It announces a new kind of novel that will deal with the question of land and its possession. It is the story of Ramchandra Mangaraj, a landlord’s manager who cheats his idle and drunken master and then eyes the plot of fertile land owned by Bhagia and Shariya, a childless weaver couple. Mangaraj fools this couple and puts them into his debt so that he can take over their land. This pathbreaking work showed that  the novel could make rural issues an important part of urban preoccupations. In writing this novel, Fakir Mohon anticipated a host of writers in Bengal and elsewhere. 
 The novel rapidly acquired popularity in Bengal. By the twentieth century, the power of telling stories in simple language made Sarat Chandra Chattopadhyay (1876-1938) the most popular novelist in Bengal and probably in the rest of India. 
-_–_ **_Fig. 17 The temple and the drawing room._** 
+**_Fig. 17_** _–_ **_The temple and the drawing room._** 
 _On the right is the temple where the family and others would gather and on the left is the drawing room where Bankim would entertain select friends to discuss new literary works. Note that the two spaces – the traditional and the modern – are next to each other, indicating the split lifestyle of most intellectuals in colonial India._ 
 ```
 footer page number:190
 ```
 ### **3  Novels in the Colonial World** 
 If we follow the history of the novel in different parts of India we can see many regional peculiarities. But there were also recurring patterns and common concerns. What inspired the authors to write novels? Who read the novels? How did the culture of reading develop? How did the novels grapple with the problems of societal change within a colonial society? What kind of a world did novels open up for the readers?  Let us explore some of these questions by focusing primarily on the writings of three authors from different regions: Chandu Menon, Bankim Chandra Chattopadhyay and Premchand. 
-##### **3.1 Uses of the Novel** 
+#### **3.1 Uses of the Novel** 
 Colonial administrators found ‘vernacular’ novels a valuable source of information on native life and customs. Such information was useful for them in governing Indian society, with its large variety of communities and castes. As outsiders, the British knew little about life inside Indian households. The new novels in Indian languages often had descriptions of domestic life. They showed how people dressed, their forms of religious worship, their beliefs and practices, and so on. Some of these books were translated into English, often by British administrators or Christian missionaries. 
 Indians used the novel as a powerful medium to criticise what they considered defects in their society and to suggest remedies. Writers like Viresalingam used the novel mainly to propagate their ideas about society among a wider readership. 
 Novels also helped in establishing a relationship with the past. Many of them told thrilling stories of adventures and intrigues set in the past. Through glorified accounts of the past, these novels helped in creating a sense of national pride among their readers _._ 
 At the same time, people from all walks of life could read novels so long as they shared a common language. This helped in creating a sense of collective belonging on the basis of one’s language. 
 You would have noticed that people living in different regions speak the same language in different ways – sometimes they use different words for the same thing; sometimes the same word is pronounced differently. With the coming of novels, such variations entered the 
-**_Fig. 18 –  Cover page of the novel_ Indirabai.** 
-_Written at the end of the nineteenth century,_ Indirabai _continues to be popular and is regularly reprinted. This is the cover of a recent reprint._ 
+**_Fig. 18 –  Cover page of the novel_ Indirabai.** _Written at the end of the nineteenth century,_ Indirabai _continues to be popular and is regularly reprinted. This is the cover of a recent reprint._ 
 ```
 Box 6
 ```
@@ -1943,10 +1861,11 @@ Many early novels carried a clear message of social reform. For example, in Indi
 ```
 footer page number:191
 ```
+##### `Box 7` 
 The most popular historical novelist in Tamil was R. Krishnamurthy who wrote under the penname ‘Kalki’. He was an active participant in the freedom movement and the editor of the widely read Tamil magazines Anandavikatan and Kalki. Written in simple language and full of heroism, adventure and suspense, Kalki’s novels captivated the Tamil-reading public of an entire generation. 
 **_Fig. 19 – A page from the novel_ Ponniyin Selvan** **_, written by Kalki and serialised in the magazine_ Kalki** **_, 1951._** 
 world of print for the first time. The way characters spoke in a novel began to indicate their region, class or caste. Thus novels made their readers familiar with the ways in which people in other parts of their land spoke their language _._ 
-##### **3.2 The Problem of Being Modern** 
+#### **3.2 The Problem of Being Modern** 
 Although they were about imaginary stories, novels often spoke to their readers about the real world. But novels did not always show things exactly as they were in reality. Sometimes, they presented a vision of how things ought to be. Social novelists often created heroes and heroines with ideal qualities, who their readers could admire and imitate. How were these ideal qualities defined? In many novels written during the colonial period, the ideal person successfully deals with one of the central dilemmas faced by colonial subjects: how to be modern without rejecting tradition, how to accept ideas coming from the West without losing one’s identity. 
 Chandu Menon portrayed Indulekha as a woman of breathtaking beauty, high intellectual abilities, artistic talent, and with an education in English and Sanskrit. Madhavan, the hero of the novel, was also presented in ideal colours. He was a member of the newly English-educated class of Nayars from the University of Madras. 
 ```
@@ -1954,12 +1873,11 @@ footer page number:192
 ```
 He was also a ‘first-rate Sanskrit scholar’. He dressed in Western clothes. But, at the same time, he kept a long tuft of hair, according to the Nayar custom. 
 The heroes and heroines in most of the novels were people who lived in the modern world. Thus they were different from the ideal or mythological characters of the earlier poetic literature of India _._ Under colonial rule _,_ many of the English-educated class found new Western ways of living and thinking attractive. But they also feared that a wholesale adoption of Western values would destroy their traditional ways of living. Characters like Indulekha and Madhavan showed readers how Indian and foreign lifestyles could be brought together in an ideal combination. 
-##### **3.3 Pleasures of Reading** 
+#### **3.3 Pleasures of Reading** 
 As elsewhere in the world, in India too, the novel became a popular medium of entertainment among the middle class. The circulation of printed books allowed people to amuse themselves in new ways. Picture books, translations from other languages, popular songs sometimes composed on contemporary events, stories in newspapers and magazines – all these offered new forms of entertainment. Within this new culture of print, novels soon became immensely popular. 
 In Tamil, for example, there was a flood of popular novels in the early decades of the twentieth century. Detective and mystery novels often had to be printed again and again to meet the demand of readers: some of them were reprinted as many as twenty-two times! 
 The novel also assisted in the spread of silent reading. We are so used to reading in silence that it is difficult for us to think that this practice was not very common in the past. As late as the nineteenth century and perhaps even in the early twentieth century, written texts were often read aloud for several people to hear. Sometimes novels were also read in this way, but in general novels encouraged reading alone and in silence. Individuals sitting at home or travelling in trains enjoyed them. Even in a crowded room, the novel offered a special world of imagination into which the reader could slip, and be all alone. In this, reading a novel was like daydreaming. 
-**_Fig. 20 – Cover page of_ Kathanjali** **_, a Kannada magazine._** 
-Kathanjali _started publication  in 1929 and published short stories regularly. The picture shows a mother reading out stories from a book to her children._ 
+**_Fig. 20 – Cover page of_ Kathanjali** **_, a Kannada magazine._** Kathanjali _started publication  in 1929 and published short stories regularly. The picture shows a mother reading out stories from a book to her children._ 
 ```
 footer page number:193
 ```
@@ -1968,23 +1886,23 @@ Many people got worried about the effects of the novel on readers who were taken
 Some parents kept novels in the lofts in their houses, out of their children’s reach. Young people often read them in secret. This passion was not limited only to the youth. Older women – some of whom could not read – listened with fascinated attention to popular Tamil novels read out to them by their grandchildren – a nice reversal of the familiar grandma’s tales! 
 But women did not remain mere readers of stories written by men; soon they also began to write novels. In some languages, the early creations of women were poems, essays or autobiographical pieces. In the early decades of the twentieth century, women in south India also began writing novels and short stories. A reason for the popularity of novels among women was that it allowed for a new conception of womanhood. Stories of love – which was a staple theme of many novels – showed women who could choose or refuse their partners and relationships. It showed women who could to some extent control their lives. Some women authors also wrote about women who changed the world of both men and women. 
 Rokeya Hossein (1880-1932) was a reformer who, after she was widowed, started a girl’s school in Calcutta. She wrote a **satiric** fantasy in English called _Sultana’s Dream_ (1905) which shows a topsyturvy world in which women take the place of men. Her novel _Padmarag_ also showed the need for women to reform their condition by their own actions. 
-##### **New words** 
+#### **New words** 
 Satire – A form of representation through writing, drawing, painting, etc. that provides a criticism of society in a manner that is witty and clever 
 **_Fig. 21 – A woman reading, woodcut by Satyendranath Bishi._** _The woodcut shows how women were discovering the pleasure of reading. By the end of the nineteenth century, images of women reading became common in popular magazines in India._ 
-```
-Source A
-```
-###### **Why women should not read novels** From a Tamil essay published in 1927: 
+##### `Source A` 
+**Why women should not read novels** 
+From a Tamil essay published in 1927: 
 ‘Dear children, don’t read these novels, don’t even touch them. Your life will be ruined. You will suffer disease and ailments. Why did the good Lord make you – to wither away at a tender age? To suffer in disease? To be despised by your brothers, relatives and those around you? No. No. You must become mothers; you must lead happy lives; this is the divine purpose. You who were born to fulfil this sublime goal, should you ruin your life by going crazy after despicable novels?’ 
 Essay by Thiru. Vi. Ka,  Translated by A.R. Venkatachalapathy `Source` 
 ```
 footer page number:194
 ```
 It is not surprising that many men were suspicious of women writing novels or reading them. This suspicion cut across communities. Hannah Mullens, a Christian missionary and the author of _Karuna o Phulmonir Bibaran_ (1852), reputedly the first novel in Bengali, tells her readers that she wrote in secret. In the twentieth century, Sailabala Ghosh Jaya, a popular novelist, could only write because her husband protected her. As we have seen in the case of the south, women and girls were often discouraged from reading novels. 
+##### `Box 8` 
 ###### **Women with books** 
 ‘These days we can see women in black bordered sarees with massive books in their hands, walking inside their houses. Often seeing them with these books in hand, their brothers or husbands are seized with fear – in case they are asked for meanings.’ 
 Sadharani, 1880. 
-##### **4.1 Caste Practices, ‘Lower-Castes’ and Minorities** 
+#### **4.1 Caste Practices, ‘Lower-Castes’ and Minorities** 
 As you have seen, _Indulekha_ was a love story. But it was also about an issue that was hotly debated at the time when the novel was written. This concerned the marriage practices of upper-caste Hindus in Kerala, especially the Nambuthiri Brahmins and the Nayars. Nambuthiris were also major landlords in Kerala at that time; and a large section of the Nayars were their tenants. In late-nineteenthcentury Kerala, a younger generation of English-educated Nayar men who had acquired property and wealth on their own, began arguing strongly against Nambuthiri alliances with Nayar women. They wanted new laws regarding marriage and property. 
 The story of _Indulekha_ is interesting in the light of these debates. Suri Nambuthiri, the foolish landlord who comes to marry Indulekha, is the focus of much satire in the novel. The intelligent heroine rejects him and chooses Madhavan, the educated and handsome Nayar as her husband, and the young couple move to Madras, where Madhavan joins the civil service. Suri Nambuthiri, desperate to find a partner for himself, finally marries a poorer relation from the same family and goes away pretending that he has married Indulekha! Chandu Menon clearly wanted his readers to appreciate the new values of his hero and heroine and criticise the ignorance and immorality of Suri Nambuthiri. 
 Novels like _Indirabai_ and _Indulekha_ were written by members of the upper castes, and were primarily about upper-caste characters. But not all novels were of this kind. 
@@ -2009,10 +1927,11 @@ The history written by colonial historians tended to depict Indians as weak, div
 In Bengal, many historical novels were about Marathas and Rajputs. These novels produced a sense of a pan-Indian belonging. They imagined the nation to be full of adventure, heroism, romance and sacrifice – qualities that could not be found in the offices and streets of the nineteenth-century world. The novel allowed the colonised to give shape to their desires. Bhudeb Mukhopadhyay’s (1827-94) _Anguriya Binimoy_ (1857) was the first historical novel written in Bengal. Its hero Shivaji engages in many battles against a clever and treacherous Aurangzeb. Man Singh persuades Shivaji  to make peace with Aurangzeb. Realising that Aurangzeb intended to confine him as a house prisoner, Shivaji escapes and returns to battle. What gives him courage and tenacity is his belief that he is a nationalist fighting for the freedom of Hindus. 
 The imagined nation of the novel was so powerful that it could inspire actual political movements. Bankim’s _Anandamath_ (1882) is a novel about a secret Hindu militia that fights Muslims to establish a Hindu kingdom. It was a novel that inspired many kinds of freedom fighters. 
 Many of these novels also reveal the problems of thinking about the nation. Was India to be a nation of only a single religious community? Who had natural claims to belong to the nation? 
-##### **5.1 The Novel and Nation Making** 
+#### **5.1 The Novel and Nation Making** 
 Imagining a heroic past was one way in which the novel helped in popularising the sense of belonging to a common nation. Another 
 **_Fig. 24 – Image from the film_ Chemmeen** **_._** _Many novels were made into films. The novel_ Chemmeen _(Shrimp, 1956), written by Thakazhi Sivasankara Pillai (1912-99), is set in the fishing community in Kerala, and characters speak a variety of Malayalam used by fisherfolk in the region. The film_ Chemmeen _, directed by Ramu Kariat, was made in 1965._ 
-**_Fig. 25 – A still from the Kannada film_ Chomana Dudi** **_(Choma’s Drum, directed by B.V. Karanth in 1975)._** _The film is based on a novel of the same title written in 1930 by the celebrated Kannada novelist Sivarama Karanth (1902-1997)._ 
+**_Fig. 25 – A still from the Kannada film_ Chomana Dudi** **_(Choma’s Drum, directed by B.V. Karanth in 1975)._** 
+_The film is based on a novel of the same title written in 1930 by the celebrated Kannada novelist Sivarama Karanth (1902-1997)._ 
 ```
 footer page number:197
 ```
@@ -2024,12 +1943,13 @@ _Godan_ (The Gift of Cow), published in 1936, remains Premchand’s best-known w
 - `How Premchand depicts the life of peasants in the novel.` 
 - `What the novel tells us about the life of peasants during the` 
 - `Great Depression.` 
+##### `Box 9` 
 Rabindranath Tagore (1861-1941) developed the Bengali novel after Bankim’s death. His early novels were historical; he later shifted to writing stories about domestic relationships. He was mainly preoccupied with the condition of women and nationalism. Both concerns are featured in his Ghare Baire (1916) translated in 1919 as The Home and the World. The story is about Bimala, the wife of Nikhilesh, a liberal landlord who believes that he can save his country by patiently bettering the lives of its poor and marginal sections. But Bimala is attracted to Sandip, her husband’s friend and a firebrand extremist. Sandip is so completely dedicated to throwing out the British that he does not mind if the poor ‘low’ castes suffer and Muslims are made to feel like outsiders. By becoming a part of Sandip’s group, Bimala gets a sense of self-worth and self-esteem. Rabindranth also shows the contradictory effects of nationalist involvement for women. Bimala may be admired by the young males of the group but she cannot influence their decisions. Indeed she is used by Sandip to acquire funds for the movement. Tagore’s novels are striking because they make us rethink both man-woman relationships and nationalism. 
 **_Fig. 26 – Portrait of Premchand (18801936)._** 
 ```
 footer page number:198
 ```
-##### **Conclusion** 
+#### **Conclusion** 
 We have seen how, over the course of its history in both the West and in India, the novel became part of the lives of different sections of people. Developments in print technologies allowed the novel to break out of its small circle of readers and introduced fresh ways of reading. But through their stories, novels have also shown a capacity to include and focus on the lives of those who were not often known to literate and middle-class circles. We have seen some examples of these in Premchand, but they are equally present in the works of other novelists. 
 Bringing together people from varied backgrounds produces a sense of shared community. The most notable form of this community is the nation. Equally significant is the fact that by bringing in both the powerful and the marginal peoples and cultures, the novel throws up many questions about the nature of these communities. We can say then that novels produce a sense of sharing, and promote an understanding of different people, different values and different communities. At the same time they explore how different groups begin to question or reflect upon their own identities. 
 ```
@@ -2038,7 +1958,9 @@ footer page number:199
 ### **<mark>Write in brief</mark>** 
 `1. Explain the following:` 
    - `a) Social changes in Britain which led to an increase in women readers` 
-   - `b) What actions of Robinson Crusoe make us see him as a typical coloniser. c) After 1740, the readership of novels began to include poorer people. d) Novelists in colonial India wrote for a political cause.` 
+   - `b) What actions of Robinson Crusoe make us see him as a typical coloniser.` 
+   - `c) After 1740, the readership of novels began to include poorer people.` 
+   - `d) Novelists in colonial India wrote for a political cause.` 
 `2. Outline the changes in technology and society which led to an increase  in readers of the novel in eighteenth-century Europe.` 
 `3. Write a note on:` 
    - `a) The Oriya novel` 
