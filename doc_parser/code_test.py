@@ -1,8 +1,2 @@
-all_chapters=["sdfdsfdfd","dfsdff","dfddfdf"]
-all_chap=[]
-for i in all_chapters:
-        if all_chapters.index(i)==0:
-            all_chap.append(f"# **Nationalism in Belagavi** "+"\n" + i) 
-        else:
-            all_chap.append(i)
-print(all_chap[1])  
+str1="1. List all the different social groups which joined the Non-Cooperation Movement of 1921. Then choose any three and write "
+print(len(str1))

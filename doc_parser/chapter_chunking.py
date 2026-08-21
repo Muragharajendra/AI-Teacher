@@ -32,7 +32,6 @@ def create_chunks(markdown_text):
 
     # Process entire markdown text directly - no chapter iteration needed
     sections = markdown_splitter.split_text(markdown_text)
-
     for section in sections:
         # If section is already small, don't split it
         if len(section.page_content) <= 600:
@@ -62,4 +61,4 @@ with open("docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
         f.write(f"Content:\n{chunk.page_content}\n")
         f.write("="*100 + "\n\n")
 
-print(f"\n✅ All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")
+print(f"\n All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")
