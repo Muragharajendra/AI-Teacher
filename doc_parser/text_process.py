@@ -11,9 +11,9 @@ pages = pymupdf4llm.to_markdown(
     page_chunks=True,
 
     # OCR
-    use_ocr=True,
-    ocr_language="eng",
-    ocr_dpi=300,
+    use_ocr=False,
+    # ocr_language="eng",
+    # ocr_dpi=300,
     # ocr_function=tesseract_api,
 
     show_progress=True

@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 from text_process import text_extract
@@ -14,7 +15,8 @@ text_extracted=text_extract()
 if not text_extracted.strip():
     raise ValueError("Extracted Text Not Found")
 
-load_dotenv() 
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
 
 # Check api load
 api_key=os.getenv("GROQ_API_KEY")
