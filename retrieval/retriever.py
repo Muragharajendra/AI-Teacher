@@ -12,23 +12,21 @@ from langchain_classic.retrievers import EnsembleRetriever
 
 
 # ============================================================
-# Environment / Paths
+# Environment
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 load_dotenv(BASE_DIR / ".env")
 
-
 CHROMA_DIR = BASE_DIR / "docs" / "vectorstore"
-
 COLLECTION_NAME = "ai_teacher"
 
 TOP_K = 5
 
 
 # ============================================================
-# NVIDIA Embedding Model
+# NVIDIA Embeddings
 # ============================================================
 
 class NVIDIAEmbeddings(Embeddings):
@@ -50,10 +48,6 @@ class NVIDIAEmbeddings(Embeddings):
         self.model = "nvidia/nv-embedqa-e5-v5"
 
 
-    # --------------------------------------------------------
-    # Document embeddings
-    # --------------------------------------------------------
-
     def embed_documents(self, texts):
 
         if not texts:
@@ -73,10 +67,6 @@ class NVIDIAEmbeddings(Embeddings):
         ]
 
 
-    # --------------------------------------------------------
-    # Query embedding
-    # --------------------------------------------------------
-
     def embed_query(self, text):
 
         response = self.client.embeddings.create(
@@ -91,29 +81,29 @@ class NVIDIAEmbeddings(Embeddings):
 
 
 # ============================================================
-# Create / Load Persistent Chroma Vector Store
+# Create / Load Chroma
 # ============================================================
 
-def create_vectorstore(chunks, rebuild=False):
+def create_vector_store(chunks=None, rebuild=False):
 
     embeddings = NVIDIAEmbeddings()
 
 
     # --------------------------------------------------------
-    # Rebuild existing database
+    # Rebuild
     # --------------------------------------------------------
 
     if rebuild and CHROMA_DIR.exists():
 
-        print("\nDeleting existing vector database...")
+        print("Deleting existing Chroma database...")
 
         shutil.rmtree(CHROMA_DIR)
 
-        print("Old vector database deleted.")
+        print("Old database deleted.")
 
 
     # --------------------------------------------------------
-    # Create / Load Chroma
+    # Open persistent Chroma
     # --------------------------------------------------------
 
     vectorstore = Chroma(
@@ -124,83 +114,89 @@ def create_vectorstore(chunks, rebuild=False):
 
 
     # --------------------------------------------------------
-    # Check existing documents
+    # Check database
     # --------------------------------------------------------
 
     document_count = vectorstore._collection.count()
 
 
     # --------------------------------------------------------
-    # Create embeddings if database is empty
+    # Create database only if empty
     # --------------------------------------------------------
 
     if document_count == 0:
 
-        print("\n========================================")
-        print("Creating Vector Database")
-        print("========================================")
+        if not chunks:
+            raise ValueError(
+                "Chroma is empty but no chunks were provided."
+            )
 
-        print(
-            f"Number of chunks: {len(chunks)}"
-        )
-
-        print(
-            "Generating NVIDIA embeddings..."
-        )
+        print("\nCreating Chroma vector database...")
+        print(f"Chunks: {len(chunks)}")
 
         vectorstore.add_documents(chunks)
-
-        print(
-            "Embeddings generated and stored."
-        )
 
         print(
             f"Stored documents: "
             f"{vectorstore._collection.count()}"
         )
 
-
-    # --------------------------------------------------------
-    # Reuse existing embeddings
-    # --------------------------------------------------------
-
     else:
 
-        print("\n========================================")
-        print("Existing Vector Database Found")
-        print("========================================")
+        print("\nExisting Chroma database found.")
 
         print(
-            f"Documents stored: {document_count}"
+            f"Stored documents: {document_count}"
         )
 
-        print(
-            "Skipping embedding generation."
-        )
+        print("Skipping embedding generation.")
 
 
     return vectorstore
 
 
 # ============================================================
-# BM25 Retriever
+# Load documents from Chroma
 # ============================================================
 
-def create_bm25_retriever(chunks):
+def load_documents_from_chroma(vectorstore):
 
-    print("\nCreating BM25 retriever...")
-
-    bm25_retriever = BM25Retriever.from_documents(
-        chunks
+    data = vectorstore.get(
+        include=["documents", "metadatas"]
     )
 
-    bm25_retriever.k = TOP_K
+    documents = data["documents"]
+    metadatas = data["metadatas"]
 
-    print(
-        f"BM25 top-k: {TOP_K}"
+    from langchain_core.documents import Document
+
+    return [
+        Document(
+            page_content=text,
+            metadata=metadata or {}
+        )
+        for text, metadata in zip(
+            documents,
+            metadatas
+        )
+    ]
+
+
+# ============================================================
+# BM25
+# ============================================================
+
+def create_bm25_retriever(documents):
+
+    print("Creating BM25 retriever...")
+
+    bm25 = BM25Retriever.from_documents(
+        documents
     )
 
-    return bm25_retriever
+    bm25.k = TOP_K
+
+    return bm25
 
 
 # ============================================================
@@ -209,19 +205,13 @@ def create_bm25_retriever(chunks):
 
 def create_semantic_retriever(vectorstore):
 
-    print("\nCreating semantic retriever...")
+    print("Creating semantic retriever...")
 
-    semantic_retriever = vectorstore.as_retriever(
+    return vectorstore.as_retriever(
         search_kwargs={
             "k": TOP_K
         }
     )
-
-    print(
-        f"Semantic top-k: {TOP_K}"
-    )
-
-    return semantic_retriever
 
 
 # ============================================================
@@ -233,80 +223,147 @@ def create_hybrid_retriever(
     semantic_retriever
 ):
 
-    print("\nCreating hybrid retriever...")
+    print("Creating hybrid retriever...")
 
-    hybrid_retriever = EnsembleRetriever(
-
+    return EnsembleRetriever(
         retrievers=[
             bm25_retriever,
             semantic_retriever
         ],
-
         weights=[
-            0.4,    # BM25
-            0.6     # Semantic
+            0.4,
+            0.6
         ]
     )
 
-    print(
-        "\nHybrid weights:"
-    )
-
-    print(
-        "BM25     : 0.4"
-    )
-
-    print(
-        "Semantic : 0.6"
-    )
-
-    return hybrid_retriever
-
 
 # ============================================================
-# Complete Retrieval System
+# Initialize ALL retrievers ONCE
 # ============================================================
 
-def create_retrievers(chunks, rebuild=False):
+def initialize_retrieval_system(
+    chunks=None,
+    rebuild=False
+):
 
-    # 1. Create / load Chroma
-    vectorstore = create_vectorstore(
-        chunks,
+    print("\n========================================")
+    print("INITIALIZING RETRIEVAL SYSTEM")
+    print("========================================")
+
+
+    # 1. Load/create Chroma
+
+    vectorstore = create_vector_store(
+        chunks=chunks,
         rebuild=rebuild
     )
 
-    # 2. Create BM25
-    bm25_retriever = create_bm25_retriever(
-        chunks
-    )
 
-    # 3. Create semantic retriever
-    semantic_retriever = create_semantic_retriever(
+    # 2. Load chunks from Chroma
+
+    documents = load_documents_from_chroma(
         vectorstore
     )
 
-    # 4. Create hybrid retriever
-    hybrid_retriever = create_hybrid_retriever(
-        bm25_retriever,
-        semantic_retriever
+
+    # 3. BM25
+
+    bm25 = create_bm25_retriever(
+        documents
     )
 
-    # Return all components
+
+    # 4. Semantic
+
+    semantic = create_semantic_retriever(
+        vectorstore
+    )
+
+
+    # 5. Hybrid
+
+    hybrid = create_hybrid_retriever(
+        bm25,
+        semantic
+    )
+
+
+    print("\nRetrieval system ready.")
+
+
     return {
         "vectorstore": vectorstore,
-        "bm25": bm25_retriever,
-        "semantic": semantic_retriever,
-        "hybrid": hybrid_retriever
+        "bm25": bm25,
+        "semantic": semantic,
+        "hybrid": hybrid
     }
+
+
 # ============================================================
-# Retrieve Top-K Chunks
+# Retrieve
 # ============================================================
 
-def retrieve_chunks(hybrid_retriever, query, top_k=5):
-    """
-    Retrieve top-k chunks using hybrid BM25 + semantic retrieval.
-    """
+def retrieve_chunks(
+    hybrid_retriever,
+    query,
+    top_k=TOP_K
+):
 
     results = hybrid_retriever.invoke(query)
 
     return results[:top_k]
+
+# Metadata filter
+def metadata_filter(vectorstore, query):
+    """
+    Retrieve all chunks where the query matches
+    any metadata field ending with '_name'.
+
+    Results are sorted by chunk_index.
+    """
+
+    query = query.strip().lower()
+
+    if not query:
+        return []
+
+    data = vectorstore.get(
+        include=[
+            "documents",
+            "metadatas"
+        ]
+    )
+
+    documents = data["documents"]
+    metadatas = data["metadatas"]
+    ids = data["ids"]
+
+    results = []
+
+    for doc_id, document, metadata in zip(
+        ids,
+        documents,
+        metadatas
+    ):
+
+        matched = any(
+            query in str(value).lower()
+            for key, value in metadata.items()
+            if value is not None
+        )
+
+        if matched:
+            results.append({
+                "id": doc_id,
+                "text": document,
+                "metadata": metadata
+            })
+
+    results.sort(
+        key=lambda x: x["metadata"].get(
+            "chunk_index",
+            float("inf")
+        )
+    )
+
+    return results

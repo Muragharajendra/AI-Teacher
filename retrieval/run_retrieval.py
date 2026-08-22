@@ -4,8 +4,9 @@ from doc_parser.chapter_chunking import (
 )
 
 from retrieval.retriever import (
-    create_retrievers,
-    retrieve_chunks
+    initialize_retrieval_system,
+    retrieve_chunks,
+    metadata_filter
 )
 
 
@@ -16,64 +17,72 @@ from retrieval.retriever import (
 chunks = create_chunks(markdown_text)
 
 print(
-    f"Chunks created: {len(chunks)}"
+    f"Total chunks created: {len(chunks)}"
 )
 
-
 # ============================================================
-# 2. Create retrieval system
+# 2. Initialize retrieval system ONCE
 # ============================================================
 
-retrievers = create_retrievers(
-    chunks,
+retrievers = initialize_retrieval_system(
+    chunks=chunks,
     rebuild=False
 )
 
 
 # ============================================================
-# 3. Get hybrid retriever
+# 3. Get retrievers
 # ============================================================
 
 hybrid_retriever = retrievers["hybrid"]
 
+semantic_retriever = retrievers["semantic"]
+
+bm25_retriever = retrievers["bm25"]
+
+vectorstore = retrievers["vectorstore"]
+
 
 # ============================================================
-# 4. Query
+# 4. Retrieval function
 # ============================================================
 
-query = "What is a Absolutist?"
-
-
-# ============================================================
-# 5. Retrieve top 5 chunks
-# ============================================================
-
-retrieved_chunks = retrieve_chunks(
-    hybrid_retriever,
+def retrieve_type(
     query,
-    top_k=5
-)
-
-print("Top - k chunks retrieved successfully.")
-
-# ============================================================
-# 6. Print results
-# ============================================================
-
-print("\n")
-print("=" * 80)
-print("RETRIEVED CHUNKS")
-print("=" * 80)
-
-for i, chunk in enumerate(
-    retrieved_chunks,
-    start=1
+    INP="hybrid_search"
 ):
 
-    print(f"\n--- CHUNK {i} ---")
+    if INP == "semantic_retrieval":
 
-    print("Metadata:")
-    print(chunk.metadata)
+        return semantic_retriever.invoke(query)
 
-    print("\nContent:")
-    print(chunk.page_content)
+
+    elif INP == "bm25":
+
+        return bm25_retriever.invoke(query)
+
+
+    elif INP == "hybrid_search":
+
+        return retrieve_chunks(
+            hybrid_retriever,
+            query,
+            top_k=5
+        )
+
+    elif INP == "metadata_filtering":
+
+        return metadata_filter(
+            vectorstore,
+            query
+        )
+
+    else:
+
+        raise ValueError(
+            f"Unknown retrieval type: {INP}"
+        )
+# retrieve_type(
+#     "European Union",
+#     INP="hybrid_search"
+# )
