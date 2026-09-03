@@ -10,14 +10,14 @@ def create_chunks(markdown_text):
 
     markdown_splitter = MarkdownHeaderTextSplitter(
         headers_to_split_on=[
-            ("#", "Chapter Name"),
-            ("##", "subheading1"),
-            ("###", "subheading2"),
-            ("####", "subheading3"),
-            ("#####", "subheading4"),
-            ("######", "subheading5"),
-            ("#######", "subheading6"),
-            ("########", "subheading7")
+            ("#", "Chapter_name"),
+            ("##", "subheading1_name"),
+            ("###", "subheading2_name"),
+            ("####", "subheading3_name"),
+            ("#####", "subheading4_name"),
+            ("######", "subheading5_name"),
+            ("#######", "subheading6_name"),
+            ("########", "subheading7_name")
         ],
         strip_headers=False
     )
@@ -45,6 +45,8 @@ def create_chunks(markdown_text):
     #     print("CHunk meta data:", chunk.metadata) 
     #     print("chunk content:", chunk.page_content)
     #     print("="*100)
+    for indx, chunk in enumerate(final_chunks):
+        chunk.metadata["chunk_index"] = indx # Add chunk index to metadata
 
     print(f"Total number of chunks created: {len(final_chunks)}")
     # print(final_chunks[0])

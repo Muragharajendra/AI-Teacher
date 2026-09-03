@@ -33,19 +33,19 @@ class NVIDIAEmbeddings(Embeddings):
 
     def __init__(self):
 
-        api_key = os.getenv("NVIDIA_API_KEY")
+        api_key = os.getenv("OPENROUTER_API_KEY")
 
         if not api_key:
             raise ValueError(
-                "NVIDIA_API_KEY not found in .env"
+                "OPENROUTER_API_KEY not found in .env"
             )
 
         self.client = OpenAI(
             api_key=api_key,
-            base_url="https://integrate.api.nvidia.com/v1"
+            base_url="https://openrouter.ai/api/v1"
         )
 
-        self.model = "nvidia/nv-embedqa-e5-v5"
+        self.model = "openai/text-embedding-3-small"
 
 
     def embed_documents(self, texts):
@@ -316,54 +316,70 @@ def retrieve_chunks(
 # Metadata filter
 def metadata_filter(vectorstore, query):
     """
-    Retrieve all chunks where the query matches
-    any metadata field ending with '_name'.
-
-    Results are sorted by chunk_index.
+    Filters vectorstore data by query and organizes it into a structured dictionary 
+    keyed by unique metadata signatures—optimized for batch LLM processing.
     """
-
     query = query.strip().lower()
 
     if not query:
-        return []
+        return {}
 
-    data = vectorstore.get(
-        include=[
-            "documents",
-            "metadatas"
-        ]
-    )
-
-    documents = data["documents"]
-    metadatas = data["metadatas"]
-    ids = data["ids"]
+    # 1. Fetch raw data from vectorstore
+    data = vectorstore.get(include=["documents", "metadatas"])
+    documents = data.get("documents", [])
+    metadatas = data.get("metadatas", [])
 
     results = []
 
-    for doc_id, document, metadata in zip(
-        ids,
-        documents,
-        metadatas
-    ):
-
+    # 2. Filter records matching the query string
+    for document, metadata in zip(documents, metadatas):
+        if not metadata:
+            continue
+            
         matched = any(
             query in str(value).lower()
-            for key, value in metadata.items()
+            for value in metadata.values()
             if value is not None
         )
 
         if matched:
             results.append({
-                "id": doc_id,
                 "text": document,
                 "metadata": metadata
             })
 
-    results.sort(
-        key=lambda x: x["metadata"].get(
-            "chunk_index",
-            float("inf")
-        )
-    )
+    if not results:
+        return {}
 
-    return results
+    # 3. Sort chunks chronologically by their reading order index
+    results.sort(key=lambda x: x["metadata"].get("chunk_index", float("inf")))
+
+    # 4. Group chunks by their structural heading hierarchy
+    grouped_output = {}
+
+    for item in results:
+        meta = item["metadata"]
+        
+        # Create a unique immutable key based on available subheadings
+        # (Using a tuple prevents text fragments from mixing across different chapters)
+        group_key = (
+            meta.get("chapter_name"),
+            meta.get("subheading1_name") or meta.get("subheading1"),
+            meta.get("subheading2_name") or meta.get("subheading2"),
+            meta.get("subheading3_name"),
+            meta.get("subheading4_name"),
+            meta.get("subheading5_name")
+        )
+
+        # Convert tuple key to a safe dictionary string identifier
+        group_id = " -> ".join([str(k) for k in group_key if k is not None]) or "General_Section"
+
+        if group_id not in grouped_output:
+            grouped_output[group_id] = {
+                "metadata": meta,
+                "chunks": []
+            }
+            
+        grouped_output[group_id]["chunks"].append(item["text"])
+
+    return grouped_output

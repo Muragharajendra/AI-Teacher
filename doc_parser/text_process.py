@@ -1,6 +1,6 @@
 import re
 import pymupdf4llm
-# from pymupdf4llm.ocr import tesseract_api
+from pymupdf4llm.ocr import tesseract_api
 
 DOC = "docs/inp_docs/NCERT-Class-10-History.pdf"
 
@@ -11,10 +11,10 @@ pages = pymupdf4llm.to_markdown(
     page_chunks=True,
 
     # OCR
-    use_ocr=False,
-    # ocr_language="eng",
-    # ocr_dpi=300,
-    # ocr_function=tesseract_api,
+    use_ocr=True,
+    ocr_language="eng",
+    ocr_dpi=300,
+    ocr_function=tesseract_api,
 
     show_progress=True
 )
