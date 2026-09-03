@@ -2,8 +2,8 @@ from run_retrieval import retrieve_type
 from Inner_LLM import LLM_Input
 top_k=5  # Number of top chunks to retrieve in hybrid search
 
-query = "What is a nation"
-INP = "metadata_filtering"  # Change to: hybrid_search, metadata_filtering, semantic_retrieval, bm25
+# query = "What is a nation"
+# INP = "metadata_filtering"  # Change to: hybrid_search, metadata_filtering, semantic_retrieval, bm25
 def ret_chunks(query, INP):
     # Retrieve data based on INP type
     retrieved_data = retrieve_type(query, INP=INP)
@@ -33,7 +33,7 @@ def ret_chunks(query, INP):
     # Passing retrieved chunks to Inner_LLM for furthur processing
     LLM_Input(chunks, query=query, top_k=top_k)
 
-ret_chunks(query, INP)
+# ret_chunks(query, INP)
 
 
 
