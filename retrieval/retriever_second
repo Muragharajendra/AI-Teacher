@@ -1,0 +1,73 @@
+import json
+import os
+from pathlib import Path
+from groq import Groq
+from dotenv import load_dotenv
+
+
+with open("docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
+    TOC_from_llm=json.load(f)
+TOC_for_LLM=json.dumps(TOC_from_llm, indent=4)
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    raise ValueError("GROQ_API_KEY not found")
+
+client = Groq(api_key=api_key)
+
+# Based on the query, determine the appropriate retrieval method (INP)
+def TOC_Overview(query):
+   
+
+    prompt = f"""
+        You are an expert teacher.
+
+        Teach the student an easy-to-understand overview of the Table of Contents (TOC).
+
+        USER QUERY:
+        {query}
+
+        TABLE OF CONTENTS:
+        {TOC_for_LLM}
+
+        Instructions:
+        - Explain the overall structure of the document.
+        - Introduce the main chapters and their key sections.
+        - Briefly explain what the student will learn in each chapter.
+        - Keep the explanation simple, clear, and well organized.
+        - Do not add information that is not present in the TOC.
+        - Do not explain every section in depth; provide a high-level learning roadmap.
+        """
+    
+
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-20b",
+            messages=[
+                {
+                    "role": "system",
+                    "content":"You are an expert teacher. Give a simple, concise overview of the provided TOC using only the given information."
+                },
+
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+                
+            ],
+            temperature=0,
+            max_completion_tokens=1024
+        )
+        LLM_TOC_Overview=response.choices[0].message.content
+        # return LLM_TOC_Overview
+        with open("docs/TOC_from_llm/TOC_Overview_from.txt", "w", encoding="utf-8") as f:
+            f.write(LLM_TOC_Overview)
+        print("\n Got TOC_overview Response from LLM and written in TOC_Overview file:")
+        
+    except Exception as e:
+       return json.dumps({"error": str(e)})
+
+
