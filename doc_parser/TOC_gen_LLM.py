@@ -60,9 +60,9 @@ try:
 
     result = result.strip()
     parsed=json.loads(result)
-    with open("docs/TOC_from_llm/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
+    with open("docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
         json.dump(parsed, f, indent=4, ensure_ascii=False )
     print("Json created successfully")
 except json.JSONDecodeError:
     print(result)
-    print("IMproper data. Cant creat TOC JSON")
+    print("Improper data. Cant create TOC JSON")

@@ -63,7 +63,7 @@ def TOC_Overview(query):
         )
         LLM_TOC_Overview=response.choices[0].message.content
         # return LLM_TOC_Overview
-        with open("docs/TOC_from_llm/TOC_Overview_from.txt", "w", encoding="utf-8") as f:
+        with open("docs/Final_LLM_responses/TOC_Overview_from_LLM.txt", "w", encoding="utf-8") as f:
             f.write(LLM_TOC_Overview)
         print("\n Got TOC_overview Response from LLM and written in TOC_Overview file:")
         

@@ -143,7 +143,7 @@ else:
     
     # TOC_Overview retrieval.
     if INP == "TOC_Overview":
-        TOC_Overview=TOC_Overview(query)
+        TOC_Overview=TOC_Overview(query)  # Code to generate overview of TOC is in retriever_second.py file and saves in docs/Final_LLM_responses/TOC_Overview_from_LLM.txt.
         
     
 

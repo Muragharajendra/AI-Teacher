@@ -314,10 +314,10 @@ def LLM_Input(chunks, query, top_k=5):
         # ALL Top k retrieved chunks will be passed to the LLM to get the final user deliver text
         LLM_resp=LLM_resp_gen_symantic_search(ret_chunk_str, query) # LLM response
         # Passing to TTS Model.
-        with open("docs/Final_LLM_response/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
+        with open("docs/Final_LLM_responses/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
             f.write(LLM_resp)
         print(f"LLM Response:\n{LLM_resp}")
-        print("\n\n# LLM Response saved to 'docs/Final_LLM_response/semantic_search_LLM_resp.txt'")
+        print("\n\n# LLM Response saved to 'docs/Final_LLM_responses/semantic_search_LLM_resp.txt'")
 
     else:
         # Meta data filtered chunks - batch wise passing (character count based)
@@ -336,7 +336,7 @@ def LLM_Input(chunks, query, top_k=5):
                     print("# Batch passed to LLM for processing\n")
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
                     # write, append to file
-                    with open("docs/Final_LLM_response/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                    with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
                         f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
                         f.write(LLM_response)
                     batch_num += 1
@@ -348,10 +348,10 @@ def LLM_Input(chunks, query, top_k=5):
                     print("# Batch passed to LLM for processing\n")
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
                     # write, append to file
-                    with open("docs/Final_LLM_response/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                    with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
                         f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
                         f.write(LLM_response)
-                    print(f"\n\n# Batch {batch_num} LLM Response saved to 'docs/Final_LLM_response/metadata_filted_LLM_resp.txt'")
+                    print(f"\n\n# Batch {batch_num} LLM Response saved to 'docs/Final_LLM_responses/metadata_filted_LLM_resp.txt'")
                     batch_num += 1
                     batch = ""
             else:
