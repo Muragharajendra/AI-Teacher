@@ -1,0 +1,1672 @@
+DOC_PARSER_AND_RETRIEVAL_EXPORT
+Generated: 2026-09-06T10:14:36
+Source roots: doc_parser, retrieval
+Excluded: __pycache__ directories
+
+MANIFEST
+- doc_parser/TOC_gen_LLM.py (text, 1739 bytes)
+- doc_parser/__init__.py (text, 68 bytes)
+- doc_parser/chapter_chunking.py (text, 2499 bytes)
+- doc_parser/code_test.py (text, 1071 bytes)
+- doc_parser/docs/vectorstore/chroma.sqlite3 (binary-base64, 188416 bytes)
+- doc_parser/markdown_cleaner.py (text, 3812 bytes)
+- doc_parser/text_process.py (text, 4700 bytes)
+- retrieval/Inner_LLM.py (text, 14102 bytes)
+- retrieval/outer_LLM.py (text, 6347 bytes)
+- retrieval/pre_LLM.py (text, 1402 bytes)
+- retrieval/retriever.py (text, 8968 bytes)
+- retrieval/retriever_second (text, 2222 bytes)
+- retrieval/run_retrieval.py (text, 1792 bytes)
+
+
+TEXT FILES
+
+===== BEGIN FILE: doc_parser/TOC_gen_LLM.py =====
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+from openai import OpenAI
+from text_process import text_extract
+import json
+
+# Input for llm to get proper TOC
+text_extracted=text_extract()
+
+# Testing
+# with open("docs/extracted_text/text_md_test.md", "r", encoding="utf-8") as f:
+#     text_extracted=f.read()
+
+if not text_extracted.strip():
+    raise ValueError("Extracted Text Not Found")
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+
+# Check api load
+api_key=os.getenv("GROQ_API_KEY")
+if not api_key:
+    raise ValueError("API key not Found")
+
+
+client = OpenAI(
+    api_key=api_key,
+    base_url="https://api.groq.com/openai/v1",
+)
+with open("docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
+    promt=f.read()
+response = client.chat.completions.create(
+    model="llama-3.3-70b-versatile",
+    messages=[
+        {
+            "role": "system",
+            "content": promt
+        },
+        {
+            "role": "user",
+            "content": text_extracted
+        }
+    ],
+    temperature=0,
+    max_completion_tokens=4096
+)
+try:
+    result=response.choices[0].message.content
+    result = response.choices[0].message.content.strip()
+
+    if result.startswith("```json"):
+        result = result[7:]
+
+    if result.startswith("```"):
+        result = result[3:]
+
+    if result.endswith("```"):
+        result = result[:-3]
+
+    result = result.strip()
+    parsed=json.loads(result)
+    with open("docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
+        json.dump(parsed, f, indent=4, ensure_ascii=False )
+    print("Json created successfully")
+except json.JSONDecodeError:
+    print(result)
+    print("Improper data. Cant create TOC JSON")
+===== END FILE: doc_parser/TOC_gen_LLM.py =====
+
+===== BEGIN FILE: doc_parser/__init__.py =====
+"""Document parser package for chapter and hierarchy processing."""
+===== END FILE: doc_parser/__init__.py =====
+
+===== BEGIN FILE: doc_parser/chapter_chunking.py =====
+from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
+from doc_parser.markdown_cleaner import clean_and_normalize_markdown
+
+# Read cleaned markdown from markdown_cleaner output
+with open("docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
+        raw_markdown = f.read()
+markdown_text=clean_and_normalize_markdown(raw_markdown)  # cleaning will be done in markdown_cleaner.py
+
+def create_chunks(markdown_text):
+
+    markdown_splitter = MarkdownHeaderTextSplitter(
+        headers_to_split_on=[
+            ("#", "Chapter_name"),
+            ("##", "subheading1_name"),
+            ("###", "subheading2_name"),
+            ("####", "subheading3_name"),
+            ("#####", "subheading4_name"),
+            ("######", "subheading5_name"),
+            ("#######", "subheading6_name"),
+            ("########", "subheading7_name")
+        ],
+        strip_headers=False
+    )
+
+    recursive_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=600,
+        chunk_overlap=60,
+        separators=["\n\n", "\n", " ", ""]
+    )
+
+    final_chunks = []
+
+    # Process entire markdown text directly - no chapter iteration needed
+    sections = markdown_splitter.split_text(markdown_text)
+    for section in sections:
+        # If section is already small, don't split it
+        if len(section.page_content) <= 600:
+            final_chunks.append(section)
+        # If section is large, recursively split it
+        else:
+            smaller_chunks = recursive_splitter.split_documents([section])
+            final_chunks.extend(smaller_chunks)
+        
+    # for chunk in final_chunks:
+    #     print("CHunk meta data:", chunk.metadata) 
+    #     print("chunk content:", chunk.page_content)
+    #     print("="*100)
+    for indx, chunk in enumerate(final_chunks):
+        chunk.metadata["chunk_index"] = indx # Add chunk index to metadata
+
+    print(f"Total number of chunks created: {len(final_chunks)}")
+    # print(final_chunks[0])
+    
+    return final_chunks
+
+final_chunks = create_chunks(markdown_text)
+
+# Write chunks to text_md_test_1.md
+with open("docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
+    for i, chunk in enumerate(final_chunks):
+        f.write(f"--- CHUNK {i} ---\n")
+        f.write(f"Metadata: {chunk.metadata}\n")
+        f.write(f"Content:\n{chunk.page_content}\n")
+        f.write("="*100 + "\n\n")
+
+print(f"\n All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")
+===== END FILE: doc_parser/chapter_chunking.py =====
+
+===== BEGIN FILE: doc_parser/code_test.py =====
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+from groq import Groq
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    raise ValueError("GROQ_API_KEY not found")
+
+print("API key loaded:", api_key[:8] + "...")
+
+client = Groq(api_key=api_key)
+
+try:
+    response = client.chat.completions.create(
+        model="openai/gpt-oss-20b",
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a helpful assistant."
+            },
+            {
+                "role": "user",
+                "content": "What is a ball? Explain in simple words."
+            }
+
+        ],
+        temperature=0.5,
+        max_completion_tokens=1024
+    )
+
+    print("CONTENT:")
+    print(repr(response.choices[0].message.content))
+
+    print("REASONING:")
+    print(repr(response.choices[0].message.reasoning))
+
+    print("FINISH:")
+    print(response.choices[0].finish_reason)
+
+except Exception as e:
+    print("\n❌ Error:")
+    print(e)
+===== END FILE: doc_parser/code_test.py =====
+
+===== BEGIN FILE: doc_parser/markdown_cleaner.py =====
+import re
+
+
+def clean_markdown(text: str) -> str:
+    """
+    Clean Markdown generated by PyMuPDF4LLM.
+
+    Removes extraction artifacts while preserving normal
+    textbook content.
+    """
+
+    # 1. Normalize line endings
+    text = text.replace("\r\n", "\n")
+    text = text.replace("\r", "\n")
+
+    # 2. Remove complete PyMuPDF4LLM picture-text blocks
+    #    Removes:
+    #    <!-- Start of picture text -->
+    #    ...
+    #    <!-- End of picture text -->
+    text = re.sub(
+        r"<!--\s*Start of picture text\s*-->.*?<!--\s*End of picture text\s*-->",
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # 3. Remove <mark> while preserving its content
+    #    **<mark>Activity</mark>**
+    #    ↓
+    #    **Activity**
+    text = re.sub(
+        r"<mark>(.*?)</mark>",
+        r"\1",
+        text,
+        flags=re.DOTALL | re.IGNORECASE
+    )
+
+    # 4. Remove <br> tags
+    text = re.sub(
+        r"<br\s*/?>",
+        " ",
+        text,
+        flags=re.IGNORECASE
+    )
+
+    # 5. Remove excessive spaces/tabs
+    text = re.sub(r"[ \t]+", " ", text)
+
+    # 6. Remove spaces at beginning/end of lines
+    text = "\n".join(
+        line.strip()
+        for line in text.splitlines()
+    )
+
+    # 7. Normalize excessive blank lines
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip()
+
+
+def clean_heading_text(text: str) -> str:
+    """
+    Remove Markdown formatting from heading text
+    while preserving the actual heading content.
+    """
+
+    # Remove <mark>
+    text = re.sub(
+        r"<mark>(.*?)</mark>",
+        r"\1",
+        text,
+        flags=re.DOTALL | re.IGNORECASE
+    )
+
+    # Remove bold/italic markers
+    text = text.replace("**", "")
+    text = text.replace("__", "")
+    text = text.replace("*", "_")
+
+    # Remove inline code markers
+    text = text.replace("`", "")
+
+    return text.strip()
+
+
+def normalize_headings(text: str) -> str:
+    """
+    Normalize Markdown heading formatting.
+    """
+
+    lines = text.splitlines()
+    normalized = []
+
+    for line in lines:
+
+        match = re.match(
+            r"^(#{1,6})\s+(.*)$",
+            line
+        )
+
+        if not match:
+            normalized.append(line)
+            continue
+
+        hashes = match.group(1)
+        heading_text = match.group(2)
+
+        heading_text = clean_heading_text(
+            heading_text
+        )
+
+        normalized.append(
+            f"{hashes} {heading_text}"
+        )
+
+    return "\n".join(normalized)
+
+
+def normalize_heading_levels(text: str) -> str:
+    """
+    Normalize heading levels.
+
+    Prevents jumps such as:
+        ## → #####
+
+    by limiting an increase to one level.
+    """
+
+    lines = text.splitlines()
+    normalized = []
+
+    previous_level = 0
+
+    for line in lines:
+
+        match = re.match(
+            r"^(#{1,6})\s+(.*)$",
+            line
+        )
+
+        if not match:
+            normalized.append(line)
+            continue
+
+        level = len(match.group(1))
+        heading_text = match.group(2)
+
+        if previous_level == 0:
+            new_level = level
+
+        elif level > previous_level + 1:
+            new_level = previous_level + 1
+
+        else:
+            new_level = level
+
+        new_level = min(new_level, 6)
+
+        normalized.append(
+            f"{'#' * new_level} {heading_text}"
+        )
+
+        previous_level = new_level
+
+    return "\n".join(normalized)
+
+
+def clean_and_normalize_markdown(text: str) -> str:
+    """
+    Complete Markdown cleaning pipeline.
+
+    1. Remove extraction artifacts
+    2. Remove picture-text OCR blocks
+    3. Normalize HTML tags
+    4. Clean heading formatting
+    5. Normalize heading levels
+    """
+
+    text = clean_markdown(text)
+
+    text = normalize_headings(text)
+
+    text = normalize_heading_levels(text)
+
+    return text.strip()
+===== END FILE: doc_parser/markdown_cleaner.py =====
+
+===== BEGIN FILE: doc_parser/text_process.py =====
+import re
+import pymupdf4llm
+from pymupdf4llm.ocr import tesseract_api
+
+DOC = "docs/inp_docs/NCERT-Class-10-History.pdf"
+
+pages = pymupdf4llm.to_markdown(
+    DOC,
+    header=False,
+    footer=True,
+    page_chunks=True,
+
+    # OCR
+    use_ocr=True,
+    ocr_language="eng",
+    ocr_dpi=300,
+    ocr_function=tesseract_api,
+
+    show_progress=True
+)
+
+extracted_text=[]
+
+REMOVE_KEYWORDS = {
+    "page number:",
+    "activity",
+    "discuss",
+    "project",
+    "write in brief",
+    "new words",
+    "source",
+    "box",
+    "fig.",
+    "figure",
+    "case study",
+    "self-study",
+    "text book",
+    "reference book",
+    "suggested learning resources",
+    "web links",
+    "assessment pattern",
+    "marks distribution",
+}
+patterns = [
+        re.compile(r'^#{1,6}\s+.+$'),                          # Markdown headings
+        re.compile(r'^MODULE[- ]?\d+.*$'),                     # MODULE-1
+        re.compile(r'^CHAPTER\s+\d+.*$'),                      # CHAPTER 1
+        re.compile(r'^Chapter\s+\d+.*$'),                      # Chapter 1
+        re.compile(r'^[IVXLCDM]+\.\s+.+$'),                    # I. Introduction
+        re.compile(r'^\d+(\.\d+)*\s+.+$'), 
+                        
+    ]
+MARKDOWN_FOOTER_PATTERNS = [
+    re.compile(r"^\d+$"),                                  # 12
+    re.compile(r"^[-–—\s]*\d+[-–—\s]*$"),                  # - 12 -
+    re.compile(r"^[\*_]*(page|p\.)\s*-?\s*\d+[\*_]*$", re.IGNORECASE),  # **Page 12** or *p. 12*
+    re.compile(r"^[\*_]*\d+\s*(of|/)\s*\d+[\*_]*$", re.IGNORECASE)  # **12 of 50** or _12/50_
+]
+
+for chunk in pages:
+    # page_num=chunk["metadata"]["page_number"]
+    # extracted_text.append(f"page number:{page_num}")
+
+    lines = chunk["text"].splitlines()
+    for line in lines:
+        if line.strip():
+            extracted_text.append(line)   
+
+extracted_info="\n".join(extracted_text)
+
+with open("docs/extracted_text/text_md_1.md", "w", encoding="utf-8") as f:
+    ext_lines=extracted_info.splitlines()
+    for line_ind, line in enumerate(ext_lines):
+        if any(patt.match(line) for patt in MARKDOWN_FOOTER_PATTERNS):
+            f.write(f"footer page number:{line.strip()}\n")
+        elif line_ind < len(ext_lines) - 1 and "footer page number:" in ext_lines[line_ind] and "footerpage number:" in ext_lines[line_ind + 1]:
+            continue
+        else:
+            f.write(f"{line}\n")
+            
+        
+        
+
+def text_extract_for_llm():
+    # with open("docs/text_md_1.md", "r", encoding="utf-8") as infile, \
+        #  open("docs/processed_text_for_llm/process_text_for_llm_1.md", "w") as outfile:
+    
+    text_llm=[] # IMP # reset automatically every function call
+    for line_num, line in enumerate(extracted_info.splitlines(), start=1):
+        clean_line=line.strip()
+        if not clean_line:
+            continue
+        if any(patt.match(clean_line) for patt in MARKDOWN_FOOTER_PATTERNS):
+            text_llm.append(f"[{line_num}] footer page number:{clean_line}\n")
+        elif any(pattern.match(clean_line) for pattern in patterns):
+            # outfile.write("["+str(line_num)+"]"+" "+clean_line+ "\n")
+            text_llm.append(f"[{line_num}] {clean_line}\n")
+    # text1_llm=[]
+    # for i in text_llm:
+    #     if not i.strip():
+
+    a=[]
+    for line_ind, line in enumerate(text_llm):
+        lower_line = line.lower()
+        if "footer page number:" in lower_line:
+
+            if line_ind < len(text_llm) - 1 and "footer page number:" in text_llm[line_ind].lower() and "footer page number:" in text_llm[line_ind + 1].lower():
+                continue
+            a.append(line)
+            continue
+        if any(keyword in lower_line for keyword in REMOVE_KEYWORDS):
+            continue
+        if not line.strip():
+            continue
+        a.append(line)
+    return "\n".join(a)
+
+def text_extract():
+    list1 = []
+    ex_text = text_extract_for_llm()
+    lines = ex_text.splitlines()
+    
+    for line_index, i in enumerate(lines):
+        clean_line = i.strip().lower()
+        
+        if "footer page number:" in clean_line:
+            is_duplicate = False
+            for next_idx in range(line_index + 1, len(lines)):
+                next_line_stripped = lines[next_idx].strip().lower()
+
+                if "footer page number:" in next_line_stripped:
+                    is_duplicate = True
+                    break
+                elif next_line_stripped:
+                    break
+            if is_duplicate:
+                continue # Skip the first footer
+                
+        list1.append(i)
+        
+    return "\n".join(list1)
+with open("docs/extracted_text/text_md_test.md", "w", encoding="utf-8") as f:
+     f.write(text_extract())
+print("Done!")
+===== END FILE: doc_parser/text_process.py =====
+
+===== BEGIN FILE: retrieval/Inner_LLM.py =====
+from groq import Groq
+import os
+
+API_Key=os.getenv("GROQ_API_KEY")
+if not API_Key:
+    raise ValueError("GROQ API key not found in .env")
+
+client=Groq(API_Key=API_Key, base_url="https://api.groq.com"
+            )
+def LLM_resp_gen_symantic_search(context, query):
+    # Generate response from LLM for semantic search
+    prompt = f"""
+    You are an expert teacher, technical tutor, and professional educational content writer.
+
+    Your task is to answer the user's question using ONLY the information
+    available in the provided retrieved folder/document content.
+
+    USER QUESTION:
+    {query}
+
+    RETRIEVED FOLDER CONTENT:
+    {context}
+
+    INSTRUCTIONS:
+
+    1.1. UNDERSTAND THE QUESTION
+    - First determine exactly what the user is asking.
+    - Focus only on information relevant to the user's question.
+    - Do not discuss unrelated information from the retrieved content.
+    
+    1.2. ADAPT TO USER INTENT
+    - Definition → Give a concise definition first, then clarify it if needed.
+    - Explanation → Teach progressively from basic concepts to relevant details.
+    - Summary → Present only the essential points concisely.
+    - Important Questions → Generate relevant questions based ONLY on the provided content.
+    - Example → Provide a clear, relevant example supported ONLY by the provided content.
+    - Process/Procedure/How-to → Present the information in a clear, logical,
+        step-by-step order.
+    - Always tailor the response's structure, depth, and format to the user's
+        specific intent.
+
+    2. USE THE RETRIEVED CONTENT INTELLIGENTLY
+    - Treat the retrieved content as source material from one or more files.
+    - The content may be split into chunks, may be incomplete, may overlap,
+        or may appear out of order.
+    - Reconstruct the meaning across related chunks when necessary.
+    - Synthesize the information into one coherent explanation.
+    - Never simply concatenate or copy the chunks.
+
+    3. TEACH LIKE A PROFESSIONAL TEACHER
+    - Explain the concept clearly and naturally.
+    - Assume the user may be a beginner unless the question indicates
+        an advanced level.
+    - Start with the simplest explanation and gradually introduce
+        more technical details.
+    - Explain the "what", "why", and "how" whenever the retrieved
+        information supports them.
+    - Define important technical terms before relying heavily on them.
+
+    4. STRUCTURE THE ANSWER
+    - Start with a short, direct answer to the user's question.
+    - Then provide a logically ordered explanation.
+    - Use clear Markdown headings and subheadings.
+    - Use numbered lists for processes or sequences.
+    - Use bullet points for related concepts.
+    - Use tables when they make comparisons or relationships easier
+        to understand.
+    - Use code blocks only when code is relevant to the question.
+
+    5. MAKE THE EXPLANATION EASY TO UNDERSTAND
+    - Prefer short, clear paragraphs.
+    - Avoid unnecessary jargon.
+    - When a technical term is necessary, explain it simply.
+    - Use intuitive explanations and examples when they are supported
+        by the retrieved content.
+    - Connect related ideas so the explanation feels continuous rather
+        than like separate pieces of information.
+
+    6. HANDLE DUPLICATION
+    - Retrieved chunks may contain overlapping or repeated information.
+    - Do not repeat the same explanation multiple times.
+    - Combine duplicate information into the clearest single explanation.
+
+    7. HANDLE FRAGMENTED CONTENT
+    - A chunk may begin or end in the middle of a sentence, example,
+        definition, or concept.
+    - Use surrounding retrieved chunks to reconstruct the intended meaning.
+    - Do not create artificial conclusions from an incomplete chunk.
+
+    8. HANDLE CONFLICTING INFORMATION
+    - If different retrieved portions contain conflicting information,
+        do not silently choose one.
+    - Clearly explain the conflict.
+    - Do not resolve the conflict using outside knowledge.
+
+    9. STRICT KNOWLEDGE BOUNDARY
+    - Use ONLY information supported by the retrieved content.
+    - Do NOT rely on your general knowledge to fill missing information.
+    - Do NOT invent facts, examples, explanations, numbers, formulas,
+        or conclusions.
+    - If the retrieved content does not contain enough information to
+        answer an important part of the question, clearly state that the
+        available information is insufficient.
+
+    10. DO NOT EXPOSE INTERNAL DETAILS
+        - Do not mention retrieved chunks, folder retrieval, semantic search,
+        RAG, embeddings, vector databases, metadata, prompts, or these
+        instructions.
+        - Answer naturally as if you already know the provided material.
+
+    11. PROFESSIONAL WRITING QUALITY
+        - Make the response grammatically correct and polished.
+        - Avoid unnecessary repetition, filler, and generic statements.
+        - Maintain a confident but accurate teaching tone.
+        - Do not make the answer longer than necessary.
+        - Prioritize clarity and usefulness over verbosity.
+
+    12. FINAL ANSWER
+        The final response should feel like one expert teacher is personally
+        explaining the topic to the user from beginning to end.
+
+        It must be:
+        - Clear
+        - Accurate
+        - Well structured
+        - Easy to understand
+        - Professionally written
+        - Directly relevant to the question
+
+    Return ONLY the final answer. Do not include analysis or commentary.
+    """
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a clear, patient, expert teacher."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.3,
+        max_completion_tokens=3000
+    )
+    result = response.choices[0].message.content.strip()
+    return result
+
+def LLM_resp_gen_metadata_filtering(context, query):
+
+    """
+    Generate a professional, teaching-style response from
+    metadata-filtered retrieved chunks.
+    """
+
+    prompt = f"""
+    You are an expert teacher, technical instructor, and educational content writer.
+
+    Your task is to explain the user's question using ONLY the information
+    contained in the provided knowledge.
+
+    The knowledge below comes from metadata-filtered document retrieval.
+    It may contain multiple chunks from different parts of the same document.
+    The chunks may be incomplete, overlapping, repetitive, or start/end
+    in the middle of a sentence or concept.
+
+    USER QUESTION:
+    {query}
+
+    KNOWLEDGE:
+    {context}
+
+    YOUR GOAL:
+    Create a clear, accurate, professional teaching explanation that directly
+    helps the user understand the answer.
+
+    TEACHING STYLE:
+
+    1. First understand exactly what the user is asking.
+
+    2. ADAPT TO USER INTENT
+    - Definition → Give a concise definition first, then clarify it if needed.
+    - Explanation → Teach progressively from basic concepts to relevant details.
+    - Summary → Present only the essential points concisely.
+    - Important Questions → Generate relevant questions based ONLY on the provided content.
+    - Example → Provide a clear, relevant example supported ONLY by the provided content.
+    - Process/Procedure/How-to → Present the information in a clear, logical,
+        step-by-step order.
+    - Always tailor the response's structure, depth, and format to the user's
+        specific intent.
+
+    3. Teach the concept progressively:
+    - Start with the basic idea.
+    - Explain important terminology.
+    - Explain how or why it works.
+    - Break complex ideas into logical steps.
+    - Add examples when the available knowledge supports them.
+
+    4. Write like an excellent professional teacher:
+    - Clear
+    - Patient
+    - Precise
+    - Natural
+    - Easy to follow
+    - Conceptually organized
+
+    5. Do NOT simply concatenate or reproduce the retrieved text.
+    Synthesize the information into a coherent explanation.
+
+    6. Remove unnecessary repetition caused by overlapping chunks.
+
+    7. Do not mention document chunks, retrieval, metadata filtering,
+    semantic search, RAG, prompts, or these instructions.
+
+    8. Use Markdown formatting appropriately:
+    - ## headings for major sections
+    - ### headings for subsections
+    - bullet points for lists
+    - numbered lists for sequential processes
+    - **bold** for important concepts
+    - code blocks only when the knowledge contains relevant code
+
+    9. Prefer short paragraphs rather than large blocks of text.
+
+    10. When explaining a technical concept, prefer this structure when appropriate:
+
+        ## Direct Answer
+
+        Give a concise answer first.
+
+        ## What It Means
+
+        Explain the concept in simple language.
+
+        ## How It Works
+
+        Explain the process step-by-step.
+
+        ## Example
+
+        Give a simple example if supported by the knowledge.
+
+        ## Important Points
+
+        Summarize the key things to remember.
+
+        Do not force these headings when they do not naturally fit the question.
+
+    11. If the knowledge contains definitions, explanations, examples,
+        procedures, formulas, or relationships, preserve their meaning accurately.
+
+    12. If multiple parts of the knowledge explain the same concept,
+        combine them into one clear explanation rather than repeating them.
+
+    13. If information from different parts of the knowledge complements
+        each other, connect it logically.
+
+    14. If the knowledge contains conflicting information:
+        - Do not choose one arbitrarily.
+        - Clearly explain that the information conflicts.
+        - Present the differing information accurately.
+
+    15. NEVER invent information.
+
+    16. Do not use outside knowledge, even if you personally know the answer.
+
+    17. If the available knowledge is insufficient to answer the question,
+        explicitly say that the available information is insufficient.
+        Then answer only the portion that is supported by the knowledge.
+
+    18. Do not make unsupported assumptions.
+
+    19. Do not add a generic conclusion merely to make the answer longer.
+
+    20. The final response must be polished and ready to display directly
+        to a user. Do not include internal reasoning or commentary.
+
+    IMPORTANT:
+    This is one batch of a potentially larger set of retrieved knowledge.
+    Therefore, do not assume that this batch contains the entire document.
+    Explain only what can be supported by the knowledge provided here.
+
+    Return ONLY the final teaching response.
+    """
+
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "system",
+                "content": (
+                    "You are a clear, patient, highly knowledgeable "
+                    "professional teacher and technical educator."
+                )
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.2,
+        max_completion_tokens=3000
+    )
+
+    return response.choices[0].message.content.strip()
+
+
+def LLM_Input(chunks, query, top_k=5):
+    # Semantic search processing
+    if len(chunks)==top_k:
+        ret_chunk_str="\n\n".join(chunks)
+        # print(f"Retrieved Chunks:\n{ret_chunk_str}")
+        # ALL Top k retrieved chunks will be passed to the LLM to get the final user deliver text
+        LLM_resp=LLM_resp_gen_symantic_search(ret_chunk_str, query) # LLM response
+        # Passing to TTS Model.
+        with open("docs/Final_LLM_responses/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
+            f.write(LLM_resp)
+        print(f"LLM Response:\n{LLM_resp}")
+        print("\n\n# LLM Response saved to 'docs/Final_LLM_responses/semantic_search_LLM_resp.txt'")
+
+    else:
+        # Meta data filtered chunks - batch wise passing (character count based)
+        char_limit = 8000
+        batch = ""
+        batch_num = 1
+        
+        for i, chunk in enumerate(chunks):
+            # Add chunk to current batch with separator
+            potential_batch = batch + f"\n{chunk}" if batch else chunk
+            
+            # If adding this chunk would exceed limit or is last chunk
+            if len(potential_batch) >= char_limit or i == len(chunks) - 1:
+                # If batch is not empty, print it first
+                if batch:
+                    print("# Batch passed to LLM for processing\n")
+                    LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
+                    # write, append to file
+                    with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                        f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
+                        f.write(LLM_response)
+                    batch_num += 1
+                    batch = ""
+                
+                # If current chunk itself is large or is last chunk
+                if len(chunk) >= char_limit or i == len(chunks) - 1:
+                    batch = chunk
+                    print("# Batch passed to LLM for processing\n")
+                    LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
+                    # write, append to file
+                    with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                        f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
+                        f.write(LLM_response)
+                    print(f"\n\n# Batch {batch_num} LLM Response saved to 'docs/Final_LLM_responses/metadata_filted_LLM_resp.txt'")
+                    batch_num += 1
+                    batch = ""
+            else:
+                # Add chunk to batch
+                batch = potential_batch
+    
+===== END FILE: retrieval/Inner_LLM.py =====
+
+===== BEGIN FILE: retrieval/outer_LLM.py =====
+from retrieval.pre_LLM import ret_chunks  # Passing query and INP(Type) to pre_LLM.py for retrieval 
+import json
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+from groq import Groq
+from retrieval.retriever_second import TOC_Overview  # Function to get TOC overview from LLM
+
+
+# Importing Table of content generated by LLM from TOC_gen_LLM.py
+with open("docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
+    TOC_from_llm=json.load(f)
+# TOC for LLM reference to extract section or chapter names from the query and decide which retrieval operation to trigger
+TOC_for_LLM=json.dumps(TOC_from_llm, indent=4)
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    raise ValueError("GROQ_API_KEY not found")
+
+client = Groq(api_key=api_key)
+
+# Based on the query, determine the appropriate retrieval method (INP)
+def determine_retrieval_method(query):
+   
+
+    router_prompt = f"""
+    You are an intelligent Retrieval Router for a RAG-based AI Teacher. Your ONLY task is to analyze the user's query and output a single, valid JSON object mapping the query to the correct operation.
+
+    USER QUERY:
+    {query}
+
+    AVAILABLE TABLE OF CONTENTS (TOC):
+    {TOC_for_LLM}
+
+    ---
+
+    ### OPERATIONS & TRIGGER CRITERIA
+
+    1. hybrid_search
+    - Trigger when the user asks about a SPECIFIC piece of info, concept, definition, explanation, example, comparison, or factual question.
+    - Note: If a user mentions a chapter/section but only asks about a specific sub-topic within it, you MUST use hybrid_search.
+    - Add chapter and section names in the JSON output if the user explicitly mentions them in the query. If not mentioned, set them to null.
+
+    2. metadata_filtering
+    - Trigger when the user asks/ mentions chapter/ section name in the query. Eg: if user asks like "Explain the Making of Nationalism in Europe properly", you MUST use metadata_filtering because here you will find chapter/ section name in the query.
+    - Trigger when the user wants to learn, summarize, or retrieve the COMPLETE content of an entire chapter or section.
+    - Keywords indicating complete scope: "teach me the section", "explain the entire chapter", "walk me through the whole section", "complete summary".
+    - The chapter/section name MUST match the provided TOC.
+    - Add chapter and section names in the JSON output if the user explicitly mentions them in the query. If not mentioned, set them to null.
+    - Trigger metadata_filtering even if the user mentions a chapter/section name in the query. In such cases, metadata_filtering takes precedence over hybrid_search.
+    3. TOC_Overview
+    - Trigger when the user asks about the Table of Contents, syllabus structure, covered topics, chapters, or sections available in the book.
+
+    4. Student_Progress_Tracking
+    - Trigger when the user asks about their own learning progress, history, or concepts already studied.
+
+    5. Student_performance_Analysis
+    - Trigger when the user asks to analyze their strengths, weaknesses, learning gaps, mistakes, or performance trends.
+
+    6. Important_Question_Generation
+    - Trigger when the user asks for practice questions, exam preparation questions, or key study questions.
+    - SPECIAL TEST/QUIZ RULE: If the user explicitly asks to TAKE A TEST, QUIZ, or EXAM on a chapter or section, trigger this operation and set "Test_Quiz": true. Otherwise, "Test_Quiz" must be false.
+
+    ---
+
+    ### ROUTING PRIORITY (Strict Order)
+    1. SPECIFIC TOPIC/CONCEPT SCOPE → hybrid_search
+    2. COMPLETE CHAPTER/SECTION SCOPE → metadata_filtering
+    3. TEST/QUIZ → Important_Question_Generation ("Test_Quiz": true)
+    4. STUDENT PERFORMANCE → Student_performance_Analysis
+    5. STUDENT PROGRESS → Student_Progress_Tracking
+    6. TOC STRUCTURE → TOC_Overview
+   
+    
+
+    ---
+
+    ### OUTPUT RULES & SPECIFICATION
+    - Return ONLY valid raw JSON. Do NOT wrap it in markdown code blocks. No explanations.
+    - Match "section" and "chapter" parameters EXACTLY against the provided TOC. Do not invent names.
+    - Set irrelevant arguments to null.
+    - "Test_Quiz" must be a boolean (true/false), never a string.
+
+    JSON Schema:
+    {{
+        "trigger": ...,
+        "arguments": {{
+            "query": "string or null",
+            "section": "exact TOC string or null",
+            "chapter": "exact TOC string or null",
+            "Test_Quiz": false
+        }}
+    }}
+    """
+
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-20b",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are an intelligent Retrieval Router for a RAG-based AI Teacher. Your ONLY task is to analyze the user's query and output a single, valid JSON object mapping the query to the correct operation based on the instructions provided by the user."
+                },
+                {
+                    "role": "user",
+                    "content": router_prompt
+                }
+                
+            ],
+            reasoning_effort="low",
+            include_reasoning=False,
+            max_completion_tokens=1024
+        )
+        LLM_Response=response.choices[0].message.content
+        return LLM_Response
+        print("\n Got Response from LLM:")
+        
+    except Exception as e:
+        return json.dumps({"error": str(e)})
+
+# Pass query and INP to pre_LLM.py for retrieval
+# Query
+query="Explain Nationalism in Europe chapter."
+
+# print("\n\n LLM Respone:", determine_retrieval_method(query))
+
+INP = json.loads(determine_retrieval_method(query)).get("trigger") or "metadata_filtering"
+# print(INP)
+# print(determine_retrieval_method(query))
+
+if INP in["hybrid_search", "metadaa_filtering"]:
+    ret_chunks(query, INP=INP)  
+
+else:
+
+    """ calling Fn that connected to: Important_Question_Generation ("Test_Quiz": true),
+        Student_performance_Analysis,
+        Student_Progress_Tracking system, 
+        ====Not implemented yet.===="""
+    
+    # TOC_Overview retrieval.
+    if INP == "TOC_Overview":
+        TOC_Overview=TOC_Overview(query)  # Code to generate overview of TOC is in retriever_second.py file and saves in docs/Final_LLM_responses/TOC_Overview_from_LLM.txt.
+        
+    
+
+    
+
+
+===== END FILE: retrieval/outer_LLM.py =====
+
+===== BEGIN FILE: retrieval/pre_LLM.py =====
+from run_retrieval import retrieve_type
+from Inner_LLM import LLM_Input
+top_k=5  # Number of top chunks to retrieve in hybrid search
+
+# query = "What is a nation"
+# INP = "metadata_filtering"  # Change to: hybrid_search, metadata_filtering, semantic_retrieval, bm25
+def ret_chunks(query, INP):
+    # Retrieve data based on INP type
+    retrieved_data = retrieve_type(query, INP=INP)
+
+    # Extract chunks into a single list (works for both dict and list responses)
+    chunks = []
+
+    if isinstance(retrieved_data, list):
+        # hybrid_search, semantic_retrieval, bm25 return list of Document objects
+        chunks = [
+            doc.page_content if hasattr(doc, 'page_content') else str(doc)
+            for doc in retrieved_data
+        ]
+    elif isinstance(retrieved_data, dict):
+        # metadata_filtering returns dict organized by sections
+        for section_name, section_data in retrieved_data.items():
+            section_chunks = section_data.get("chunks", [])
+            chunks.extend(section_chunks)
+            
+    print(f"Retrieval Method: {INP}")
+    print(f"Retrieved {len(chunks)} chunks\n")
+    # for i, chunk in enumerate(chunks, 1):
+    #     print(f"[Chunk {i}]\n{chunk}\n")
+    #     print("-" * 60)
+    # return chunks
+
+    # Passing retrieved chunks to Inner_LLM for furthur processing
+    LLM_Input(chunks, query=query, top_k=top_k)
+
+# ret_chunks(query, INP)
+
+
+
+
+
+
+
+===== END FILE: retrieval/pre_LLM.py =====
+
+===== BEGIN FILE: retrieval/retriever.py =====
+import os
+import shutil
+from pathlib import Path
+
+from dotenv import load_dotenv
+from openai import OpenAI
+
+from langchain_core.embeddings import Embeddings
+from langchain_chroma import Chroma
+from langchain_community.retrievers import BM25Retriever
+from langchain_classic.retrievers import EnsembleRetriever
+
+
+# ============================================================
+# Environment
+# ============================================================
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+load_dotenv(BASE_DIR / ".env")
+
+CHROMA_DIR = BASE_DIR / "docs" / "vectorstore"
+COLLECTION_NAME = "ai_teacher"
+
+TOP_K = 5
+
+
+# ============================================================
+# NVIDIA Embeddings
+# ============================================================
+
+class NVIDIAEmbeddings(Embeddings):
+
+    def __init__(self):
+
+        api_key = os.getenv("OPENROUTER_API_KEY")
+
+        if not api_key:
+            raise ValueError(
+                "OPENROUTER_API_KEY not found in .env"
+            )
+
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url="https://openrouter.ai/api/v1"
+        )
+
+        self.model = "openai/text-embedding-3-small"
+
+
+    def embed_documents(self, texts):
+
+        if not texts:
+            return []
+
+        response = self.client.embeddings.create(
+            model=self.model,
+            input=texts,
+            extra_body={
+                "input_type": "passage"
+            }
+        )
+
+        return [
+            item.embedding
+            for item in response.data
+        ]
+
+
+    def embed_query(self, text):
+
+        response = self.client.embeddings.create(
+            model=self.model,
+            input=text,
+            extra_body={
+                "input_type": "query"
+            }
+        )
+
+        return response.data[0].embedding
+
+
+# ============================================================
+# Create / Load Chroma
+# ============================================================
+
+def create_vector_store(chunks=None, rebuild=False):
+
+    embeddings = NVIDIAEmbeddings()
+
+
+    # --------------------------------------------------------
+    # Rebuild
+    # --------------------------------------------------------
+
+    if rebuild and CHROMA_DIR.exists():
+
+        print("Deleting existing Chroma database...")
+
+        shutil.rmtree(CHROMA_DIR)
+
+        print("Old database deleted.")
+
+
+    # --------------------------------------------------------
+    # Open persistent Chroma
+    # --------------------------------------------------------
+
+    vectorstore = Chroma(
+        collection_name=COLLECTION_NAME,
+        embedding_function=embeddings,
+        persist_directory=str(CHROMA_DIR),
+    )
+
+
+    # --------------------------------------------------------
+    # Check database
+    # --------------------------------------------------------
+
+    document_count = vectorstore._collection.count()
+
+
+    # --------------------------------------------------------
+    # Create database only if empty
+    # --------------------------------------------------------
+
+    if document_count == 0:
+
+        if not chunks:
+            raise ValueError(
+                "Chroma is empty but no chunks were provided."
+            )
+
+        print("\nCreating Chroma vector database...")
+        print(f"Chunks: {len(chunks)}")
+
+        vectorstore.add_documents(chunks)
+
+        print(
+            f"Stored documents: "
+            f"{vectorstore._collection.count()}"
+        )
+
+    else:
+
+        print("\nExisting Chroma database found.")
+
+        print(
+            f"Stored documents: {document_count}"
+        )
+
+        print("Skipping embedding generation.")
+
+
+    return vectorstore
+
+
+# ============================================================
+# Load documents from Chroma
+# ============================================================
+
+def load_documents_from_chroma(vectorstore):
+
+    data = vectorstore.get(
+        include=["documents", "metadatas"]
+    )
+
+    documents = data["documents"]
+    metadatas = data["metadatas"]
+
+    from langchain_core.documents import Document
+
+    return [
+        Document(
+            page_content=text,
+            metadata=metadata or {}
+        )
+        for text, metadata in zip(
+            documents,
+            metadatas
+        )
+    ]
+
+
+# ============================================================
+# BM25
+# ============================================================
+
+def create_bm25_retriever(documents):
+
+    print("Creating BM25 retriever...")
+
+    bm25 = BM25Retriever.from_documents(
+        documents
+    )
+
+    bm25.k = TOP_K
+
+    return bm25
+
+
+# ============================================================
+# Semantic Retriever
+# ============================================================
+
+def create_semantic_retriever(vectorstore):
+
+    print("Creating semantic retriever...")
+
+    return vectorstore.as_retriever(
+        search_kwargs={
+            "k": TOP_K
+        }
+    )
+
+
+# ============================================================
+# Hybrid Retriever
+# ============================================================
+
+def create_hybrid_retriever(
+    bm25_retriever,
+    semantic_retriever
+):
+
+    print("Creating hybrid retriever...")
+
+    return EnsembleRetriever(
+        retrievers=[
+            bm25_retriever,
+            semantic_retriever
+        ],
+        weights=[
+            0.4,
+            0.6
+        ]
+    )
+
+
+# ============================================================
+# Initialize ALL retrievers ONCE
+# ============================================================
+
+def initialize_retrieval_system(
+    chunks=None,
+    rebuild=False
+):
+
+    print("\n========================================")
+    print("INITIALIZING RETRIEVAL SYSTEM")
+    print("========================================")
+
+
+    # 1. Load/create Chroma
+
+    vectorstore = create_vector_store(
+        chunks=chunks,
+        rebuild=rebuild
+    )
+
+
+    # 2. Load chunks from Chroma
+
+    documents = load_documents_from_chroma(
+        vectorstore
+    )
+
+
+    # 3. BM25
+
+    bm25 = create_bm25_retriever(
+        documents
+    )
+
+
+    # 4. Semantic
+
+    semantic = create_semantic_retriever(
+        vectorstore
+    )
+
+
+    # 5. Hybrid
+
+    hybrid = create_hybrid_retriever(
+        bm25,
+        semantic
+    )
+
+
+    print("\nRetrieval system ready.")
+
+
+    return {
+        "vectorstore": vectorstore,
+        "bm25": bm25,
+        "semantic": semantic,
+        "hybrid": hybrid
+    }
+
+
+# ============================================================
+# Retrieve
+# ============================================================
+
+def retrieve_chunks(
+    hybrid_retriever,
+    query,
+    top_k=TOP_K
+):
+
+    results = hybrid_retriever.invoke(query)
+
+    return results[:top_k]
+
+# Metadata filter
+def metadata_filter(vectorstore, query):
+    """
+    Filters vectorstore data by query and organizes it into a structured dictionary 
+    keyed by unique metadata signatures—optimized for batch LLM processing.
+    """
+    query = query.strip().lower()
+
+    if not query:
+        return {}
+
+    # 1. Fetch raw data from vectorstore
+    data = vectorstore.get(include=["documents", "metadatas"])
+    documents = data.get("documents", [])
+    metadatas = data.get("metadatas", [])
+
+    results = []
+
+    # 2. Filter records matching the query string
+    for document, metadata in zip(documents, metadatas):
+        if not metadata:
+            continue
+            
+        matched = any(
+            query in str(value).lower()
+            for value in metadata.values()
+            if value is not None
+        )
+
+        if matched:
+            results.append({
+                "text": document,
+                "metadata": metadata
+            })
+
+    if not results:
+        return {}
+
+    # 3. Sort chunks chronologically by their reading order index
+    results.sort(key=lambda x: x["metadata"].get("chunk_index", float("inf")))
+
+    # 4. Group chunks by their structural heading hierarchy
+    grouped_output = {}
+
+    for item in results:
+        meta = item["metadata"]
+        
+        # Create a unique immutable key based on available subheadings
+        # (Using a tuple prevents text fragments from mixing across different chapters)
+        group_key = (
+            meta.get("chapter_name"),
+            meta.get("subheading1_name") or meta.get("subheading1"),
+            meta.get("subheading2_name") or meta.get("subheading2"),
+            meta.get("subheading3_name"),
+            meta.get("subheading4_name"),
+            meta.get("subheading5_name")
+        )
+
+        # Convert tuple key to a safe dictionary string identifier
+        group_id = " -> ".join([str(k) for k in group_key if k is not None]) or "General_Section"
+
+        if group_id not in grouped_output:
+            grouped_output[group_id] = {
+                "metadata": meta,
+                "chunks": []
+            }
+            
+        grouped_output[group_id]["chunks"].append(item["text"])
+
+    return grouped_output
+===== END FILE: retrieval/retriever.py =====
+
+===== BEGIN FILE: retrieval/retriever_second =====
+import json
+import os
+from pathlib import Path
+from groq import Groq
+from dotenv import load_dotenv
+
+
+with open("docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
+    TOC_from_llm=json.load(f)
+TOC_for_LLM=json.dumps(TOC_from_llm, indent=4)
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    raise ValueError("GROQ_API_KEY not found")
+
+client = Groq(api_key=api_key)
+
+# Based on the query, determine the appropriate retrieval method (INP)
+def TOC_Overview(query):
+   
+
+    prompt = f"""
+        You are an expert teacher.
+
+        Teach the student an easy-to-understand overview of the Table of Contents (TOC).
+
+        USER QUERY:
+        {query}
+
+        TABLE OF CONTENTS:
+        {TOC_for_LLM}
+
+        Instructions:
+        - Explain the overall structure of the document.
+        - Introduce the main chapters and their key sections.
+        - Briefly explain what the student will learn in each chapter.
+        - Keep the explanation simple, clear, and well organized.
+        - Do not add information that is not present in the TOC.
+        - Do not explain every section in depth; provide a high-level learning roadmap.
+        """
+    
+
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-20b",
+            messages=[
+                {
+                    "role": "system",
+                    "content":"You are an expert teacher. Give a simple, concise overview of the provided TOC using only the given information."
+                },
+
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+                
+            ],
+            temperature=0,
+            max_completion_tokens=1024
+        )
+        LLM_TOC_Overview=response.choices[0].message.content
+        # return LLM_TOC_Overview
+        with open("docs/Final_LLM_responses/TOC_Overview_from_LLM.txt", "w", encoding="utf-8") as f:
+            f.write(LLM_TOC_Overview)
+        print("\n Got TOC_overview Response from LLM and written in TOC_Overview file:")
+        
+    except Exception as e:
+       return json.dumps({"error": str(e)})
+
+
+===== END FILE: retrieval/retriever_second =====
+
+===== BEGIN FILE: retrieval/run_retrieval.py =====
+from doc_parser.chapter_chunking import (
+    create_chunks,
+    markdown_text
+)
+
+from retrieval.retriever import (
+    initialize_retrieval_system,
+    retrieve_chunks,
+    metadata_filter
+)
+
+
+# ============================================================
+# 1. Create chunks
+# ============================================================
+
+chunks = create_chunks(markdown_text)
+
+print(
+    f"Total chunks created: {len(chunks)}"
+)
+
+# ============================================================
+# 2. Initialize retrieval system ONCE
+# ============================================================
+
+retrievers = initialize_retrieval_system(
+    chunks=chunks,
+    rebuild=False
+)
+
+
+# ============================================================
+# 3. Get retrievers
+# ============================================================
+
+hybrid_retriever = retrievers["hybrid"]
+
+semantic_retriever = retrievers["semantic"]
+
+bm25_retriever = retrievers["bm25"]
+
+vectorstore = retrievers["vectorstore"]
+
+
+# ============================================================
+# 4. Retrieval function
+# ============================================================
+
+def retrieve_type(
+    query,
+    INP="hybrid_search"
+):
+
+    if INP == "semantic_retrieval":
+
+        return semantic_retriever.invoke(query)
+
+
+    elif INP == "bm25":
+
+        return bm25_retriever.invoke(query)
+
+
+    elif INP == "hybrid_search":
+
+        return retrieve_chunks(
+            hybrid_retriever,
+            query,
+            top_k=5
+        )
+
+    elif INP == "metadata_filtering":
+
+        return metadata_filter(
+            vectorstore,
+            query
+        )
+
+    else:
+
+        raise ValueError(
+            f"Unknown retrieval type: {INP}"
+        )
+# retrieve_type(
+#     "European Union",
+#     INP="hybrid_search"
+# )
+===== END FILE: retrieval/run_retrieval.py =====
+
+
