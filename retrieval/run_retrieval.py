@@ -77,9 +77,6 @@ def retrieve_type(
             query
         )
 
-    else:
-
-        return "No_chunks_retrive"
 # retrieve_type(
 #     "European Union",
 #     INP="hybrid_search"

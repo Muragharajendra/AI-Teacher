@@ -60,7 +60,7 @@ def retrieval_node(state):
         state.get("retrieval_method")
         or "hybrid_search"
     )
-
+    print("retrieval_method:", retrieval_method)
     if not query:
         return {
             "retrieval_chunks": []
@@ -70,7 +70,7 @@ def retrieval_node(state):
         query,
         INP=retrieval_method
     )
-
+    
     retrieved_chunks = []
 
     if isinstance(retrieved_data, list):
@@ -86,11 +86,11 @@ def retrieval_node(state):
             retrieved_chunks.extend(
                 section_data.get("chunks", [])
             )
-
+    print("retrieved chunks:", retrieved_chunks)
     return {
         "retrieval_chunks": retrieved_chunks
     }
-
+     
 def inner_llm_node(state):
 
     chunks = state.get("retrieval_chunks", [])
@@ -104,11 +104,14 @@ def inner_llm_node(state):
         state.get("retrieval_method")
         or "hybrid_search"
     )
-
-    if not chunks:
+   
+    if not chunks and retrieval_method != "clarification":
         return {
             "response": "I could not find enough information to answer your question."
         }
+
+    if not chunks and retrieval_method == "clarification":
+        pass
 
     try:
         response = LLM_Input(

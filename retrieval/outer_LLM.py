@@ -63,12 +63,8 @@ def determine_retrieval_method(query):
     6. Important_Question_Generation
     - Trigger when the user asks for practice questions, exam preparation questions, or key study questions.
     - SPECIAL TEST/QUIZ RULE: If the user explicitly asks to TAKE A TEST, QUIZ, or EXAM on a chapter or section, trigger this operation and set "Test_Quiz": true. Otherwise, "Test_Quiz" must be false.
-    7.Continue_conversation
-    - Trigger when the user wants to continue a previous conversation or follow up on a previous topic
-    - Trigger this operation when the user explicitly mentions "continue", "follow up", or "previous topic" in their query.
-    - This operation is for resuming the existing teaching state.
-    - Do NOT use hybrid_search, semantic_retrieval, bm25, or metadata_filtering for these requests.
-    8. clarification
+    
+    7. clarification
         Trigger when the student's question is:
         - Analyse the user query carefully and determine if it is:
         - outside the educational scope of the current request
@@ -81,14 +77,13 @@ def determine_retrieval_method(query):
     
 
     ### ROUTING PRIORITY (Strict Order)
-    1. Continue_conversation
-    2. Clarification
-    3. SPECIFIC TOPIC/CONCEPT SCOPE → hybrid_search
-    4. COMPLETE CHAPTER/SECTION SCOPE → metadata_filtering
-    5. TEST/QUIZ → Important_Question_Generation ("Test_Quiz": true)
-    6. STUDENT PERFORMANCE → Student_performance_Analysis
-    7. STUDENT PROGRESS → Student_Progress_Tracking
-    8. TOC STRUCTURE → TOC_Overview
+    1. Clarification
+    2. SPECIFIC TOPIC/CONCEPT SCOPE → hybrid_search
+    3. COMPLETE CHAPTER/SECTION SCOPE → metadata_filtering
+    4. TEST/QUIZ → Important_Question_Generation ("Test_Quiz": true)
+    5. STUDENT PERFORMANCE → Student_performance_Analysis
+    6. STUDENT PROGRESS → Student_Progress_Tracking
+    7. TOC STRUCTURE → TOC_Overview
     
     #### ARGUMENTS
     Return exactly these two keys in Argument: - query: Return the user's original query unchanged. - Optimised_query: Rewrite the query using the exact chapter, section, or subsection names from the provided TOC. 
