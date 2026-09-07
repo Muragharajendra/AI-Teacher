@@ -5,6 +5,7 @@ from typing import Any, Mapping
 from retrieval.run_retrieval import retrieve_type
 from retrieval.Inner_LLM import LLM_Input
 from retrieval.outer_LLM import determine_retrieval_method
+from retrieval.i_retriever_second import TOC_Overview
 import json
 
 
@@ -105,13 +106,18 @@ def inner_llm_node(state):
         or "hybrid_search"
     )
    
-    if not chunks and retrieval_method != "clarification":
+    
+    if not chunks and retrieval_method not in ("clarification", 
+                        "TOC_Overview"
+                        # "Student_Progress_Tracking",
+                        # "Student_performance_Analysis"
+                        ):  #IMP
         return {
-            "response": "I could not find enough information to answer your question."
+            "response": "I could not find enough information to answer your question please ask relevant to the uploaded document, Thank you!"
         }
 
-    if not chunks and retrieval_method == "clarification":
-        pass
+
+        
 
     try:
         response = LLM_Input(

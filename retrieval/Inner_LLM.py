@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from groq import Groq
 import os
 import pathlib
+import json
 
 BASE_DIR = pathlib.Path(__file__).resolve().parent.parent
 load_dotenv(BASE_DIR / ".env")
@@ -361,6 +362,127 @@ def LLM_resp_gen_clarification( query):
 
     return response.choices[0].message.content.strip()
 
+with open("docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
+    TOC_from_llm=json.load(f)
+TOC_for_LLM=json.dumps(TOC_from_llm, indent=4)
+def LLM_resp_gen_TOC_Overview(query):
+
+    prompt = f"""
+        You are an expert teacher.
+
+        Teach the student an easy-to-understand overview of the Table of Contents (TOC).
+
+        USER QUERY:
+        {query}
+
+        TABLE OF CONTENTS:
+        {TOC_for_LLM}
+
+        Instructions:
+        - Explain the overall structure of the document only if user ask in depth explaination about TOC.
+        - Introduce the main chapters and their key sections in very short.
+        - if User ask Brief or in depth about TOC only then Briefly explain what the student will learn in each chapter.
+        - Keep the explanation simple, short, clear, and well organized.
+        - Do not add information that is not present in the TOC.
+        - Do not explain every section in depth; provide a high-level learning roadmap.
+        """
+    
+
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-20b",
+            messages=[
+                {
+                    "role": "system",
+                    "content":"You are an expert teacher. Give a simple, concise overview of the provided TOC using only the given information."
+                },
+
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+                
+            ],
+            temperature=0,
+            max_completion_tokens=1024
+        )
+        LLM_TOC_Overview=response.choices[0].message.content
+        # return LLM_TOC_Overview
+        print("\n Got TOC_overview Response from LLM and written in TOC_Overview file:", LLM_TOC_Overview)
+        return LLM_TOC_Overview
+        
+    except Exception as e:
+        return e
+
+def LLM_resp_gen_IMP_Que_Gen(chunks, query):
+
+    if not chunks:
+        return (
+            "I couldn't find enough relevant content to generate important "
+            "questions for your request. Please specify the chapter, section, "
+            "or topic."
+        )
+
+    context = "\n\n".join(chunks)
+
+    prompt = f"""
+    You are an expert AI teacher and exam-question generator.
+
+    USER REQUEST:
+    {query}
+
+    RETRIEVED CONTENT:
+    {context}
+
+    TASK:
+    Generate ONLY the most important questions that directly match the user's request.
+
+    RULES:
+    - Be highly specific to the user's requested topic/chapter/section.
+    - Use ONLY the retrieved content as the knowledge source.
+    - Prioritize questions most likely to be important for exams and learning.
+    - Focus on key concepts, definitions, causes, effects, differences, explanations,
+    important facts, and significant events mentioned in the content.
+    - Do not generate random, generic, or unrelated questions.
+    - Do not include answers or explanations.
+    - Avoid duplicate or nearly identical questions.
+    - Generate the appropriate number of questions based on the user's request.
+    - If the user asks for a specific number, generate exactly that number.
+    - If no number is specified, generate 10 high-priority questions.
+    - Order questions from highest to lower importance.
+
+    USER-SPECIFICITY:
+    The questions must reflect exactly what the user asked for, not the entire
+    subject unless the user explicitly requests the entire chapter/section.
+
+    OUTPUT:
+    1. Question
+    2. Question
+    3. Question
+    ...
+    """
+
+    response = client.chat.completions.create(
+        model="openai/gpt-oss-20b",
+        messages=[
+            {
+                "role": "system",
+                "content": (
+                    "You are an expert AI teacher specializing in generating "
+                    "high-quality, exam-focused questions from provided content."
+                )
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.2,
+        max_completion_tokens=3000
+    )
+
+    return response.choices[0].message.content.strip()
+
 def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
     # Semantic search processing
     if retrieval_method in (
@@ -422,10 +544,18 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
                 batch = potential_batch
         return "\n\n".join(final_responses)
         print("\n\n LLM response metadata_filtering:", "\n\n".join(final_responses) )
-    elif retrieval_method=="clarification":
+    elif retrieval_method == "clarification":
         LLM_resp= LLM_resp_gen_clarification(query)
-        print("\n\n LLM response unclarified_ query:", LLM_resp)
+        print("\n\n LLM response unclarified_query:", LLM_resp)
         return LLM_resp
+    elif retrieval_method == "TOC_Overview":
+        LLM_returns=LLM_resp_gen_TOC_Overview(query)
+        print("TOC_Overview:")
+        return LLM_returns
+    elif retrieval_method == "Important_Question_Generation":
+        LLM_r=LLM_resp_gen_IMP_Que_Gen(chunks, query) 
+        print("IMP_QUE_GEN:", LLM_r)
+        return LLM_r
 
     else:
         ret_chunk_str = "\n\n".join(chunks)

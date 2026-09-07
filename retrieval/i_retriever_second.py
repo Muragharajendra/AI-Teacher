@@ -66,6 +66,7 @@ def TOC_Overview(query):
         with open("docs/Final_LLM_responses/TOC_Overview_from_LLM.txt", "w", encoding="utf-8") as f:
             f.write(LLM_TOC_Overview)
         print("\n Got TOC_overview Response from LLM and written in TOC_Overview file:")
+        return LLM_TOC_Overview
         
     except Exception as e:
        return json.dumps({"error": str(e)})

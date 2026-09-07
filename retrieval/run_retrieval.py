@@ -76,7 +76,11 @@ def retrieve_type(
             vectorstore,
             query
         )
-
+    elif INP=="Important_Question_Generation":
+        return metadata_filter(
+            vectorstore,
+            query
+        )
 # retrieve_type(
 #     "European Union",
 #     INP="hybrid_search"

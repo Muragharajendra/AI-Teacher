@@ -51,6 +51,7 @@ def determine_retrieval_method(query):
     - The chapter/section name MUST match the provided TOC.
     - Add chapter and section names in the JSON output if the user explicitly mentions them in the query. If not mentioned, set them to null.
     - Trigger metadata_filtering even if the user mentions a chapter/section name in the query. In such cases, metadata_filtering takes precedence over hybrid_search.
+    
     3. TOC_Overview
     - Trigger when the user asks only strictly about the Table of Contents, syllabus structure, covered topics, chapters, or sections available in the book.
 
@@ -138,7 +139,7 @@ def determine_retrieval_method(query):
 
 # Pass query and INP to pre_LLM.py for retrieval
 # Query
-# query="Explain Nationalism in Europe chapter."
+query="hello"
 # query="Teach me WHat is nation concept from Nationalism in Europe chapter"
 
 # print("\n\n LLM Respone from LLM Query modifier:", determine_retrieval_method(query))
@@ -146,7 +147,7 @@ def determine_retrieval_method(query):
 # INP = json.loads(determine_retrieval_method(query)).get("trigger") or "metadata_filtering"
 # print(INP)
 # print(determine_retrieval_method(query))
-# print("\n\n LLM Respone:", determine_retrieval_method(query))
+print("\n\n LLM Respone:", determine_retrieval_method(query))
 
 # if INP in["hybrid_search", "metadata_filtering"]:
 #     ret_chunks(query, INP=INP)  
