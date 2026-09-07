@@ -79,9 +79,7 @@ def retrieve_type(
 
     else:
 
-        raise ValueError(
-            f"Unknown retrieval type: {INP}"
-        )
+        return "No_chunks_retrive"
 # retrieve_type(
 #     "European Union",
 #     INP="hybrid_search"

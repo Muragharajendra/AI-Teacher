@@ -31,7 +31,7 @@ client = OpenAI(
 with open("docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
     promt=f.read()
 response = client.chat.completions.create(
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-20b",
     messages=[
         {
             "role": "system",

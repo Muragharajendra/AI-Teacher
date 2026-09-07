@@ -363,12 +363,29 @@ def metadata_filter(vectorstore, query):
         # Create a unique immutable key based on available subheadings
         # (Using a tuple prevents text fragments from mixing across different chapters)
         group_key = (
-            meta.get("chapter_name"),
-            meta.get("subheading1_name") or meta.get("subheading1"),
-            meta.get("subheading2_name") or meta.get("subheading2"),
-            meta.get("subheading3_name"),
-            meta.get("subheading4_name"),
+            meta.get("chapter_name")
+                or meta.get("Chapter_name"),
+
+            meta.get("subheading1_name")
+                or meta.get("subheading1"),
+
+            meta.get("subheading2_name")
+                or meta.get("subheading2"),
+
+            meta.get("subheading3_name")
+                or meta.get("subheading3"),
+
+            meta.get("subheading4_name")
+                or meta.get("subheading4"),
+
             meta.get("subheading5_name")
+                or meta.get("subheading5"),
+
+            meta.get("subheading6_name")
+                or meta.get("subheading6"),
+
+            meta.get("subheading7_name")
+                or meta.get("subheading7"),
         )
 
         # Convert tuple key to a safe dictionary string identifier

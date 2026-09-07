@@ -1,11 +1,16 @@
+from dotenv import load_dotenv
 from groq import Groq
 import os
+import pathlib
 
-API_Key=os.getenv("GROQ_API_KEY")
-if not API_Key:
-    raise ValueError("GROQ API key not found in .env")
+BASE_DIR = pathlib.Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / ".env")
+api_key = os.getenv("GROQ_API_KEY")
 
-client=Groq(API_Key=API_Key, base_url="https://api.groq.com"
+if not api_key:
+    raise ValueError("GROQ_API_KEY not found")
+
+client=Groq(api_key=api_key, base_url="https://api.groq.com"
             )
 def LLM_resp_gen_symantic_search(context, query):
     # Generate response from LLM for semantic search
@@ -27,6 +32,8 @@ def LLM_resp_gen_symantic_search(context, query):
     - First determine exactly what the user is asking.
     - Focus only on information relevant to the user's question.
     - Do not discuss unrelated information from the retrieved content.
+    - Just define or explain in short if user ask define or specific topic
+    - Try to keep answer short clear and specific to user query.
     
     1.2. ADAPT TO USER INTENT
     - Definition → Give a concise definition first, then clarify it if needed.
@@ -130,7 +137,7 @@ def LLM_resp_gen_symantic_search(context, query):
     Return ONLY the final answer. Do not include analysis or commentary.
     """
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-20b",
         messages=[
             {
                 "role": "system",
@@ -285,7 +292,7 @@ def LLM_resp_gen_metadata_filtering(context, query):
     """
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-20b",
         messages=[
             {
                 "role": "system",
@@ -305,10 +312,62 @@ def LLM_resp_gen_metadata_filtering(context, query):
 
     return response.choices[0].message.content.strip()
 
+def LLM_resp_gen_clarification( query):
 
-def LLM_Input(chunks, query, top_k=5):
+    """
+    Generate a professional, teaching-style response from
+    metadata-filtered retrieved chunks.
+    """
+
+    
+    prompt = f"""
+    You are a polite AI teacher.
+
+    User query:
+    {query}
+
+    Respond only to:
+    - Greetings and small talk.
+    - Vague or incomplete questions that need clarification.
+
+    For greetings/small talk, reply briefly and naturally.
+    For unclear queries, politely ask what the user wants to know.
+    Do not answer specific educational questions or invent information.
+
+    Return only the short response to the user.
+    """
+
+
+
+    response = client.chat.completions.create(
+        model="openai/gpt-oss-20b",
+        messages=[
+            {
+                "role": "system",
+                "content": (
+                   "You are the conversational front-end of an AI teacher. "
+                    "Handle only greetings, small talk, and unclear queries. "
+                    "Do not answer specific educational questions."
+                )
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.2,
+        max_completion_tokens=3000
+    )
+
+    return response.choices[0].message.content.strip()
+
+def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
     # Semantic search processing
-    if len(chunks)==top_k:
+    if retrieval_method in (
+        "hybrid_search",
+        "semantic_retrieval",
+        "bm25"
+    ):
         ret_chunk_str="\n\n".join(chunks)
         # print(f"Retrieved Chunks:\n{ret_chunk_str}")
         # ALL Top k retrieved chunks will be passed to the LLM to get the final user deliver text
@@ -316,11 +375,13 @@ def LLM_Input(chunks, query, top_k=5):
         # Passing to TTS Model.
         with open("docs/Final_LLM_responses/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
             f.write(LLM_resp)
-        print(f"LLM Response:\n{LLM_resp}")
+        print(f"LLM Response semantic_search :\n{LLM_resp}")
         print("\n\n# LLM Response saved to 'docs/Final_LLM_responses/semantic_search_LLM_resp.txt'")
+        return LLM_resp
 
-    else:
+    elif retrieval_method == "metadata_filtering":
         # Meta data filtered chunks - batch wise passing (character count based)
+        final_responses = []
         char_limit = 8000
         batch = ""
         batch_num = 1
@@ -335,6 +396,7 @@ def LLM_Input(chunks, query, top_k=5):
                 if batch:
                     print("# Batch passed to LLM for processing\n")
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
+                    final_responses.append(LLM_response)
                     # write, append to file
                     with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
                         f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
@@ -347,6 +409,7 @@ def LLM_Input(chunks, query, top_k=5):
                     batch = chunk
                     print("# Batch passed to LLM for processing\n")
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
+                    final_responses.append(LLM_response)
                     # write, append to file
                     with open("docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
                         f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
@@ -357,4 +420,27 @@ def LLM_Input(chunks, query, top_k=5):
             else:
                 # Add chunk to batch
                 batch = potential_batch
-    
+        return "\n\n".join(final_responses)
+        print("\n\n LLM response metadata_filtering:", "\n\n".join(final_responses) )
+    elif retrieval_method=="clarification":
+        LLM_resp= LLM_resp_gen_clarification(query)
+        print("\n\n LLM response unclarified_ query:", LLM_resp)
+        return LLM_resp
+
+    else:
+        ret_chunk_str = "\n\n".join(chunks)
+
+        LLM_resp = LLM_resp_gen_symantic_search(
+            ret_chunk_str,
+            query
+        )
+
+        with open(
+            "docs/Final_LLM_responses/semantic_search_LLM_resp.txt",
+            "w",
+            encoding="utf-8"
+        ) as f:
+            f.write(LLM_resp)
+
+        return LLM_resp
+        print("\n\n LLM repsonse else_case symantic search:", LLM_resp)
