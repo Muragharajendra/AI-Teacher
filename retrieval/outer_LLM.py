@@ -72,7 +72,7 @@ def determine_retrieval_method(query):
         - unclear enough that the teacher should ask the student to clarify
         - reply for greetings, small talk
         - This operation means RESUME the existing teaching state.
-        - also trigger if user ask just like i have doubt, clarify without mentioning remaining.
+        - also trigger if user ask just like i have doubt, clarify without mentioning remaining .
         Dont trigger when the students's ask:
         - When student include chapter name, or subsection name in their query(identify chapter, subsection names from TOC)
         - verify query clearly with TOC and then make decision. If you find chapter, subsection name in the student question dont trigger this.
