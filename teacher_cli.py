@@ -8,7 +8,6 @@ def print_teacher_response(result):
     response = result.get("response")
 
     print("\nTeacher:")
-
     if response:
         print(response)
     else:
