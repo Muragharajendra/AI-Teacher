@@ -56,7 +56,7 @@ def retrieval_node(state):
         state.get("Optimised_query")
         or state.get("user_query", "")
     ).strip()
-
+    print("QUERY for chunks retrieval:::", query)
     retrieval_method = (
         state.get("retrieval_method")
         or "hybrid_search"
@@ -97,16 +97,16 @@ def inner_llm_node(state):
     chunks = state.get("retrieval_chunks", [])
 
     query = (
-        state.get("Optimised_query")
-        or state.get("user_query", "")
+        state.get("user_query", "")
     )
-
+    print("QUERY for INNER LLM:::", query)
     retrieval_method = (
         state.get("retrieval_method")
         or "hybrid_search"
     )
    
-    
+
+
     if not chunks and retrieval_method not in ("clarification", 
                         "TOC_Overview"
                         # "Student_Progress_Tracking",

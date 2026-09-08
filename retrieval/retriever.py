@@ -335,14 +335,20 @@ def metadata_filter(vectorstore, query):
     for document, metadata in zip(documents, metadatas):
         if not metadata:
             continue
-            
-        matched = any(
-            query in str(value).lower()
-            for value in metadata.values()
-            if value is not None
-        )
+        def metadata_match(query, metadata):
+            query = query.strip().casefold()
+            for value in metadata.values():
+                if not value:
+                    continue
+                value = str(value).strip().casefold()
 
-        if matched:
+                # Exact / substring match
+                if query == value or query in value or value in query:
+                    return True
+
+            return False
+
+        if metadata_match(query, metadata):
             results.append({
                 "text": document,
                 "metadata": metadata

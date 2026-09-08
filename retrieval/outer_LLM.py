@@ -73,6 +73,9 @@ def determine_retrieval_method(query):
         - reply for greetings, small talk
         - This operation means RESUME the existing teaching state.
         - also trigger if user ask just like i have doubt, clarify without mentioning remaining.
+        Dont trigger when the students's ask:
+        - When student include chapter name, or subsection name in their query(identify chapter, subsection names from TOC)
+        - verify query clearly with TOC and then make decision. If you find chapter, subsection name in the student question dont trigger this.
         Examples:
         - "What are you doing?", "Who are you?", "Tell me something funny", "What is the weather?", "Can you help me?", "I don't understand" (when no specific concept is mentioned), "What?", "Huh?", "Can you explain?" (without specifying what), "What does this mean?" (without enough context)
     
@@ -95,8 +98,8 @@ def determine_retrieval_method(query):
 
     ### OUTPUT RULES & SPECIFICATION
     - Return ONLY valid raw JSON. Do NOT wrap it in markdown code blocks. No explanations.
-    - In arguments return query as same as query given to you 
-    - In argument return Optimised_query based on the TOC attached(TOC specific).
+    - In argument return Optimised_query based on the TOC attached(TOC specific). Optimising query is very important and this is my first priority.
+    - Optimise query properly with common sense based on TOC tagged above.
     - Set irrelevant arguments to null.
     - "Test_Quiz" must be a boolean (true/false), never a string.
 

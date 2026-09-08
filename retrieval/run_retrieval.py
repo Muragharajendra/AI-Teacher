@@ -72,15 +72,34 @@ def retrieve_type(
 
     elif INP == "metadata_filtering":
 
-        return metadata_filter(
+        m_filt= metadata_filter(
             vectorstore,
             query
         )
-    elif INP=="Important_Question_Generation":
-        return metadata_filter(
+        if not m_filt:
+            return retrieve_chunks(
+                        hybrid_retriever,
+                        query,
+                        top_k=5
+                    )
+        else:
+            return m_filt
+
+    
+    elif INP == "Important_Question_Generation":
+        m_filt = metadata_filter(
             vectorstore,
             query
         )
+        if not m_filt:
+            return retrieve_chunks(
+                        hybrid_retriever,
+                        query,
+                        top_k=5
+                    )
+        else:
+            return m_filt
+    
 # retrieve_type(
 #     "European Union",
 #     INP="hybrid_search"
