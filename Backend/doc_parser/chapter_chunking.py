@@ -1,8 +1,8 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
-from doc_parser.markdown_cleaner import clean_and_normalize_markdown
+from Backend.doc_parser.markdown_cleaner import clean_and_normalize_markdown
 
 # Read cleaned markdown from markdown_cleaner output
-with open("docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
+with open("Backend/docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
         raw_markdown = f.read()
 markdown_text=clean_and_normalize_markdown(raw_markdown)  # cleaning will be done in markdown_cleaner.py
 
@@ -56,7 +56,7 @@ def create_chunks(markdown_text):
 final_chunks = create_chunks(markdown_text)
 
 # Write chunks to text_md_test_1.md
-with open("docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
+with open("Backend/docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
     for i, chunk in enumerate(final_chunks):
         f.write(f"--- CHUNK {i} ---\n")
         f.write(f"Metadata: {chunk.metadata}\n")

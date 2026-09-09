@@ -15,11 +15,11 @@ from langchain_classic.retrievers import EnsembleRetriever
 # Environment
 # ============================================================
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 load_dotenv(BASE_DIR / ".env")
 
-CHROMA_DIR = BASE_DIR / "docs" / "vectorstore"
+CHROMA_DIR = BASE_DIR / "Backend" / "docs" / "vectorstore"
 COLLECTION_NAME = "ai_teacher"
 
 TOP_K = 5

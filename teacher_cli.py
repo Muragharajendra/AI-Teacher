@@ -1,5 +1,5 @@
 
-from teacher.graph import graph
+from Backend.teacher.graph import graph
 
 
 def print_teacher_response(result):

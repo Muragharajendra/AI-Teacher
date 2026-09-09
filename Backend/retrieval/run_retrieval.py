@@ -1,9 +1,9 @@
-from doc_parser.chapter_chunking import (
+from Backend.doc_parser.chapter_chunking import (
     create_chunks,
     markdown_text
 )
 
-from retrieval.retriever import (
+from Backend.retrieval.retriever import (
     initialize_retrieval_system,
     retrieve_chunks,
     metadata_filter

@@ -2,10 +2,9 @@ from __future__ import annotations
 
 from collections import OrderedDict
 from typing import Any, Mapping
-from retrieval.run_retrieval import retrieve_type
-from retrieval.Inner_LLM import LLM_Input
-from retrieval.outer_LLM import determine_retrieval_method
-from retrieval.i_retriever_second import TOC_Overview
+from Backend.retrieval.run_retrieval import retrieve_type
+from Backend.retrieval.Inner_LLM import LLM_Input
+from Backend.retrieval.outer_LLM import determine_retrieval_method
 import json
 
 

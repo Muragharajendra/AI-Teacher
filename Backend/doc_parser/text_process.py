@@ -2,7 +2,7 @@ import re
 import pymupdf4llm
 from pymupdf4llm.ocr import tesseract_api
 
-DOC = "docs/inp_docs/NCERT-Class-10-History.pdf"
+DOC = "Backend/docs/inp_docs/NCERT-Class-10-History.pdf"
 
 pages = pymupdf4llm.to_markdown(
     DOC,
@@ -68,7 +68,7 @@ for chunk in pages:
 
 extracted_info="\n".join(extracted_text)
 
-with open("docs/extracted_text/text_md_1.md", "w", encoding="utf-8") as f:
+with open("Backend/docs/extracted_text/text_md_1.md", "w", encoding="utf-8") as f:
     ext_lines=extracted_info.splitlines()
     for line_ind, line in enumerate(ext_lines):
         if any(patt.match(line) for patt in MARKDOWN_FOOTER_PATTERNS):
@@ -139,6 +139,6 @@ def text_extract():
         list1.append(i)
         
     return "\n".join(list1)
-with open("docs/extracted_text/text_md_test.md", "w", encoding="utf-8") as f:
+with open("Backend/docs/extracted_text/text_md_test.md", "w", encoding="utf-8") as f:
      f.write(text_extract())
 print("Done!")

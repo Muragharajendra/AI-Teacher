@@ -15,7 +15,7 @@ text_extracted=text_extract()
 if not text_extracted.strip():
     raise ValueError("Extracted Text Not Found")
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 load_dotenv(BASE_DIR / ".env")
 
 # Check api load
@@ -60,7 +60,7 @@ try:
 
     result = result.strip()
     parsed=json.loads(result)
-    with open("docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
+    with open("Backend/docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
         json.dump(parsed, f, indent=4, ensure_ascii=False )
     print("Json created successfully")
 except json.JSONDecodeError:
