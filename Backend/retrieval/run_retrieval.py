@@ -26,7 +26,7 @@ print(
 
 retrievers = initialize_retrieval_system(
     chunks=chunks,
-    rebuild=False
+    rebuild=True
 )
 
 
