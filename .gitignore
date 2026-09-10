@@ -1,19 +1,26 @@
-# Python
+
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Virtual environment
-myenv/
+
 venv/
-
-# Environment variables
-.env
-
-.vscode/
-
+.venv/
+myenv/
 .virtualenv/
 
 
+.env
+.env.*
 
-/script_to_export_folder.txt
+.vscode/
+.idea/
 
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+
+/script_to_export_folder.py
