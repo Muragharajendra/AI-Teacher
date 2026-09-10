@@ -1,10 +1,13 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
 from Backend.doc_parser.markdown_cleaner import clean_and_normalize_markdown
+import pathlib
 
 # Read cleaned markdown from markdown_cleaner output
-with open("Backend/docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
-        raw_markdown = f.read()
-markdown_text=clean_and_normalize_markdown(raw_markdown)  # cleaning will be done in markdown_cleaner.py
+BASE_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
+def Markdown_extract():
+    with open(BASE_DIR/ "Backend/docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
+            raw_markdown = f.read()
+    return clean_and_normalize_markdown(raw_markdown)  # cleaning will be done in markdown_cleaner.py
 
 def create_chunks(markdown_text):
 
@@ -50,17 +53,18 @@ def create_chunks(markdown_text):
 
     print(f"Total number of chunks created: {len(final_chunks)}")
     # print(final_chunks[0])
-    
+    # Write chunks to text_md_test_1.md
+    with open(BASE_DIR/ "Backend/docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
+        for i, chunk in enumerate(final_chunks):
+            f.write(f"--- CHUNK {i} ---\n")
+            f.write(f"Metadata: {chunk.metadata}\n")
+            f.write(f"Content:\n{chunk.page_content}\n")
+            f.write("="*100 + "\n\n")
+
+    print(f"\n All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")
+
     return final_chunks
+if __name__=="__main__":
+    print(create_chunks(Markdown_extract()))
 
-final_chunks = create_chunks(markdown_text)
 
-# Write chunks to text_md_test_1.md
-with open("Backend/docs/extracted_text/text_md_test_1.md", "w", encoding="utf-8") as f:
-    for i, chunk in enumerate(final_chunks):
-        f.write(f"--- CHUNK {i} ---\n")
-        f.write(f"Metadata: {chunk.metadata}\n")
-        f.write(f"Content:\n{chunk.page_content}\n")
-        f.write("="*100 + "\n\n")
-
-print(f"\n All {len(final_chunks)} chunks written to docs/extracted_text/text_md_test_1.md")

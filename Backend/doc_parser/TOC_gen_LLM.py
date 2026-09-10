@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
-from text_process import text_extract
+from Backend.doc_parser.text_process import text_extract
 import json
 
 
@@ -33,7 +33,7 @@ def LLM_TOC_GEN():
     if not text_extracted.strip():
         raise ValueError("Extracted Text Not Found")
 
-    with open("docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
+    with open(BASE_DIR /"Backend/docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
         promt=f.read()
 
     response = client.chat.completions.create(
@@ -52,7 +52,6 @@ def LLM_TOC_GEN():
         max_completion_tokens=4096
     )
     try:
-        result=response.choices[0].message.content
         result = response.choices[0].message.content.strip()
 
         if result.startswith("```json"):
@@ -65,11 +64,22 @@ def LLM_TOC_GEN():
             result = result[:-3]
 
         result = result.strip()
+        if not result:
+            raise ValueError("LLM returned an empty response")
+        print("LLM_TOC_Result", result)
+        
         parsed=json.loads(result)
-        with open("Backend/docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
-            json.dump(parsed, f, indent=4, ensure_ascii=False )
-        # print("Json created successfully")
-    except json.JSONDecodeError:
-        raise ValueError("Improper data. Cant create TOC JSON")
-        print(result)
-        print("Improper data. Cant create TOC JSON")
+        with open(BASE_DIR /"Backend/docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
+                    json.dump(parsed, f, indent=4, ensure_ascii=False )
+                # print("Json created successfully")
+    except json.JSONDecodeError as e:
+        print("========== JSON ERROR ==========")
+        print("Error:", e)
+        print("Raw LLM result:")
+        print(repr(result))
+        print("================================")
+        raise ValueError("LLM returned invalid JSON") from e
+    
+
+if __name__=="__main__":
+    LLM_TOC_GEN()

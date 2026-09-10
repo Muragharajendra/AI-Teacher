@@ -1,6 +1,6 @@
 from Backend.doc_parser.chapter_chunking import (
     create_chunks,
-    markdown_text
+    Markdown_extract
 )
 
 from Backend.retrieval.retriever import (
@@ -13,35 +13,48 @@ from Backend.retrieval.retriever import (
 # ============================================================
 # 1. Create chunks
 # ============================================================
+def chunks_creation():
+    chunks = create_chunks(Markdown_extract())
 
-chunks = create_chunks(markdown_text)
-
-print(
-    f"Total chunks created: {len(chunks)}"
-)
+    print(
+        f"Total chunks created: {len(chunks)}"
+    )
+    return chunks
 
 # ============================================================
 # 2. Initialize retrieval system ONCE
 # ============================================================
+def retrievers_gen(rebuild):
+    retrievers = initialize_retrieval_system(
+        chunks=chunks_creation(),
+        rebuild=rebuild          # NOTE: MAKE REBUILD fALSE IF YOU RUN THIS CODE 2ND TIME AFTER VECTORE STORAGE.
+    )
+    return retrievers
 
-retrievers = initialize_retrieval_system(
-    chunks=chunks,
-    rebuild=True
-)
+
+retrievers = None
+
+hybrid_retriever = None
+semantic_retriever = None
+bm25_retriever = None
+vectorstore = None
 
 
-# ============================================================
-# 3. Get retrievers
-# ============================================================
+def initialize_retrievers(rebuild=False):
 
-hybrid_retriever = retrievers["hybrid"]
+    global retrievers
+    global hybrid_retriever
+    global semantic_retriever
+    global bm25_retriever
+    global vectorstore
 
-semantic_retriever = retrievers["semantic"]
+    retrievers = retrievers_gen(rebuild=rebuild)
 
-bm25_retriever = retrievers["bm25"]
-
-vectorstore = retrievers["vectorstore"]
-
+    hybrid_retriever = retrievers["hybrid"]
+    semantic_retriever = retrievers["semantic"]
+    bm25_retriever = retrievers["bm25"]
+    vectorstore = retrievers["vectorstore"]
+    print("========== Retrieval system initialized ==========")
 
 # ============================================================
 # 4. Retrieval function
@@ -51,6 +64,11 @@ def retrieve_type(
     query,
     INP="hybrid_search"
 ):
+    if retrievers is None:
+        raise RuntimeError(
+            "Retrieval system is not initialized. "
+            "Call initialize_retrievers() first."
+        )
 
     if INP == "semantic_retrieval":
 
