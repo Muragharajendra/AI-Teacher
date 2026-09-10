@@ -46,9 +46,6 @@ def main():
             print("\nExiting...")
             break
 
-        # --------------------------------------------------
-        # Ignore empty input
-        # --------------------------------------------------
 
         if not query:
             continue
