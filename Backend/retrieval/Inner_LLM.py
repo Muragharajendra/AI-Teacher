@@ -362,7 +362,7 @@ def LLM_resp_gen_clarification( query):
 
     return response.choices[0].message.content.strip()
 
-with open("Backend/docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
+with open(BASE_DIR/ "Backend/docs/TOC_from_llm/TOC_from_llm_1.json", "r", encoding="utf-8") as f:
     TOC_from_llm=json.load(f)
 TOC_for_LLM=json.dumps(TOC_from_llm, indent=4)
 def LLM_resp_gen_TOC_Overview(query):
@@ -495,9 +495,9 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
         # ALL Top k retrieved chunks will be passed to the LLM to get the final user deliver text
         LLM_resp=LLM_resp_gen_symantic_search(ret_chunk_str, query) # LLM response
         # Passing to TTS Model.
-        # with open("Backend/docs/Final_LLM_responses/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
-        #     f.write(LLM_resp)
-        print(f"LLM Response semantic_search :\n{LLM_resp}")
+        with open(BASE_DIR/ "Backend/docs/Final_LLM_responses/semantic_search_LLM_resp.txt", "w", encoding="utf-8") as f:
+            f.write(LLM_resp)
+        # print(f"LLM Response semantic_search :\n{LLM_resp}")
         print("\n\n# LLM Response saved to 'docs/Final_LLM_responses/semantic_search_LLM_resp.txt'")
         return LLM_resp
 
@@ -520,9 +520,9 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
                     final_responses.append(LLM_response)
                     # write, append to file
-                    # with open("Backend/docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
-                    #     f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
-                    #     f.write(LLM_response)
+                    with open(BASE_DIR/ "Backend/docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                        f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
+                        f.write(LLM_response)
                     batch_num += 1
                     batch = ""
                 
@@ -533,9 +533,9 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
                     LLM_response=LLM_resp_gen_metadata_filtering(batch.strip(), query=query)  # LLM response
                     final_responses.append(LLM_response)
                     # write, append to file
-                    # with open("Backend/docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
-                    #     f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
-                    #     f.write(LLM_response)
+                    with open(BASE_DIR/ "Backend/docs/Final_LLM_responses/metadata_filted_LLM_resp.txt", "a", encoding="utf-8") as f:
+                        f.write(f"\n\n# Batch {batch_num} LLM Response:\n")
+                        f.write(LLM_response)
                     print(f"\n\n# Batch {batch_num} LLM Response saved to 'docs/Final_LLM_responses/metadata_filted_LLM_resp.txt'")
                     batch_num += 1
                     batch = ""
@@ -543,18 +543,18 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
                 # Add chunk to batch
                 batch = potential_batch
         return "\n\n".join(final_responses)
-        print("\n\n LLM response metadata_filtering:", "\n\n".join(final_responses) )
+        # print("\n\n LLM response metadata_filtering:", "\n\n".join(final_responses) )
     elif retrieval_method == "clarification":
         LLM_resp= LLM_resp_gen_clarification(query)
-        print("\n\n LLM response unclarified_query:", LLM_resp)
+        # print("\n\n LLM response unclarified_query:", LLM_resp)
         return LLM_resp
     elif retrieval_method == "TOC_Overview":
         LLM_returns=LLM_resp_gen_TOC_Overview(query)
-        print("TOC_Overview:")
+        # print("TOC_Overview:")
         return LLM_returns
     elif retrieval_method == "Important_Question_Generation":
         LLM_r=LLM_resp_gen_IMP_Que_Gen(chunks, query) 
-        print("IMP_QUE_GEN:", LLM_r)
+        # print("IMP_QUE_GEN:", LLM_r)
         return LLM_r
 
     else:
@@ -566,11 +566,11 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
         )
 
         with open(
-            "docs/Final_LLM_responses/semantic_search_LLM_resp.txt",
+            BASE_DIR/ "docs/Final_LLM_responses/semantic_search_LLM_resp.txt",
             "w",
             encoding="utf-8"
         ) as f:
             f.write(LLM_resp)
 
         return LLM_resp
-        print("\n\n LLM repsonse else_case symantic search:", LLM_resp)
+        # print("\n\n LLM repsonse else_case symantic search:", LLM_resp)

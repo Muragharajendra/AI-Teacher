@@ -17,9 +17,7 @@ def print_teacher_response(result):
 
 
 def main():
-    # --------------------------------------------------
-    # SESSION
-    # --------------------------------------------------
+   
 
     thread_id = "student-001"
 
@@ -48,9 +46,6 @@ def main():
             print("\nExiting...")
             break
 
-        # --------------------------------------------------
-        # Ignore empty input
-        # --------------------------------------------------
 
         if not query:
             continue
@@ -68,18 +63,7 @@ def main():
             # --------------------------------------------------
             # SEND QUERY TO LANGGRAPH
             # --------------------------------------------------
-
-            result = graph.invoke(
-                {
-                    "user_query": query
-                },
-                config=config
-            )
-
-            # --------------------------------------------------
-            # PRINT RESPONSE
-            # --------------------------------------------------
-
+            result = graph.invoke({"user_query": query }, config=config)
             print_teacher_response(result)
 
         except Exception as e:
