@@ -11,4 +11,9 @@ venv/
 
 .vscode
 
-.virtualenv
+.virtualenv/
+
+.gitignore
+
+script_to_export_folder.txt
+
