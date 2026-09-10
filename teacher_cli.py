@@ -63,16 +63,7 @@ def main():
             # --------------------------------------------------
             # SEND QUERY TO LANGGRAPH
             # --------------------------------------------------
-
-            result = graph.invoke(
-                {
-                    "user_query": query
-                },
-                config=config
-            )
-
-
-
+            result = graph.invoke({"user_query": query }, config=config)
             print_teacher_response(result)
 
         except Exception as e:
