@@ -9,11 +9,11 @@ venv/
 # Environment variables
 .env
 
-.vscode
+.vscode/
 
 .virtualenv/
 
-.gitignore
 
-script_to_export_folder.txt
+
+/script_to_export_folder.txt
 
