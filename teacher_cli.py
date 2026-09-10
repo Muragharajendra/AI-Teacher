@@ -71,9 +71,7 @@ def main():
                 config=config
             )
 
-            # --------------------------------------------------
-            # PRINT RESPONSE
-            # --------------------------------------------------
+
 
             print_teacher_response(result)
 
