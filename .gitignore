@@ -11,4 +11,4 @@ venv/
 
 .vscode
 
-deepgram_proj
+.virtualenv
