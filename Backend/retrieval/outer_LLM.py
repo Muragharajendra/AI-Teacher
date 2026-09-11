@@ -55,7 +55,7 @@ def determine_retrieval_method(query):
     - Trigger metadata_filtering even if the user mentions a chapter/section name in the query. In such cases, metadata_filtering takes precedence over hybrid_search.
     
     3. TOC_Overview
-    - Trigger when the user asks only strictly about the Table of Contents, syllabus structure, covered topics, chapters, or sections available in the book.
+    - Trigger when the user asks only strictly about the Table of Contents, syllabus structure, covered topics, chapters, chapter page number or sections available in the book.
 
     4. Student_Progress_Tracking
     - Trigger when the user asks about their own learning progress, history, or concepts already studied.

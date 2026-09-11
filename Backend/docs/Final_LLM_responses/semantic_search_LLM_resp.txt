@@ -1,11 +1,34 @@
-**Table of Contents (TOC) Overview**
+**Short Overview**
 
-The TOC outlines the structure of the chapter, showing how the material is organized into three main sections and several subtopics:
+| Topic | Key Points (from the material) |
+|-------|--------------------------------|
+| **First World War** | Ended with the defeat of Ottoman Turkey. Rumours circulated that a harsh peace treaty would be imposed on the Ottoman emperor, the spiritual head of the Islamic world (the Khalifa). |
+| **Khilafat Movement** | Formed in 1919 (Khilafat Committee in Bombay). Muslim leaders, notably Muhammad Ali and Shaukat Ali, sought to defend the Khalifa’s temporal powers. They saw the war’s outcome as a threat to the Caliphate. |
+| **Non‑Cooperation Movement** | Began in January 1921. Gandhi launched it to unite Hindus and Muslims under a broad national struggle for Swaraj (self‑rule). He used the Khilafat issue as a bridge to bring Muslims into the movement. |
+| **Interaction** | The Khilafat concern provided a common cause that helped Gandhi expand his non‑cooperation campaign beyond urban centers and include diverse social groups, each interpreting Swaraj in their own way. |
 
-| Section | Title | Sub‑topics |
-|---------|-------|------------|
-| **Section I: Events and Processes** |  | I. The Rise of Nationalism in Europe<br>II. The Nationalist Movement in Indo‑China<br>III. Nationalism in India |
-| **Section II: Livelihoods, Economies and Societies** |  | IV. The Making of a Global World<br>V. The Age of Industrialisation<br>VI. Work, Life and Leisure |
-| **Section III: Everyday Life, Culture and Politics** |  | VII. Print Culture and the Modern World<br>VIII. Novels, Society and History |
+---
 
-The TOC also includes introductory pages (Foreword, Introduction) and a brief activity that asks readers to interpret a visual (Fig. 1) in the context of the chapter’s themes. This structure guides the reader through the historical development of nationalism, its socio‑economic impacts, and its cultural manifestations.
+### 1. First World War (1914‑1918)
+
+- The war ended with the defeat of the Ottoman Empire.
+- The future of the Ottoman emperor (the Khalifa) was uncertain; many feared a severe peace settlement.
+
+### 2. Khilafat Movement (1919‑1922)
+
+- **Goal:** Protect the temporal authority of the Khalifa.
+- **Key Players:** Muhammad Ali and Shaukat Ali formed a Khilafat Committee in Bombay.
+- **Context:** The movement emerged because Muslims worried about the fate of the Caliphate after the war.
+
+### 3. Non‑Cooperation Movement (1921‑1922)
+
+- **Initiator:** Mahatma Gandhi.
+- **Purpose:** A broad‑based campaign for Indian self‑rule (Swaraj) that also supported the Khilafat cause.
+- **Strategy:** Unite Hindus and Muslims by addressing a shared concern (the Khilafat issue) and encouraging mass non‑cooperation with British authorities.
+- **Outcome:** Mobilized various social groups, each with its own interpretation of Swaraj, under a single national movement.
+
+---
+
+**Bottom Line**
+
+The First World War’s outcome threatened the Ottoman Caliphate, prompting the Khilafat movement. Gandhi leveraged this shared Muslim concern to broaden his non‑cooperation campaign, aiming to unite Hindus and Muslims in the struggle for Indian self‑rule.

@@ -644,3 +644,47 @@ These conditions form the *social capital* upon which a national idea is built.
 - **Dynamic existence**: The nation’s reality is a daily plebiscite, constantly renewed by its inhabitants.
 
 Renan’s perspective emphasizes that a nation is not a static entity but a living, collective commitment forged through shared history, present unity, and future aspirations.
+
+# Batch 1 LLM Response:
+**The First World War, Khilafat and Non‑Cooperation – 5‑Line Summary**
+
+1. WWI forced India to raise taxes, increase defence spending, and conscript soldiers, leading to price hikes, famines, and an influenza epidemic that killed millions.  
+2. Gandhi returned in 1915 and launched *satyagraha*, a non‑violent truth‑based resistance that mobilised peasants and workers against injustice.  
+3. The 1919 Rowlatt Act triggered nationwide satyagraha; brutal British repression, notably the Jallianwala Bagh massacre, intensified public outrage.  
+4. Gandhi allied the Khilafat cause—protecting the Ottoman Caliph—to unite Hindus and Muslims under a single national movement.  
+5. The 1920‑22 Non‑Cooperation Movement combined Khilafat support with the demand for *swaraj*, engaging millions in civil disobedience.
+
+# Batch 2 LLM Response:
+The material does not include details about the First World War.  
+The Khilafat movement, tied to the Ottoman Caliphate, joined the Non‑Cooperation campaign in 1921.  
+Gandhi’s plan called for a staged boycott of civil services, courts, schools, and foreign goods.  
+Middle‑class students left schools, teachers resigned, and lawyers withdrew from practice.  
+Peasants in Awadh, led by Baba Ramchandra, joined, demanding lower rents and ending forced labour, while the boycott of foreign cloth cut imports by half.
+
+# Batch 3 LLM Response:
+**Insufficient information on the First World War and the Khilafat movement.**  
+**Non‑Cooperation Movement (1920‑22)**  
+- Led by Mahatma Gandhi, it urged Indians to wear khadi, boycott British goods, and give up alcohol.  
+- Gandhi framed it as a mass civil‑disobedience campaign to achieve Swaraj.  
+- The movement was halted after the violent Chauri Chaura incident, when Gandhi called it off.
+
+# Batch 4 LLM Response:
+I’m sorry, but the information you provided does not contain any details about the First World War, the Khilafat movement, or the Non‑Cooperation movement. Therefore, I cannot give a short summary of those topics based on the supplied content.
+
+# Batch 5 LLM Response:
+- WWI (1914‑1918) ended in 1918, leaving Indian workers and peasants discontented.  
+- In 1919, UP peasants organized, Gandhi called a hartal against the Rowlatt Act, and the Jallianwala Bagh massacre shocked the nation.  
+- In January 1921, the Congress launched the Non‑Cooperation Movement, joined by the Khilafat movement of Muslim leaders seeking to protect the Ottoman Caliphate.  
+- The movement was halted in February 1922 after the Chauri Chaura incident, prompting Gandhi to withdraw it.  
+- By 1929 the Congress adopted the demand for Purna Swaraj, setting the stage for the 1930 Civil Disobedience Movement.
+
+# Batch 6 LLM Response:
+**Answer**
+
+I’m sorry, but the information you provided does not contain any details about the First World War, the Khilafat movement, or the Non‑Cooperation movement. Therefore, I cannot give a short summary of those topics based on the supplied material.
+
+# Batch 7 LLM Response:
+I’m sorry, but the information you provided does not contain any details about the First World War, the Khilafat movement, or the Non‑Cooperation movement. Therefore I cannot give a meaningful answer to that request.
+
+# Batch 8 LLM Response:
+I’m sorry, but the information provided does not contain any details about the First World War, the Khilafat movement, or the Non‑Cooperation movement.
