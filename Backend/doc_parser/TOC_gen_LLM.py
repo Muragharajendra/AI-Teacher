@@ -11,7 +11,6 @@ import json
 # with open("docs/extracted_text/text_md_test.md", "r", encoding="utf-8") as f:
 #     text_extracted=f.read()
 
-
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 load_dotenv(BASE_DIR / ".env")
 
@@ -20,12 +19,10 @@ api_key=os.getenv("GROQ_API_KEY")
 if not api_key:
     raise ValueError("API key not Found")
 
-
 client = OpenAI(
     api_key=api_key,
     base_url="https://api.groq.com/openai/v1",
 )
-
 
 def LLM_TOC_GEN():
     # Input for llm to get proper TOC
@@ -35,7 +32,6 @@ def LLM_TOC_GEN():
 
     with open(BASE_DIR /"Backend/docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
         promt=f.read()
-
     response = client.chat.completions.create(
         model="openai/gpt-oss-20b",
         messages=[
@@ -80,6 +76,5 @@ def LLM_TOC_GEN():
         print("================================")
         raise ValueError("LLM returned invalid JSON") from e
     
-
 if __name__=="__main__":
     LLM_TOC_GEN()
