@@ -571,6 +571,5 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
             encoding="utf-8"
         ) as f:
             f.write(LLM_resp)
-
         return LLM_resp
         # print("\n\n LLM repsonse else_case symantic search:", LLM_resp)
