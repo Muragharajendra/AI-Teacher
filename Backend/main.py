@@ -85,38 +85,22 @@ def main():
             print("\nExiting...")
             break
 
-        # --------------------------------------------------
-        # Ignore empty input
-        # --------------------------------------------------
-
         if not query:
             continue
-
-        # --------------------------------------------------
-        # Exit
-        # --------------------------------------------------
 
         if query.lower() in {"exit", "quit", "q"}:
             print("Goodbye!")
             break
 
         try:
-
-            # --------------------------------------------------
             # SEND QUERY TO LANGGRAPH
-            # --------------------------------------------------
-
             result = graph.invoke(
                 {
                     "user_query": query
                 },
                 config=config
             )
-
-            # --------------------------------------------------
             # PRINT RESPONSE
-            # --------------------------------------------------
-
             print_teacher_response(result)
 
         except Exception as e:
@@ -129,4 +113,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-                   
+                

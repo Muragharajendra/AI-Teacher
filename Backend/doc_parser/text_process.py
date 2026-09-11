@@ -1,9 +1,9 @@
 import re
 import pymupdf4llm
 from pymupdf4llm.ocr import tesseract_api
-import pathlib
+from pathlib import Path
 
-BASE_DIR=pathlib.path(__file__).resolve.parent.parent.parent
+BASE_DIR=Path(__file__).resolve().parent.parent.parent
 REMOVE_KEYWORDS = {
         "page number:",
         "activity",
@@ -23,6 +23,7 @@ REMOVE_KEYWORDS = {
         "web links",
         "assessment pattern",
         "marks distribution",
+        "End of picture text"
     }
 
 patterns = [
@@ -62,16 +63,11 @@ def INP_pdf(Document="Backend/docs/inp_docs/NCERT-Class-10-History.pdf"):
 
     extracted_text=[]
 
-
     for chunk in pages:
-        # page_num=chunk["metadata"]["page_number"]
-        # extracted_text.append(f"page number:{page_num}")
-
         lines = chunk["text"].splitlines()
         for line in lines:
             if line.strip():
                 extracted_text.append(line)   
-
     extracted_info="\n".join(extracted_text)
 
     # writing extracted text to file
@@ -85,7 +81,6 @@ def INP_pdf(Document="Backend/docs/inp_docs/NCERT-Class-10-History.pdf"):
             else:
                 f.write(f"{line}\n")
             
-        
 def text_extract_for_llm():
     with open(BASE_DIR/ "Backend/docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as infile:
         extracted_info=infile.read()
@@ -100,9 +95,6 @@ def text_extract_for_llm():
         elif any(pattern.match(clean_line) for pattern in patterns):
             # outfile.write("["+str(line_num)+"]"+" "+clean_line+ "\n")
             text_llm.append(f"[{line_num}] {clean_line}\n")
-    # text1_llm=[]
-    # for i in text_llm:
-    #     if not i.strip():
 
     a=[]
     for line_ind, line in enumerate(text_llm):
@@ -121,29 +113,35 @@ def text_extract_for_llm():
     return "\n".join(a)
 
 def text_extract():
-    list1 = []
     ex_text = text_extract_for_llm()
     lines = ex_text.splitlines()
-    
-    for line_index, i in enumerate(lines):
-        clean_line = i.strip().lower()
-        
+    cleaned_lines = []
+
+    for line_index, line in enumerate(lines):
+        clean_line = line.strip().lower()
+        # Remove duplicate footer page number
         if "footer page number:" in clean_line:
             is_duplicate = False
             for next_idx in range(line_index + 1, len(lines)):
-                next_line_stripped = lines[next_idx].strip().lower()
-
-                if "footer page number:" in next_line_stripped:
+                next_line = lines[next_idx].strip().lower()
+                if not next_line:
+                    continue
+                if "footer page number:" in next_line:
                     is_duplicate = True
-                    break
-                elif next_line_stripped:
-                    break
+                break
             if is_duplicate:
-                continue # Skip the first footer
-                
-        list1.append(i)
-        
-    return "\n".join(list1)
+                continue
+
+        # Remove picture text markers
+        if "start of picture text" in clean_line:
+            continue
+        if "-- end of picture text -->" in clean_line:
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines)
+
 with open(BASE_DIR/ "Backend/docs/extracted_text/text_md_test_headers.md", "w", encoding="utf-8") as f:
     f.write(text_extract())
 print("Done!")
+if __name__=="__main__":
+    text_extract()

@@ -1,10 +1,10 @@
 from dotenv import load_dotenv
 from groq import Groq
 import os
-import pathlib
+from pathlib import Path
 import json
 
-BASE_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 load_dotenv(BASE_DIR / ".env")
 api_key = os.getenv("GROQ_API_KEY")
 
@@ -434,6 +434,7 @@ def LLM_resp_gen_IMP_Que_Gen(chunks, query):
     RETRIEVED CONTENT:
     {context}
 
+
     TASK:
     Generate ONLY the most important questions that directly match the user's request.
 
@@ -461,7 +462,6 @@ def LLM_resp_gen_IMP_Que_Gen(chunks, query):
     3. Question
     ...
     """
-
     response = client.chat.completions.create(
         model="openai/gpt-oss-20b",
         messages=[
@@ -571,6 +571,5 @@ def LLM_Input(chunks, query, top_k=5, retrieval_method="hybrid_search"):
             encoding="utf-8"
         ) as f:
             f.write(LLM_resp)
-
         return LLM_resp
         # print("\n\n LLM repsonse else_case symantic search:", LLM_resp)
