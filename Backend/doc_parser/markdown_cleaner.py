@@ -124,22 +124,15 @@ remove_keyword = {
     "_Source_"
 }
 
-
 def clean_markdown(text: str) -> str:
-
-    # 1. Normalize line endings
     text = text.replace("\r\n", "\n")
     text = text.replace("\r", "\n")
-
-    # 2. Remove PyMuPDF4LLM picture-text blocks
     text = re.sub(
         r"<!--\s*Start of picture text\s*-->.*?<!--\s*End of picture text\s*-->",
         "",
         text,
         flags=re.IGNORECASE | re.DOTALL
     )
-
-    # 3. Remove <mark> but preserve content
     text = re.sub(
         r"<mark>(.*?)</mark>",
         r"\1",
@@ -147,84 +140,61 @@ def clean_markdown(text: str) -> str:
         flags=re.DOTALL | re.IGNORECASE
     )
 
-    # 4. Remove <br>
     text = re.sub(
         r"<br\s*/?>",
         " ",
         text,
         flags=re.IGNORECASE
     )
-
-    # 5. Remove excessive spaces/tabs
     text = re.sub(r"[ \t]+", " ", text)
-
-    # 6. Strip each line
     text = "\n".join(
         line.strip()
         for line in text.splitlines()
     )
-
-    # 7. Normalize blank lines
     text = re.sub(r"\n{3,}", "\n\n", text)
-
     return text.strip()
 
 
 def clean_heading_text(text: str) -> str:
-
     text = re.sub(
         r"<mark>(.*?)</mark>",
         r"\1",
         text,
         flags=re.DOTALL | re.IGNORECASE
     )
-
     text = text.replace("**", "")
     text = text.replace("__", "")
     text = text.replace("`", "")
-
     return text.strip()
 
 
 def normalize_headings(text: str) -> str:
-
     lines = text.splitlines()
     normalized = []
-
     for line in lines:
-
         match = re.match(
             r"^(#{1,6})\s+(.*)$",
             line
         )
-
         if not match:
             normalized.append(line)
             continue
 
         hashes = match.group(1)
         heading_text = match.group(2)
-
-        heading_text = clean_heading_text(
-            heading_text
-        )
-
+        heading_text = clean_heading_text(heading_text)
         normalized.append(
             f"{hashes} {heading_text}"
         )
-
     return "\n".join(normalized)
 
 
 def normalize_heading_levels(text: str) -> str:
-
     lines = text.splitlines()
     normalized = []
-
     previous_level = 0
 
     for line in lines:
-
         match = re.match(
             r"^(#{1,6})\s+(.*)$",
             line
@@ -239,26 +209,20 @@ def normalize_heading_levels(text: str) -> str:
 
         if previous_level == 0:
             new_level = level
-
         elif level > previous_level + 1:
             new_level = previous_level + 1
-
         else:
             new_level = level
 
         new_level = min(new_level, 6)
-
         normalized.append(
             f"{'#' * new_level} {heading_text}"
         )
-
         previous_level = new_level
-
     return "\n".join(normalized)
 
 
 def remove_headers(text):
-
     lines = text.splitlines()
     cleaned_lines = []
 
@@ -268,9 +232,7 @@ def remove_headers(text):
     }
 
     for line in lines:
-
         stripped = line.strip()
-
         # Detect Markdown heading
         match = re.match(
             r"^#{1,6}\s*(.*?)\s*$",
@@ -278,10 +240,7 @@ def remove_headers(text):
         )
 
         if match:
-
             heading = match.group(1)
-
-            # Remove markdown formatting
             heading = re.sub(
                 r"[*_`]",
                 "",
@@ -299,28 +258,17 @@ def remove_headers(text):
             if heading in keywords:
                 continue
 
-            # Match things like:
-            # Activity 1
-            # Discuss 3f
-            # Source A
-            # Box 2
             for keyword in keywords:
-
                 pattern = rf"^{re.escape(keyword)}(?:\s+\S+)*$"
-
                 if re.fullmatch(pattern, heading):
                     break
-
             else:
                 cleaned_lines.append(line)
                 continue
-
             continue
 
         cleaned_lines.append(line)
-
     return "\n".join(cleaned_lines)
-
 
 def clean_and_normalize_markdown(text: str) -> str:
 
