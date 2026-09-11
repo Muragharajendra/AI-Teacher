@@ -1,9 +1,9 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
 from Backend.doc_parser.markdown_cleaner import clean_and_normalize_markdown
-import pathlib
+from pathlib import Path
 
 # Read cleaned markdown from markdown_cleaner output
-BASE_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 def Markdown_extract():
     with open(BASE_DIR/ "Backend/docs/extracted_text/text_md_1.md", "r", encoding="utf-8") as f:
             raw_markdown = f.read()
@@ -65,6 +65,13 @@ def create_chunks(markdown_text):
 
     return final_chunks
 if __name__=="__main__":
-    print(create_chunks(Markdown_extract()))
+    
+    cleaned=Markdown_extract()
+    with open(BASE_DIR/ "Backend/docs/extracted_text/markdown_cleaned_1.md", "w", encoding="utf-8") as f:
+        f.write(cleaned)
+    print("Done!")
+    create_chunks(Markdown_extract())
+    
+
 
 

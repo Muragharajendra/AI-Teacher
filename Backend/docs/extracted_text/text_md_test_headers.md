@@ -1,4 +1,3 @@
-[8] 0 ip Wy<br>a " 4<br>| 4 pa Y)<br>——— y ~ ie 1. \ ce ate<br>= y = Piero mes.<br>3 . G<br>ai<br>o.<br>™ '<br>oo "i<br>Ls .<br>o i “y ’ ‘ e<br>—**<br>4<br>af As i 7 ¥ 7<br>4 é ; ’ : Se rae ;, ae<br>ont vila { ¢ ies<br>> . > ie a £ ” > fio 1<br><!-- End of picture text -->
 
 [13] #### **<u>Contents</u>**
 
@@ -48,13 +47,11 @@
 
 [252] ###### **Meanings of the symbols**
 
-[265] 4 : J-iS<br>. we i , -<br>CK {. 4 w<br>A. — SS eR re a_i<br>x a aor Wal Deh ee = — ’<br><!-- End of picture text -->
 
 [306] ### **The Nationalist Movement in Indo-China**
 
 [312] ##### **1  Emerging from the Shadow of China**
 
-[316] 1855 r a *<br><!-- End of picture text -->
 
 [318] ###### **1.1 Colonial Domination and Resistance**
 
@@ -134,7 +131,6 @@
 
 [651] ###### **2.3 Swaraj in the Plantations**
 
-[658] 4 "dh ben The * f<br>Aa¥ , “a 5 ‘<br>= i<br>wed * Caer f ¥ Ms)<br>~ gt? j ve ° re PPiiirt<br>“= ‘ » « % tS ima Hi hin /<br>/ f * - o 1S<br>“ ‘ i 4 ga 2— , dest ln a<br>~~ ie aw -_<br>i a . = we -_ :<br>es a a<br>_~_ oe es = re L<br>al wa ; A ",<br><2 7 4% ~«~<br>ie aa PF ge bs<br>res . -ol a ’ = a oe 7<br>_—s 7s ‘ nih = Z me aye,<br>. 1 FEcemme = a - z ——, 4<br>tor Ger "age a<br>—_= “> vd 7 ~". =<br>oi ,.. epee- > a = : 2 — - c ¥<br>, i a : 2 ~ “<br><!-- End of picture text -->
 
 [661] ##### **3  Towards Civil Disobedience**
 
@@ -158,7 +154,6 @@
 
 [781] ###### **1.1 Silk Routes Link the World**
 
-[785] 4 ~ 1 t= ; fo<br>*. ia “tif<br>iT ~~, ties<br>—— Te —— a “— Wr. ;<br>4 2!<br>“ 3 +e ~ f yy<br>aa 1 aA es i; of<br><!-- End of picture text -->
 
 [787] ###### **1.2 Food Travels: Spaghetti and Potato**
 
@@ -284,7 +279,6 @@
 
 [1551] ###### **4.4 Land Reclamation in Bombay**
 
-[1564] 2 Se<br>>, : :<br>= , Ft Ue ee<br>e <a a<br><!-- End of picture text -->
 
 [1566] ###### **4.5 Bombay as the City of Dreams: The World of Cinema and Culture**
 
