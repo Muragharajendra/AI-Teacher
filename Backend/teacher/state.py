@@ -38,6 +38,5 @@ class TeacherState(TypedDict, total=False):
     # ========================================================
     # FINAL RESPONSE
     # ========================================================
-
     response: str
 
