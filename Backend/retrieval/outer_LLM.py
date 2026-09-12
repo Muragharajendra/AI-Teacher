@@ -42,12 +42,12 @@ def determine_retrieval_method(query):
     ### OPERATIONS & TRIGGER CRITERIA
 
     1. hybrid_search
-    - Trigger when the user asks about a SPECIFIC piece of info, concept, definition, explanation, example, comparison, or factual question.
+    - Trigger when the user asks only about a SPECIFIC piece of info, concept, definition, explanation, example, comparison, or factual question(strictly).
     - Note: If a user mentions a chapter/section but only asks about a specific sub-topic within it, you MUST use hybrid_search.
     - Add chapter and section names in the JSON output if the user explicitly mentions them in the query. If not mentioned, set them to null.
 
     2. metadata_filtering
-    - Trigger when the user asks/ mentions chapter/ section name in the query. Eg: if user asks like "Explain the Making of Nationalism in Europe properly", you MUST use metadata_filtering because here you will find chapter/ section name in the query.
+    - Trigger when the user asks/ mentions chapter/ section name in the query verify this using attached TOC content. Eg: if user asks like "Explain the Making of Nationalism in Europe properly", you MUST use metadata_filtering because here you will find chapter/ section name in the query.
     - Trigger when the user wants to learn, summarize, or retrieve the COMPLETE content of an entire chapter or section.
     - Keywords indicating complete scope: "teach me the section", "explain the entire chapter", "walk me through the whole section", "complete summary".
     - The chapter/section name MUST match the provided TOC.

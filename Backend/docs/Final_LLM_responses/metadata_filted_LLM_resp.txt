@@ -688,3 +688,56 @@ I’m sorry, but the information you provided does not contain any details about
 
 # Batch 8 LLM Response:
 I’m sorry, but the information provided does not contain any details about the First World War, the Khilafat movement, or the Non‑Cooperation movement.
+
+# Batch 1 LLM Response:
+## The French Revolution and the Idea of the Nation  
+*(Short Summary)*  
+
+### 1. Birth of Modern Nationalism  
+- **1789 Revolution**: France was a territorial state ruled by an absolute monarch.  
+- **Transfer of Sovereignty**: The revolution moved power from the king to the body of French citizens.  
+- **People as Nation**: It declared that the nation would be constituted and directed by the people themselves.
+
+### 2. Building a Collective Identity  
+- **Language & Traditions**: The revolution emphasized the importance of shared language and popular customs in forging national identity.  
+- **Key Concepts**:  
+  - *La patrie* (the fatherland)  
+  - *Le citoyen* (the citizen)  
+  These ideas helped create a sense of belonging among the French populace.
+
+### 3. 1848 – A Second Wave of Nationalism  
+- **Social Crisis**: Food shortages and unemployment sparked a Paris uprising.  
+- **Political Outcomes**:  
+  - Barricades erected, Louis Philippe fled.  
+  - National Assembly proclaimed a Republic.  
+  - Suffrage granted to all adult males over 21.  
+  - Right to work guaranteed; national workshops established.  
+- **Collective Identity Measures**: These actions reinforced the idea that the nation was a living, participatory entity.
+
+### 4. Key Take‑away  
+The French Revolution marked the first clear expression of nationalism by transferring sovereignty to the citizenry, promoting shared language and traditions, and instituting political reforms that made the nation a collective, self‑determined body.
+
+# Batch 2 LLM Response:
+## Short Explanation of “The French Revolution and the Idea of the Nation”
+
+### Direct Answer
+Print culture—especially political cartoons—helped shape public opinion about the unequal social order in France. By exposing the disparity between the nobility and the common people, these images laid the groundwork for the revolutionary idea that the nation should be a unified, equal community.
+
+### What It Means
+- **Print culture** refers to the widespread distribution of printed materials such as pamphlets and cartoons.
+- These materials made the grievances of peasants, artisans, and workers visible to a broad audience.
+- The visual contrast between the privileged nobility and the oppressed commoners highlighted social injustice.
+
+### How It Works
+1. **Creation of cartoons**: Artists depicted the nobility enjoying leisure while ordinary people struggled.
+2. **Distribution**: Cartoons were printed in pamphlets and circulated widely.
+3. **Impact on thinking**: Readers saw the stark inequality, which stirred discontent and a desire for change.
+4. **Formation of national identity**: The shared experience of oppression fostered a sense of common purpose among the populace, contributing to the notion of a unified nation.
+
+### Example
+A late‑eighteenth‑century cartoon showed peasants, artisans, and workers in hardship beside nobles enjoying leisure. This image, circulated in pamphlets, illustrated the social divide and influenced public sentiment before the Revolution.
+
+### Important Points
+- **Visual evidence of inequality**: Cartoons made social disparities clear and relatable.
+- **Catalyst for change**: By spreading these ideas, print culture helped build the revolutionary mood.
+- **Link to nationhood**: The shared awareness of injustice encouraged the idea that all citizens belong to one nation, not separate classes.

@@ -14,7 +14,7 @@ async def pdf_process_async():
 
     # Run ONLY these two functions concurrently
     await asyncio.gather(
-        asyncio.to_thread(LLM_TOC_GEN),
+        # asyncio.to_thread(LLM_TOC_GEN),
         asyncio.to_thread(initialize_retrievers, True)
     )
     print("================LLM TOC JSON GENERATED.================")
