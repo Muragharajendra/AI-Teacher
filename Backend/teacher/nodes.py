@@ -105,7 +105,6 @@ def inner_llm_node(state):
     )
    
 
-
     if not chunks and retrieval_method not in ("clarification", 
                         "TOC_Overview"
                         # "Student_Progress_Tracking",
