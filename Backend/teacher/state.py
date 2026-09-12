@@ -24,7 +24,6 @@ class TeacherState(TypedDict, total=False):
     # ========================================================
     # LLM ROUTER OUTPUT
     # ========================================================
-
     retrieval_method: str
     Optimised_query: str
     Test_Quiz: bool
