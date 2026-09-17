@@ -671,7 +671,6 @@ def LLM_Input(query, top_k=5):
 
                 Return ONLY the teacher's response.
                 """
-
                 response_text = LLM_resp_gen_metadata_filtering(
                     current_context,
                     query=doubt_prompt
