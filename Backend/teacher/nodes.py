@@ -50,11 +50,12 @@ def router_node(state):
         }
 
 
-def retrieval_node(state):
+def retrieval_node(query):
+    
     query = (
-        state.get("Optimised_query")
-        or state.get("user_query", "")
-    ).strip()
+            state.get("Optimised_query")
+            or state.get("user_query", "")
+        ).strip()
     print("QUERY for chunks retrieval:::", query)
     retrieval_method = (
         state.get("retrieval_method")
