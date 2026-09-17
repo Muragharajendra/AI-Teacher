@@ -668,7 +668,6 @@ def LLM_Input(query, top_k=5):
                 - Do not mention chunks, retrieval, metadata, or internal processing.
                 - After resolving the doubt, ask whether the student is now clear
                 and ready to continue.
-
                 Return ONLY the teacher's response.
                 """
                 response_text = LLM_resp_gen_metadata_filtering(
