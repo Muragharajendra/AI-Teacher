@@ -703,7 +703,6 @@ def LLM_Input(query, top_k=5):
             ret_chunk_str,
             query
         )
-
         with open(
             BASE_DIR/ "docs/Final_LLM_responses/semantic_search_LLM_resp.txt",
             "w",
