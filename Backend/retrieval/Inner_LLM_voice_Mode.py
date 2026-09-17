@@ -637,7 +637,6 @@ def LLM_Input(query, top_k=5):
                 # ---------------------------------------------------------
                 # 6. STUDENT HAS A DOUBT / IS NOT CLEAR
                 # ---------------------------------------------------------
-
                 current_context = "\n\n".join(batches[current_idx])
 
                 doubt_prompt = f"""
