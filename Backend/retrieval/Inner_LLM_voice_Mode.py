@@ -682,7 +682,6 @@ def LLM_Input(query, top_k=5):
                 return response_text
 
 
-
         
     elif retrieval_method == "clarification":
         LLM_resp= LLM_resp_gen_clarification(query)
