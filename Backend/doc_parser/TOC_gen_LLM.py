@@ -15,13 +15,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 load_dotenv(BASE_DIR / ".env")
 
 # Check api load
-api_key=os.getenv("GROQ_API_KEY")
+api_key=os.getenv("GEMINI_API_KEY")
 if not api_key:
     raise ValueError("API key not Found")
 
 client = OpenAI(
     api_key=api_key,
-    base_url="https://api.groq.com/openai/v1",
+    base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
 )
 
 def LLM_TOC_GEN():
@@ -33,7 +33,7 @@ def LLM_TOC_GEN():
     with open(BASE_DIR /"Backend/docs/promt_to_get_TOC.txt", "r", encoding="utf-8") as f:
         promt=f.read()
     response = client.chat.completions.create(
-        model="openai/gpt-oss-20b",
+        model="gemini-3.1-flash-lite",
         messages=[
             {
                 "role": "system",
@@ -45,7 +45,7 @@ def LLM_TOC_GEN():
             }
         ],
         temperature=0,
-        max_completion_tokens=4096
+        max_completion_tokens=6096
     )
     try:
         result = response.choices[0].message.content.strip()
@@ -67,7 +67,7 @@ def LLM_TOC_GEN():
         parsed=json.loads(result)
         with open(BASE_DIR /"Backend/docs/Final_LLM_responses/TOC_from_llm_1.json", "w", encoding="utf-8") as f:
                     json.dump(parsed, f, indent=4, ensure_ascii=False )
-                # print("Json created successfully")
+        print("Json created successfully")
     except json.JSONDecodeError as e:
         print("========== JSON ERROR ==========")
         print("Error:", e)
@@ -78,3 +78,4 @@ def LLM_TOC_GEN():
     
 if __name__=="__main__":
     LLM_TOC_GEN()
+   

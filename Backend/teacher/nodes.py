@@ -50,11 +50,12 @@ def router_node(state):
         }
 
 
-def retrieval_node(state):
+def retrieval_node(query):
+    
     query = (
-        state.get("Optimised_query")
-        or state.get("user_query", "")
-    ).strip()
+            state.get("Optimised_query")
+            or state.get("user_query", "")
+        ).strip()
     print("QUERY for chunks retrieval:::", query)
     retrieval_method = (
         state.get("retrieval_method")
@@ -103,8 +104,6 @@ def inner_llm_node(state):
         state.get("retrieval_method")
         or "hybrid_search"
     )
-   
-
 
     if not chunks and retrieval_method not in ("clarification", 
                         "TOC_Overview"
@@ -116,8 +115,7 @@ def inner_llm_node(state):
         }
 
 
-        
-
+     
     try:
         response = LLM_Input(
             chunks=chunks,

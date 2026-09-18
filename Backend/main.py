@@ -14,16 +14,15 @@ async def pdf_process_async():
 
     # Run ONLY these two functions concurrently
     await asyncio.gather(
-        asyncio.to_thread(LLM_TOC_GEN),
+        # asyncio.to_thread(LLM_TOC_GEN),
         asyncio.to_thread(initialize_retrievers, True)
     )
     print("================LLM TOC JSON GENERATED.================")
     print("========== Retrieval system initialized. ==========")
 
-
 def pdf_process(extraction):  # Extraction=True when new docs uploaded.
     if extraction:
-        INP_pdf("Backend/docs/inp_docs/NCERT-Class-10-History.pdf")
+        # INP_pdf("Backend/docs/inp_docs/NCERT-Class-10-History.pdf")
         print("================Text Extracted from PDF================")
 
         # Run LLM_TOC_GEN() and initialize_retrievers(True) in parallel

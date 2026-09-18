@@ -12,7 +12,6 @@ class TeacherState(TypedDict, total=False):
     # ========================================================
     # USER INPUT
     # ========================================================
-
     user_query: str
 
     # ========================================================
@@ -24,7 +23,6 @@ class TeacherState(TypedDict, total=False):
     # ========================================================
     # LLM ROUTER OUTPUT
     # ========================================================
-
     retrieval_method: str
     Optimised_query: str
     Test_Quiz: bool
@@ -38,6 +36,5 @@ class TeacherState(TypedDict, total=False):
     # ========================================================
     # FINAL RESPONSE
     # ========================================================
-
     response: str
 
