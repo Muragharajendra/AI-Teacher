@@ -41,5 +41,5 @@ class TeacherState(TypedDict, total=False):
     current_context: str             # active text currently being taught
     active_mode: Optional[str]       # "metadata_filtering" | "hybrid_search" | None  
     action: str                      # "answer" | "retrieve" 
-    intent: str                      # "CONTINUE" | "REPEAT" | "NEW_TOPIC"
+    intent: str                      # "CONTINUE" | "REPEAT" | "NEW_TOPIC" 
     next_node: str                   # internal routing key used by conditional edges       
