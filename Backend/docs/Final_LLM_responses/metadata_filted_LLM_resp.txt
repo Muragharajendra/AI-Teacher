@@ -741,3 +741,206 @@ A late‑eighteenth‑century cartoon showed peasants, artisans, and workers in 
 - **Visual evidence of inequality**: Cartoons made social disparities clear and relatable.
 - **Catalyst for change**: By spreading these ideas, print culture helped build the revolutionary mood.
 - **Link to nationhood**: The shared awareness of injustice encouraged the idea that all citizens belong to one nation, not separate classes.
+
+# Batch 1 LLM Response:
+**The Rise of Nationalism in Europe – Short Overview**
+
+1. **Utopian Vision (1848)**  
+   - Frédéric Sorrieu’s print shows peoples of Europe and America marching toward the Statue of Liberty, symbolising a dream of “democratic and social republics.”  
+   - The procession includes already‑established nation‑states (USA, Switzerland, France) and peoples who were still striving for unity (German, Polish, etc.).  
+   - The image portrays a world where each nation is identified by flag and costume, and where former absolutist symbols lie shattered.
+
+2. **Nation‑State vs. Empire**  
+   - By the 19th century, the idea of a *nation‑state*—a sovereign, centralised power over a defined territory—replaced multi‑national dynastic empires.  
+   - A nation‑state is not just ruled by a monarch; its citizens share a common identity, history, and destiny forged through struggle and leadership.
+
+3. **Ernst Renan’s Definition (1882)**  
+   - A nation is built on a shared heroic past, collective will, and common deeds.  
+   - It is a “large‑scale solidarity” that is continually renewed by the people’s daily consent (plebiscite).  
+   - Nations are essential because they guarantee liberty and prevent domination by a single master.
+
+4. **French Revolution (1789) – First Clear Nationalism**  
+   - Shifted sovereignty from an absolute monarch to the French citizens.  
+   - Introduced symbols of unity: the tricolour flag, the concepts of *la patrie* (fatherland) and *le citoyen* (citizen).  
+   - Centralised administration, uniform laws, and the French language promoted a shared national identity.  
+   - The revolution’s ideals spread across Europe, inspiring Jacobin clubs and later nationalist movements.
+
+5. **Spread of Nationalist Ideas**  
+   - French armies carried the idea of nationalism into Holland, Belgium, Switzerland, and Italy.  
+   - Students and middle‑class educated people formed Jacobin clubs, preparing the ground for future nation‑building.
+
+**Takeaway:**  
+The chapter traces how the French Revolution planted the seeds of nationalism, how artists like Sorrieu visualised a utopian world of united peoples, and how thinkers like Renan defined the nation as a living, collective identity. By the late 19th century, these ideas had transformed Europe from a patchwork of empires into a landscape of nation‑states, each defined by a shared history, culture, and democratic aspirations.
+
+# Batch 2 LLM Response:
+**The Rise of Nationalism in Europe – Short Summary**
+
+- **No nation‑states before the 19th century**  
+  Europe was a patchwork of kingdoms, duchies, and empires (e.g., the Habsburg Empire) where people spoke different languages and had no shared national identity.
+
+- **Napoleon’s reforms spark change**  
+  French rule abolished feudal dues, guild restrictions, and introduced uniform laws, a common currency, and improved transport. These changes gave peasants, artisans, and businessmen a taste of freedom and economic opportunity, but also brought heavy taxes, censorship, and conscription, which turned initial enthusiasm into resentment.
+
+- **Rise of the middle class**  
+  Industrial growth in the West created a new commercial and working class. In the East and Central Europe these groups were smaller until the late 19th century. The educated, liberal middle class began to champion ideas of national unity and liberalism (freedom, equality before the law, representative government).
+
+- **Liberal nationalism**  
+  Liberalism, rooted in the idea of “free” (liber), sought to end autocracy, end clerical privileges, and establish constitutions. It promoted equality before the law and private property, though suffrage remained limited to property‑owning men.
+
+- **Key dates and events**  
+  - 1797: Napoleon invades Italy, starting the Napoleonic Wars.  
+  - 1814‑15: Fall of Napoleon and the Vienna Peace Settlement.  
+  - 1848: Revolutions across Europe; demands for constitutions and nation‑states from Italians, Germans, Magyars, Poles, Czechs, etc.  
+  - 1859‑70: Unification of Italy.  
+  - 1866‑71: Unification of Germany.  
+  - 1905: Rise of Slavic nationalism in the Habsburg and Ottoman empires.
+
+- **Outcome**  
+  The combination of Napoleonic administrative reforms, the growth of a liberal middle class, and the spread of national consciousness led to the emergence of modern nation‑states in Europe.
+
+# Batch 3 LLM Response:
+**The Rise of Nationalism in Europe – a quick snapshot**
+
+1. **Fragmented German lands**  
+   - Before 1815 Germany was a patchwork of 39 small states, each with its own currency, weights, and customs.  
+   - A merchant in 1833 had to cross 11 customs borders and pay about 5 % duty at each, making trade slow and costly.
+
+2. **Economic unification sparks national feeling**  
+   - Prussia led the creation of the **Zollverein** (customs union) in 1834, cutting tariff barriers and reducing the number of currencies from over thirty to two.  
+   - Railways followed, speeding movement of goods and people.  
+   - Economists like Friedrich List argued that a unified economy would “bind the Germans … into a nation” and raise national sentiment.
+
+3. **Conservative reaction after Napoleon**  
+   - The 1815 Vienna Congress restored monarchies and tried to undo Napoleonic changes.  
+   - Conservatives wanted to preserve traditional institutions (monarchy, church, hierarchy) but also saw modernization—modern armies, efficient bureaucracy, free trade—as a way to strengthen autocratic rule.  
+   - They imposed censorship and suppressed dissent, especially against ideas of liberty and press freedom.
+
+4. **Rise of liberal‑nationalist underground**  
+   - Many liberals went underground, forming secret societies to spread revolutionary ideas.  
+   - They opposed the new conservative order and pushed for the creation of nation‑states as a path to liberty.
+
+5. **Giuseppe Mazzini and the spark of republicanism**  
+   - Mazzini, an Italian revolutionary, founded **Young Italy** and later **Young Europe**.  
+   - He believed nations were God‑intended units and that Italy (and other fragmented lands) needed to unite into a single republic.  
+   - His ideas alarmed conservatives; Metternich called him “the most dangerous enemy of our social order.”
+
+**Bottom line:**  
+Economic integration (Zollverein) and the push for free trade helped knit together fragmented German states, while conservative regimes tried to maintain old orders. At the same time, liberal‑nationalist movements—embodied by figures like Mazzini—fueled the idea that nation‑states were the natural, free‑people’s unit, setting the stage for the nationalist revolutions that would reshape Europe.
+
+# Batch 4 LLM Response:
+**The Rise of Nationalism in Europe – Short Overview**
+
+1. **Early 19th‑century upheavals**  
+   - **July Revolution (1830, France)**: The Bourbon monarchy was overthrown and replaced by a constitutional monarchy under Louis Philippe. This event sparked similar uprisings, notably in Brussels, leading to Belgium’s independence from the United Kingdom of the Netherlands.  
+   - **Greek War of Independence (1821‑1832)**: Greeks, long under Ottoman rule, fought for freedom. European romanticists and poets—like Lord Byron—celebrated Greece as the cradle of civilization, rallying support. The 1832 Treaty of Constantinople finally recognized Greece as an independent state.
+
+2. **Cultural Foundations of Nationalism**  
+   - **Romanticism**: Artists and writers shifted focus from reason to emotion, intuition, and mysticism. They used art (e.g., Delacroix’s “Massacre at Chios”) to stir empathy for oppressed peoples and to highlight shared heritage.  
+   - **Language and Folk Culture**:  
+     - Johann Gottfried Herder argued that true national spirit lives in the common people’s folk songs, poetry, and dances.  
+     - In partitioned Poland, music and the Polish language became symbols of resistance against Russian rule.  
+     - The Grimm brothers collected German folktales, publishing them in 1812, and promoted the German language as a counter‑force to French domination.
+
+3. **Economic Hardship and Popular Revolt**  
+   - Rapid population growth, urban migration, and competition from industrial England caused widespread poverty and unemployment.  
+   - The 1848 revolutions erupted across Europe: in Paris, barricades forced Louis Philippe to flee; a National Assembly proclaimed a republic, granted suffrage, and promised employment.  
+   - Earlier, in 1845, weavers in Silesia rebelled against exploitative contractors, highlighting the link between economic distress and nationalist sentiment.
+
+**Key Takeaway**  
+Nationalism in Europe grew not only from wars and territorial changes but also from a shared cultural imagination—romantic art, folk traditions, and language—combined with economic pressures that united people around a common identity and the desire for self‑rule.
+
+# Batch 5 LLM Response:
+**The Rise of Nationalism in Europe – a quick walk‑through**
+
+1. **The 1848 Revolutions**  
+   - In spring 1848, people across Europe—peasants, workers, and the educated middle class—rose up for freedom, better rights, and national self‑determination.  
+   - France toppled its king and declared a republic with universal male suffrage.  
+   - In places that were still under foreign rule or fragmented (Germany, Italy, Poland, the Habsburg lands), the middle classes pushed for both a constitution and a united nation‑state.
+
+2. **The Frankfurt Parliament (Germany)**  
+   - In May 1848, 831 representatives marched into the Church of St. Paul in Frankfurt to form a national assembly.  
+   - They drafted a constitution that would make Germany a constitutional monarchy.  
+   - King Friedrich Wilhelm IV of Prussia rejected the crown offered on those terms, and the aristocracy and military opposed the elected body.  
+   - The parliament, dominated by the middle class, lost support from workers and artisans, and eventually was forced to disband when troops were called in.
+
+3. **Women’s Rights in the Liberal Movement**  
+   - Women were active in politics, founding journals and associations, but were largely denied voting rights.  
+   - Some liberals (e.g., Carl Welcker) argued that gender differences justified unequal rights, while others (Louise Otto‑Peters, anonymous writers) insisted that liberty must be universal.  
+   - These debates show that liberal ideology was not uniform; it mixed progressive ideas with conservative gender views.
+
+4. **After 1848 – The Shift to Conservative Nationalism**  
+   - The revolutions were suppressed, but monarchs realized that lasting peace required concessions.  
+   - Autocratic rulers in Central and Eastern Europe began to abolish serfdom, grant more autonomy, and modernize.  
+   - Nationalist sentiment, however, was now often used by conservatives to strengthen state power rather than to promote democracy.
+
+5. **Prussia’s Rise and German Unification**  
+   - Otto von Bismarck became Prussia’s chief minister and used the army and bureaucracy to pursue national unification.  
+   - Three wars (against Austria, Denmark, and France) over seven years ended in Prussian victories.  
+   - In January 1871, William I of Prussia was proclaimed German Emperor in the Hall of Mirrors at Versailles, marking the creation of a unified German Empire.
+
+**Key Takeaway**  
+The 1848 revolutions sparked a surge of nationalist and liberal ideas across Europe. While the initial wave sought democratic reforms and national unity, it was largely crushed by conservative forces. Yet, the period set the stage for the later, more militaristic nationalist unifications of Germany and Italy, showing how nationalism could be harnessed by both progressive and conservative actors.
+
+# Batch 6 LLM Response:
+**The Rise of Nationalism in Europe – Short Overview**
+
+1. **German Unification (1866‑1871)**
+   * The German states were fragmented until Prussia, led by Bismarck, pushed for a single nation.
+   * The proclamation of the German Empire in Versailles (Fig. 11) shows the Kaiser, General von Roon, and Bismarck, symbolising the new unified state.
+   * The process culminated in the unification of Germany, as illustrated in Fig. 12.
+
+2. **Italian Unification (1861‑1870)**
+   * Italy was split into seven states, with only Sardinia‑Piedmont ruled by an Italian house; the north was Austrian, the centre papal, and the south Bourbon‑Spanish.
+   * Giuseppe Mazzini’s “Young Italy” and later the leadership of King Victor Emmanuel II and Count Cavour pushed for unity.
+   * Garibaldi’s “Expedition of the Thousand” (Fig. 15) and his Red‑Shirt volunteers captured the south, while Cavour’s diplomacy defeated Austria in 1859.
+   * By 1861 Victor Emmanuel II became king of a united Italy; the remaining regions joined over the next decade, with the largest wave of additions in 1861.
+   * The caricature of Garibaldi holding the boot of Italy (Fig. 15) shows the idea that the king could only enter Italy by Garibaldi’s help—highlighting the role of popular forces in unification.
+
+3. **Britain’s Slow‑Molded Nation‑State**
+   * Britain had no single “nation” before the 18th century; identities were ethnic (English, Welsh, Scots, Irish).
+   * The 1688 Glorious Revolution moved power to Parliament, and the 1707 Act of Union brought Scotland into a united Britain, dominated by English culture and institutions.
+   * Ireland was incorporated in 1801 after suppression of Catholic revolts; English language, flag, and anthem were promoted, while Scottish and Irish cultures were suppressed.
+
+4. **Political and Cultural Themes**
+   * Nationalism in Europe was driven by a mix of elite leadership (Bismarck, Cavour, Mazzini) and popular movements (Garibaldi’s volunteers).
+   * The rise of nation‑states involved both diplomatic victories and military campaigns.
+   * Cultural symbols (flags, language, anthem) were used to forge a shared identity, often at the expense of regional or ethnic traditions.
+
+**Key Takeaway:**  
+From the mid‑19th century, European nationalism transformed a patchwork of fragmented states into unified nation‑states—Germany, Italy, and Britain—through a combination of political maneuvering, military action, and the cultivation of a common cultural identity.
+
+# Batch 7 LLM Response:
+**The Rise of Nationalism in Europe – Short Overview**
+
+- **French Revolution (late 18th c.)**  
+  - Artists used female allegories to embody national ideals: *Liberty* (red cap, broken chain), *Justice* (blindfolded, scales).  
+  - The Republic’s symbol became **Marianne** – a popular Christian name that merged the attributes of Liberty and the Republic (red cap, tricolour, cockade).  Statues, coins, and stamps carried her image to foster a shared national identity.
+
+- **19th‑century European allegories**  
+  - **Germania** emerged as the German nation’s personification.  She wore an oak‑leaf crown (heroism), a breastplate with an eagle (German Empire), a sword (readiness to fight), and an olive branch (willingness for peace).  Her banner hung in Frankfurt’s 1848 parliament, reminding citizens of unity.
+
+- **Spread of Romantic Nationalism**  
+  - Romantic ideas of nationhood spread across Europe, especially in the **Balkans**.  The Ottoman Empire’s weakening and the rise of Slavic national movements created intense ethnic and territorial rivalries.  
+  - Each Balkan state sought independence or greater territory, while great powers (Russia, Germany, Britain, Austria‑Hungary) vied for influence, setting the stage for future conflicts.
+
+- **German Unification**  
+  - The 1848 Frankfurt Parliament attempted liberal‑national unity but failed.  
+  - By the late 19th c., nationalist sentiment hardened into a narrower, often militaristic creed.  Germany’s eventual unification under Prussian leadership reflected this shift.
+
+- **Imperialism and Nationalism**  
+  - European powers used nationalist aspirations to justify imperial expansion.  
+  - The combination of nationalism and imperialism contributed to the outbreak of World War I in 1914.
+
+- **Nationalism’s Global Impact**  
+  - Colonised peoples, inspired by European nationalist ideas, began anti‑imperial movements, striving for independent nation‑states of their own.  
+  - The concept of organizing societies into “nation‑states” became widely accepted as natural and universal.
+
+**Key Take‑aways**
+
+- National symbols (Marianne, Germania) were powerful tools for building collective identity.  
+- Romantic nationalism turned into a more aggressive, territorial drive, especially in the Balkans.  
+- Imperial ambitions amplified nationalist tensions, ultimately leading to global conflict.  
+- The legacy of 19th‑century nationalism influenced both European politics and the decolonisation movements worldwide.
+
+# Batch 8 LLM Response:
+I’m sorry, but I don’t have any information about the “Rise of Nationalism in Europe” chapter in the material you’ve shared. The only content I have is about collecting nationalist symbols from countries outside Europe and comparing them to European examples. If you can provide the relevant text or details about the European nationalism chapter, I’d be happy to help explain it!

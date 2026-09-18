@@ -1,13 +1,14 @@
 from Backend.doc_parser.text_process import INP_pdf
 from Backend.doc_parser.TOC_gen_LLM import LLM_TOC_GEN
 from Backend.retrieval.run_retrieval import initialize_retrievers
-from Backend.teacher.graph import graph
+from Backend.teacher.graph import get_graph
 
 import asyncio
 
 from Backend.doc_parser.text_process import INP_pdf
 from Backend.doc_parser.TOC_gen_LLM import LLM_TOC_GEN
 from Backend.retrieval.run_retrieval import initialize_retrievers
+import sys
 
 
 async def pdf_process_async():
@@ -32,7 +33,7 @@ def pdf_process(extraction):  # Extraction=True when new docs uploaded.
         # Existing vector store
         initialize_retrievers(False)
 
-NEW_DOC_Status = True  # received from frontend if user uploads new docs and press continue.
+NEW_DOC_Status = False  # received from frontend if user uploads new docs and press continue.
                        # User does this once and first. after pressing continue he will go to sec step where he does chating, only retrieving
 pdf_process(NEW_DOC_Status) 
 # NOTE: NEW DOC UPLOAD is True make it False after first run, and make True again if you uploAd new document.
@@ -40,73 +41,48 @@ pdf_process(NEW_DOC_Status)
 print("=========chunking, Retrieval starts=========")
 # Teacher Output
 def print_teacher_response(result):
-    """Print the teacher's response."""
-
     response = result.get("response")
-
     print("\nTeacher:")
-    if response:
-        print(response)
-    else:
-        print("[No response returned]")
+    print(response if response else "[No response returned]")
     print()
 
 
 def main():
-    # --------------------------------------------------
-    # SESSION
-    # --------------------------------------------------
+    # mode = (sys.argv[1].lower() if len(sys.argv) > 1 else "chat")
+    mode = "chat"
+    if mode not in ("chat", "voice"):
+        print("Usage: python -m Backend.teacher.teacher_cli [chat|voice]")
+        return
 
-    thread_id = "student-001"
+    graph = get_graph(mode)
 
-    config = {
-        "configurable": {
-            "thread_id": thread_id
-        }
-    }
+    thread_id = f"student-001-{mode}"
+    config = {"configurable": {"thread_id": thread_id}}
 
     print("\n========================================")
-    print("             AI TEACHER")
+    print(f"             AI TEACHER  ({mode} mode)")
     print("========================================")
     print(f"Thread ID: {thread_id}")
     print("Type 'exit' or 'quit' to stop.\n")
 
-    # --------------------------------------------------
-    # MAIN CONVERSATION LOOP
-    # --------------------------------------------------
-
     while True:
-
         try:
             query = input("Student: ").strip()
-
         except (KeyboardInterrupt, EOFError):
             print("\nExiting...")
             break
 
         if not query:
             continue
-
         if query.lower() in {"exit", "quit", "q"}:
             print("Goodbye!")
             break
 
         try:
-            # SEND QUERY TO LANGGRAPH
-            result = graph.invoke(
-                {
-                    "user_query": query
-                },
-                config=config
-            )
-            # PRINT RESPONSE
+            result = graph.invoke({"user_query": query, "mode": mode}, config=config)
             print_teacher_response(result)
-
         except Exception as e:
-
-            print("\nERROR:")
-            print(type(e).__name__, "-", e)
-            print()
+            print(f"\nERROR:\n{type(e).__name__} - {e}\n")
 
 
 if __name__ == "__main__":
