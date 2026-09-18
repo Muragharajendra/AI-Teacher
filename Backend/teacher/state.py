@@ -42,4 +42,4 @@ class TeacherState(TypedDict, total=False):
     active_mode: Optional[str]       # "metadata_filtering" | "hybrid_search" | None
     action: str                      # "answer" | "retrieve"
     intent: str                      # "CONTINUE" | "REPEAT" | "NEW_TOPIC"
-    next_node: str                   # internal routing key used by conditional edges   
+    next_node: str                   # internal routing key used by conditional edges    
