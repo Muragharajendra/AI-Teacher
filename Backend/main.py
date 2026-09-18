@@ -46,7 +46,6 @@ def print_teacher_response(result):
     print(response if response else "[No response returned]")
     print()
 
-
 def main():
     # mode = (sys.argv[1].lower() if len(sys.argv) > 1 else "chat")
     mode = "chat"
