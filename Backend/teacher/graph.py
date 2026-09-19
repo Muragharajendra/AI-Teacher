@@ -12,6 +12,7 @@ from .nodes import (
     voice_retrieve_node, voice_advance_batch_node, voice_answer_context_node,
     voice_direct_node, voice_toc_node, voice_impq_node,
     voice_batch_teaching_node, voice_semantic_node,
+    voice_completed_node,                                   # [BONUS]
     route_from_voice_entry, route_from_voice_intent,
     route_from_voice_decide, route_from_voice_retrieve,
 )
@@ -52,6 +53,7 @@ def build_voice_graph():
     wf.add_node("voice_impq", voice_impq_node)
     wf.add_node("voice_batch_teaching", voice_batch_teaching_node)
     wf.add_node("voice_semantic", voice_semantic_node)
+    wf.add_node("voice_completed", voice_completed_node)     # [BONUS]
 
     # --- entry ---
     wf.add_edge(START, "voice_entry")
@@ -62,6 +64,7 @@ def build_voice_graph():
         {
             "voice_intent": "voice_intent",
             "voice_decide": "voice_decide",
+            "voice_completed": "voice_completed",           # [BONUS]
         },
     )
 
@@ -104,6 +107,7 @@ def build_voice_graph():
         "voice_impq",
         "voice_batch_teaching",
         "voice_semantic",
+        "voice_completed",                                   # [BONUS]
     ):
         wf.add_edge(n, END)
 

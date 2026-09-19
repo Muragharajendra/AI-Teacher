@@ -48,7 +48,8 @@ def print_teacher_response(result):
 
 def main():
     # mode = (sys.argv[1].lower() if len(sys.argv) > 1 else "chat")
-    mode = "chat"
+
+    mode = "voice"                                                       # Select Mode of Teaching
     if mode not in ("chat", "voice"):
         print("Usage: python -m Backend.teacher.teacher_cli [chat|voice]")
         return
