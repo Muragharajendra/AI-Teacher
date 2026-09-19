@@ -55,7 +55,7 @@ def main():
         return
 
     graph = get_graph(mode)
-
+ 
     thread_id = f"student-001-{mode}"
     config = {"configurable": {"thread_id": thread_id}}
 
