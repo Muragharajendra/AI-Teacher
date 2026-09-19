@@ -58,7 +58,7 @@ def main():
  
     thread_id = f"student-001-{mode}"
     config = {"configurable": {"thread_id": thread_id}}
-
+ 
     print("\n========================================")
     print(f"             AI TEACHER  ({mode} mode)")
     print("========================================")
