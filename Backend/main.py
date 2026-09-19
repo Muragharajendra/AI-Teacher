@@ -64,7 +64,7 @@ def main():
     print("========================================")
     print(f"Thread ID: {thread_id}")
     print("Type 'exit' or 'quit' to stop.\n")
-
+ 
     while True:
         try:
             query = input("Student: ").strip()
