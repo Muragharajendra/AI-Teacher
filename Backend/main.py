@@ -66,7 +66,7 @@ def main():
     print("Type 'exit' or 'quit' to stop.\n")
  
     while True:
-        try:
+        try: 
             query = input("Student: ").strip()
         except (KeyboardInterrupt, EOFError):
             print("\nExiting...")
