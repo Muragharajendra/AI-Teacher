@@ -53,7 +53,7 @@ def main():
     if mode not in ("chat", "voice"):
         print("Usage: python -m Backend.teacher.teacher_cli [chat|voice]")
         return
-
+ 
     graph = get_graph(mode)
  
     thread_id = f"student-001-{mode}"
