@@ -9,7 +9,9 @@ from Backend.doc_parser.text_process import INP_pdf
 from Backend.doc_parser.TOC_gen_LLM import LLM_TOC_GEN
 from Backend.retrieval.run_retrieval import initialize_retrievers
 import sys
-
+from pathlib import Path          # only if you actually use it elsewhere
+from Backend.teacher.graph import get_graph
+from Backend.voice.tts import speak_streaming
 
 async def pdf_process_async():
 
@@ -46,27 +48,34 @@ def print_teacher_response(result):
     print(response if response else "[No response returned]")
     print()
 
-def main():
-    # mode = (sys.argv[1].lower() if len(sys.argv) > 1 else "chat")
 
-    mode = "voice"                                                       # Select Mode of Teaching
+def main():
+    # ----------------------------------------------------------------
+    # Mode selection — "chat" or "voice"
+    # ----------------------------------------------------------------
+    mode = "voice"          # change to "chat" or pass as sys.argv[1] if you want
+    # mode = sys.argv[1].lower() if len(sys.argv) > 1 else "voice"
+
     if mode not in ("chat", "voice"):
         print("Usage: python -m Backend.teacher.teacher_cli [chat|voice]")
         return
- 
+
     graph = get_graph(mode)
- 
+
     thread_id = f"student-001-{mode}"
     config = {"configurable": {"thread_id": thread_id}}
- 
+
     print("\n========================================")
     print(f"             AI TEACHER  ({mode} mode)")
     print("========================================")
     print(f"Thread ID: {thread_id}")
     print("Type 'exit' or 'quit' to stop.\n")
- 
+
+    # ----------------------------------------------------------------
+    # Main conversation loop
+    # ----------------------------------------------------------------
     while True:
-        try: 
+        try:
             query = input("Student: ").strip()
         except (KeyboardInterrupt, EOFError):
             print("\nExiting...")
@@ -74,18 +83,36 @@ def main():
 
         if not query:
             continue
+
         if query.lower() in {"exit", "quit", "q"}:
             print("Goodbye!")
             break
 
+        # ------------------------------------------------------------
+        # Run the graph
+        # ------------------------------------------------------------
         try:
-            result = graph.invoke({"user_query": query, "mode": mode}, config=config)
-            print_teacher_response(result)
+            result = graph.invoke(
+                {"user_query": query, "mode": mode},
+                config=config,
+            )
         except Exception as e:
-            print(f"\nERROR:\n{type(e).__name__} - {e}\n")
+            print(f"\n[GRAPH ERROR] {type(e).__name__} - {e}\n")
+            continue
+
+        print_teacher_response(result)
+
+        # ------------------------------------------------------------
+        # Voice mode — speak the response via Deepgram TTS
+        # ------------------------------------------------------------
+        if mode == "voice":
+            response_text = result.get("response", "")
+            if response_text:
+                try:
+                    speak_streaming(response_text)
+                except Exception as e:
+                    print(f"[TTS failed: {type(e).__name__}: {e}]")
 
 
 if __name__ == "__main__":
     main()
-
-                
