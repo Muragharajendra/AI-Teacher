@@ -256,4 +256,4 @@ def listen_once(
 
     text = state.result()
     logger.info("Utterance: %r", text)
-    return text  
+    return text   
