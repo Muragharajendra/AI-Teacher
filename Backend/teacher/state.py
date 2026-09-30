@@ -7,34 +7,23 @@ from langgraph.graph.message import add_messages
 
 
 class TeacherState(TypedDict, total=False):
-    # --------------------------------------------------------
-    # USER INPUT
-    # --------------------------------------------------------
     user_query: str
 
-    # --------------------------------------------------------
     # CONVERSATION
-    # --------------------------------------------------------
-    messages: Annotated[list[Any], add_messages]
+    messages: Annotated[list[Any], add_messages]     # Annotation is used to add information to a type.
     history: list[dict]              # [{"user": ..., "tutor": ...}, ...]  (voice)
 
-    # --------------------------------------------------------
     # MODE
-    # --------------------------------------------------------
     mode: str                        # "chat" | "voice"
 
-    # --------------------------------------------------------
     # CHAT MODE
-    # --------------------------------------------------------
     retrieval_method: str
     Optimised_query: str
     Test_Quiz: bool
     retrieval_chunks: list[str]
     response: str
 
-    # --------------------------------------------------------
     # VOICE MODE
-    # --------------------------------------------------------
     session_id: str
     batches: list[list[str]]         # chapter split into batches
     current_batch_index: int
