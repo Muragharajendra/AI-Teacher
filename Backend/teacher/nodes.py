@@ -181,7 +181,6 @@ _GREETINGS = {
     "good morning", "good evening",
 }
 
-
 def _looks_like_continue(q: str) -> bool:
     return bool(_CONTINUE_RE.match(q.strip()))
 
