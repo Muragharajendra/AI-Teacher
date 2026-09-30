@@ -201,9 +201,8 @@ def _looks_like_greeting(q: str) -> bool:
     return q.strip().lower() in _GREETINGS
 
 
-# ===========================================================================
+
 # VOICE-MODE HELPERS
-# ===========================================================================
 def _classify_intent(query: str) -> str:
     if _looks_like_continue(query):
         return "CONTINUE"
