@@ -253,7 +253,6 @@ def listen_once(
 
     if state.errored:
         return ""
-
     text = state.result()
     logger.info("Utterance: %r", text)
     return text   
