@@ -118,7 +118,7 @@ def main(mode):
 
         print_teacher_response(result)
 
-        # ── 3. Voice reply (Ctrl-C safe) ────────────────────
+        # ── 3. Voice reply (Ctrl-C safe)--
         if mode == "voice":
             response_text = result.get("response", "")
             if response_text:
